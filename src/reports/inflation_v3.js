@@ -55,6 +55,8 @@ async function main() {
   const nameMap = {};
   for (const t of treatments || []) nameMap[t.code] = t.name;
 
+  // 2b. FILTER will happen after serviceVolume is loaded (see below)
+
   // 3. Get real price changes (old > 0, new > 0, different)
   //    These represent the last time someone ACTUALLY changed the invoiced amount
   //    We use this as a proxy for when the fee schedule was last touched
@@ -89,6 +91,19 @@ async function main() {
   if (fs.existsSync('reports/service_volumes.json')) {
     serviceVolume = JSON.parse(fs.readFileSync('reports/service_volumes.json', 'utf8'));
   }
+
+  // 4b. FILTER: Services only — exclude inventory items
+  const { data: itemList } = await sb.from('items').select('code');
+  const itemCodes = new Set((itemList || []).map(i => i.code));
+  const serviceBilledCodes = new Set(Object.keys(serviceVolume.counts || {}));
+  const treatCodes = new Set((treatments || []).map(t => t.code));
+
+  let filtered = 0;
+  for (const code of Object.keys(currentPrice)) {
+    if (itemCodes.has(code)) { delete currentPrice[code]; filtered++; continue; }
+    if (!treatCodes.has(code) && !serviceBilledCodes.has(code)) { delete currentPrice[code]; filtered++; }
+  }
+  console.log('Filtered out ' + filtered + ' non-service codes. Remaining: ' + Object.keys(currentPrice).length);
 
   // 5. Build report items
   const now = new Date();
