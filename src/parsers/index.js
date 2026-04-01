@@ -4,3 +4,5 @@ export { UserParser } from './users.js';
 export { TreatmentParser } from './treatments.js';
 export { PriceParser } from './prices.js';
 export { AuditParser } from './audit.js';
+export { ServiceParser } from './services.js';
+export { ItemParser } from './items.js';

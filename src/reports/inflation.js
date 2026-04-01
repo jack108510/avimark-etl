@@ -59,7 +59,17 @@ function compoundInflation(fromYear, toYear = 2026) {
   return factor;
 }
 
+async function loadServiceVolumes() {
+  const fs = await import('fs');
+  const path = 'reports/service_volumes.json';
+  if (fs.existsSync(path)) {
+    return JSON.parse(fs.readFileSync(path, 'utf8'));
+  }
+  return { counts: {}, revenue: {}, annualCounts: {}, annualRevenue: {}, dataYears: 12.5 };
+}
+
 async function generateInflationReport() {
+  const serviceVolume = await loadServiceVolumes();
   console.log('╔══════════════════════════════════════════════════════╗');
   console.log('║   Avimark Inflation Report — Rosslyn Vet Clinic     ║');
   console.log('╚══════════════════════════════════════════════════════╝\n');
@@ -152,10 +162,10 @@ async function generateInflationReport() {
     const inflationAdjustedPrice = Math.round(currentPrice * inflationFactor * 100) / 100;
     const priceDifference = Math.round((inflationAdjustedPrice - currentPrice) * 100) / 100;
 
-    // Estimate annual volume (rough — total charges / years of data * recent weighting)
-    const totalCharges = chargeCount[code] || 0;
-    const dataYears = 12.5; // 2013-2026
-    const estimatedAnnualVolume = Math.round(totalCharges / dataYears);
+    // Use real billing volume from SERVICE.V2$ if available
+    const totalCharges = serviceVolume.counts?.[code] || chargeCount[code] || 0;
+    const dataYears = serviceVolume.dataYears || 12.5;
+    const estimatedAnnualVolume = serviceVolume.annualCounts?.[code] || Math.round(totalCharges / dataYears);
 
     const estimatedLostRevenue = Math.round(priceDifference * estimatedAnnualVolume * 100) / 100;
 

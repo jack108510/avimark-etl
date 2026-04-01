@@ -7,6 +7,8 @@ import {
   TreatmentParser,
   PriceParser,
   AuditParser,
+  ServiceParser,
+  ItemParser,
 } from './parsers/index.js';
 import { batchUpsert, batchUpsertAudit, updateSyncStatus } from './supabase.js';
 
@@ -29,6 +31,8 @@ const TABLES = {
   treatments: { parser: TreatmentParser, supaTable: 'treatments' },
   prices: { parser: PriceParser, supaTable: 'prices' },
   audit: { parser: AuditParser, supaTable: 'audit_log', isAudit: true },
+  services: { parser: ServiceParser, supaTable: 'services' },
+  items: { parser: ItemParser, supaTable: 'items' },
 };
 
 async function syncTable(name, config) {
