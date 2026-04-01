@@ -47,15 +47,29 @@ export async function batchUpsert(tableName, records, batchSize = 500) {
 /**
  * Upsert audit records (different conflict key).
  */
-export async function batchUpsertAudit(records, batchSize = 500) {
+export async function batchUpsertAudit(inputRecords, batchSize = 500) {
+  let records = [...inputRecords];
   const supabase = getSupabase();
   let inserted = 0;
   let errors = 0;
 
   // Add a hash-based ID for dedup
-  for (const rec of records) {
-    rec.entry_hash = simpleHash(rec.audit_type + rec.date_text + rec.item_code + rec.description);
+  for (let i = 0; i < records.length; i++) {
+    records[i].entry_hash = simpleHash(
+      records[i].audit_type + records[i].date_text + records[i].item_code + records[i].description, i
+    );
   }
+
+  // Deduplicate by entry_hash within the batch
+  const seen = new Set();
+  const deduped = [];
+  for (const rec of records) {
+    if (!seen.has(rec.entry_hash)) {
+      seen.add(rec.entry_hash);
+      deduped.push(rec);
+    }
+  }
+  records = deduped;
 
   for (let i = 0; i < records.length; i += batchSize) {
     const batch = records.slice(i, i + batchSize);
@@ -74,13 +88,19 @@ export async function batchUpsertAudit(records, batchSize = 500) {
   return { inserted, errors };
 }
 
-function simpleHash(str) {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    const char = str.charCodeAt(i);
-    hash = ((hash << 5) - hash) + char;
-    hash = hash & hash; // Convert to 32bit integer
+function simpleHash(str, index) {
+  // Include index to guarantee uniqueness even for similar entries
+  const input = str + '::' + index;
+  let h1 = 0xdeadbeef;
+  let h2 = 0x41c6ce57;
+  for (let i = 0; i < input.length; i++) {
+    const ch = input.charCodeAt(i);
+    h1 = Math.imul(h1 ^ ch, 2654435761);
+    h2 = Math.imul(h2 ^ ch, 1597334677);
   }
+  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507);
+  h2 = Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+  const hash = 4294967296 * (2097151 & h2) + (h1 >>> 0);
   return hash.toString(36);
 }
 
