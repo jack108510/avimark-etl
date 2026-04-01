@@ -1,0 +1,16 @@
+{
+  "name": "avimark-etl",
+  "version": "1.0.0",
+  "description": "Avimark Classic V2$ binary parser and Supabase ETL",
+  "main": "src/etl.js",
+  "type": "module",
+  "scripts": {
+    "etl": "node src/etl.js",
+    "dry-run": "node src/etl.js --dry-run --all",
+    "test-parse": "node src/etl.js --dry-run --table clients --limit 5"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "dotenv": "^16.4.0"
+  }
+}
