@@ -6,6 +6,7 @@ export { PriceParser } from './prices.js';
 export { AuditParser } from './audit.js';
 export { ServiceParser } from './services.js';
 export { ItemParser } from './items.js';
+export { PurchaseOrderParser } from './purchase_orders.js';
 
 // New parsers
 export { VisitParser } from './visits.js';

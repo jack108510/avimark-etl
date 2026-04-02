@@ -30,6 +30,7 @@ import {
   EstimateParser,
   CategoryParser,
   TableParser,
+  PurchaseOrderParser,
 } from './parsers/index.js';
 import { batchUpsert, batchUpsertAudit, updateSyncStatus } from './supabase.js';
 
@@ -76,6 +77,7 @@ const TABLES = {
   estimates: { parser: EstimateParser, supaTable: 'estimates' },
   categories: { parser: CategoryParser, supaTable: 'categories' },
   tables: { parser: TableParser, supaTable: 'lookup_tables' },
+  purchase_orders: { parser: PurchaseOrderParser, supaTable: 'purchase_orders' },
 };
 
 async function syncTable(name, config) {
