@@ -1,0 +1,8442 @@
+{
+  "1": {
+    "lastChangeDate": "2022-05-26",
+    "oldVal": 0,
+    "newVal": 200
+  },
+  "4": {
+    "lastChangeDate": "2023-07-14",
+    "oldVal": 0,
+    "newVal": 200
+  },
+  "15": {
+    "lastChangeDate": "2026-01-05",
+    "oldVal": 0,
+    "newVal": -12
+  },
+  "16": {
+    "lastChangeDate": "2025-09-23",
+    "oldVal": 0,
+    "newVal": 10
+  },
+  "20": {
+    "lastChangeDate": "2026-02-09",
+    "oldVal": 0,
+    "newVal": 38.92
+  },
+  "46": {
+    "lastChangeDate": "2024-09-23",
+    "oldVal": 0,
+    "newVal": 1000
+  },
+  "80": {
+    "lastChangeDate": "2019-12-11",
+    "oldVal": 0,
+    "newVal": -213.45
+  },
+  "97": {
+    "lastChangeDate": "2025-11-26",
+    "oldVal": 0,
+    "newVal": 0.02
+  },
+  "98": {
+    "lastChangeDate": "2022-06-02",
+    "oldVal": 0,
+    "newVal": 2
+  },
+  "100": {
+    "lastChangeDate": "2025-12-05",
+    "oldVal": 250,
+    "newVal": 0
+  },
+  "101": {
+    "lastChangeDate": "2022-08-26",
+    "oldVal": 89,
+    "newVal": 45
+  },
+  "102": {
+    "lastChangeDate": "2024-04-10",
+    "oldVal": 60,
+    "newVal": -60
+  },
+  "105": {
+    "lastChangeDate": "2018-10-23",
+    "oldVal": 25,
+    "newVal": 0
+  },
+  "106": {
+    "lastChangeDate": "2015-02-10",
+    "oldVal": 75,
+    "newVal": 0
+  },
+  "108": {
+    "lastChangeDate": "2026-02-12",
+    "oldVal": 0,
+    "newVal": 14.9
+  },
+  "109": {
+    "lastChangeDate": "2016-06-30",
+    "oldVal": 80,
+    "newVal": 0
+  },
+  "111": {
+    "lastChangeDate": "2015-05-20",
+    "oldVal": 9.9,
+    "newVal": 0
+  },
+  "116": {
+    "lastChangeDate": "2018-10-16",
+    "oldVal": 49,
+    "newVal": 0
+  },
+  "121": {
+    "lastChangeDate": "2023-10-24",
+    "oldVal": 75,
+    "newVal": 0
+  },
+  "200": {
+    "lastChangeDate": "2024-02-06",
+    "oldVal": 26,
+    "newVal": 0
+  },
+  "303": {
+    "lastChangeDate": "2023-01-26",
+    "oldVal": 180,
+    "newVal": 0
+  },
+  "304": {
+    "lastChangeDate": "2022-07-09",
+    "oldVal": 45,
+    "newVal": -45
+  },
+  "307": {
+    "lastChangeDate": "2024-09-21",
+    "oldVal": 60,
+    "newVal": 0
+  },
+  "310": {
+    "lastChangeDate": "2022-08-03",
+    "oldVal": 0,
+    "newVal": 135
+  },
+  "314": {
+    "lastChangeDate": "2014-12-06",
+    "oldVal": 214,
+    "newVal": 118
+  },
+  "318": {
+    "lastChangeDate": "2016-09-21",
+    "oldVal": 175,
+    "newVal": 0
+  },
+  "333": {
+    "lastChangeDate": "2017-11-18",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "400": {
+    "lastChangeDate": "2014-03-19",
+    "oldVal": 26,
+    "newVal": 0
+  },
+  "401": {
+    "lastChangeDate": "2015-12-23",
+    "oldVal": 450,
+    "newVal": 200
+  },
+  "402": {
+    "lastChangeDate": "2023-05-17",
+    "oldVal": 58,
+    "newVal": 70
+  },
+  "408": {
+    "lastChangeDate": "2023-05-23",
+    "oldVal": 0,
+    "newVal": 162
+  },
+  "409": {
+    "lastChangeDate": "2024-04-09",
+    "oldVal": 26,
+    "newVal": 0
+  },
+  "410": {
+    "lastChangeDate": "2021-03-25",
+    "oldVal": 60,
+    "newVal": 0
+  },
+  "500": {
+    "lastChangeDate": "2019-03-28",
+    "oldVal": 0,
+    "newVal": 20
+  },
+  "501": {
+    "lastChangeDate": "2017-03-31",
+    "oldVal": 26,
+    "newVal": 20
+  },
+  "502": {
+    "lastChangeDate": "2018-07-20",
+    "oldVal": 22,
+    "newVal": 0
+  },
+  "1002": {
+    "lastChangeDate": "2015-03-19",
+    "oldVal": 35,
+    "newVal": 17.5
+  },
+  "1007": {
+    "lastChangeDate": "2015-01-28",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "1009": {
+    "lastChangeDate": "2015-10-24",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "1010": {
+    "lastChangeDate": "2019-04-09",
+    "oldVal": 38,
+    "newVal": 0
+  },
+  "1011": {
+    "lastChangeDate": "2015-03-19",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "1013": {
+    "lastChangeDate": "2015-12-16",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "1015": {
+    "lastChangeDate": "2015-07-09",
+    "oldVal": 100,
+    "newVal": 0
+  },
+  "1022": {
+    "lastChangeDate": "2020-12-30",
+    "oldVal": 12,
+    "newVal": 45
+  },
+  "1031": {
+    "lastChangeDate": "2023-05-31",
+    "oldVal": 0,
+    "newVal": -20
+  },
+  "1057": {
+    "lastChangeDate": "2025-09-30",
+    "oldVal": 80,
+    "newVal": 60
+  },
+  "1201": {
+    "lastChangeDate": "2023-04-29",
+    "oldVal": 57.9,
+    "newVal": 0
+  },
+  "1203": {
+    "lastChangeDate": "2023-05-23",
+    "oldVal": -23.1,
+    "newVal": -43
+  },
+  "1234": {
+    "lastChangeDate": "2024-01-31",
+    "oldVal": 58.5,
+    "newVal": 0
+  },
+  "1406": {
+    "lastChangeDate": "2014-01-30",
+    "oldVal": 44.22,
+    "newVal": 44.2
+  },
+  "1409": {
+    "lastChangeDate": "2015-10-29",
+    "oldVal": 20.12,
+    "newVal": -20.12
+  },
+  "1700": {
+    "lastChangeDate": "2017-07-31",
+    "oldVal": 60,
+    "newVal": 30
+  },
+  "1701": {
+    "lastChangeDate": "2024-11-14",
+    "oldVal": 65.1,
+    "newVal": 100
+  },
+  "1711": {
+    "lastChangeDate": "2015-11-05",
+    "oldVal": 27,
+    "newVal": 30
+  },
+  "1720": {
+    "lastChangeDate": "2017-04-22",
+    "oldVal": 71,
+    "newVal": 0
+  },
+  "1722": {
+    "lastChangeDate": "2024-04-22",
+    "oldVal": 56.2,
+    "newVal": 20
+  },
+  "1757": {
+    "lastChangeDate": "2021-03-23",
+    "oldVal": 0,
+    "newVal": 45
+  },
+  "1772": {
+    "lastChangeDate": "2016-12-21",
+    "oldVal": 99,
+    "newVal": 180
+  },
+  "1800": {
+    "lastChangeDate": "2021-12-17",
+    "oldVal": 82.5,
+    "newVal": 88.5
+  },
+  "2017": {
+    "lastChangeDate": "2017-09-16",
+    "oldVal": 60,
+    "newVal": 79.96
+  },
+  "2018": {
+    "lastChangeDate": "2020-07-28",
+    "oldVal": 0,
+    "newVal": -33.27
+  },
+  "2019": {
+    "lastChangeDate": "2019-01-11",
+    "oldVal": 135,
+    "newVal": 25
+  },
+  "2024": {
+    "lastChangeDate": "2024-05-02",
+    "oldVal": 0,
+    "newVal": 70
+  },
+  "2718": {
+    "lastChangeDate": "2022-12-30",
+    "oldVal": 113,
+    "newVal": 60
+  },
+  "4628": {
+    "lastChangeDate": "2017-03-21",
+    "oldVal": 67.92,
+    "newVal": 57.6
+  },
+  "7001": {
+    "lastChangeDate": "2021-07-29",
+    "oldVal": 122,
+    "newVal": 0
+  },
+  "8511": {
+    "lastChangeDate": "2014-10-15",
+    "oldVal": 18,
+    "newVal": 10.8
+  },
+  "8512": {
+    "lastChangeDate": "2014-10-04",
+    "oldVal": 50,
+    "newVal": 0
+  },
+  "8514": {
+    "lastChangeDate": "2014-06-10",
+    "oldVal": 22,
+    "newVal": 0
+  },
+  "8516": {
+    "lastChangeDate": "2014-07-31",
+    "oldVal": 25,
+    "newVal": 11.94
+  },
+  "12047": {
+    "lastChangeDate": "2015-06-30",
+    "oldVal": -12,
+    "newVal": -15
+  },
+  "12128": {
+    "lastChangeDate": "2020-10-26",
+    "oldVal": 7.31,
+    "newVal": 5.44
+  },
+  "13855": {
+    "lastChangeDate": "2015-04-29",
+    "oldVal": 29.59,
+    "newVal": 0
+  },
+  "13943": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 0,
+    "newVal": 5.74
+  },
+  "39380": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 12.49,
+    "newVal": 0
+  },
+  "100032": {
+    "lastChangeDate": "2025-12-01",
+    "oldVal": 30,
+    "newVal": 0
+  },
+  "100035": {
+    "lastChangeDate": "2025-11-07",
+    "oldVal": 12.04,
+    "newVal": 0
+  },
+  "100037": {
+    "lastChangeDate": "2026-03-10",
+    "oldVal": 24.21,
+    "newVal": 12.21
+  },
+  "100048": {
+    "lastChangeDate": "2021-05-06",
+    "oldVal": 17.6,
+    "newVal": 15.1
+  },
+  "100070": {
+    "lastChangeDate": "2019-01-19",
+    "oldVal": 26.4,
+    "newVal": 40.8
+  },
+  "100078": {
+    "lastChangeDate": "2020-10-19",
+    "oldVal": 38.88,
+    "newVal": 0
+  },
+  "100091": {
+    "lastChangeDate": "2016-10-07",
+    "oldVal": 12.5,
+    "newVal": 0
+  },
+  "100099": {
+    "lastChangeDate": "2026-03-04",
+    "oldVal": 24.64,
+    "newVal": 0
+  },
+  "100443": {
+    "lastChangeDate": "2020-10-26",
+    "oldVal": 0,
+    "newVal": 2.29
+  },
+  "100490": {
+    "lastChangeDate": "2017-02-07",
+    "oldVal": 61.8,
+    "newVal": 49.8
+  },
+  "100760": {
+    "lastChangeDate": "2023-01-04",
+    "oldVal": 29.58,
+    "newVal": 0
+  },
+  "101018": {
+    "lastChangeDate": "2020-12-02",
+    "oldVal": 0,
+    "newVal": 5.1
+  },
+  "101061": {
+    "lastChangeDate": "2014-12-29",
+    "oldVal": 37.51,
+    "newVal": 51.43
+  },
+  "101089": {
+    "lastChangeDate": "2024-02-12",
+    "oldVal": 16.02,
+    "newVal": 0
+  },
+  "101100": {
+    "lastChangeDate": "2025-03-19",
+    "oldVal": 17.44,
+    "newVal": 47.44
+  },
+  "101108": {
+    "lastChangeDate": "2016-06-16",
+    "oldVal": 11.2,
+    "newVal": 0
+  },
+  "101361": {
+    "lastChangeDate": "2020-10-10",
+    "oldVal": 11.98,
+    "newVal": 5.99
+  },
+  "101383": {
+    "lastChangeDate": "2020-07-04",
+    "oldVal": 31.24,
+    "newVal": 15.62
+  },
+  "101384": {
+    "lastChangeDate": "2021-06-30",
+    "oldVal": 32.24,
+    "newVal": 16.12
+  },
+  "101385": {
+    "lastChangeDate": "2016-07-30",
+    "oldVal": 43.44,
+    "newVal": 0
+  },
+  "101386": {
+    "lastChangeDate": "2018-02-28",
+    "oldVal": 53.44,
+    "newVal": 0
+  },
+  "101640": {
+    "lastChangeDate": "2024-05-22",
+    "oldVal": 7.1,
+    "newVal": 16.08
+  },
+  "101653": {
+    "lastChangeDate": "2015-07-29",
+    "oldVal": 29.6,
+    "newVal": 0
+  },
+  "101801": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 26.9,
+    "newVal": 0
+  },
+  "102221": {
+    "lastChangeDate": "2025-11-24",
+    "oldVal": 9,
+    "newVal": 15
+  },
+  "102469": {
+    "lastChangeDate": "2017-07-03",
+    "oldVal": 15.3,
+    "newVal": 0
+  },
+  "102545": {
+    "lastChangeDate": "2019-04-18",
+    "oldVal": 6.25,
+    "newVal": 12.49
+  },
+  "102586": {
+    "lastChangeDate": "2024-11-06",
+    "oldVal": 14.56,
+    "newVal": 11.34
+  },
+  "102593": {
+    "lastChangeDate": "2023-10-30",
+    "oldVal": 14,
+    "newVal": 9.8
+  },
+  "102594": {
+    "lastChangeDate": "2021-06-16",
+    "oldVal": 17.28,
+    "newVal": 13.58
+  },
+  "102968": {
+    "lastChangeDate": "2019-07-10",
+    "oldVal": 3.46,
+    "newVal": 6.79
+  },
+  "102970": {
+    "lastChangeDate": "2024-09-13",
+    "oldVal": 82.8,
+    "newVal": 65.09
+  },
+  "102995": {
+    "lastChangeDate": "2020-12-04",
+    "oldVal": 45.02,
+    "newVal": -45.02
+  },
+  "103088": {
+    "lastChangeDate": "2018-11-29",
+    "oldVal": 37.35,
+    "newVal": 0
+  },
+  "103371": {
+    "lastChangeDate": "2021-03-27",
+    "oldVal": 48.6,
+    "newVal": 53.46
+  },
+  "103615": {
+    "lastChangeDate": "2017-04-19",
+    "oldVal": 13.12,
+    "newVal": 0
+  },
+  "103855": {
+    "lastChangeDate": "2018-06-19",
+    "oldVal": 29.12,
+    "newVal": 0
+  },
+  "103865": {
+    "lastChangeDate": "2019-11-18",
+    "oldVal": 36.55,
+    "newVal": 37.63
+  },
+  "103890": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 27.48,
+    "newVal": 0
+  },
+  "103961": {
+    "lastChangeDate": "2024-05-31",
+    "oldVal": 17.25,
+    "newVal": 2.58
+  },
+  "104119": {
+    "lastChangeDate": "2017-01-04",
+    "oldVal": 38.86,
+    "newVal": 5
+  },
+  "104229": {
+    "lastChangeDate": "2021-10-05",
+    "oldVal": 31,
+    "newVal": 34
+  },
+  "104231": {
+    "lastChangeDate": "2026-01-02",
+    "oldVal": 25.6,
+    "newVal": 0
+  },
+  "104232": {
+    "lastChangeDate": "2026-03-05",
+    "oldVal": 12.8,
+    "newVal": 0
+  },
+  "104274": {
+    "lastChangeDate": "2015-12-17",
+    "oldVal": 2,
+    "newVal": 1
+  },
+  "104278": {
+    "lastChangeDate": "2015-12-17",
+    "oldVal": 2,
+    "newVal": 1
+  },
+  "104286": {
+    "lastChangeDate": "2026-02-25",
+    "oldVal": 43.35,
+    "newVal": 0
+  },
+  "104360": {
+    "lastChangeDate": "2016-11-23",
+    "oldVal": 9.84,
+    "newVal": 19.68
+  },
+  "104473": {
+    "lastChangeDate": "2016-04-19",
+    "oldVal": 78.3,
+    "newVal": 48.62
+  },
+  "104643": {
+    "lastChangeDate": "2016-04-28",
+    "oldVal": 6.52,
+    "newVal": 4.35
+  },
+  "104861": {
+    "lastChangeDate": "2025-11-13",
+    "oldVal": 44.24,
+    "newVal": 26.55
+  },
+  "104862": {
+    "lastChangeDate": "2025-07-09",
+    "oldVal": 67.42,
+    "newVal": 0
+  },
+  "104865": {
+    "lastChangeDate": "2015-12-10",
+    "oldVal": 26.5,
+    "newVal": 31.18
+  },
+  "104973": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 9.16,
+    "newVal": 0
+  },
+  "105015": {
+    "lastChangeDate": "2014-11-03",
+    "oldVal": 31.2,
+    "newVal": 6.7
+  },
+  "105023": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 3.85,
+    "newVal": 0
+  },
+  "105035": {
+    "lastChangeDate": "2019-05-22",
+    "oldVal": 4.8,
+    "newVal": 5.28
+  },
+  "105105": {
+    "lastChangeDate": "2019-11-08",
+    "oldVal": 2.71,
+    "newVal": -2.71
+  },
+  "105107": {
+    "lastChangeDate": "2020-08-19",
+    "oldVal": 45,
+    "newVal": -33.21
+  },
+  "105113": {
+    "lastChangeDate": "2017-04-13",
+    "oldVal": 89.3,
+    "newVal": 0
+  },
+  "105583": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 8.42,
+    "newVal": 0
+  },
+  "105645": {
+    "lastChangeDate": "2026-02-27",
+    "oldVal": 12.18,
+    "newVal": 0
+  },
+  "105646": {
+    "lastChangeDate": "2017-07-15",
+    "oldVal": 22.4,
+    "newVal": 0
+  },
+  "106119": {
+    "lastChangeDate": "2019-09-27",
+    "oldVal": 11.96,
+    "newVal": 13.9
+  },
+  "106157": {
+    "lastChangeDate": "2019-01-11",
+    "oldVal": 17.76,
+    "newVal": 5.76
+  },
+  "106292": {
+    "lastChangeDate": "2020-10-22",
+    "oldVal": 34.99,
+    "newVal": -34.99
+  },
+  "106294": {
+    "lastChangeDate": "2019-11-01",
+    "oldVal": 42.12,
+    "newVal": 42.14
+  },
+  "106306": {
+    "lastChangeDate": "2024-03-12",
+    "oldVal": 15,
+    "newVal": 12.75
+  },
+  "106545": {
+    "lastChangeDate": "2018-08-16",
+    "oldVal": 68.7,
+    "newVal": 55.7
+  },
+  "106793": {
+    "lastChangeDate": "2019-03-28",
+    "oldVal": 61.5,
+    "newVal": 48.5
+  },
+  "106981": {
+    "lastChangeDate": "2017-11-13",
+    "oldVal": 118.34,
+    "newVal": 75.84
+  },
+  "107171": {
+    "lastChangeDate": "2019-02-16",
+    "oldVal": 22.6,
+    "newVal": 24
+  },
+  "107275": {
+    "lastChangeDate": "2020-02-14",
+    "oldVal": 50.08,
+    "newVal": 31.92
+  },
+  "107276": {
+    "lastChangeDate": "2024-10-15",
+    "oldVal": 16.66,
+    "newVal": 134
+  },
+  "107285": {
+    "lastChangeDate": "2019-11-05",
+    "oldVal": 22.37,
+    "newVal": 17.9
+  },
+  "107290": {
+    "lastChangeDate": "2025-04-10",
+    "oldVal": 3.5,
+    "newVal": 24.5
+  },
+  "107354": {
+    "lastChangeDate": "2021-07-16",
+    "oldVal": 45,
+    "newVal": 0
+  },
+  "107355": {
+    "lastChangeDate": "2025-09-26",
+    "oldVal": 87.72,
+    "newVal": 0
+  },
+  "107356": {
+    "lastChangeDate": "2021-07-16",
+    "oldVal": 74.31,
+    "newVal": 0
+  },
+  "107466": {
+    "lastChangeDate": "2025-11-07",
+    "oldVal": 13.84,
+    "newVal": 0
+  },
+  "107552": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 31.2,
+    "newVal": 0
+  },
+  "107559": {
+    "lastChangeDate": "2022-06-02",
+    "oldVal": 13.68,
+    "newVal": 1.2
+  },
+  "107632": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 4.21,
+    "newVal": 0
+  },
+  "107634": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 5.81,
+    "newVal": 0
+  },
+  "107742": {
+    "lastChangeDate": "2015-12-10",
+    "oldVal": 69.98,
+    "newVal": 70
+  },
+  "107745": {
+    "lastChangeDate": "2021-06-21",
+    "oldVal": 58.56,
+    "newVal": 45.22
+  },
+  "107796": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 13.5,
+    "newVal": 0
+  },
+  "108377": {
+    "lastChangeDate": "2020-11-14",
+    "oldVal": 76.8,
+    "newVal": 38.49
+  },
+  "108925": {
+    "lastChangeDate": "2020-09-08",
+    "oldVal": 11.16,
+    "newVal": 7
+  },
+  "108926": {
+    "lastChangeDate": "2020-11-14",
+    "oldVal": 12.13,
+    "newVal": 7.01
+  },
+  "108963": {
+    "lastChangeDate": "2018-09-10",
+    "oldVal": 3,
+    "newVal": 1.47
+  },
+  "109201": {
+    "lastChangeDate": "2023-08-31",
+    "oldVal": 12.03,
+    "newVal": 0
+  },
+  "109202": {
+    "lastChangeDate": "2017-12-06",
+    "oldVal": 13.8,
+    "newVal": 0
+  },
+  "109235": {
+    "lastChangeDate": "2021-06-30",
+    "oldVal": 50.34,
+    "newVal": 19.17
+  },
+  "109257": {
+    "lastChangeDate": "2025-11-24",
+    "oldVal": 60,
+    "newVal": 45
+  },
+  "109578": {
+    "lastChangeDate": "2018-07-30",
+    "oldVal": 16.08,
+    "newVal": 0
+  },
+  "109579": {
+    "lastChangeDate": "2016-12-29",
+    "oldVal": 82.05,
+    "newVal": -82.05
+  },
+  "109630": {
+    "lastChangeDate": "2024-06-25",
+    "oldVal": 12.4,
+    "newVal": 10.5
+  },
+  "109637": {
+    "lastChangeDate": "2025-09-05",
+    "oldVal": 84.72,
+    "newVal": -67.85
+  },
+  "109802": {
+    "lastChangeDate": "2015-07-27",
+    "oldVal": 31.96,
+    "newVal": 9.98
+  },
+  "110024": {
+    "lastChangeDate": "2021-10-06",
+    "oldVal": 72.16,
+    "newVal": 51.54
+  },
+  "110052": {
+    "lastChangeDate": "2021-04-07",
+    "oldVal": 2.18,
+    "newVal": 2.1
+  },
+  "110816": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 2.2,
+    "newVal": 0
+  },
+  "111291": {
+    "lastChangeDate": "2021-09-08",
+    "oldVal": 31.99,
+    "newVal": -31.99
+  },
+  "111294": {
+    "lastChangeDate": "2018-02-13",
+    "oldVal": 5,
+    "newVal": 0
+  },
+  "111295": {
+    "lastChangeDate": "2019-10-10",
+    "oldVal": 82.98,
+    "newVal": 59.27
+  },
+  "111296": {
+    "lastChangeDate": "2019-11-12",
+    "oldVal": 82.98,
+    "newVal": 59.29
+  },
+  "111297": {
+    "lastChangeDate": "2020-10-06",
+    "oldVal": 44.16,
+    "newVal": -44.16
+  },
+  "111438": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 5.69,
+    "newVal": 0
+  },
+  "111507": {
+    "lastChangeDate": "2014-12-11",
+    "oldVal": 21,
+    "newVal": 40.5
+  },
+  "111586": {
+    "lastChangeDate": "2022-08-16",
+    "oldVal": 13.42,
+    "newVal": 20
+  },
+  "111588": {
+    "lastChangeDate": "2019-01-18",
+    "oldVal": 16.65,
+    "newVal": 20.35
+  },
+  "111804": {
+    "lastChangeDate": "2017-09-15",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "111859": {
+    "lastChangeDate": "2021-05-19",
+    "oldVal": 32.15,
+    "newVal": 3.15
+  },
+  "112085": {
+    "lastChangeDate": "2017-07-29",
+    "oldVal": 31.99,
+    "newVal": 22.85
+  },
+  "112088": {
+    "lastChangeDate": "2017-04-05",
+    "oldVal": 0,
+    "newVal": -27.99
+  },
+  "112092": {
+    "lastChangeDate": "2018-02-13",
+    "oldVal": 5.08,
+    "newVal": 0
+  },
+  "112435": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 75.25,
+    "newVal": 0
+  },
+  "112549": {
+    "lastChangeDate": "2016-11-15",
+    "oldVal": 26.72,
+    "newVal": 0
+  },
+  "112648": {
+    "lastChangeDate": "2025-02-19",
+    "oldVal": 11.46,
+    "newVal": 11
+  },
+  "112650": {
+    "lastChangeDate": "2019-06-01",
+    "oldVal": 8.5,
+    "newVal": -8.5
+  },
+  "112657": {
+    "lastChangeDate": "2023-09-29",
+    "oldVal": 5.32,
+    "newVal": 3.79
+  },
+  "112658": {
+    "lastChangeDate": "2017-08-11",
+    "oldVal": 24,
+    "newVal": 0
+  },
+  "112669": {
+    "lastChangeDate": "2021-02-16",
+    "oldVal": 25.92,
+    "newVal": 31.36
+  },
+  "112778": {
+    "lastChangeDate": "2021-03-19",
+    "oldVal": 0,
+    "newVal": 3.61
+  },
+  "112807": {
+    "lastChangeDate": "2020-01-04",
+    "oldVal": 11.52,
+    "newVal": 7.2
+  },
+  "112809": {
+    "lastChangeDate": "2019-02-04",
+    "oldVal": 27.54,
+    "newVal": 25.92
+  },
+  "112839": {
+    "lastChangeDate": "2020-02-15",
+    "oldVal": 12.12,
+    "newVal": 0
+  },
+  "113013": {
+    "lastChangeDate": "2015-04-02",
+    "oldVal": 19.7,
+    "newVal": 18.83
+  },
+  "113014": {
+    "lastChangeDate": "2026-01-05",
+    "oldVal": 50,
+    "newVal": 37
+  },
+  "113024": {
+    "lastChangeDate": "2018-11-07",
+    "oldVal": 21.44,
+    "newVal": 0
+  },
+  "113030": {
+    "lastChangeDate": "2021-01-08",
+    "oldVal": 28.39,
+    "newVal": 28.9
+  },
+  "113031": {
+    "lastChangeDate": "2016-03-15",
+    "oldVal": 51.94,
+    "newVal": 45.01
+  },
+  "113150": {
+    "lastChangeDate": "2021-05-07",
+    "oldVal": 4.72,
+    "newVal": 3.68
+  },
+  "113172": {
+    "lastChangeDate": "2017-02-13",
+    "oldVal": 6.36,
+    "newVal": 35
+  },
+  "113319": {
+    "lastChangeDate": "2024-04-29",
+    "oldVal": 88.36,
+    "newVal": 94.86
+  },
+  "113353": {
+    "lastChangeDate": "2022-11-26",
+    "oldVal": 82,
+    "newVal": 72
+  },
+  "113452": {
+    "lastChangeDate": "2021-04-03",
+    "oldVal": 53.4,
+    "newVal": 29.37
+  },
+  "113453": {
+    "lastChangeDate": "2021-06-02",
+    "oldVal": 53.4,
+    "newVal": 29.37
+  },
+  "113566": {
+    "lastChangeDate": "2024-12-30",
+    "oldVal": 41.96,
+    "newVal": 82.97
+  },
+  "113572": {
+    "lastChangeDate": "2023-10-30",
+    "oldVal": 3.17,
+    "newVal": -3.17
+  },
+  "113573": {
+    "lastChangeDate": "2025-02-07",
+    "oldVal": 19.04,
+    "newVal": 20.94
+  },
+  "113713": {
+    "lastChangeDate": "2019-07-23",
+    "oldVal": -14.26,
+    "newVal": -2.26
+  },
+  "113908": {
+    "lastChangeDate": "2016-02-06",
+    "oldVal": 0,
+    "newVal": 37.98
+  },
+  "113975": {
+    "lastChangeDate": "2024-06-10",
+    "oldVal": 111,
+    "newVal": 11.1
+  },
+  "113986": {
+    "lastChangeDate": "2025-11-12",
+    "oldVal": 8.92,
+    "newVal": 9.81
+  },
+  "114078": {
+    "lastChangeDate": "2025-05-08",
+    "oldVal": 13.4,
+    "newVal": 0
+  },
+  "114356": {
+    "lastChangeDate": "2017-10-28",
+    "oldVal": 9.42,
+    "newVal": 0
+  },
+  "114357": {
+    "lastChangeDate": "2017-11-15",
+    "oldVal": 6.79,
+    "newVal": 0
+  },
+  "114424": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 13.96,
+    "newVal": 1.13
+  },
+  "114526": {
+    "lastChangeDate": "2017-06-27",
+    "oldVal": 81.33,
+    "newVal": 0
+  },
+  "114565": {
+    "lastChangeDate": "2024-05-14",
+    "oldVal": 32.15,
+    "newVal": 27.33
+  },
+  "114786": {
+    "lastChangeDate": "2018-06-30",
+    "oldVal": 38.97,
+    "newVal": 0
+  },
+  "115061": {
+    "lastChangeDate": "2015-04-23",
+    "oldVal": 34.97,
+    "newVal": 0
+  },
+  "115191": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 51.39,
+    "newVal": 6.02
+  },
+  "115205": {
+    "lastChangeDate": "2026-02-20",
+    "oldVal": 70.5,
+    "newVal": 0
+  },
+  "115206": {
+    "lastChangeDate": "2026-02-20",
+    "oldVal": 70.5,
+    "newVal": 0
+  },
+  "115288": {
+    "lastChangeDate": "2025-04-29",
+    "oldVal": 5.66,
+    "newVal": 6.22
+  },
+  "115290": {
+    "lastChangeDate": "2022-07-16",
+    "oldVal": 9.53,
+    "newVal": 6.81
+  },
+  "115299": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 10.65,
+    "newVal": 0
+  },
+  "115313": {
+    "lastChangeDate": "2025-02-19",
+    "oldVal": 27,
+    "newVal": 11.89
+  },
+  "115314": {
+    "lastChangeDate": "2023-11-23",
+    "oldVal": 14.5,
+    "newVal": 2.5
+  },
+  "115315": {
+    "lastChangeDate": "2025-04-04",
+    "oldVal": 21.99,
+    "newVal": 0
+  },
+  "115339": {
+    "lastChangeDate": "2024-03-12",
+    "oldVal": 22.68,
+    "newVal": 19.28
+  },
+  "115340": {
+    "lastChangeDate": "2022-06-01",
+    "oldVal": 21.6,
+    "newVal": 5.07
+  },
+  "115341": {
+    "lastChangeDate": "2021-05-06",
+    "oldVal": 41.28,
+    "newVal": 17
+  },
+  "115342": {
+    "lastChangeDate": "2017-11-25",
+    "oldVal": 23.42,
+    "newVal": 0
+  },
+  "115344": {
+    "lastChangeDate": "2017-09-06",
+    "oldVal": 9.29,
+    "newVal": 0
+  },
+  "115352": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 63.4,
+    "newVal": 0
+  },
+  "115433": {
+    "lastChangeDate": "2016-09-29",
+    "oldVal": 4.16,
+    "newVal": 1.42
+  },
+  "115435": {
+    "lastChangeDate": "2016-11-22",
+    "oldVal": 84.18,
+    "newVal": 60
+  },
+  "115597": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 16.06,
+    "newVal": 16.51
+  },
+  "115793": {
+    "lastChangeDate": "2023-06-16",
+    "oldVal": 27.2,
+    "newVal": 10.35
+  },
+  "115795": {
+    "lastChangeDate": "2024-05-18",
+    "oldVal": 31.26,
+    "newVal": 18.26
+  },
+  "115881": {
+    "lastChangeDate": "2025-08-21",
+    "oldVal": 66.9,
+    "newVal": 0
+  },
+  "115883": {
+    "lastChangeDate": "2021-03-18",
+    "oldVal": 21.68,
+    "newVal": 0
+  },
+  "115952": {
+    "lastChangeDate": "2015-03-04",
+    "oldVal": 53,
+    "newVal": 51.65
+  },
+  "115987": {
+    "lastChangeDate": "2017-02-11",
+    "oldVal": 79.52,
+    "newVal": -79.52
+  },
+  "116018": {
+    "lastChangeDate": "2021-11-17",
+    "oldVal": 113.55,
+    "newVal": 81.11
+  },
+  "116057": {
+    "lastChangeDate": "2018-11-02",
+    "oldVal": 0.15,
+    "newVal": 20
+  },
+  "116135": {
+    "lastChangeDate": "2019-01-28",
+    "oldVal": 11.96,
+    "newVal": 12.26
+  },
+  "116245": {
+    "lastChangeDate": "2021-03-20",
+    "oldVal": 32.4,
+    "newVal": 35.64
+  },
+  "116247": {
+    "lastChangeDate": "2021-06-21",
+    "oldVal": 4.34,
+    "newVal": 3.94
+  },
+  "116342": {
+    "lastChangeDate": "2017-12-05",
+    "oldVal": 13.84,
+    "newVal": 30
+  },
+  "116354": {
+    "lastChangeDate": "2017-06-21",
+    "oldVal": 4,
+    "newVal": -26.18
+  },
+  "116355": {
+    "lastChangeDate": "2021-02-25",
+    "oldVal": 21.64,
+    "newVal": 11.93
+  },
+  "116432": {
+    "lastChangeDate": "2025-08-06",
+    "oldVal": 18.56,
+    "newVal": 11.98
+  },
+  "116437": {
+    "lastChangeDate": "2017-04-03",
+    "oldVal": 0,
+    "newVal": -21.9
+  },
+  "116438": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 24.35,
+    "newVal": 0
+  },
+  "116458": {
+    "lastChangeDate": "2016-07-19",
+    "oldVal": 56.18,
+    "newVal": 32.1
+  },
+  "116524": {
+    "lastChangeDate": "2021-04-23",
+    "oldVal": 51.38,
+    "newVal": 34.16
+  },
+  "116588": {
+    "lastChangeDate": "2020-11-26",
+    "oldVal": 22.48,
+    "newVal": 14.99
+  },
+  "116602": {
+    "lastChangeDate": "2020-10-22",
+    "oldVal": 21.96,
+    "newVal": 15.46
+  },
+  "116822": {
+    "lastChangeDate": "2018-04-09",
+    "oldVal": 47.04,
+    "newVal": -47.04
+  },
+  "116921": {
+    "lastChangeDate": "2024-12-13",
+    "oldVal": 34.08,
+    "newVal": 30
+  },
+  "116982": {
+    "lastChangeDate": "2020-06-29",
+    "oldVal": 27.9,
+    "newVal": 12
+  },
+  "116987": {
+    "lastChangeDate": "2017-04-06",
+    "oldVal": 109.06,
+    "newVal": 0
+  },
+  "117004": {
+    "lastChangeDate": "2021-03-05",
+    "oldVal": 29.33,
+    "newVal": -29.33
+  },
+  "117007": {
+    "lastChangeDate": "2019-01-03",
+    "oldVal": 35.99,
+    "newVal": -35.99
+  },
+  "117149": {
+    "lastChangeDate": "2019-05-30",
+    "oldVal": 0.39,
+    "newVal": 13.29
+  },
+  "117158": {
+    "lastChangeDate": "2016-01-12",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "117207": {
+    "lastChangeDate": "2019-02-06",
+    "oldVal": 79.42,
+    "newVal": 56.74
+  },
+  "117275": {
+    "lastChangeDate": "2021-09-02",
+    "oldVal": 82.23,
+    "newVal": 63.15
+  },
+  "117279": {
+    "lastChangeDate": "2024-10-17",
+    "oldVal": 15.5,
+    "newVal": 17.05
+  },
+  "117301": {
+    "lastChangeDate": "2021-06-25",
+    "oldVal": 58.32,
+    "newVal": 41.66
+  },
+  "117440": {
+    "lastChangeDate": "2016-04-16",
+    "oldVal": 22.33,
+    "newVal": 11.17
+  },
+  "117503": {
+    "lastChangeDate": "2021-06-30",
+    "oldVal": 102.13,
+    "newVal": 72.95
+  },
+  "117504": {
+    "lastChangeDate": "2023-05-31",
+    "oldVal": 94.65,
+    "newVal": 106.28
+  },
+  "117568": {
+    "lastChangeDate": "2021-06-21",
+    "oldVal": 56.64,
+    "newVal": 51.49
+  },
+  "117625": {
+    "lastChangeDate": "2016-11-28",
+    "oldVal": 0,
+    "newVal": -116.28
+  },
+  "117630": {
+    "lastChangeDate": "2017-12-23",
+    "oldVal": 33,
+    "newVal": 0
+  },
+  "117740": {
+    "lastChangeDate": "2017-06-14",
+    "oldVal": 122.43,
+    "newVal": 97.94
+  },
+  "117751": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 39.95,
+    "newVal": 0
+  },
+  "117752": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 39.95,
+    "newVal": 0
+  },
+  "117787": {
+    "lastChangeDate": "2020-11-28",
+    "oldVal": 57.19,
+    "newVal": 40.85
+  },
+  "117821": {
+    "lastChangeDate": "2017-02-04",
+    "oldVal": 0,
+    "newVal": -151.76
+  },
+  "117860": {
+    "lastChangeDate": "2020-09-02",
+    "oldVal": 5.15,
+    "newVal": 3.68
+  },
+  "117887": {
+    "lastChangeDate": "2021-04-26",
+    "oldVal": -46.08,
+    "newVal": 36
+  },
+  "117909": {
+    "lastChangeDate": "2017-04-06",
+    "oldVal": 109.26,
+    "newVal": 99.83
+  },
+  "117913": {
+    "lastChangeDate": "2024-02-27",
+    "oldVal": 57.31,
+    "newVal": 0
+  },
+  "117917": {
+    "lastChangeDate": "2016-09-01",
+    "oldVal": 19.29,
+    "newVal": 40
+  },
+  "118018": {
+    "lastChangeDate": "2017-01-18",
+    "oldVal": 50.82,
+    "newVal": 48.37
+  },
+  "118027": {
+    "lastChangeDate": "2022-09-21",
+    "oldVal": 54.6,
+    "newVal": 44
+  },
+  "118034": {
+    "lastChangeDate": "2025-10-27",
+    "oldVal": 85.04,
+    "newVal": 63.78
+  },
+  "118120": {
+    "lastChangeDate": "2018-08-03",
+    "oldVal": 4.62,
+    "newVal": 0
+  },
+  "118191": {
+    "lastChangeDate": "2017-03-18",
+    "oldVal": 15.66,
+    "newVal": 5.66
+  },
+  "118192": {
+    "lastChangeDate": "2018-02-02",
+    "oldVal": 20.68,
+    "newVal": 7.68
+  },
+  "118231": {
+    "lastChangeDate": "2018-08-31",
+    "oldVal": 32.18,
+    "newVal": 0
+  },
+  "118287": {
+    "lastChangeDate": "2017-04-12",
+    "oldVal": 15.3,
+    "newVal": 0
+  },
+  "118366": {
+    "lastChangeDate": "2024-04-02",
+    "oldVal": 23.96,
+    "newVal": -23.96
+  },
+  "118397": {
+    "lastChangeDate": "2017-06-22",
+    "oldVal": 19.16,
+    "newVal": 9.96
+  },
+  "118447": {
+    "lastChangeDate": "2026-02-02",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "118480": {
+    "lastChangeDate": "2018-09-20",
+    "oldVal": 11.26,
+    "newVal": 0
+  },
+  "118483": {
+    "lastChangeDate": "2019-03-05",
+    "oldVal": 21.45,
+    "newVal": 0
+  },
+  "118594": {
+    "lastChangeDate": "2021-04-13",
+    "oldVal": 10.5,
+    "newVal": 5.72
+  },
+  "118595": {
+    "lastChangeDate": "2024-07-22",
+    "oldVal": 20.26,
+    "newVal": 14.47
+  },
+  "118596": {
+    "lastChangeDate": "2015-06-04",
+    "oldVal": 0,
+    "newVal": 15
+  },
+  "118600": {
+    "lastChangeDate": "2021-08-20",
+    "oldVal": 57.36,
+    "newVal": -57.36
+  },
+  "118693": {
+    "lastChangeDate": "2025-12-19",
+    "oldVal": 18.12,
+    "newVal": 0
+  },
+  "118995": {
+    "lastChangeDate": "2017-07-12",
+    "oldVal": 57.99,
+    "newVal": 53.85
+  },
+  "119002": {
+    "lastChangeDate": "2025-11-26",
+    "oldVal": 4.44,
+    "newVal": 0
+  },
+  "119151": {
+    "lastChangeDate": "2026-01-13",
+    "oldVal": 4,
+    "newVal": 4.4
+  },
+  "119159": {
+    "lastChangeDate": "2020-09-26",
+    "oldVal": 0,
+    "newVal": 5.71
+  },
+  "119257": {
+    "lastChangeDate": "2026-03-13",
+    "oldVal": 3.27,
+    "newVal": 0
+  },
+  "119258": {
+    "lastChangeDate": "2026-02-25",
+    "oldVal": 2.31,
+    "newVal": 0
+  },
+  "119295": {
+    "lastChangeDate": "2016-11-01",
+    "oldVal": 34.99,
+    "newVal": 0
+  },
+  "119298": {
+    "lastChangeDate": "2019-11-04",
+    "oldVal": 45.99,
+    "newVal": -45.99
+  },
+  "119301": {
+    "lastChangeDate": "2017-04-10",
+    "oldVal": 50.01,
+    "newVal": 0
+  },
+  "119306": {
+    "lastChangeDate": "2019-01-21",
+    "oldVal": 91.92,
+    "newVal": 70.71
+  },
+  "119307": {
+    "lastChangeDate": "2016-08-18",
+    "oldVal": 43.68,
+    "newVal": 0
+  },
+  "119321": {
+    "lastChangeDate": "2016-06-01",
+    "oldVal": -94.99,
+    "newVal": 0
+  },
+  "119322": {
+    "lastChangeDate": "2024-12-30",
+    "oldVal": 76.78,
+    "newVal": 82.97
+  },
+  "119323": {
+    "lastChangeDate": "2017-09-15",
+    "oldVal": -91.99,
+    "newVal": 91.99
+  },
+  "119327": {
+    "lastChangeDate": "2019-09-30",
+    "oldVal": 65.98,
+    "newVal": -65.98
+  },
+  "119328": {
+    "lastChangeDate": "2025-09-05",
+    "oldVal": 99.11,
+    "newVal": -73.56
+  },
+  "119432": {
+    "lastChangeDate": "2019-03-22",
+    "oldVal": 20.42,
+    "newVal": 0
+  },
+  "119585": {
+    "lastChangeDate": "2017-09-27",
+    "oldVal": 19,
+    "newVal": -19
+  },
+  "119672": {
+    "lastChangeDate": "2023-12-15",
+    "oldVal": 59.58,
+    "newVal": 33.75
+  },
+  "119708": {
+    "lastChangeDate": "2026-02-24",
+    "oldVal": 5.45,
+    "newVal": 0
+  },
+  "119723": {
+    "lastChangeDate": "2020-09-30",
+    "oldVal": 11.2,
+    "newVal": 12.6
+  },
+  "119746": {
+    "lastChangeDate": "2015-09-28",
+    "oldVal": 95.18,
+    "newVal": 67.98
+  },
+  "119803": {
+    "lastChangeDate": "2019-12-16",
+    "oldVal": 55.8,
+    "newVal": -55.8
+  },
+  "119885": {
+    "lastChangeDate": "2021-08-12",
+    "oldVal": 10.8,
+    "newVal": 10.02
+  },
+  "119890": {
+    "lastChangeDate": "2024-03-19",
+    "oldVal": 12.84,
+    "newVal": 0
+  },
+  "119897": {
+    "lastChangeDate": "2015-08-27",
+    "oldVal": 32.22,
+    "newVal": 16.11
+  },
+  "119987": {
+    "lastChangeDate": "2026-01-28",
+    "oldVal": 31.17,
+    "newVal": 34.28
+  },
+  "119989": {
+    "lastChangeDate": "2025-10-07",
+    "oldVal": 48.36,
+    "newVal": -48.36
+  },
+  "119996": {
+    "lastChangeDate": "2021-07-27",
+    "oldVal": 71.16,
+    "newVal": 76.63
+  },
+  "120000": {
+    "lastChangeDate": "2019-11-26",
+    "oldVal": 46.17,
+    "newVal": 31.66
+  },
+  "120171": {
+    "lastChangeDate": "2020-02-08",
+    "oldVal": 0.83,
+    "newVal": 0
+  },
+  "120267": {
+    "lastChangeDate": "2018-06-29",
+    "oldVal": 12.11,
+    "newVal": 11.75
+  },
+  "120271": {
+    "lastChangeDate": "2019-03-25",
+    "oldVal": 9.98,
+    "newVal": 0
+  },
+  "120302": {
+    "lastChangeDate": "2019-10-02",
+    "oldVal": 35.28,
+    "newVal": -35.28
+  },
+  "120464": {
+    "lastChangeDate": "2021-02-17",
+    "oldVal": 26.33,
+    "newVal": 17.04
+  },
+  "120477": {
+    "lastChangeDate": "2021-02-17",
+    "oldVal": 23.4,
+    "newVal": -23.4
+  },
+  "120500": {
+    "lastChangeDate": "2021-07-27",
+    "oldVal": 22.14,
+    "newVal": 8.24
+  },
+  "120501": {
+    "lastChangeDate": "2015-04-29",
+    "oldVal": 51.8,
+    "newVal": 37
+  },
+  "120504": {
+    "lastChangeDate": "2024-09-09",
+    "oldVal": 70,
+    "newVal": 0
+  },
+  "120507": {
+    "lastChangeDate": "2017-05-27",
+    "oldVal": 35.07,
+    "newVal": 0
+  },
+  "120511": {
+    "lastChangeDate": "2021-02-26",
+    "oldVal": 40.11,
+    "newVal": 51.17
+  },
+  "120512": {
+    "lastChangeDate": "2023-01-12",
+    "oldVal": 95.98,
+    "newVal": 112.7
+  },
+  "120515": {
+    "lastChangeDate": "2021-01-15",
+    "oldVal": 40.88,
+    "newVal": 51.31
+  },
+  "120518": {
+    "lastChangeDate": "2024-01-04",
+    "oldVal": 54.6,
+    "newVal": -54.6
+  },
+  "120570": {
+    "lastChangeDate": "2025-02-21",
+    "oldVal": 22.82,
+    "newVal": -22.82
+  },
+  "120827": {
+    "lastChangeDate": "2022-05-24",
+    "oldVal": 35.12,
+    "newVal": 0
+  },
+  "120828": {
+    "lastChangeDate": "2022-08-19",
+    "oldVal": 30.12,
+    "newVal": 0
+  },
+  "120932": {
+    "lastChangeDate": "2021-03-20",
+    "oldVal": 59.85,
+    "newVal": 46.97
+  },
+  "121038": {
+    "lastChangeDate": "2023-12-29",
+    "oldVal": 13,
+    "newVal": 7.15
+  },
+  "121046": {
+    "lastChangeDate": "2026-02-24",
+    "oldVal": 4.84,
+    "newVal": 0
+  },
+  "121047": {
+    "lastChangeDate": "2022-08-27",
+    "oldVal": 62.88,
+    "newVal": 44.99
+  },
+  "121048": {
+    "lastChangeDate": "2021-06-21",
+    "oldVal": 137.76,
+    "newVal": 98.4
+  },
+  "121049": {
+    "lastChangeDate": "2019-07-06",
+    "oldVal": 8.84,
+    "newVal": 0
+  },
+  "121134": {
+    "lastChangeDate": "2020-11-21",
+    "oldVal": 10.17,
+    "newVal": 7.07
+  },
+  "121157": {
+    "lastChangeDate": "2025-11-25",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "121219": {
+    "lastChangeDate": "2018-08-28",
+    "oldVal": 27.4,
+    "newVal": -27.4
+  },
+  "121251": {
+    "lastChangeDate": "2015-07-16",
+    "oldVal": 29,
+    "newVal": 0
+  },
+  "121351": {
+    "lastChangeDate": "2021-04-20",
+    "oldVal": 20.99,
+    "newVal": -20.99
+  },
+  "121367": {
+    "lastChangeDate": "2026-02-07",
+    "oldVal": 46.8,
+    "newVal": 0
+  },
+  "121378": {
+    "lastChangeDate": "2024-08-21",
+    "oldVal": 96.41,
+    "newVal": 0
+  },
+  "121465": {
+    "lastChangeDate": "2020-05-29",
+    "oldVal": 31.96,
+    "newVal": 0
+  },
+  "121480": {
+    "lastChangeDate": "2016-02-10",
+    "oldVal": 26,
+    "newVal": 14.86
+  },
+  "121481": {
+    "lastChangeDate": "2015-09-28",
+    "oldVal": 23.96,
+    "newVal": 13.69
+  },
+  "121482": {
+    "lastChangeDate": "2015-09-02",
+    "oldVal": 30.95,
+    "newVal": 18.21
+  },
+  "121526": {
+    "lastChangeDate": "2026-02-24",
+    "oldVal": 13.77,
+    "newVal": 0
+  },
+  "121541": {
+    "lastChangeDate": "2023-02-15",
+    "oldVal": 40,
+    "newVal": 19.55
+  },
+  "121594": {
+    "lastChangeDate": "2022-04-09",
+    "oldVal": 21.72,
+    "newVal": 27.72
+  },
+  "121727": {
+    "lastChangeDate": "2015-05-11",
+    "oldVal": 132,
+    "newVal": 55.4
+  },
+  "121780": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 45.92,
+    "newVal": 0
+  },
+  "121901": {
+    "lastChangeDate": "2016-07-15",
+    "oldVal": 11.5,
+    "newVal": 5.75
+  },
+  "121954": {
+    "lastChangeDate": "2020-03-21",
+    "oldVal": 43.07,
+    "newVal": 41.36
+  },
+  "121956": {
+    "lastChangeDate": "2015-12-16",
+    "oldVal": 6.75,
+    "newVal": 3.3
+  },
+  "121981": {
+    "lastChangeDate": "2016-11-09",
+    "oldVal": 7.59,
+    "newVal": 0
+  },
+  "122133": {
+    "lastChangeDate": "2020-11-28",
+    "oldVal": 5.57,
+    "newVal": 4.23
+  },
+  "122153": {
+    "lastChangeDate": "2020-11-28",
+    "oldVal": 15.2,
+    "newVal": 8.24
+  },
+  "122219": {
+    "lastChangeDate": "2026-02-23",
+    "oldVal": 48.79,
+    "newVal": 0
+  },
+  "122268": {
+    "lastChangeDate": "2021-04-06",
+    "oldVal": 30,
+    "newVal": 0
+  },
+  "122275": {
+    "lastChangeDate": "2015-11-24",
+    "oldVal": 118,
+    "newVal": 84.28
+  },
+  "122349": {
+    "lastChangeDate": "2026-02-23",
+    "oldVal": 623.97,
+    "newVal": 0
+  },
+  "122350": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 198.96,
+    "newVal": 0
+  },
+  "122352": {
+    "lastChangeDate": "2021-07-27",
+    "oldVal": 62.1,
+    "newVal": 67
+  },
+  "122468": {
+    "lastChangeDate": "2015-09-29",
+    "oldVal": 32.3,
+    "newVal": 0
+  },
+  "122528": {
+    "lastChangeDate": "2021-06-22",
+    "oldVal": 24.67,
+    "newVal": -24.67
+  },
+  "122529": {
+    "lastChangeDate": "2020-11-12",
+    "oldVal": 33.39,
+    "newVal": 29.41
+  },
+  "122533": {
+    "lastChangeDate": "2019-09-21",
+    "oldVal": 107.98,
+    "newVal": 77.13
+  },
+  "122534": {
+    "lastChangeDate": "2018-11-15",
+    "oldVal": 3.4,
+    "newVal": 0
+  },
+  "122539": {
+    "lastChangeDate": "2017-10-25",
+    "oldVal": 32.41,
+    "newVal": -32.41
+  },
+  "122544": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 55.44,
+    "newVal": 60.98
+  },
+  "122546": {
+    "lastChangeDate": "2020-08-06",
+    "oldVal": 41.99,
+    "newVal": 32.09
+  },
+  "122559": {
+    "lastChangeDate": "2018-04-23",
+    "oldVal": 19,
+    "newVal": 34.39
+  },
+  "122566": {
+    "lastChangeDate": "2021-06-01",
+    "oldVal": 49.2,
+    "newVal": 38.63
+  },
+  "122618": {
+    "lastChangeDate": "2019-04-13",
+    "oldVal": 20.48,
+    "newVal": 0
+  },
+  "122647": {
+    "lastChangeDate": "2018-04-26",
+    "oldVal": 99.81,
+    "newVal": 22.49
+  },
+  "122648": {
+    "lastChangeDate": "2015-04-15",
+    "oldVal": 27.4,
+    "newVal": 0
+  },
+  "122689": {
+    "lastChangeDate": "2018-08-17",
+    "oldVal": 66,
+    "newVal": 30
+  },
+  "122690": {
+    "lastChangeDate": "2019-01-29",
+    "oldVal": 24,
+    "newVal": 12
+  },
+  "122691": {
+    "lastChangeDate": "2018-08-18",
+    "oldVal": 93.24,
+    "newVal": 67
+  },
+  "122700": {
+    "lastChangeDate": "2017-02-03",
+    "oldVal": 15.6,
+    "newVal": 5.6
+  },
+  "122704": {
+    "lastChangeDate": "2017-08-25",
+    "oldVal": 13.08,
+    "newVal": 0
+  },
+  "122706": {
+    "lastChangeDate": "2019-06-18",
+    "oldVal": 15.49,
+    "newVal": 19.52
+  },
+  "122901": {
+    "lastChangeDate": "2016-06-18",
+    "oldVal": 26.95,
+    "newVal": 0
+  },
+  "123182": {
+    "lastChangeDate": "2019-10-01",
+    "oldVal": 39.34,
+    "newVal": -39.34
+  },
+  "123184": {
+    "lastChangeDate": "2021-07-07",
+    "oldVal": 62.98,
+    "newVal": 70
+  },
+  "123186": {
+    "lastChangeDate": "2016-06-11",
+    "oldVal": 88.56,
+    "newVal": -88.56
+  },
+  "123299": {
+    "lastChangeDate": "2020-10-31",
+    "oldVal": 10.85,
+    "newVal": 21.31
+  },
+  "123308": {
+    "lastChangeDate": "2019-08-03",
+    "oldVal": 59,
+    "newVal": 0
+  },
+  "123310": {
+    "lastChangeDate": "2024-02-29",
+    "oldVal": 12.84,
+    "newVal": -12.84
+  },
+  "123318": {
+    "lastChangeDate": "2026-03-05",
+    "oldVal": 10.23,
+    "newVal": 0
+  },
+  "123498": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 0,
+    "newVal": 3.09
+  },
+  "123537": {
+    "lastChangeDate": "2023-12-23",
+    "oldVal": 41.4,
+    "newVal": 12
+  },
+  "123538": {
+    "lastChangeDate": "2022-07-09",
+    "oldVal": 54.17,
+    "newVal": 50.88
+  },
+  "123542": {
+    "lastChangeDate": "2017-09-23",
+    "oldVal": 23.1,
+    "newVal": 0
+  },
+  "123543": {
+    "lastChangeDate": "2020-07-16",
+    "oldVal": 54.99,
+    "newVal": 40.46
+  },
+  "123544": {
+    "lastChangeDate": "2020-08-14",
+    "oldVal": 64.56,
+    "newVal": 47.79
+  },
+  "123545": {
+    "lastChangeDate": "2017-08-12",
+    "oldVal": 29.54,
+    "newVal": 0
+  },
+  "123548": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 2.84,
+    "newVal": 0
+  },
+  "123556": {
+    "lastChangeDate": "2022-02-15",
+    "oldVal": 16.45,
+    "newVal": 23.21
+  },
+  "123570": {
+    "lastChangeDate": "2020-10-10",
+    "oldVal": 70.8,
+    "newVal": 52.05
+  },
+  "123837": {
+    "lastChangeDate": "2020-10-24",
+    "oldVal": 9.53,
+    "newVal": 6.81
+  },
+  "123838": {
+    "lastChangeDate": "2021-10-20",
+    "oldVal": 9.53,
+    "newVal": 6.81
+  },
+  "123875": {
+    "lastChangeDate": "2017-04-15",
+    "oldVal": 31.7,
+    "newVal": 0
+  },
+  "123918": {
+    "lastChangeDate": "2024-08-08",
+    "oldVal": 23.56,
+    "newVal": 34
+  },
+  "123980": {
+    "lastChangeDate": "2026-01-12",
+    "oldVal": 68.22,
+    "newVal": 0
+  },
+  "123981": {
+    "lastChangeDate": "2019-10-31",
+    "oldVal": 155,
+    "newVal": 69
+  },
+  "124083": {
+    "lastChangeDate": "2022-05-24",
+    "oldVal": 23.19,
+    "newVal": 43.39
+  },
+  "124097": {
+    "lastChangeDate": "2018-06-14",
+    "oldVal": 15.29,
+    "newVal": 1.64
+  },
+  "124126": {
+    "lastChangeDate": "2025-12-23",
+    "oldVal": 7.24,
+    "newVal": 7.96
+  },
+  "124131": {
+    "lastChangeDate": "2019-02-06",
+    "oldVal": 32.92,
+    "newVal": 1.96
+  },
+  "124132": {
+    "lastChangeDate": "2023-09-27",
+    "oldVal": 40.9,
+    "newVal": 0
+  },
+  "124179": {
+    "lastChangeDate": "2017-09-05",
+    "oldVal": 35.99,
+    "newVal": 0
+  },
+  "124184": {
+    "lastChangeDate": "2024-04-30",
+    "oldVal": 39.27,
+    "newVal": 0
+  },
+  "124185": {
+    "lastChangeDate": "2019-04-27",
+    "oldVal": 62.41,
+    "newVal": 50
+  },
+  "124219": {
+    "lastChangeDate": "2018-10-05",
+    "oldVal": 27.4,
+    "newVal": 14.3
+  },
+  "124220": {
+    "lastChangeDate": "2017-05-18",
+    "oldVal": 58.48,
+    "newVal": 46.48
+  },
+  "124226": {
+    "lastChangeDate": "2016-10-13",
+    "oldVal": 25.88,
+    "newVal": 0
+  },
+  "124227": {
+    "lastChangeDate": "2018-08-03",
+    "oldVal": 18.7,
+    "newVal": 0
+  },
+  "124229": {
+    "lastChangeDate": "2026-02-06",
+    "oldVal": 292.41,
+    "newVal": 0.01
+  },
+  "124309": {
+    "lastChangeDate": "2017-11-22",
+    "oldVal": 33.1,
+    "newVal": 0
+  },
+  "124310": {
+    "lastChangeDate": "2016-08-27",
+    "oldVal": 40.36,
+    "newVal": -40.36
+  },
+  "124311": {
+    "lastChangeDate": "2017-04-19",
+    "oldVal": 52.65,
+    "newVal": 0
+  },
+  "124362": {
+    "lastChangeDate": "2016-07-20",
+    "oldVal": 3.68,
+    "newVal": 3.45
+  },
+  "124395": {
+    "lastChangeDate": "2023-06-27",
+    "oldVal": 72.06,
+    "newVal": 25.54
+  },
+  "124552": {
+    "lastChangeDate": "2020-03-27",
+    "oldVal": 12.88,
+    "newVal": 0
+  },
+  "124569": {
+    "lastChangeDate": "2017-05-04",
+    "oldVal": 28.13,
+    "newVal": 14.06
+  },
+  "124647": {
+    "lastChangeDate": "2025-05-30",
+    "oldVal": 8.06,
+    "newVal": 8.8
+  },
+  "124658": {
+    "lastChangeDate": "2019-05-24",
+    "oldVal": 39.58,
+    "newVal": 17.5
+  },
+  "124680": {
+    "lastChangeDate": "2017-01-30",
+    "oldVal": 23.1,
+    "newVal": -23.1
+  },
+  "124944": {
+    "lastChangeDate": "2016-02-09",
+    "oldVal": 9.79,
+    "newVal": 6.99
+  },
+  "124948": {
+    "lastChangeDate": "2016-07-11",
+    "oldVal": 9.79,
+    "newVal": 7.25
+  },
+  "124950": {
+    "lastChangeDate": "2015-10-21",
+    "oldVal": 9.79,
+    "newVal": 6.99
+  },
+  "124954": {
+    "lastChangeDate": "2017-07-05",
+    "oldVal": 6.99,
+    "newVal": 7.13
+  },
+  "125000": {
+    "lastChangeDate": "2018-03-19",
+    "oldVal": 17.05,
+    "newVal": 25
+  },
+  "125015": {
+    "lastChangeDate": "2024-08-21",
+    "oldVal": 50.72,
+    "newVal": 0
+  },
+  "125016": {
+    "lastChangeDate": "2018-07-30",
+    "oldVal": 12.39,
+    "newVal": -12.39
+  },
+  "125018": {
+    "lastChangeDate": "2019-01-19",
+    "oldVal": 58.04,
+    "newVal": 0
+  },
+  "125019": {
+    "lastChangeDate": "2016-08-31",
+    "oldVal": 8.21,
+    "newVal": 0
+  },
+  "125038": {
+    "lastChangeDate": "2017-06-20",
+    "oldVal": 19.98,
+    "newVal": 9.98
+  },
+  "125039": {
+    "lastChangeDate": "2016-07-09",
+    "oldVal": 117.42,
+    "newVal": 0
+  },
+  "125047": {
+    "lastChangeDate": "2015-03-14",
+    "oldVal": 24.55,
+    "newVal": 0
+  },
+  "125055": {
+    "lastChangeDate": "2017-06-23",
+    "oldVal": 13.78,
+    "newVal": 12.36
+  },
+  "125056": {
+    "lastChangeDate": "2017-02-04",
+    "oldVal": 17.88,
+    "newVal": 9.88
+  },
+  "125057": {
+    "lastChangeDate": "2018-08-16",
+    "oldVal": 12.07,
+    "newVal": 0
+  },
+  "125058": {
+    "lastChangeDate": "2018-04-09",
+    "oldVal": 15.29,
+    "newVal": 7.06
+  },
+  "125066": {
+    "lastChangeDate": "2015-02-27",
+    "oldVal": 0,
+    "newVal": 12.3
+  },
+  "125067": {
+    "lastChangeDate": "2017-03-20",
+    "oldVal": 36.32,
+    "newVal": 17.88
+  },
+  "125068": {
+    "lastChangeDate": "2016-07-13",
+    "oldVal": 120.84,
+    "newVal": 96.84
+  },
+  "125126": {
+    "lastChangeDate": "2019-07-03",
+    "oldVal": 29.25,
+    "newVal": 0
+  },
+  "125136": {
+    "lastChangeDate": "2024-04-04",
+    "oldVal": 11.2,
+    "newVal": 0
+  },
+  "125193": {
+    "lastChangeDate": "2024-10-26",
+    "oldVal": 49.26,
+    "newVal": 0
+  },
+  "125194": {
+    "lastChangeDate": "2025-02-26",
+    "oldVal": 12.08,
+    "newVal": 0
+  },
+  "125207": {
+    "lastChangeDate": "2024-08-03",
+    "oldVal": 62.32,
+    "newVal": 0
+  },
+  "125220": {
+    "lastChangeDate": "2020-07-08",
+    "oldVal": 20.48,
+    "newVal": 0
+  },
+  "125221": {
+    "lastChangeDate": "2020-01-09",
+    "oldVal": 21.48,
+    "newVal": 0
+  },
+  "125222": {
+    "lastChangeDate": "2020-04-20",
+    "oldVal": -45,
+    "newVal": 22.39
+  },
+  "125223": {
+    "lastChangeDate": "2025-12-13",
+    "oldVal": 50.29,
+    "newVal": 0
+  },
+  "125224": {
+    "lastChangeDate": "2019-12-19",
+    "oldVal": 25.66,
+    "newVal": 0
+  },
+  "125225": {
+    "lastChangeDate": "2021-03-30",
+    "oldVal": 27.61,
+    "newVal": 0
+  },
+  "125244": {
+    "lastChangeDate": "2025-03-03",
+    "oldVal": 0.4,
+    "newVal": 20.4
+  },
+  "125269": {
+    "lastChangeDate": "2019-07-19",
+    "oldVal": 29.11,
+    "newVal": 0
+  },
+  "125324": {
+    "lastChangeDate": "2017-04-24",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "125366": {
+    "lastChangeDate": "2015-03-12",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "125367": {
+    "lastChangeDate": "2015-07-10",
+    "oldVal": 18.12,
+    "newVal": 1.62
+  },
+  "125369": {
+    "lastChangeDate": "2026-01-19",
+    "oldVal": 16.13,
+    "newVal": 0
+  },
+  "125400": {
+    "lastChangeDate": "2016-09-20",
+    "oldVal": 34.25,
+    "newVal": 20.55
+  },
+  "125407": {
+    "lastChangeDate": "2016-08-30",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "125409": {
+    "lastChangeDate": "2022-10-19",
+    "oldVal": 27.12,
+    "newVal": 0
+  },
+  "125415": {
+    "lastChangeDate": "2024-11-29",
+    "oldVal": 37.06,
+    "newVal": 0
+  },
+  "125427": {
+    "lastChangeDate": "2019-05-11",
+    "oldVal": 13.41,
+    "newVal": 1.41
+  },
+  "125468": {
+    "lastChangeDate": "2017-12-14",
+    "oldVal": 14.2,
+    "newVal": 18.6
+  },
+  "125469": {
+    "lastChangeDate": "2019-08-01",
+    "oldVal": 16.23,
+    "newVal": 4.23
+  },
+  "125528": {
+    "lastChangeDate": "2020-02-05",
+    "oldVal": 29.05,
+    "newVal": 0
+  },
+  "125616": {
+    "lastChangeDate": "2017-05-29",
+    "oldVal": 42.51,
+    "newVal": 34.01
+  },
+  "125652": {
+    "lastChangeDate": "2023-03-16",
+    "oldVal": 33.5,
+    "newVal": 0
+  },
+  "125653": {
+    "lastChangeDate": "2022-06-04",
+    "oldVal": 32,
+    "newVal": 0
+  },
+  "125654": {
+    "lastChangeDate": "2017-11-01",
+    "oldVal": 59.99,
+    "newVal": -59.99
+  },
+  "125657": {
+    "lastChangeDate": "2022-04-08",
+    "oldVal": 79,
+    "newVal": 0
+  },
+  "125658": {
+    "lastChangeDate": "2020-09-23",
+    "oldVal": 66.6,
+    "newVal": -66.6
+  },
+  "125660": {
+    "lastChangeDate": "2021-04-30",
+    "oldVal": 79.92,
+    "newVal": -79.92
+  },
+  "125661": {
+    "lastChangeDate": "2019-07-06",
+    "oldVal": 33.99,
+    "newVal": 0
+  },
+  "125663": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 3.93,
+    "newVal": 0
+  },
+  "125664": {
+    "lastChangeDate": "2018-11-28",
+    "oldVal": 29.99,
+    "newVal": 28.8
+  },
+  "125669": {
+    "lastChangeDate": "2023-12-30",
+    "oldVal": 50.01,
+    "newVal": -50.01
+  },
+  "125670": {
+    "lastChangeDate": "2020-10-16",
+    "oldVal": 54.98,
+    "newVal": -54.98
+  },
+  "125760": {
+    "lastChangeDate": "2019-12-28",
+    "oldVal": 22.8,
+    "newVal": 15.64
+  },
+  "125764": {
+    "lastChangeDate": "2018-12-12",
+    "oldVal": 45,
+    "newVal": 13.45
+  },
+  "125776": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 7.2,
+    "newVal": 0
+  },
+  "125931": {
+    "lastChangeDate": "2025-05-10",
+    "oldVal": 39.95,
+    "newVal": 0
+  },
+  "126006": {
+    "lastChangeDate": "2018-08-02",
+    "oldVal": 26.4,
+    "newVal": 0
+  },
+  "126018": {
+    "lastChangeDate": "2020-11-24",
+    "oldVal": 29.05,
+    "newVal": 0
+  },
+  "126022": {
+    "lastChangeDate": "2017-06-17",
+    "oldVal": 51.66,
+    "newVal": 0
+  },
+  "126061": {
+    "lastChangeDate": "2015-04-27",
+    "oldVal": 31.22,
+    "newVal": 0
+  },
+  "126125": {
+    "lastChangeDate": "2023-02-16",
+    "oldVal": 22.55,
+    "newVal": 30
+  },
+  "126134": {
+    "lastChangeDate": "2015-12-17",
+    "oldVal": 6.4,
+    "newVal": 3.2
+  },
+  "126198": {
+    "lastChangeDate": "2023-04-13",
+    "oldVal": 54,
+    "newVal": 22.87
+  },
+  "126232": {
+    "lastChangeDate": "2024-10-07",
+    "oldVal": 26.22,
+    "newVal": 0
+  },
+  "126264": {
+    "lastChangeDate": "2019-11-02",
+    "oldVal": 46.98,
+    "newVal": 39.93
+  },
+  "126302": {
+    "lastChangeDate": "2024-11-28",
+    "oldVal": 0,
+    "newVal": 60
+  },
+  "126476": {
+    "lastChangeDate": "2015-09-22",
+    "oldVal": 7,
+    "newVal": 3.45
+  },
+  "126590": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 8.54,
+    "newVal": 0
+  },
+  "126758": {
+    "lastChangeDate": "2021-04-12",
+    "oldVal": 20.61,
+    "newVal": 4.5
+  },
+  "126762": {
+    "lastChangeDate": "2019-05-21",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "126940": {
+    "lastChangeDate": "2015-08-27",
+    "oldVal": 1.04,
+    "newVal": 0.6
+  },
+  "126946": {
+    "lastChangeDate": "2016-07-21",
+    "oldVal": 1.96,
+    "newVal": 1
+  },
+  "127037": {
+    "lastChangeDate": "2019-09-18",
+    "oldVal": 35.88,
+    "newVal": 0
+  },
+  "127039": {
+    "lastChangeDate": "2018-01-30",
+    "oldVal": 29.26,
+    "newVal": 0
+  },
+  "127042": {
+    "lastChangeDate": "2018-02-28",
+    "oldVal": 181,
+    "newVal": 60
+  },
+  "127045": {
+    "lastChangeDate": "2021-06-04",
+    "oldVal": 29.2,
+    "newVal": 0
+  },
+  "127046": {
+    "lastChangeDate": "2022-04-29",
+    "oldVal": 29,
+    "newVal": 0
+  },
+  "127073": {
+    "lastChangeDate": "2017-02-09",
+    "oldVal": 2.44,
+    "newVal": 1.22
+  },
+  "127076": {
+    "lastChangeDate": "2021-04-03",
+    "oldVal": 0,
+    "newVal": 14.61
+  },
+  "127081": {
+    "lastChangeDate": "2015-08-31",
+    "oldVal": 18.32,
+    "newVal": 9.17
+  },
+  "127104": {
+    "lastChangeDate": "2021-06-19",
+    "oldVal": 41,
+    "newVal": 26.4
+  },
+  "127113": {
+    "lastChangeDate": "2018-03-27",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "127143": {
+    "lastChangeDate": "2015-11-10",
+    "oldVal": 45.78,
+    "newVal": 51.43
+  },
+  "127149": {
+    "lastChangeDate": "2016-08-25",
+    "oldVal": 6.33,
+    "newVal": 0
+  },
+  "127180": {
+    "lastChangeDate": "2017-08-23",
+    "oldVal": 35.3,
+    "newVal": 0
+  },
+  "127189": {
+    "lastChangeDate": "2025-12-18",
+    "oldVal": 1.64,
+    "newVal": 0
+  },
+  "127380": {
+    "lastChangeDate": "2019-12-16",
+    "oldVal": 82.98,
+    "newVal": 59.97
+  },
+  "127381": {
+    "lastChangeDate": "2018-11-09",
+    "oldVal": 40.98,
+    "newVal": 0
+  },
+  "127706": {
+    "lastChangeDate": "2024-11-06",
+    "oldVal": 43.4,
+    "newVal": 0
+  },
+  "127712": {
+    "lastChangeDate": "2023-10-05",
+    "oldVal": 78.08,
+    "newVal": 58.9
+  },
+  "127714": {
+    "lastChangeDate": "2025-11-28",
+    "oldVal": 41.14,
+    "newVal": 0
+  },
+  "127716": {
+    "lastChangeDate": "2025-11-21",
+    "oldVal": 23.75,
+    "newVal": 26.12
+  },
+  "127717": {
+    "lastChangeDate": "2025-11-14",
+    "oldVal": 1.65,
+    "newVal": 0
+  },
+  "127720": {
+    "lastChangeDate": "2025-05-21",
+    "oldVal": 47.52,
+    "newVal": 52.8
+  },
+  "127721": {
+    "lastChangeDate": "2025-11-28",
+    "oldVal": 31.5,
+    "newVal": 0
+  },
+  "127722": {
+    "lastChangeDate": "2026-01-22",
+    "oldVal": 1.4,
+    "newVal": 0
+  },
+  "127741": {
+    "lastChangeDate": "2023-04-14",
+    "oldVal": 60.02,
+    "newVal": 0
+  },
+  "127742": {
+    "lastChangeDate": "2023-11-17",
+    "oldVal": 77.85,
+    "newVal": 0
+  },
+  "127743": {
+    "lastChangeDate": "2019-03-30",
+    "oldVal": 18.22,
+    "newVal": 0
+  },
+  "127802": {
+    "lastChangeDate": "2019-08-14",
+    "oldVal": 44.18,
+    "newVal": 50.56
+  },
+  "127805": {
+    "lastChangeDate": "2019-03-27",
+    "oldVal": 109,
+    "newVal": 48.92
+  },
+  "128025": {
+    "lastChangeDate": "2025-06-10",
+    "oldVal": 41.1,
+    "newVal": 24.9
+  },
+  "128030": {
+    "lastChangeDate": "2019-06-28",
+    "oldVal": 18.24,
+    "newVal": 0
+  },
+  "128031": {
+    "lastChangeDate": "2017-01-23",
+    "oldVal": 87.99,
+    "newVal": 82.56
+  },
+  "128033": {
+    "lastChangeDate": "2016-04-09",
+    "oldVal": 35.04,
+    "newVal": -35.04
+  },
+  "128037": {
+    "lastChangeDate": "2016-08-08",
+    "oldVal": 39.98,
+    "newVal": 35.53
+  },
+  "128038": {
+    "lastChangeDate": "2016-08-10",
+    "oldVal": 79.98,
+    "newVal": 57.13
+  },
+  "128042": {
+    "lastChangeDate": "2020-12-17",
+    "oldVal": 32.04,
+    "newVal": 45
+  },
+  "128046": {
+    "lastChangeDate": "2019-07-27",
+    "oldVal": 20.99,
+    "newVal": 0
+  },
+  "128050": {
+    "lastChangeDate": "2018-08-17",
+    "oldVal": 19.99,
+    "newVal": 14.4
+  },
+  "128055": {
+    "lastChangeDate": "2020-10-31",
+    "oldVal": 115.68,
+    "newVal": 76.98
+  },
+  "128065": {
+    "lastChangeDate": "2017-06-09",
+    "oldVal": 80.53,
+    "newVal": 57.52
+  },
+  "128082": {
+    "lastChangeDate": "2025-05-13",
+    "oldVal": 130.38,
+    "newVal": 0
+  },
+  "128090": {
+    "lastChangeDate": "2017-06-22",
+    "oldVal": 60.88,
+    "newVal": 38
+  },
+  "128117": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 6.4,
+    "newVal": 10.41
+  },
+  "128164": {
+    "lastChangeDate": "2023-01-03",
+    "oldVal": 13.32,
+    "newVal": 7
+  },
+  "128175": {
+    "lastChangeDate": "2026-02-02",
+    "oldVal": 12.42,
+    "newVal": 0
+  },
+  "128198": {
+    "lastChangeDate": "2017-05-11",
+    "oldVal": 23.58,
+    "newVal": -23.58
+  },
+  "128201": {
+    "lastChangeDate": "2022-10-07",
+    "oldVal": 42.72,
+    "newVal": 27.82
+  },
+  "128222": {
+    "lastChangeDate": "2024-05-04",
+    "oldVal": 40.44,
+    "newVal": 14.22
+  },
+  "128305": {
+    "lastChangeDate": "2019-04-16",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "128311": {
+    "lastChangeDate": "2022-09-30",
+    "oldVal": 16.95,
+    "newVal": 35
+  },
+  "128318": {
+    "lastChangeDate": "2017-03-31",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "128485": {
+    "lastChangeDate": "2020-09-14",
+    "oldVal": 86.03,
+    "newVal": 71.84
+  },
+  "128530": {
+    "lastChangeDate": "2018-03-14",
+    "oldVal": 7.5,
+    "newVal": 4
+  },
+  "128550": {
+    "lastChangeDate": "2018-08-23",
+    "oldVal": 45,
+    "newVal": 0
+  },
+  "128551": {
+    "lastChangeDate": "2025-09-10",
+    "oldVal": 44.65,
+    "newVal": -44.65
+  },
+  "128556": {
+    "lastChangeDate": "2021-03-05",
+    "oldVal": 26.58,
+    "newVal": 18.98
+  },
+  "128662": {
+    "lastChangeDate": "2019-03-22",
+    "oldVal": 75,
+    "newVal": 63.54
+  },
+  "128724": {
+    "lastChangeDate": "2015-12-17",
+    "oldVal": 3.4,
+    "newVal": 1.6
+  },
+  "128729": {
+    "lastChangeDate": "2019-11-14",
+    "oldVal": 40.32,
+    "newVal": 94.08
+  },
+  "128800": {
+    "lastChangeDate": "2025-11-28",
+    "oldVal": 0,
+    "newVal": 6
+  },
+  "128843": {
+    "lastChangeDate": "2021-06-22",
+    "oldVal": 24.66,
+    "newVal": 12.82
+  },
+  "128844": {
+    "lastChangeDate": "2020-08-05",
+    "oldVal": 17.26,
+    "newVal": 12.33
+  },
+  "128845": {
+    "lastChangeDate": "2016-05-26",
+    "oldVal": 34.94,
+    "newVal": 39.99
+  },
+  "128901": {
+    "lastChangeDate": "2021-03-31",
+    "oldVal": 2.13,
+    "newVal": 1.66
+  },
+  "128902": {
+    "lastChangeDate": "2017-06-24",
+    "oldVal": 1.95,
+    "newVal": 0
+  },
+  "128904": {
+    "lastChangeDate": "2021-03-18",
+    "oldVal": 2.29,
+    "newVal": 1.64
+  },
+  "128906": {
+    "lastChangeDate": "2021-04-07",
+    "oldVal": 2.49,
+    "newVal": 2.06
+  },
+  "128910": {
+    "lastChangeDate": "2021-05-20",
+    "oldVal": 4.92,
+    "newVal": -4.92
+  },
+  "128911": {
+    "lastChangeDate": "2021-05-08",
+    "oldVal": 51.26,
+    "newVal": -51.26
+  },
+  "128914": {
+    "lastChangeDate": "2017-11-02",
+    "oldVal": 4.08,
+    "newVal": 0
+  },
+  "128915": {
+    "lastChangeDate": "2017-10-30",
+    "oldVal": 48.96,
+    "newVal": 0
+  },
+  "128917": {
+    "lastChangeDate": "2020-10-23",
+    "oldVal": 74.06,
+    "newVal": -74.06
+  },
+  "128918": {
+    "lastChangeDate": "2020-04-03",
+    "oldVal": 97.64,
+    "newVal": 74.06
+  },
+  "129005": {
+    "lastChangeDate": "2020-10-02",
+    "oldVal": 32.16,
+    "newVal": 23.7
+  },
+  "129006": {
+    "lastChangeDate": "2023-12-04",
+    "oldVal": 3.56,
+    "newVal": 0
+  },
+  "129011": {
+    "lastChangeDate": "2022-06-11",
+    "oldVal": 7.13,
+    "newVal": 8.4
+  },
+  "129014": {
+    "lastChangeDate": "2019-12-05",
+    "oldVal": 34.99,
+    "newVal": -34.99
+  },
+  "129016": {
+    "lastChangeDate": "2020-10-07",
+    "oldVal": 88.5,
+    "newVal": -88.5
+  },
+  "129125": {
+    "lastChangeDate": "2026-01-13",
+    "oldVal": 37.98,
+    "newVal": 41.78
+  },
+  "129240": {
+    "lastChangeDate": "2020-12-18",
+    "oldVal": 22.18,
+    "newVal": 15.84
+  },
+  "129243": {
+    "lastChangeDate": "2015-11-04",
+    "oldVal": 18.95,
+    "newVal": 13.54
+  },
+  "129358": {
+    "lastChangeDate": "2015-08-05",
+    "oldVal": 15,
+    "newVal": 7.5
+  },
+  "129359": {
+    "lastChangeDate": "2016-04-11",
+    "oldVal": 20.12,
+    "newVal": 0
+  },
+  "129360": {
+    "lastChangeDate": "2015-03-11",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "129361": {
+    "lastChangeDate": "2016-03-30",
+    "oldVal": 72.53,
+    "newVal": 73.53
+  },
+  "129368": {
+    "lastChangeDate": "2016-05-09",
+    "oldVal": 22.73,
+    "newVal": 12.99
+  },
+  "129415": {
+    "lastChangeDate": "2021-02-17",
+    "oldVal": 47.76,
+    "newVal": 34.13
+  },
+  "129444": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 14.39,
+    "newVal": 0
+  },
+  "129458": {
+    "lastChangeDate": "2020-10-08",
+    "oldVal": 5.05,
+    "newVal": 3.61
+  },
+  "129473": {
+    "lastChangeDate": "2018-07-17",
+    "oldVal": 31,
+    "newVal": 27
+  },
+  "129474": {
+    "lastChangeDate": "2018-07-17",
+    "oldVal": 25,
+    "newVal": 27
+  },
+  "129489": {
+    "lastChangeDate": "2020-09-23",
+    "oldVal": 0,
+    "newVal": 4.74
+  },
+  "129648": {
+    "lastChangeDate": "2016-12-13",
+    "oldVal": 67.8,
+    "newVal": 64.6
+  },
+  "129657": {
+    "lastChangeDate": "2019-06-21",
+    "oldVal": 73.53,
+    "newVal": 63.62
+  },
+  "129658": {
+    "lastChangeDate": "2016-08-31",
+    "oldVal": 22.55,
+    "newVal": 0
+  },
+  "129808": {
+    "lastChangeDate": "2025-11-14",
+    "oldVal": 37.52,
+    "newVal": 0
+  },
+  "129809": {
+    "lastChangeDate": "2025-06-20",
+    "oldVal": 17.92,
+    "newVal": 35.84
+  },
+  "129812": {
+    "lastChangeDate": "2017-04-15",
+    "oldVal": 21.6,
+    "newVal": 0
+  },
+  "129820": {
+    "lastChangeDate": "2017-04-03",
+    "oldVal": 0,
+    "newVal": 20.65
+  },
+  "129824": {
+    "lastChangeDate": "2019-09-04",
+    "oldVal": 45.62,
+    "newVal": 0
+  },
+  "129826": {
+    "lastChangeDate": "2020-05-11",
+    "oldVal": 35.66,
+    "newVal": 27.18
+  },
+  "129837": {
+    "lastChangeDate": "2017-09-14",
+    "oldVal": 0,
+    "newVal": -37.73
+  },
+  "129938": {
+    "lastChangeDate": "2019-07-26",
+    "oldVal": 51.96,
+    "newVal": 64.44
+  },
+  "129939": {
+    "lastChangeDate": "2019-04-29",
+    "oldVal": 44.88,
+    "newVal": 32.14
+  },
+  "129940": {
+    "lastChangeDate": "2020-05-25",
+    "oldVal": 6.63,
+    "newVal": 5.35
+  },
+  "129999": {
+    "lastChangeDate": "2019-09-13",
+    "oldVal": 50.01,
+    "newVal": 35.72
+  },
+  "130003": {
+    "lastChangeDate": "2018-10-12",
+    "oldVal": 40.97,
+    "newVal": 0
+  },
+  "130004": {
+    "lastChangeDate": "2024-08-23",
+    "oldVal": 91,
+    "newVal": 71.5
+  },
+  "130015": {
+    "lastChangeDate": "2019-03-09",
+    "oldVal": 104.03,
+    "newVal": 91.99
+  },
+  "130016": {
+    "lastChangeDate": "2018-07-25",
+    "oldVal": 37.44,
+    "newVal": 0
+  },
+  "130019": {
+    "lastChangeDate": "2017-02-15",
+    "oldVal": 102.98,
+    "newVal": 74
+  },
+  "130053": {
+    "lastChangeDate": "2023-07-05",
+    "oldVal": 12,
+    "newVal": 30
+  },
+  "130161": {
+    "lastChangeDate": "2024-04-04",
+    "oldVal": 27.7,
+    "newVal": 0
+  },
+  "130198": {
+    "lastChangeDate": "2016-08-29",
+    "oldVal": 12.69,
+    "newVal": 9.96
+  },
+  "130357": {
+    "lastChangeDate": "2019-07-03",
+    "oldVal": 8.64,
+    "newVal": 0
+  },
+  "130540": {
+    "lastChangeDate": "2019-05-09",
+    "oldVal": 90.86,
+    "newVal": 87.26
+  },
+  "130654": {
+    "lastChangeDate": "2017-04-08",
+    "oldVal": 9.96,
+    "newVal": -9.96
+  },
+  "130724": {
+    "lastChangeDate": "2017-06-10",
+    "oldVal": 37.5,
+    "newVal": -37.5
+  },
+  "130726": {
+    "lastChangeDate": "2016-11-08",
+    "oldVal": 0,
+    "newVal": -53.77
+  },
+  "130780": {
+    "lastChangeDate": "2021-05-11",
+    "oldVal": 20.9,
+    "newVal": -20.9
+  },
+  "130848": {
+    "lastChangeDate": "2023-05-09",
+    "oldVal": 12.28,
+    "newVal": 5
+  },
+  "130853": {
+    "lastChangeDate": "2022-08-13",
+    "oldVal": 0.36,
+    "newVal": 100
+  },
+  "130855": {
+    "lastChangeDate": "2023-10-19",
+    "oldVal": 30,
+    "newVal": -30
+  },
+  "130917": {
+    "lastChangeDate": "2020-12-15",
+    "oldVal": 11.4,
+    "newVal": 6.92
+  },
+  "130933": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 3.09,
+    "newVal": 3.39
+  },
+  "130934": {
+    "lastChangeDate": "2023-06-16",
+    "oldVal": 1.79,
+    "newVal": 6
+  },
+  "130941": {
+    "lastChangeDate": "2023-09-01",
+    "oldVal": 0.08,
+    "newVal": 3.81
+  },
+  "130947": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 5.35,
+    "newVal": 0
+  },
+  "130948": {
+    "lastChangeDate": "2021-11-04",
+    "oldVal": 0.08,
+    "newVal": 5.5
+  },
+  "130955": {
+    "lastChangeDate": "2019-10-28",
+    "oldVal": 41.22,
+    "newVal": 0
+  },
+  "130958": {
+    "lastChangeDate": "2018-08-31",
+    "oldVal": 44.15,
+    "newVal": 0
+  },
+  "130970": {
+    "lastChangeDate": "2025-11-06",
+    "oldVal": 12.4,
+    "newVal": 0
+  },
+  "130973": {
+    "lastChangeDate": "2026-03-06",
+    "oldVal": 12.09,
+    "newVal": 0
+  },
+  "130984": {
+    "lastChangeDate": "2019-11-08",
+    "oldVal": 53.85,
+    "newVal": -53.85
+  },
+  "130987": {
+    "lastChangeDate": "2021-05-08",
+    "oldVal": 4.41,
+    "newVal": -4.41
+  },
+  "131067": {
+    "lastChangeDate": "2023-01-05",
+    "oldVal": 42.07,
+    "newVal": 40.39
+  },
+  "131069": {
+    "lastChangeDate": "2021-04-26",
+    "oldVal": 58.14,
+    "newVal": 1.77
+  },
+  "131070": {
+    "lastChangeDate": "2021-04-28",
+    "oldVal": 2.25,
+    "newVal": 1.77
+  },
+  "131228": {
+    "lastChangeDate": "2016-04-01",
+    "oldVal": 29.4,
+    "newVal": 23.8
+  },
+  "131232": {
+    "lastChangeDate": "2016-09-02",
+    "oldVal": 3.77,
+    "newVal": 0
+  },
+  "131233": {
+    "lastChangeDate": "2017-11-01",
+    "oldVal": 7.76,
+    "newVal": 0
+  },
+  "131234": {
+    "lastChangeDate": "2025-03-26",
+    "oldVal": 5.83,
+    "newVal": -5.83
+  },
+  "131237": {
+    "lastChangeDate": "2016-11-08",
+    "oldVal": 43.65,
+    "newVal": 32
+  },
+  "131240": {
+    "lastChangeDate": "2016-12-12",
+    "oldVal": 1.84,
+    "newVal": 44.1
+  },
+  "131241": {
+    "lastChangeDate": "2019-11-08",
+    "oldVal": 4.44,
+    "newVal": -4.44
+  },
+  "131242": {
+    "lastChangeDate": "2021-11-03",
+    "oldVal": 68.16,
+    "newVal": 58.8
+  },
+  "131397": {
+    "lastChangeDate": "2026-03-02",
+    "oldVal": 308.68,
+    "newVal": 0
+  },
+  "131559": {
+    "lastChangeDate": "2020-11-17",
+    "oldVal": 2.7,
+    "newVal": 2.95
+  },
+  "131560": {
+    "lastChangeDate": "2020-11-17",
+    "oldVal": 3.71,
+    "newVal": 2.95
+  },
+  "131646": {
+    "lastChangeDate": "2026-02-03",
+    "oldVal": 21.84,
+    "newVal": 0
+  },
+  "131649": {
+    "lastChangeDate": "2017-10-31",
+    "oldVal": 45.43,
+    "newVal": 0
+  },
+  "131704": {
+    "lastChangeDate": "2020-07-02",
+    "oldVal": 26.04,
+    "newVal": 7.02
+  },
+  "131713": {
+    "lastChangeDate": "2021-05-20",
+    "oldVal": 39.98,
+    "newVal": -39.98
+  },
+  "131729": {
+    "lastChangeDate": "2018-10-19",
+    "oldVal": 40.22,
+    "newVal": 28.22
+  },
+  "131739": {
+    "lastChangeDate": "2021-05-19",
+    "oldVal": 30.06,
+    "newVal": 1.06
+  },
+  "131750": {
+    "lastChangeDate": "2026-02-05",
+    "oldVal": 64.32,
+    "newVal": 0
+  },
+  "131779": {
+    "lastChangeDate": "2021-08-10",
+    "oldVal": 64.48,
+    "newVal": 68.34
+  },
+  "131783": {
+    "lastChangeDate": "2024-09-03",
+    "oldVal": 62.62,
+    "newVal": 68.88
+  },
+  "131784": {
+    "lastChangeDate": "2018-11-22",
+    "oldVal": 34.28,
+    "newVal": 32.92
+  },
+  "131793": {
+    "lastChangeDate": "2017-05-27",
+    "oldVal": 1.34,
+    "newVal": 0
+  },
+  "131794": {
+    "lastChangeDate": "2017-05-27",
+    "oldVal": 1.34,
+    "newVal": 0
+  },
+  "131925": {
+    "lastChangeDate": "2025-12-10",
+    "oldVal": 13.44,
+    "newVal": 0
+  },
+  "131926": {
+    "lastChangeDate": "2024-01-24",
+    "oldVal": 12.09,
+    "newVal": 35
+  },
+  "131972": {
+    "lastChangeDate": "2020-11-17",
+    "oldVal": 3.76,
+    "newVal": 2.95
+  },
+  "132010": {
+    "lastChangeDate": "2018-11-01",
+    "oldVal": 42.98,
+    "newVal": 44.99
+  },
+  "132073": {
+    "lastChangeDate": "2020-02-28",
+    "oldVal": 20.08,
+    "newVal": 0
+  },
+  "132079": {
+    "lastChangeDate": "2020-04-06",
+    "oldVal": 150,
+    "newVal": 145.38
+  },
+  "132100": {
+    "lastChangeDate": "2016-06-14",
+    "oldVal": 0,
+    "newVal": 254
+  },
+  "132101": {
+    "lastChangeDate": "2021-08-26",
+    "oldVal": 8434.2,
+    "newVal": 0
+  },
+  "132112": {
+    "lastChangeDate": "2019-10-03",
+    "oldVal": 17.94,
+    "newVal": 8.97
+  },
+  "132113": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 20.08,
+    "newVal": 0
+  },
+  "132114": {
+    "lastChangeDate": "2020-07-17",
+    "oldVal": 12.55,
+    "newVal": 9.24
+  },
+  "132115": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 20.08,
+    "newVal": 0
+  },
+  "132146": {
+    "lastChangeDate": "2022-02-12",
+    "oldVal": 15.76,
+    "newVal": 8.28
+  },
+  "132210": {
+    "lastChangeDate": "2020-10-15",
+    "oldVal": 63.83,
+    "newVal": 50.14
+  },
+  "132213": {
+    "lastChangeDate": "2025-10-30",
+    "oldVal": 79.45,
+    "newVal": 63.56
+  },
+  "132256": {
+    "lastChangeDate": "2019-11-01",
+    "oldVal": 7.13,
+    "newVal": 6.92
+  },
+  "132257": {
+    "lastChangeDate": "2019-06-01",
+    "oldVal": 10.5,
+    "newVal": 0
+  },
+  "132259": {
+    "lastChangeDate": "2024-09-03",
+    "oldVal": 10.51,
+    "newVal": 0
+  },
+  "132260": {
+    "lastChangeDate": "2020-08-05",
+    "oldVal": 13.99,
+    "newVal": 9.99
+  },
+  "132262": {
+    "lastChangeDate": "2017-07-14",
+    "oldVal": 12.59,
+    "newVal": 0
+  },
+  "132282": {
+    "lastChangeDate": "2020-07-24",
+    "oldVal": 38.42,
+    "newVal": 29.56
+  },
+  "132307": {
+    "lastChangeDate": "2021-07-07",
+    "oldVal": 17.3,
+    "newVal": 18.32
+  },
+  "132309": {
+    "lastChangeDate": "2026-01-30",
+    "oldVal": 21.62,
+    "newVal": 0
+  },
+  "132320": {
+    "lastChangeDate": "2025-10-28",
+    "oldVal": 24.74,
+    "newVal": 18.55
+  },
+  "132323": {
+    "lastChangeDate": "2017-05-18",
+    "oldVal": 6.8,
+    "newVal": 0
+  },
+  "132332": {
+    "lastChangeDate": "2025-07-14",
+    "oldVal": 25.14,
+    "newVal": 23.99
+  },
+  "132335": {
+    "lastChangeDate": "2025-11-04",
+    "oldVal": 97.2,
+    "newVal": 83
+  },
+  "132339": {
+    "lastChangeDate": "2021-06-03",
+    "oldVal": 104.97,
+    "newVal": 75
+  },
+  "132384": {
+    "lastChangeDate": "2020-09-23",
+    "oldVal": 0,
+    "newVal": 4.74
+  },
+  "132417": {
+    "lastChangeDate": "2017-04-11",
+    "oldVal": 104.13,
+    "newVal": 0
+  },
+  "132529": {
+    "lastChangeDate": "2020-03-05",
+    "oldVal": 43.67,
+    "newVal": 34.76
+  },
+  "132530": {
+    "lastChangeDate": "2017-05-16",
+    "oldVal": 0,
+    "newVal": -80.72
+  },
+  "132800": {
+    "lastChangeDate": "2018-07-07",
+    "oldVal": 16.36,
+    "newVal": 0
+  },
+  "132846": {
+    "lastChangeDate": "2026-03-02",
+    "oldVal": 21.7,
+    "newVal": 0
+  },
+  "132848": {
+    "lastChangeDate": "2024-05-24",
+    "oldVal": 137,
+    "newVal": 65.62
+  },
+  "132850": {
+    "lastChangeDate": "2018-10-22",
+    "oldVal": 71.75,
+    "newVal": 42.75
+  },
+  "132851": {
+    "lastChangeDate": "2017-07-20",
+    "oldVal": 114.7,
+    "newVal": 85.7
+  },
+  "133005": {
+    "lastChangeDate": "2020-08-06",
+    "oldVal": 7.29,
+    "newVal": 8.1
+  },
+  "133023": {
+    "lastChangeDate": "2025-08-11",
+    "oldVal": 89.98,
+    "newVal": 93.6
+  },
+  "133025": {
+    "lastChangeDate": "2017-04-21",
+    "oldVal": 4,
+    "newVal": 0
+  },
+  "133026": {
+    "lastChangeDate": "2023-07-21",
+    "oldVal": 69.16,
+    "newVal": 31.32
+  },
+  "133027": {
+    "lastChangeDate": "2017-06-01",
+    "oldVal": 63.28,
+    "newVal": 59.28
+  },
+  "133038": {
+    "lastChangeDate": "2022-08-19",
+    "oldVal": 59.78,
+    "newVal": 0
+  },
+  "133190": {
+    "lastChangeDate": "2020-11-28",
+    "oldVal": 0,
+    "newVal": 9.6
+  },
+  "133466": {
+    "lastChangeDate": "2021-11-09",
+    "oldVal": 24.55,
+    "newVal": 12
+  },
+  "133467": {
+    "lastChangeDate": "2020-07-17",
+    "oldVal": 21.59,
+    "newVal": 15.42
+  },
+  "133573": {
+    "lastChangeDate": "2024-11-09",
+    "oldVal": 16.33,
+    "newVal": 10
+  },
+  "133610": {
+    "lastChangeDate": "2021-11-17",
+    "oldVal": 26.57,
+    "newVal": 18.98
+  },
+  "133619": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 12.92,
+    "newVal": 0
+  },
+  "133659": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 3.34,
+    "newVal": 0
+  },
+  "133691": {
+    "lastChangeDate": "2026-01-14",
+    "oldVal": 64.68,
+    "newVal": 0
+  },
+  "133799": {
+    "lastChangeDate": "2022-05-28",
+    "oldVal": 10.96,
+    "newVal": 11.29
+  },
+  "133845": {
+    "lastChangeDate": "2026-01-13",
+    "oldVal": 80.09,
+    "newVal": 88.1
+  },
+  "133934": {
+    "lastChangeDate": "2017-09-01",
+    "oldVal": 4.44,
+    "newVal": 0
+  },
+  "133961": {
+    "lastChangeDate": "2026-03-02",
+    "oldVal": 12.8,
+    "newVal": 0
+  },
+  "133981": {
+    "lastChangeDate": "2026-03-04",
+    "oldVal": 12.32,
+    "newVal": 0
+  },
+  "133994": {
+    "lastChangeDate": "2017-06-21",
+    "oldVal": 99.99,
+    "newVal": 0
+  },
+  "133996": {
+    "lastChangeDate": "2018-02-03",
+    "oldVal": 92.85,
+    "newVal": 83.57
+  },
+  "134019": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 13.7,
+    "newVal": 0
+  },
+  "134024": {
+    "lastChangeDate": "2024-04-23",
+    "oldVal": 14,
+    "newVal": 12.6
+  },
+  "134025": {
+    "lastChangeDate": "2026-02-04",
+    "oldVal": 10.83,
+    "newVal": 0
+  },
+  "134026": {
+    "lastChangeDate": "2022-02-26",
+    "oldVal": 17.8,
+    "newVal": 13.62
+  },
+  "134027": {
+    "lastChangeDate": "2021-03-18",
+    "oldVal": 8.5,
+    "newVal": 0
+  },
+  "134060": {
+    "lastChangeDate": "2020-11-13",
+    "oldVal": 30.34,
+    "newVal": 0
+  },
+  "134067": {
+    "lastChangeDate": "2024-05-06",
+    "oldVal": 54.14,
+    "newVal": 59.55
+  },
+  "134071": {
+    "lastChangeDate": "2019-02-06",
+    "oldVal": 24.32,
+    "newVal": 6.16
+  },
+  "134072": {
+    "lastChangeDate": "2024-11-29",
+    "oldVal": 13.62,
+    "newVal": 0
+  },
+  "134214": {
+    "lastChangeDate": "2020-07-06",
+    "oldVal": 8.96,
+    "newVal": 6.39
+  },
+  "134216": {
+    "lastChangeDate": "2020-07-06",
+    "oldVal": 4.96,
+    "newVal": 3.54
+  },
+  "134295": {
+    "lastChangeDate": "2019-11-04",
+    "oldVal": 9.98,
+    "newVal": -9.98
+  },
+  "134310": {
+    "lastChangeDate": "2026-03-04",
+    "oldVal": 25.87,
+    "newVal": 0
+  },
+  "134410": {
+    "lastChangeDate": "2024-09-19",
+    "oldVal": 25.88,
+    "newVal": 28.46
+  },
+  "134418": {
+    "lastChangeDate": "2019-06-28",
+    "oldVal": 31.24,
+    "newVal": 0
+  },
+  "134419": {
+    "lastChangeDate": "2018-06-27",
+    "oldVal": 51.34,
+    "newVal": -51.34
+  },
+  "134493": {
+    "lastChangeDate": "2019-05-03",
+    "oldVal": 27.43,
+    "newVal": 30.17
+  },
+  "134495": {
+    "lastChangeDate": "2019-06-17",
+    "oldVal": 42.82,
+    "newVal": 30.82
+  },
+  "134500": {
+    "lastChangeDate": "2026-02-25",
+    "oldVal": 5.8,
+    "newVal": 0
+  },
+  "134502": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 5.8,
+    "newVal": 0
+  },
+  "134629": {
+    "lastChangeDate": "2023-09-15",
+    "oldVal": 63.46,
+    "newVal": 0
+  },
+  "134709": {
+    "lastChangeDate": "2020-07-04",
+    "oldVal": 36.04,
+    "newVal": 18.56
+  },
+  "134724": {
+    "lastChangeDate": "2022-09-02",
+    "oldVal": 134.04,
+    "newVal": 95.74
+  },
+  "134731": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 51.39,
+    "newVal": 0
+  },
+  "134882": {
+    "lastChangeDate": "2020-09-23",
+    "oldVal": 0,
+    "newVal": 4.74
+  },
+  "134889": {
+    "lastChangeDate": "2020-07-06",
+    "oldVal": 19.33,
+    "newVal": 13.81
+  },
+  "135196": {
+    "lastChangeDate": "2024-12-23",
+    "oldVal": 31.84,
+    "newVal": -31.84
+  },
+  "135468": {
+    "lastChangeDate": "2021-04-16",
+    "oldVal": 26.96,
+    "newVal": 36.96
+  },
+  "135606": {
+    "lastChangeDate": "2019-10-25",
+    "oldVal": 1.61,
+    "newVal": -1.61
+  },
+  "135616": {
+    "lastChangeDate": "2026-03-06",
+    "oldVal": 19.8,
+    "newVal": 0
+  },
+  "135726": {
+    "lastChangeDate": "2025-12-08",
+    "oldVal": 9.99,
+    "newVal": 0
+  },
+  "135817": {
+    "lastChangeDate": "2020-01-31",
+    "oldVal": 2.73,
+    "newVal": 0
+  },
+  "135818": {
+    "lastChangeDate": "2019-02-21",
+    "oldVal": 25.53,
+    "newVal": -25.53
+  },
+  "135819": {
+    "lastChangeDate": "2021-05-04",
+    "oldVal": 62.99,
+    "newVal": -62.99
+  },
+  "135820": {
+    "lastChangeDate": "2021-05-04",
+    "oldVal": 69.51,
+    "newVal": -69.51
+  },
+  "135822": {
+    "lastChangeDate": "2018-11-02",
+    "oldVal": 31.99,
+    "newVal": 0
+  },
+  "135932": {
+    "lastChangeDate": "2021-11-20",
+    "oldVal": 35.4,
+    "newVal": 0
+  },
+  "135947": {
+    "lastChangeDate": "2023-03-02",
+    "oldVal": 13.5,
+    "newVal": 3.6
+  },
+  "135948": {
+    "lastChangeDate": "2022-08-27",
+    "oldVal": 11.6,
+    "newVal": 14.5
+  },
+  "135949": {
+    "lastChangeDate": "2024-03-14",
+    "oldVal": 36.3,
+    "newVal": 30.86
+  },
+  "135950": {
+    "lastChangeDate": "2022-12-07",
+    "oldVal": 21.33,
+    "newVal": 21.2
+  },
+  "135957": {
+    "lastChangeDate": "2024-10-12",
+    "oldVal": 38.72,
+    "newVal": 0
+  },
+  "135972": {
+    "lastChangeDate": "2018-08-28",
+    "oldVal": 58.5,
+    "newVal": -58.5
+  },
+  "136008": {
+    "lastChangeDate": "2021-11-25",
+    "oldVal": 3.06,
+    "newVal": 5.51
+  },
+  "136040": {
+    "lastChangeDate": "2024-12-31",
+    "oldVal": 41.69,
+    "newVal": 0
+  },
+  "136064": {
+    "lastChangeDate": "2022-02-11",
+    "oldVal": 35.95,
+    "newVal": 54
+  },
+  "136065": {
+    "lastChangeDate": "2019-12-31",
+    "oldVal": 33.55,
+    "newVal": 14.97
+  },
+  "136205": {
+    "lastChangeDate": "2024-01-02",
+    "oldVal": 25.22,
+    "newVal": 22.69
+  },
+  "136206": {
+    "lastChangeDate": "2026-01-07",
+    "oldVal": 24.64,
+    "newVal": 27.1
+  },
+  "136211": {
+    "lastChangeDate": "2020-04-01",
+    "oldVal": 35.9,
+    "newVal": 18.41
+  },
+  "136411": {
+    "lastChangeDate": "2021-03-20",
+    "oldVal": 5.5,
+    "newVal": 6.05
+  },
+  "136413": {
+    "lastChangeDate": "2020-09-23",
+    "oldVal": 0,
+    "newVal": 5.5
+  },
+  "136414": {
+    "lastChangeDate": "2021-03-20",
+    "oldVal": 0,
+    "newVal": 6.05
+  },
+  "136421": {
+    "lastChangeDate": "2020-10-22",
+    "oldVal": 5.9,
+    "newVal": 5.5
+  },
+  "136507": {
+    "lastChangeDate": "2020-11-16",
+    "oldVal": 0,
+    "newVal": 15.94
+  },
+  "136686": {
+    "lastChangeDate": "2022-01-12",
+    "oldVal": 3.57,
+    "newVal": 6.06
+  },
+  "136687": {
+    "lastChangeDate": "2020-08-14",
+    "oldVal": 3.57,
+    "newVal": 2.7
+  },
+  "136806": {
+    "lastChangeDate": "2020-12-11",
+    "oldVal": 0,
+    "newVal": 5.03
+  },
+  "136814": {
+    "lastChangeDate": "2022-04-14",
+    "oldVal": 6.94,
+    "newVal": 9.72
+  },
+  "136850": {
+    "lastChangeDate": "2020-11-27",
+    "oldVal": 0,
+    "newVal": 5.2
+  },
+  "136867": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 7.8,
+    "newVal": 8.48
+  },
+  "136868": {
+    "lastChangeDate": "2020-12-11",
+    "oldVal": 0,
+    "newVal": 7.8
+  },
+  "136909": {
+    "lastChangeDate": "2026-02-12",
+    "oldVal": 4.78,
+    "newVal": 0
+  },
+  "137068": {
+    "lastChangeDate": "2019-12-31",
+    "oldVal": 33,
+    "newVal": 23.57
+  },
+  "137069": {
+    "lastChangeDate": "2020-07-11",
+    "oldVal": 65.98,
+    "newVal": -65.98
+  },
+  "137156": {
+    "lastChangeDate": "2022-05-04",
+    "oldVal": 19.32,
+    "newVal": 0
+  },
+  "137160": {
+    "lastChangeDate": "2019-08-22",
+    "oldVal": 54.46,
+    "newVal": 33.23
+  },
+  "137161": {
+    "lastChangeDate": "2020-04-11",
+    "oldVal": 33.23,
+    "newVal": 23.69
+  },
+  "137162": {
+    "lastChangeDate": "2025-04-15",
+    "oldVal": 28.99,
+    "newVal": 0
+  },
+  "137173": {
+    "lastChangeDate": "2021-11-26",
+    "oldVal": 53.98,
+    "newVal": 0
+  },
+  "137174": {
+    "lastChangeDate": "2020-12-15",
+    "oldVal": 56.98,
+    "newVal": 41.42
+  },
+  "137219": {
+    "lastChangeDate": "2019-05-06",
+    "oldVal": 140.94,
+    "newVal": 64.49
+  },
+  "137220": {
+    "lastChangeDate": "2019-05-06",
+    "oldVal": 141.96,
+    "newVal": 64.99
+  },
+  "137221": {
+    "lastChangeDate": "2019-05-30",
+    "oldVal": 92.34,
+    "newVal": 65.99
+  },
+  "137231": {
+    "lastChangeDate": "2019-10-01",
+    "oldVal": 72.42,
+    "newVal": -72.42
+  },
+  "137232": {
+    "lastChangeDate": "2026-02-21",
+    "oldVal": 32.84,
+    "newVal": 0
+  },
+  "137233": {
+    "lastChangeDate": "2026-01-27",
+    "oldVal": 44.28,
+    "newVal": 48.71
+  },
+  "137312": {
+    "lastChangeDate": "2019-09-26",
+    "oldVal": 12.78,
+    "newVal": 0
+  },
+  "137313": {
+    "lastChangeDate": "2019-07-10",
+    "oldVal": 19.98,
+    "newVal": 0
+  },
+  "137314": {
+    "lastChangeDate": "2026-02-19",
+    "oldVal": 30.96,
+    "newVal": 0
+  },
+  "137317": {
+    "lastChangeDate": "2021-01-25",
+    "oldVal": 51.3,
+    "newVal": 26.7
+  },
+  "137325": {
+    "lastChangeDate": "2019-07-10",
+    "oldVal": 88.8,
+    "newVal": 68.33
+  },
+  "137394": {
+    "lastChangeDate": "2022-07-22",
+    "oldVal": 40.08,
+    "newVal": 25.05
+  },
+  "137520": {
+    "lastChangeDate": "2020-07-09",
+    "oldVal": 7.28,
+    "newVal": 5.2
+  },
+  "137640": {
+    "lastChangeDate": "2020-08-05",
+    "oldVal": 22.96,
+    "newVal": 11.48
+  },
+  "137762": {
+    "lastChangeDate": "2020-07-06",
+    "oldVal": 5.36,
+    "newVal": 3.83
+  },
+  "137782": {
+    "lastChangeDate": "2020-10-08",
+    "oldVal": 43.08,
+    "newVal": 15.54
+  },
+  "137835": {
+    "lastChangeDate": "2024-11-22",
+    "oldVal": 36.16,
+    "newVal": -36.16
+  },
+  "137836": {
+    "lastChangeDate": "2024-11-29",
+    "oldVal": 67.5,
+    "newVal": 0
+  },
+  "137837": {
+    "lastChangeDate": "2021-05-25",
+    "oldVal": 125.14,
+    "newVal": 87
+  },
+  "137879": {
+    "lastChangeDate": "2025-03-19",
+    "oldVal": 18,
+    "newVal": 28
+  },
+  "137881": {
+    "lastChangeDate": "2026-01-07",
+    "oldVal": 25.76,
+    "newVal": 14.08
+  },
+  "137910": {
+    "lastChangeDate": "2020-10-31",
+    "oldVal": 41.76,
+    "newVal": 31.43
+  },
+  "137952": {
+    "lastChangeDate": "2023-12-11",
+    "oldVal": 12.64,
+    "newVal": 0
+  },
+  "137953": {
+    "lastChangeDate": "2022-04-30",
+    "oldVal": 50.88,
+    "newVal": 54.17
+  },
+  "137967": {
+    "lastChangeDate": "2024-09-03",
+    "oldVal": 8.94,
+    "newVal": 7.02
+  },
+  "137968": {
+    "lastChangeDate": "2022-04-20",
+    "oldVal": 2.55,
+    "newVal": 2.68
+  },
+  "138037": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 0,
+    "newVal": 7.16
+  },
+  "138077": {
+    "lastChangeDate": "2020-09-23",
+    "oldVal": 0,
+    "newVal": 7.08
+  },
+  "138167": {
+    "lastChangeDate": "2020-07-09",
+    "oldVal": 16.1,
+    "newVal": 11.5
+  },
+  "138186": {
+    "lastChangeDate": "2021-03-18",
+    "oldVal": 5.5,
+    "newVal": 164
+  },
+  "138219": {
+    "lastChangeDate": "2025-07-31",
+    "oldVal": 19.15,
+    "newVal": 21.07
+  },
+  "138231": {
+    "lastChangeDate": "2021-02-16",
+    "oldVal": 0,
+    "newVal": 4.72
+  },
+  "138239": {
+    "lastChangeDate": "2021-03-20",
+    "oldVal": 4.72,
+    "newVal": 5.19
+  },
+  "138254": {
+    "lastChangeDate": "2025-08-06",
+    "oldVal": 109.38,
+    "newVal": 98.44
+  },
+  "138261": {
+    "lastChangeDate": "2021-02-17",
+    "oldVal": 2.59,
+    "newVal": 24
+  },
+  "138262": {
+    "lastChangeDate": "2021-07-29",
+    "oldVal": 60,
+    "newVal": 46.07
+  },
+  "138266": {
+    "lastChangeDate": "2021-06-21",
+    "oldVal": 60.94,
+    "newVal": 57.46
+  },
+  "138276": {
+    "lastChangeDate": "2025-03-01",
+    "oldVal": 172.88,
+    "newVal": 12
+  },
+  "138277": {
+    "lastChangeDate": "2024-08-09",
+    "oldVal": 39.4,
+    "newVal": 38.47
+  },
+  "138278": {
+    "lastChangeDate": "2025-05-08",
+    "oldVal": 44.36,
+    "newVal": 0
+  },
+  "138306": {
+    "lastChangeDate": "2020-11-27",
+    "oldVal": 0,
+    "newVal": 4.49
+  },
+  "138312": {
+    "lastChangeDate": "2020-04-08",
+    "oldVal": 11.1,
+    "newVal": 6.94
+  },
+  "138313": {
+    "lastChangeDate": "2020-04-02",
+    "oldVal": 7.05,
+    "newVal": 5.04
+  },
+  "138364": {
+    "lastChangeDate": "2020-04-06",
+    "oldVal": 12.76,
+    "newVal": 6.38
+  },
+  "138646": {
+    "lastChangeDate": "2020-11-27",
+    "oldVal": 0,
+    "newVal": 6.45
+  },
+  "138784": {
+    "lastChangeDate": "2020-09-02",
+    "oldVal": 2.88,
+    "newVal": 2.75
+  },
+  "138938": {
+    "lastChangeDate": "2021-12-22",
+    "oldVal": 7.02,
+    "newVal": 5.4
+  },
+  "138939": {
+    "lastChangeDate": "2021-03-20",
+    "oldVal": 5.4,
+    "newVal": 4.25
+  },
+  "138949": {
+    "lastChangeDate": "2020-11-05",
+    "oldVal": 30.3,
+    "newVal": 21.64
+  },
+  "138953": {
+    "lastChangeDate": "2020-10-19",
+    "oldVal": 38.08,
+    "newVal": 19.04
+  },
+  "139082": {
+    "lastChangeDate": "2020-08-05",
+    "oldVal": 20,
+    "newVal": -20
+  },
+  "139164": {
+    "lastChangeDate": "2025-12-29",
+    "oldVal": 1.68,
+    "newVal": 0
+  },
+  "139174": {
+    "lastChangeDate": "2022-01-25",
+    "oldVal": 9.36,
+    "newVal": 6.69
+  },
+  "139175": {
+    "lastChangeDate": "2022-02-01",
+    "oldVal": 69.12,
+    "newVal": 78.48
+  },
+  "139176": {
+    "lastChangeDate": "2020-12-16",
+    "oldVal": 29.07,
+    "newVal": 39.98
+  },
+  "139213": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 5.12,
+    "newVal": 0
+  },
+  "139261": {
+    "lastChangeDate": "2021-02-24",
+    "oldVal": 6.03,
+    "newVal": 4.74
+  },
+  "139268": {
+    "lastChangeDate": "2022-09-15",
+    "oldVal": 58.34,
+    "newVal": 46.34
+  },
+  "139275": {
+    "lastChangeDate": "2021-06-22",
+    "oldVal": 0,
+    "newVal": 39.5
+  },
+  "139279": {
+    "lastChangeDate": "2022-04-26",
+    "oldVal": 0,
+    "newVal": 123
+  },
+  "139333": {
+    "lastChangeDate": "2025-10-27",
+    "oldVal": 75.84,
+    "newVal": 56.88
+  },
+  "139347": {
+    "lastChangeDate": "2021-07-02",
+    "oldVal": 48.92,
+    "newVal": 34.94
+  },
+  "139427": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 0,
+    "newVal": 9.2
+  },
+  "139467": {
+    "lastChangeDate": "2020-12-01",
+    "oldVal": 0,
+    "newVal": 5.48
+  },
+  "139473": {
+    "lastChangeDate": "2020-12-11",
+    "oldVal": 0,
+    "newVal": 7.35
+  },
+  "139571": {
+    "lastChangeDate": "2022-07-07",
+    "oldVal": 41.24,
+    "newVal": 0
+  },
+  "139617": {
+    "lastChangeDate": "2026-01-07",
+    "oldVal": 13.04,
+    "newVal": 14.77
+  },
+  "139643": {
+    "lastChangeDate": "2022-01-06",
+    "oldVal": 0,
+    "newVal": -83.03
+  },
+  "139690": {
+    "lastChangeDate": "2023-04-06",
+    "oldVal": 41.5,
+    "newVal": 0
+  },
+  "139870": {
+    "lastChangeDate": "2024-09-26",
+    "oldVal": 6.85,
+    "newVal": 0
+  },
+  "139871": {
+    "lastChangeDate": "2026-01-27",
+    "oldVal": 6.85,
+    "newVal": 7.7
+  },
+  "139882": {
+    "lastChangeDate": "2024-10-30",
+    "oldVal": 59.5,
+    "newVal": 55
+  },
+  "139883": {
+    "lastChangeDate": "2022-11-29",
+    "oldVal": 99.99,
+    "newVal": 110.12
+  },
+  "139884": {
+    "lastChangeDate": "2021-08-17",
+    "oldVal": 300,
+    "newVal": 0
+  },
+  "139962": {
+    "lastChangeDate": "2024-02-27",
+    "oldVal": 55.98,
+    "newVal": 48.47
+  },
+  "140006": {
+    "lastChangeDate": "2024-02-12",
+    "oldVal": 26.92,
+    "newVal": 0
+  },
+  "140227": {
+    "lastChangeDate": "2021-12-09",
+    "oldVal": 41.97,
+    "newVal": 29.98
+  },
+  "140386": {
+    "lastChangeDate": "2025-12-29",
+    "oldVal": 8.86,
+    "newVal": 9.73
+  },
+  "140387": {
+    "lastChangeDate": "2025-12-29",
+    "oldVal": 5.91,
+    "newVal": 6.5
+  },
+  "140507": {
+    "lastChangeDate": "2025-01-24",
+    "oldVal": 19.44,
+    "newVal": -19.44
+  },
+  "140509": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 2.76,
+    "newVal": 0
+  },
+  "140511": {
+    "lastChangeDate": "2022-02-11",
+    "oldVal": 60,
+    "newVal": 46.07
+  },
+  "140513": {
+    "lastChangeDate": "2022-07-05",
+    "oldVal": 63.36,
+    "newVal": 45.22
+  },
+  "140559": {
+    "lastChangeDate": "2025-03-01",
+    "oldVal": 91.2,
+    "newVal": 109.44
+  },
+  "140581": {
+    "lastChangeDate": "2023-12-01",
+    "oldVal": 54.56,
+    "newVal": 0
+  },
+  "140690": {
+    "lastChangeDate": "2023-10-23",
+    "oldVal": 36.12,
+    "newVal": -36.12
+  },
+  "140730": {
+    "lastChangeDate": "2023-08-16",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "140986": {
+    "lastChangeDate": "2023-11-10",
+    "oldVal": 31.49,
+    "newVal": 28.99
+  },
+  "141039": {
+    "lastChangeDate": "2023-04-13",
+    "oldVal": 43.2,
+    "newVal": 15.62
+  },
+  "141171": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 137.63,
+    "newVal": 0
+  },
+  "141178": {
+    "lastChangeDate": "2025-05-12",
+    "oldVal": 43.14,
+    "newVal": 0
+  },
+  "141192": {
+    "lastChangeDate": "2025-12-05",
+    "oldVal": 22.54,
+    "newVal": 0
+  },
+  "141409": {
+    "lastChangeDate": "2026-02-25",
+    "oldVal": 96.48,
+    "newVal": 0
+  },
+  "141767": {
+    "lastChangeDate": "2026-02-19",
+    "oldVal": 6.24,
+    "newVal": 0
+  },
+  "141768": {
+    "lastChangeDate": "2026-03-06",
+    "oldVal": 12.48,
+    "newVal": 0
+  },
+  "142000": {
+    "lastChangeDate": "2026-02-24",
+    "oldVal": 5.58,
+    "newVal": 0
+  },
+  "142001": {
+    "lastChangeDate": "2026-02-25",
+    "oldVal": 7.4,
+    "newVal": 0
+  },
+  "142095": {
+    "lastChangeDate": "2026-03-10",
+    "oldVal": 3.4,
+    "newVal": 0
+  },
+  "142179": {
+    "lastChangeDate": "2025-01-23",
+    "oldVal": 62.66,
+    "newVal": 50.13
+  },
+  "142180": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 26.81,
+    "newVal": 0
+  },
+  "142468": {
+    "lastChangeDate": "2024-02-23",
+    "oldVal": 20.4,
+    "newVal": 4.16
+  },
+  "142542": {
+    "lastChangeDate": "2024-06-19",
+    "oldVal": 62.87,
+    "newVal": -62.87
+  },
+  "142871": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 9.39,
+    "newVal": 0
+  },
+  "142872": {
+    "lastChangeDate": "2026-03-06",
+    "oldVal": 2.69,
+    "newVal": 0
+  },
+  "143487": {
+    "lastChangeDate": "2025-03-26",
+    "oldVal": 20.26,
+    "newVal": -20.26
+  },
+  "143508": {
+    "lastChangeDate": "2026-02-04",
+    "oldVal": 7.12,
+    "newVal": 0
+  },
+  "143563": {
+    "lastChangeDate": "2025-04-23",
+    "oldVal": 380.06,
+    "newVal": 0
+  },
+  "143732": {
+    "lastChangeDate": "2025-06-02",
+    "oldVal": 12.14,
+    "newVal": 0
+  },
+  "143855": {
+    "lastChangeDate": "2025-12-02",
+    "oldVal": 66.6,
+    "newVal": 0
+  },
+  "143884": {
+    "lastChangeDate": "2026-01-28",
+    "oldVal": 60.25,
+    "newVal": 0
+  },
+  "144039": {
+    "lastChangeDate": "2026-01-15",
+    "oldVal": 54.53,
+    "newVal": 0
+  },
+  "144101": {
+    "lastChangeDate": "2026-02-25",
+    "oldVal": 12.78,
+    "newVal": 0
+  },
+  "144472": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 55.83,
+    "newVal": 0
+  },
+  "144602": {
+    "lastChangeDate": "2026-02-03",
+    "oldVal": 12.66,
+    "newVal": 0
+  },
+  "144605": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 26.7,
+    "newVal": 14.7
+  },
+  "144616": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 12.16,
+    "newVal": 0.09
+  },
+  "144618": {
+    "lastChangeDate": "2026-02-02",
+    "oldVal": 12.36,
+    "newVal": 0
+  },
+  "144620": {
+    "lastChangeDate": "2025-11-06",
+    "oldVal": 12.44,
+    "newVal": 0
+  },
+  "193693": {
+    "lastChangeDate": "2024-02-29",
+    "oldVal": 34.29,
+    "newVal": 28.6
+  },
+  "458108": {
+    "lastChangeDate": "2026-03-10",
+    "oldVal": 37.99,
+    "newVal": 0
+  },
+  "517212": {
+    "lastChangeDate": "2026-02-19",
+    "oldVal": 28.98,
+    "newVal": 0
+  },
+  "557703": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 6.91,
+    "newVal": 0
+  },
+  "800811": {
+    "lastChangeDate": "2019-03-19",
+    "oldVal": 1.15,
+    "newVal": 0
+  },
+  "801017": {
+    "lastChangeDate": "2016-03-04",
+    "oldVal": 2.3,
+    "newVal": 10
+  },
+  "801238": {
+    "lastChangeDate": "2023-04-05",
+    "oldVal": 3,
+    "newVal": 25
+  },
+  "900002": {
+    "lastChangeDate": "2020-12-02",
+    "oldVal": 5.72,
+    "newVal": 0
+  },
+  "900593": {
+    "lastChangeDate": "2015-08-27",
+    "oldVal": 1.14,
+    "newVal": 0.53
+  },
+  "902925": {
+    "lastChangeDate": "2019-03-23",
+    "oldVal": 0.37,
+    "newVal": 20
+  },
+  "904697": {
+    "lastChangeDate": "2024-10-11",
+    "oldVal": 9.28,
+    "newVal": 10.21
+  },
+  "905008": {
+    "lastChangeDate": "2024-11-26",
+    "oldVal": 28.85,
+    "newVal": 0
+  },
+  "905011": {
+    "lastChangeDate": "2026-02-07",
+    "oldVal": 14.45,
+    "newVal": 0
+  },
+  "905125": {
+    "lastChangeDate": "2026-03-11",
+    "oldVal": 32.58,
+    "newVal": 0
+  },
+  "905632": {
+    "lastChangeDate": "2015-08-11",
+    "oldVal": 170,
+    "newVal": 89
+  },
+  "907320": {
+    "lastChangeDate": "2026-02-13",
+    "oldVal": 6.3,
+    "newVal": 0
+  },
+  "907321": {
+    "lastChangeDate": "2026-01-09",
+    "oldVal": 4.73,
+    "newVal": 0
+  },
+  "920007": {
+    "lastChangeDate": "2017-07-05",
+    "oldVal": 29,
+    "newVal": 15
+  },
+  "920008": {
+    "lastChangeDate": "2016-11-15",
+    "oldVal": 33.4,
+    "newVal": 0
+  },
+  "920079": {
+    "lastChangeDate": "2020-04-08",
+    "oldVal": 17.14,
+    "newVal": 10.71
+  },
+  "920210": {
+    "lastChangeDate": "2015-05-13",
+    "oldVal": 8.62,
+    "newVal": 4.32
+  },
+  "920217": {
+    "lastChangeDate": "2015-10-02",
+    "oldVal": 0,
+    "newVal": 3.3
+  },
+  "920609": {
+    "lastChangeDate": "2024-12-18",
+    "oldVal": 8.04,
+    "newVal": 0
+  },
+  "920610": {
+    "lastChangeDate": "2025-04-16",
+    "oldVal": 10.5,
+    "newVal": -10.5
+  },
+  "920611": {
+    "lastChangeDate": "2025-07-21",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "920612": {
+    "lastChangeDate": "2025-07-30",
+    "oldVal": 13.24,
+    "newVal": 0
+  },
+  "920613": {
+    "lastChangeDate": "2025-11-13",
+    "oldVal": 15.94,
+    "newVal": 13.24
+  },
+  "920614": {
+    "lastChangeDate": "2022-11-12",
+    "oldVal": 14,
+    "newVal": 18
+  },
+  "920615": {
+    "lastChangeDate": "2025-01-28",
+    "oldVal": 20.66,
+    "newVal": 0
+  },
+  "1063244": {
+    "lastChangeDate": "2015-08-06",
+    "oldVal": 30.3,
+    "newVal": 0
+  },
+  "1082988": {
+    "lastChangeDate": "2022-04-05",
+    "oldVal": 53.4,
+    "newVal": 15
+  },
+  "1378390": {
+    "lastChangeDate": "2025-12-05",
+    "oldVal": 16.85,
+    "newVal": 0.08
+  },
+  "2841859": {
+    "lastChangeDate": "2026-02-19",
+    "oldVal": 21.79,
+    "newVal": 0
+  },
+  "3082436": {
+    "lastChangeDate": "2016-07-25",
+    "oldVal": 15,
+    "newVal": 5
+  },
+  "3091688": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 19.99,
+    "newVal": 0
+  },
+  "3128197": {
+    "lastChangeDate": "2026-02-19",
+    "oldVal": 49.98,
+    "newVal": 0
+  },
+  "3771953": {
+    "lastChangeDate": "2016-09-03",
+    "oldVal": 9,
+    "newVal": 0
+  },
+  "4165779": {
+    "lastChangeDate": "2019-06-05",
+    "oldVal": 27,
+    "newVal": 8.15
+  },
+  "4172466": {
+    "lastChangeDate": "2018-09-20",
+    "oldVal": 45.72,
+    "newVal": 53.1
+  },
+  "4848130": {
+    "lastChangeDate": "2023-09-13",
+    "oldVal": 32.84,
+    "newVal": 0
+  },
+  "4958165": {
+    "lastChangeDate": "2019-07-16",
+    "oldVal": 13.95,
+    "newVal": 44
+  },
+  "5151853": {
+    "lastChangeDate": "2020-01-27",
+    "oldVal": 46,
+    "newVal": 49.8
+  },
+  "5822464": {
+    "lastChangeDate": "2021-03-26",
+    "oldVal": 54,
+    "newVal": 60
+  },
+  "8773397": {
+    "lastChangeDate": "2025-12-03",
+    "oldVal": 2.28,
+    "newVal": 13.28
+  },
+  "90900525": {
+    "lastChangeDate": "2019-01-29",
+    "oldVal": 0.74,
+    "newVal": 0
+  },
+  "90900828": {
+    "lastChangeDate": "2025-12-10",
+    "oldVal": 2,
+    "newVal": 14
+  },
+  "90901955": {
+    "lastChangeDate": "2017-03-16",
+    "oldVal": 26,
+    "newVal": 0
+  },
+  "90910492": {
+    "lastChangeDate": "2025-05-13",
+    "oldVal": 54.05,
+    "newVal": 0
+  },
+  "99003527": {
+    "lastChangeDate": "2019-10-25",
+    "oldVal": 12.08,
+    "newVal": 0
+  },
+  "99005471": {
+    "lastChangeDate": "2026-02-23",
+    "oldVal": 12.71,
+    "newVal": 0
+  },
+  "99008135": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 12.96,
+    "newVal": 0.96
+  },
+  "99010308": {
+    "lastChangeDate": "2017-09-30",
+    "oldVal": 21.84,
+    "newVal": 0
+  },
+  "99011495": {
+    "lastChangeDate": "2026-01-15",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "99012165": {
+    "lastChangeDate": "2025-12-10",
+    "oldVal": 1.59,
+    "newVal": 0
+  },
+  "99012999": {
+    "lastChangeDate": "2019-06-29",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "99013782": {
+    "lastChangeDate": "2026-01-02",
+    "oldVal": 7.54,
+    "newVal": 19.54
+  },
+  "99015837": {
+    "lastChangeDate": "2026-01-29",
+    "oldVal": 52.08,
+    "newVal": 0
+  },
+  "REEX": {
+    "lastChangeDate": "2025-12-31",
+    "oldVal": 69,
+    "newVal": 0
+  },
+  "011259": {
+    "lastChangeDate": "2018-01-01",
+    "oldVal": 9,
+    "newVal": 7.2
+  },
+  "DISCOUNT": {
+    "lastChangeDate": "2024-11-28",
+    "oldVal": 0,
+    "newVal": 17.77
+  },
+  "PROF": {
+    "lastChangeDate": "2025-01-06",
+    "oldVal": -66,
+    "newVal": -10
+  },
+  "VACC3": {
+    "lastChangeDate": "2025-09-19",
+    "oldVal": 0,
+    "newVal": 30
+  },
+  "STAFF": {
+    "lastChangeDate": "2025-12-18",
+    "oldVal": 0,
+    "newVal": -3.87
+  },
+  "MISCI": {
+    "lastChangeDate": "2014-11-04",
+    "oldVal": 29,
+    "newVal": 0
+  },
+  "MICRO 4": {
+    "lastChangeDate": "2014-07-16",
+    "oldVal": 55,
+    "newVal": 0
+  },
+  "MILB": {
+    "lastChangeDate": "2014-09-30",
+    "oldVal": 27.5,
+    "newVal": 16.5
+  },
+  "PRESCR": {
+    "lastChangeDate": "2016-05-02",
+    "oldVal": 0,
+    "newVal": 0.4
+  },
+  "BL": {
+    "lastChangeDate": "2023-10-03",
+    "oldVal": 41.3,
+    "newVal": -41.3
+  },
+  "3VW": {
+    "lastChangeDate": "2025-12-11",
+    "oldVal": 82,
+    "newVal": 0
+  },
+  "RHEUM": {
+    "lastChangeDate": "2020-03-18",
+    "oldVal": 12.23,
+    "newVal": 0
+  },
+  "INJ3": {
+    "lastChangeDate": "2019-05-28",
+    "oldVal": 7.42,
+    "newVal": 0
+  },
+  "GEN 3": {
+    "lastChangeDate": "2023-03-16",
+    "oldVal": 287.1,
+    "newVal": 250.9
+  },
+  "VACC9": {
+    "lastChangeDate": "2019-01-15",
+    "oldVal": 35,
+    "newVal": 4.19
+  },
+  "CYTOLOGY": {
+    "lastChangeDate": "2024-09-13",
+    "oldVal": 57.6,
+    "newVal": 0
+  },
+  "NAIL1": {
+    "lastChangeDate": "2024-10-30",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "CATL": {
+    "lastChangeDate": "2014-05-12",
+    "oldVal": 3.12,
+    "newVal": 3
+  },
+  "TOLF": {
+    "lastChangeDate": "2015-09-18",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "SCARS5": {
+    "lastChangeDate": "2017-06-01",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "MIL": {
+    "lastChangeDate": "2014-10-15",
+    "oldVal": 19.5,
+    "newVal": 11.7
+  },
+  "SQ": {
+    "lastChangeDate": "2025-10-23",
+    "oldVal": 55,
+    "newVal": 0
+  },
+  "HN": {
+    "lastChangeDate": "2019-03-26",
+    "oldVal": 116.6,
+    "newVal": 90
+  },
+  "MISC": {
+    "lastChangeDate": "2025-12-29",
+    "oldVal": 21,
+    "newVal": 20
+  },
+  "MIR 1": {
+    "lastChangeDate": "2015-08-15",
+    "oldVal": 19,
+    "newVal": 0
+  },
+  "ANEX": {
+    "lastChangeDate": "2024-11-20",
+    "oldVal": 80,
+    "newVal": 0
+  },
+  "0012": {
+    "lastChangeDate": "2016-02-12",
+    "oldVal": 349,
+    "newVal": 0
+  },
+  "CLIP": {
+    "lastChangeDate": "2025-09-29",
+    "oldVal": 35,
+    "newVal": 55
+  },
+  "FLUD": {
+    "lastChangeDate": "2013-10-16",
+    "oldVal": 55,
+    "newVal": 0
+  },
+  "VETO1": {
+    "lastChangeDate": "2013-12-31",
+    "oldVal": 105,
+    "newVal": 59.55
+  },
+  "SCRAP": {
+    "lastChangeDate": "2014-09-02",
+    "oldVal": 51.5,
+    "newVal": 25.75
+  },
+  "1VW": {
+    "lastChangeDate": "2026-02-06",
+    "oldVal": 150,
+    "newVal": 0
+  },
+  "US2A1": {
+    "lastChangeDate": "2015-11-25",
+    "oldVal": 200,
+    "newVal": 175
+  },
+  "EMEX": {
+    "lastChangeDate": "2024-07-30",
+    "oldVal": 95.8,
+    "newVal": 150
+  },
+  "CANIN3": {
+    "lastChangeDate": "2014-11-29",
+    "oldVal": 49.58,
+    "newVal": -49.58
+  },
+  "GEN 1": {
+    "lastChangeDate": "2020-02-03",
+    "oldVal": 129.9,
+    "newVal": 157.9
+  },
+  "SCARS 5": {
+    "lastChangeDate": "2017-07-03",
+    "oldVal": 18,
+    "newVal": 20
+  },
+  "SCARS4A": {
+    "lastChangeDate": "2016-05-10",
+    "oldVal": 0,
+    "newVal": 18
+  },
+  "SCARS6": {
+    "lastChangeDate": "2017-04-22",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "ANAL": {
+    "lastChangeDate": "2025-12-05",
+    "oldVal": 35.5,
+    "newVal": 0
+  },
+  "US51": {
+    "lastChangeDate": "2014-08-30",
+    "oldVal": 280,
+    "newVal": 250
+  },
+  "5VW": {
+    "lastChangeDate": "2013-10-22",
+    "oldVal": 375,
+    "newVal": 225
+  },
+  "402A": {
+    "lastChangeDate": "2025-04-15",
+    "oldVal": 0,
+    "newVal": 98
+  },
+  "308A": {
+    "lastChangeDate": "2025-05-23",
+    "oldVal": 75,
+    "newVal": -75
+  },
+  "DOX": {
+    "lastChangeDate": "2013-10-22",
+    "oldVal": 105.92,
+    "newVal": 93.92
+  },
+  "MISLAB": {
+    "lastChangeDate": "2026-03-13",
+    "oldVal": 0,
+    "newVal": 272.18
+  },
+  "ECHO1": {
+    "lastChangeDate": "2015-06-25",
+    "oldVal": 390,
+    "newVal": 0
+  },
+  "US51A": {
+    "lastChangeDate": "2023-05-24",
+    "oldVal": 0,
+    "newVal": 162.5
+  },
+  "004983": {
+    "lastChangeDate": "2013-10-25",
+    "oldVal": 29.25,
+    "newVal": -29.25
+  },
+  "VACC11": {
+    "lastChangeDate": "2015-03-07",
+    "oldVal": 78,
+    "newVal": 35
+  },
+  "011051": {
+    "lastChangeDate": "2013-10-28",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "BUP": {
+    "lastChangeDate": "2013-10-29",
+    "oldVal": 31.2,
+    "newVal": 0
+  },
+  "BM1": {
+    "lastChangeDate": "2019-07-05",
+    "oldVal": 36.2,
+    "newVal": 0
+  },
+  "FLEX": {
+    "lastChangeDate": "2013-10-30",
+    "oldVal": 59.5,
+    "newVal": -59.5
+  },
+  "0008": {
+    "lastChangeDate": "2017-06-28",
+    "oldVal": 0,
+    "newVal": 299
+  },
+  "0022": {
+    "lastChangeDate": "2025-12-05",
+    "oldVal": 120,
+    "newVal": 216
+  },
+  "VACCFE": {
+    "lastChangeDate": "2014-01-17",
+    "oldVal": 81,
+    "newVal": 30
+  },
+  "303A": {
+    "lastChangeDate": "2025-06-27",
+    "oldVal": 180,
+    "newVal": 220
+  },
+  "0032": {
+    "lastChangeDate": "2024-02-29",
+    "oldVal": 110,
+    "newVal": 80
+  },
+  "FORT": {
+    "lastChangeDate": "2013-10-24",
+    "oldVal": 37.9,
+    "newVal": 0
+  },
+  "MISCS": {
+    "lastChangeDate": "2025-09-09",
+    "oldVal": 0,
+    "newVal": 109.2
+  },
+  "001399": {
+    "lastChangeDate": "2020-07-30",
+    "oldVal": 20,
+    "newVal": 3.5
+  },
+  "FLU": {
+    "lastChangeDate": "2024-01-10",
+    "oldVal": 203.6,
+    "newVal": 120
+  },
+  "US51B": {
+    "lastChangeDate": "2015-11-14",
+    "oldVal": 90,
+    "newVal": 70
+  },
+  "SMELOX": {
+    "lastChangeDate": "2014-09-23",
+    "oldVal": 17.22,
+    "newVal": 0
+  },
+  "FELIM": {
+    "lastChangeDate": "2014-05-24",
+    "oldVal": 36.44,
+    "newVal": 0
+  },
+  "FL": {
+    "lastChangeDate": "2024-11-12",
+    "oldVal": 42.1,
+    "newVal": 40
+  },
+  "CANINSU": {
+    "lastChangeDate": "2014-03-08",
+    "oldVal": 15.68,
+    "newVal": 21.68
+  },
+  "KC": {
+    "lastChangeDate": "2016-09-12",
+    "oldVal": 0,
+    "newVal": 8.1
+  },
+  "FLEX1": {
+    "lastChangeDate": "2013-11-15",
+    "oldVal": 32,
+    "newVal": -32
+  },
+  "RX": {
+    "lastChangeDate": "2024-03-12",
+    "oldVal": 0,
+    "newVal": 2.1
+  },
+  "FEL4": {
+    "lastChangeDate": "2016-05-12",
+    "oldVal": 29.99,
+    "newVal": 0
+  },
+  "004187": {
+    "lastChangeDate": "2013-11-18",
+    "oldVal": 15.52,
+    "newVal": -21.52
+  },
+  "REFER": {
+    "lastChangeDate": "2024-01-11",
+    "oldVal": 0,
+    "newVal": -25
+  },
+  "ANAL1": {
+    "lastChangeDate": "2020-10-30",
+    "oldVal": 20,
+    "newVal": 0
+  },
+  "VIT": {
+    "lastChangeDate": "2014-07-24",
+    "oldVal": 88,
+    "newVal": 17.6
+  },
+  "FELIM1": {
+    "lastChangeDate": "2013-11-28",
+    "oldVal": 15.65,
+    "newVal": 0
+  },
+  "CPL": {
+    "lastChangeDate": "2018-07-16",
+    "oldVal": 126,
+    "newVal": -126
+  },
+  "FRUCT": {
+    "lastChangeDate": "2021-04-09",
+    "oldVal": 134,
+    "newVal": 75
+  },
+  "SBUP": {
+    "lastChangeDate": "2015-01-29",
+    "oldVal": 18.17,
+    "newVal": 15
+  },
+  "T760A": {
+    "lastChangeDate": "2024-03-26",
+    "oldVal": 133.1,
+    "newVal": 97
+  },
+  "": {
+    "lastChangeDate": "2025-02-10",
+    "oldVal": 0,
+    "newVal": 82.97
+  },
+  "DRONTAL": {
+    "lastChangeDate": "2014-05-12",
+    "oldVal": 19.2,
+    "newVal": 3.87
+  },
+  "CANIN5": {
+    "lastChangeDate": "2014-07-29",
+    "oldVal": 54.96,
+    "newVal": 39.26
+  },
+  "RAN": {
+    "lastChangeDate": "2016-03-18",
+    "oldVal": 38.88,
+    "newVal": 20
+  },
+  "RUS": {
+    "lastChangeDate": "2014-01-14",
+    "oldVal": 285,
+    "newVal": 275
+  },
+  "MCRC1": {
+    "lastChangeDate": "2017-05-20",
+    "oldVal": 27.23,
+    "newVal": 16.8
+  },
+  "STAT1": {
+    "lastChangeDate": "2015-04-20",
+    "oldVal": 155,
+    "newVal": 165
+  },
+  "PHE": {
+    "lastChangeDate": "2016-06-09",
+    "oldVal": 108.9,
+    "newVal": 146
+  },
+  "US4": {
+    "lastChangeDate": "2016-10-10",
+    "oldVal": 100,
+    "newVal": 87.5
+  },
+  "VACCLC": {
+    "lastChangeDate": "2024-11-14",
+    "oldVal": 25.5,
+    "newVal": 30
+  },
+  "FEL29": {
+    "lastChangeDate": "2013-12-13",
+    "oldVal": 43.3,
+    "newVal": -43.3
+  },
+  "T760": {
+    "lastChangeDate": "2017-02-27",
+    "oldVal": 95,
+    "newVal": 0
+  },
+  "BG": {
+    "lastChangeDate": "2025-05-13",
+    "oldVal": 24,
+    "newVal": 0
+  },
+  "US2A": {
+    "lastChangeDate": "2013-12-16",
+    "oldVal": 175,
+    "newVal": 0
+  },
+  "BLOODC": {
+    "lastChangeDate": "2023-07-04",
+    "oldVal": 65,
+    "newVal": 50
+  },
+  "CYT": {
+    "lastChangeDate": "2021-11-10",
+    "oldVal": 188,
+    "newVal": 44.85
+  },
+  "DOXI": {
+    "lastChangeDate": "2014-02-06",
+    "oldVal": 32.64,
+    "newVal": 7.44
+  },
+  "NOVOPHAR": {
+    "lastChangeDate": "2013-12-19",
+    "oldVal": 19.3,
+    "newVal": 0
+  },
+  "MISCTP": {
+    "lastChangeDate": "2018-01-30",
+    "oldVal": 59,
+    "newVal": 40
+  },
+  "V1": {
+    "lastChangeDate": "2025-10-15",
+    "oldVal": 30,
+    "newVal": 18
+  },
+  "2VW": {
+    "lastChangeDate": "2025-01-27",
+    "oldVal": 225,
+    "newVal": -225
+  },
+  "0033": {
+    "lastChangeDate": "2014-01-09",
+    "oldVal": 190,
+    "newVal": 177
+  },
+  "FAST": {
+    "lastChangeDate": "2022-08-19",
+    "oldVal": 120,
+    "newVal": 180
+  },
+  "IVF": {
+    "lastChangeDate": "2025-12-19",
+    "oldVal": 65,
+    "newVal": 0
+  },
+  "025114": {
+    "lastChangeDate": "2014-11-22",
+    "oldVal": 6.3,
+    "newVal": 0
+  },
+  "CANIN73": {
+    "lastChangeDate": "2016-05-31",
+    "oldVal": 19.5,
+    "newVal": 13.92
+  },
+  "U4": {
+    "lastChangeDate": "2014-01-14",
+    "oldVal": 21.52,
+    "newVal": 13.59
+  },
+  "AVENTIC": {
+    "lastChangeDate": "2014-01-14",
+    "oldVal": 20.75,
+    "newVal": 0
+  },
+  "SUTRA": {
+    "lastChangeDate": "2014-01-30",
+    "oldVal": 25.02,
+    "newVal": 0
+  },
+  "INSU": {
+    "lastChangeDate": "2014-12-31",
+    "oldVal": 5.6,
+    "newVal": 0.29
+  },
+  "NOVO3": {
+    "lastChangeDate": "2014-03-24",
+    "oldVal": 70.24,
+    "newVal": 65.24
+  },
+  "VACC": {
+    "lastChangeDate": "2024-01-03",
+    "oldVal": 30,
+    "newVal": 18
+  },
+  "TOB": {
+    "lastChangeDate": "2014-06-06",
+    "oldVal": 24.6,
+    "newVal": 0
+  },
+  "HD": {
+    "lastChangeDate": "2015-12-16",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "CHEMSC": {
+    "lastChangeDate": "2014-05-02",
+    "oldVal": 75.9,
+    "newVal": 79.9
+  },
+  "ANALN": {
+    "lastChangeDate": "2024-12-23",
+    "oldVal": 40,
+    "newVal": 35.5
+  },
+  "ADV4": {
+    "lastChangeDate": "2014-01-23",
+    "oldVal": 31.5,
+    "newVal": 10
+  },
+  "APOM": {
+    "lastChangeDate": "2014-10-31",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "FN1": {
+    "lastChangeDate": "2022-11-02",
+    "oldVal": 90,
+    "newVal": 40
+  },
+  "STIL": {
+    "lastChangeDate": "2016-04-10",
+    "oldVal": 12,
+    "newVal": 29
+  },
+  "STRAM": {
+    "lastChangeDate": "2014-01-29",
+    "oldVal": 24.4,
+    "newVal": 0
+  },
+  "STRATHC": {
+    "lastChangeDate": "2014-01-30",
+    "oldVal": 29.82,
+    "newVal": 0
+  },
+  "PCV": {
+    "lastChangeDate": "2016-03-08",
+    "oldVal": 30,
+    "newVal": 0
+  },
+  "U6": {
+    "lastChangeDate": "2014-01-30",
+    "oldVal": 76.51,
+    "newVal": 70.42
+  },
+  "CLIN1": {
+    "lastChangeDate": "2014-01-30",
+    "oldVal": 23,
+    "newVal": 0
+  },
+  "BLOODM": {
+    "lastChangeDate": "2014-02-28",
+    "oldVal": 87,
+    "newVal": 100
+  },
+  "SUTRAM": {
+    "lastChangeDate": "2018-07-27",
+    "oldVal": 14.88,
+    "newVal": 0
+  },
+  "CONV1": {
+    "lastChangeDate": "2014-11-27",
+    "oldVal": 26.25,
+    "newVal": 0
+  },
+  "FEL47": {
+    "lastChangeDate": "2016-09-23",
+    "oldVal": 2.13,
+    "newVal": 0
+  },
+  "BG1": {
+    "lastChangeDate": "2018-07-13",
+    "oldVal": 33,
+    "newVal": 0
+  },
+  "TYROID": {
+    "lastChangeDate": "2019-06-29",
+    "oldVal": 128.9,
+    "newVal": 0
+  },
+  "PANAL": {
+    "lastChangeDate": "2014-02-06",
+    "oldVal": 23.97,
+    "newVal": 10
+  },
+  "DISC": {
+    "lastChangeDate": "2023-05-27",
+    "oldVal": 0,
+    "newVal": -100
+  },
+  "EMEX5": {
+    "lastChangeDate": "2024-09-16",
+    "oldVal": 20,
+    "newVal": 0
+  },
+  "GERIU": {
+    "lastChangeDate": "2024-11-22",
+    "oldVal": 316.5,
+    "newVal": 270
+  },
+  "FINE": {
+    "lastChangeDate": "2024-11-25",
+    "oldVal": 291.3,
+    "newVal": 0
+  },
+  "GEN2": {
+    "lastChangeDate": "2014-03-01",
+    "oldVal": 84.46,
+    "newVal": 125
+  },
+  "US6": {
+    "lastChangeDate": "2015-11-18",
+    "oldVal": 57,
+    "newVal": 0
+  },
+  "PILL 1": {
+    "lastChangeDate": "2017-06-13",
+    "oldVal": 8.86,
+    "newVal": 0
+  },
+  "MISCT": {
+    "lastChangeDate": "2020-04-20",
+    "oldVal": 60.1,
+    "newVal": 40
+  },
+  "SYN": {
+    "lastChangeDate": "2014-03-15",
+    "oldVal": 32,
+    "newVal": 17.5
+  },
+  "ANEXA": {
+    "lastChangeDate": "2024-12-02",
+    "oldVal": 50,
+    "newVal": 0
+  },
+  "TYLS": {
+    "lastChangeDate": "2014-08-18",
+    "oldVal": 15,
+    "newVal": 32
+  },
+  "BM": {
+    "lastChangeDate": "2018-07-24",
+    "oldVal": 38,
+    "newVal": 55
+  },
+  "T465": {
+    "lastChangeDate": "2024-10-08",
+    "oldVal": 114.9,
+    "newVal": 150
+  },
+  "FUCITH": {
+    "lastChangeDate": "2014-03-29",
+    "oldVal": 33.23,
+    "newVal": 0
+  },
+  "OPTH11": {
+    "lastChangeDate": "2014-03-29",
+    "oldVal": 22.4,
+    "newVal": 0
+  },
+  "OFL": {
+    "lastChangeDate": "2014-03-29",
+    "oldVal": 20,
+    "newVal": 0
+  },
+  "FEL40": {
+    "lastChangeDate": "2016-10-22",
+    "oldVal": 30.25,
+    "newVal": 0
+  },
+  "CYPRO": {
+    "lastChangeDate": "2014-07-17",
+    "oldVal": 15,
+    "newVal": 21
+  },
+  "CYSTO": {
+    "lastChangeDate": "2026-01-27",
+    "oldVal": 46.8,
+    "newVal": 0
+  },
+  "SA310": {
+    "lastChangeDate": "2024-07-27",
+    "oldVal": 154.8,
+    "newVal": 134
+  },
+  "ADENO": {
+    "lastChangeDate": "2014-04-04",
+    "oldVal": 69,
+    "newVal": 54.5
+  },
+  "SCARS4": {
+    "lastChangeDate": "2016-05-10",
+    "oldVal": 18,
+    "newVal": 0
+  },
+  "VITB12": {
+    "lastChangeDate": "2014-11-07",
+    "oldVal": 11.25,
+    "newVal": 0
+  },
+  "SPLI1": {
+    "lastChangeDate": "2024-03-14",
+    "oldVal": 95,
+    "newVal": 30
+  },
+  "APOME": {
+    "lastChangeDate": "2014-04-11",
+    "oldVal": 127,
+    "newVal": 0
+  },
+  "MISCIN": {
+    "lastChangeDate": "2014-04-17",
+    "oldVal": 81.2,
+    "newVal": 25
+  },
+  "SOFTA": {
+    "lastChangeDate": "2016-05-11",
+    "oldVal": 60,
+    "newVal": 30
+  },
+  "NOVPHARM": {
+    "lastChangeDate": "2014-04-28",
+    "oldVal": 18.58,
+    "newVal": 0
+  },
+  "REUS": {
+    "lastChangeDate": "2015-02-04",
+    "oldVal": 295,
+    "newVal": 275
+  },
+  "MEDI 74": {
+    "lastChangeDate": "2016-07-20",
+    "oldVal": 3.17,
+    "newVal": 2.85
+  },
+  "VET 1": {
+    "lastChangeDate": "2014-04-30",
+    "oldVal": 22.08,
+    "newVal": -22.08
+  },
+  "URINE": {
+    "lastChangeDate": "2014-05-01",
+    "oldVal": 91.67,
+    "newVal": 70
+  },
+  "AMLS": {
+    "lastChangeDate": "2016-02-18",
+    "oldVal": 41,
+    "newVal": 47
+  },
+  "LIV": {
+    "lastChangeDate": "2022-08-24",
+    "oldVal": 188.4,
+    "newVal": 47.5
+  },
+  "T460": {
+    "lastChangeDate": "2014-05-05",
+    "oldVal": 75,
+    "newVal": 54
+  },
+  "CHX": {
+    "lastChangeDate": "2014-10-06",
+    "oldVal": 11.44,
+    "newVal": 0
+  },
+  "FELI1": {
+    "lastChangeDate": "2014-05-08",
+    "oldVal": 29,
+    "newVal": 17.12
+  },
+  "MED72": {
+    "lastChangeDate": "2014-05-10",
+    "oldVal": 10.92,
+    "newVal": -10.92
+  },
+  "FUCI": {
+    "lastChangeDate": "2015-02-23",
+    "oldVal": 43,
+    "newVal": 16.49
+  },
+  "MEDI 108": {
+    "lastChangeDate": "2014-05-20",
+    "oldVal": 4,
+    "newVal": -4
+  },
+  "INTERC": {
+    "lastChangeDate": "2014-05-22",
+    "oldVal": 18.91,
+    "newVal": -18.91
+  },
+  "CANIN2": {
+    "lastChangeDate": "2014-05-22",
+    "oldVal": 80.89,
+    "newVal": -80.89
+  },
+  "DOU500": {
+    "lastChangeDate": "2014-05-24",
+    "oldVal": 48.12,
+    "newVal": -48.12
+  },
+  "US9": {
+    "lastChangeDate": "2014-05-30",
+    "oldVal": 195,
+    "newVal": 66
+  },
+  "MED1N": {
+    "lastChangeDate": "2016-08-09",
+    "oldVal": 7.36,
+    "newVal": 0
+  },
+  "SURO": {
+    "lastChangeDate": "2014-09-11",
+    "oldVal": 29.9,
+    "newVal": 0
+  },
+  "HYCO": {
+    "lastChangeDate": "2014-09-17",
+    "oldVal": 23.15,
+    "newVal": 18.52
+  },
+  "CLAVA 3": {
+    "lastChangeDate": "2014-06-11",
+    "oldVal": 33.84,
+    "newVal": 0
+  },
+  "EXO": {
+    "lastChangeDate": "2014-06-11",
+    "oldVal": 33,
+    "newVal": 0
+  },
+  "NOVO4": {
+    "lastChangeDate": "2014-06-11",
+    "oldVal": 22,
+    "newVal": -22
+  },
+  "PAB": {
+    "lastChangeDate": "2016-03-04",
+    "oldVal": 90,
+    "newVal": 0
+  },
+  "CART1": {
+    "lastChangeDate": "2014-06-14",
+    "oldVal": 24.85,
+    "newVal": 0
+  },
+  "0011": {
+    "lastChangeDate": "2018-04-18",
+    "oldVal": 307,
+    "newVal": 0
+  },
+  "TR25": {
+    "lastChangeDate": "2014-06-19",
+    "oldVal": 21.9,
+    "newVal": 0
+  },
+  "001403": {
+    "lastChangeDate": "2019-10-02",
+    "oldVal": 30,
+    "newVal": 3
+  },
+  "US2AAA": {
+    "lastChangeDate": "2014-06-28",
+    "oldVal": 150,
+    "newVal": 0
+  },
+  "FEL12": {
+    "lastChangeDate": "2016-09-08",
+    "oldVal": 54.97,
+    "newVal": 32.97
+  },
+  "CLIN": {
+    "lastChangeDate": "2014-07-24",
+    "oldVal": 24.4,
+    "newVal": 0
+  },
+  "TRA4": {
+    "lastChangeDate": "2016-08-12",
+    "oldVal": 21.6,
+    "newVal": 0
+  },
+  "CHA": {
+    "lastChangeDate": "2015-03-23",
+    "oldVal": 39.1,
+    "newVal": 79.1
+  },
+  "MUR2": {
+    "lastChangeDate": "2014-07-30",
+    "oldVal": 21.4,
+    "newVal": -21.4
+  },
+  "CLIN12": {
+    "lastChangeDate": "2014-07-30",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "TRIZE": {
+    "lastChangeDate": "2014-09-11",
+    "oldVal": 20.5,
+    "newVal": 35.5
+  },
+  "CANIN4": {
+    "lastChangeDate": "2017-03-10",
+    "oldVal": 22.2,
+    "newVal": 0
+  },
+  "SMETRO": {
+    "lastChangeDate": "2022-06-01",
+    "oldVal": 13.92,
+    "newVal": 1.69
+  },
+  "001422": {
+    "lastChangeDate": "2014-07-31",
+    "oldVal": 61.36,
+    "newVal": 65
+  },
+  "NEW": {
+    "lastChangeDate": "2025-03-07",
+    "oldVal": 33,
+    "newVal": 25
+  },
+  "TRS": {
+    "lastChangeDate": "2019-05-10",
+    "oldVal": 12.64,
+    "newVal": 12
+  },
+  "AGF": {
+    "lastChangeDate": "2023-05-09",
+    "oldVal": 66,
+    "newVal": 120
+  },
+  "TIT": {
+    "lastChangeDate": "2014-08-11",
+    "oldVal": 215,
+    "newVal": 188
+  },
+  "PAT1": {
+    "lastChangeDate": "2014-08-12",
+    "oldVal": 0,
+    "newVal": 30.4
+  },
+  "IVO": {
+    "lastChangeDate": "2016-12-24",
+    "oldVal": 31,
+    "newVal": 7.35
+  },
+  "STRO": {
+    "lastChangeDate": "2015-05-09",
+    "oldVal": 15,
+    "newVal": 9
+  },
+  "FEL78": {
+    "lastChangeDate": "2016-10-18",
+    "oldVal": 40.32,
+    "newVal": 0
+  },
+  "PVD": {
+    "lastChangeDate": "2014-10-17",
+    "oldVal": 45.12,
+    "newVal": 32.84
+  },
+  "BLOOD": {
+    "lastChangeDate": "2014-12-24",
+    "oldVal": 119.5,
+    "newVal": 59.75
+  },
+  "STAN1": {
+    "lastChangeDate": "2022-08-13",
+    "oldVal": 10,
+    "newVal": 5
+  },
+  "MED107": {
+    "lastChangeDate": "2014-09-02",
+    "oldVal": 16.8,
+    "newVal": -16.8
+  },
+  "BP": {
+    "lastChangeDate": "2025-11-26",
+    "oldVal": 46,
+    "newVal": 0
+  },
+  "FL2": {
+    "lastChangeDate": "2014-09-16",
+    "oldVal": 51,
+    "newVal": 0
+  },
+  "ENAL 1": {
+    "lastChangeDate": "2014-09-22",
+    "oldVal": 54.33,
+    "newVal": 0
+  },
+  "SENG": {
+    "lastChangeDate": "2014-09-24",
+    "oldVal": 16.5,
+    "newVal": -16.5
+  },
+  "STAN2": {
+    "lastChangeDate": "2014-08-28",
+    "oldVal": 20.8,
+    "newVal": 16.64
+  },
+  "025114A": {
+    "lastChangeDate": "2014-11-19",
+    "oldVal": 14.7,
+    "newVal": 42
+  },
+  "STRA": {
+    "lastChangeDate": "2020-11-05",
+    "oldVal": 16.24,
+    "newVal": 4.24
+  },
+  "FEL48": {
+    "lastChangeDate": "2014-09-27",
+    "oldVal": 55.89,
+    "newVal": 40.16
+  },
+  "COL": {
+    "lastChangeDate": "2015-03-24",
+    "oldVal": 7.75,
+    "newVal": 0
+  },
+  "SDOXY": {
+    "lastChangeDate": "2014-07-23",
+    "oldVal": 110,
+    "newVal": 0
+  },
+  "MEDI137": {
+    "lastChangeDate": "2015-04-21",
+    "oldVal": 14,
+    "newVal": 10
+  },
+  "102T": {
+    "lastChangeDate": "2014-10-02",
+    "oldVal": 0,
+    "newVal": 20
+  },
+  "SCRUBS": {
+    "lastChangeDate": "2014-10-03",
+    "oldVal": 0,
+    "newVal": 55.7
+  },
+  "TORB": {
+    "lastChangeDate": "2025-12-19",
+    "oldVal": 31.31,
+    "newVal": 0
+  },
+  "VETOR": {
+    "lastChangeDate": "2014-10-06",
+    "oldVal": 90,
+    "newVal": 34.65
+  },
+  "005428": {
+    "lastChangeDate": "2014-10-06",
+    "oldVal": 60.6,
+    "newVal": 22.8
+  },
+  "BENAZ": {
+    "lastChangeDate": "2019-03-21",
+    "oldVal": 40.01,
+    "newVal": 62
+  },
+  "CANIN7": {
+    "lastChangeDate": "2017-07-08",
+    "oldVal": 22.2,
+    "newVal": -22.2
+  },
+  "APOA": {
+    "lastChangeDate": "2014-10-11",
+    "oldVal": 50.4,
+    "newVal": -50.4
+  },
+  "FORT5": {
+    "lastChangeDate": "2014-10-14",
+    "oldVal": 32.56,
+    "newVal": 0
+  },
+  "GER5": {
+    "lastChangeDate": "2014-10-10",
+    "oldVal": 173.9,
+    "newVal": 65.21
+  },
+  "END": {
+    "lastChangeDate": "2014-10-21",
+    "oldVal": 175,
+    "newVal": 0
+  },
+  "0031": {
+    "lastChangeDate": "2014-10-23",
+    "oldVal": 555,
+    "newVal": 488
+  },
+  "SPLI2": {
+    "lastChangeDate": "2014-10-29",
+    "oldVal": 95,
+    "newVal": 76
+  },
+  "AXCAN": {
+    "lastChangeDate": "2015-05-13",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "APO": {
+    "lastChangeDate": "2025-03-03",
+    "oldVal": 12.3,
+    "newVal": 22.3
+  },
+  "TRA": {
+    "lastChangeDate": "2014-11-05",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "TR2": {
+    "lastChangeDate": "2018-07-27",
+    "oldVal": 13.76,
+    "newVal": 0
+  },
+  "FLU1": {
+    "lastChangeDate": "2020-11-13",
+    "oldVal": 25.9,
+    "newVal": 0
+  },
+  "RES": {
+    "lastChangeDate": "2014-12-17",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "SCARS11": {
+    "lastChangeDate": "2014-11-13",
+    "oldVal": 10,
+    "newVal": 0
+  },
+  "0027": {
+    "lastChangeDate": "2017-11-14",
+    "oldVal": 165,
+    "newVal": 0
+  },
+  "CSY": {
+    "lastChangeDate": "2019-06-14",
+    "oldVal": 120,
+    "newVal": 132
+  },
+  "SAPOMOR": {
+    "lastChangeDate": "2014-11-17",
+    "oldVal": 37,
+    "newVal": 66
+  },
+  "ADV5": {
+    "lastChangeDate": "2015-06-10",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "1009AB": {
+    "lastChangeDate": "2014-11-29",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "LEU": {
+    "lastChangeDate": "2015-01-16",
+    "oldVal": 28.42,
+    "newVal": 25
+  },
+  "INTER5": {
+    "lastChangeDate": "2014-11-29",
+    "oldVal": 29.66,
+    "newVal": 14.9
+  },
+  "FEL46": {
+    "lastChangeDate": "2016-08-12",
+    "oldVal": 25.44,
+    "newVal": 14.03
+  },
+  "CFLUA": {
+    "lastChangeDate": "2014-12-02",
+    "oldVal": 169,
+    "newVal": 0
+  },
+  "DERM1": {
+    "lastChangeDate": "2014-12-03",
+    "oldVal": 54,
+    "newVal": 26
+  },
+  "FN2": {
+    "lastChangeDate": "2015-11-07",
+    "oldVal": 195,
+    "newVal": 80
+  },
+  "CCYTO": {
+    "lastChangeDate": "2016-02-20",
+    "oldVal": 132.56,
+    "newVal": 0
+  },
+  "HYDR": {
+    "lastChangeDate": "2015-05-26",
+    "oldVal": 29.53,
+    "newVal": 0
+  },
+  "KET": {
+    "lastChangeDate": "2017-01-09",
+    "oldVal": 29.11,
+    "newVal": 0
+  },
+  "017436": {
+    "lastChangeDate": "2018-02-09",
+    "oldVal": 34.4,
+    "newVal": 0
+  },
+  "002468": {
+    "lastChangeDate": "2015-01-08",
+    "oldVal": 29.25,
+    "newVal": 0
+  },
+  "EUTH": {
+    "lastChangeDate": "2024-07-18",
+    "oldVal": 30.11,
+    "newVal": 0
+  },
+  "OPTIX": {
+    "lastChangeDate": "2014-12-11",
+    "oldVal": 25.39,
+    "newVal": 20.99
+  },
+  "DEX": {
+    "lastChangeDate": "2014-12-22",
+    "oldVal": 29.22,
+    "newVal": 0
+  },
+  "TRIZ": {
+    "lastChangeDate": "2014-12-17",
+    "oldVal": 21,
+    "newVal": 35.5
+  },
+  "AXCAN PH": {
+    "lastChangeDate": "2014-12-24",
+    "oldVal": 10.92,
+    "newVal": 5.5
+  },
+  "PARA": {
+    "lastChangeDate": "2015-01-03",
+    "oldVal": 41.5,
+    "newVal": 0
+  },
+  "FEL 2": {
+    "lastChangeDate": "2015-01-08",
+    "oldVal": 55.97,
+    "newVal": 39.98
+  },
+  "CSA040": {
+    "lastChangeDate": "2015-01-16",
+    "oldVal": 83.7,
+    "newVal": 0
+  },
+  "V3": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 0,
+    "newVal": 30
+  },
+  "DERMAG": {
+    "lastChangeDate": "2018-12-11",
+    "oldVal": 5.58,
+    "newVal": 0
+  },
+  "SUM": {
+    "lastChangeDate": "2016-01-13",
+    "oldVal": 18.66,
+    "newVal": 0
+  },
+  "CFBX": {
+    "lastChangeDate": "2015-08-26",
+    "oldVal": 160.57,
+    "newVal": 0
+  },
+  "300A": {
+    "lastChangeDate": "2016-06-25",
+    "oldVal": 240,
+    "newVal": 323
+  },
+  "CT775": {
+    "lastChangeDate": "2016-01-16",
+    "oldVal": 72.33,
+    "newVal": 95
+  },
+  "FASP": {
+    "lastChangeDate": "2022-07-08",
+    "oldVal": 167.5,
+    "newVal": 162.5
+  },
+  "US512": {
+    "lastChangeDate": "2015-02-13",
+    "oldVal": 395,
+    "newVal": 375
+  },
+  "TRAS": {
+    "lastChangeDate": "2015-02-18",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "TRIL": {
+    "lastChangeDate": "2016-10-31",
+    "oldVal": -52,
+    "newVal": -60.4
+  },
+  "EPI": {
+    "lastChangeDate": "2015-02-24",
+    "oldVal": 11.72,
+    "newVal": -11.72
+  },
+  "007233": {
+    "lastChangeDate": "2015-05-14",
+    "oldVal": 90,
+    "newVal": 45
+  },
+  "ANEXX": {
+    "lastChangeDate": "2024-06-22",
+    "oldVal": 35,
+    "newVal": 80
+  },
+  "VACC123": {
+    "lastChangeDate": "2020-10-19",
+    "oldVal": 38,
+    "newVal": 19
+  },
+  "021817": {
+    "lastChangeDate": "2015-12-08",
+    "oldVal": 91.31,
+    "newVal": 0
+  },
+  "SHA": {
+    "lastChangeDate": "2023-11-27",
+    "oldVal": 31,
+    "newVal": 0
+  },
+  "0025A": {
+    "lastChangeDate": "2017-08-16",
+    "oldVal": 235,
+    "newVal": 199
+  },
+  "009614": {
+    "lastChangeDate": "2015-05-07",
+    "oldVal": 36.66,
+    "newVal": 0
+  },
+  "CADD220": {
+    "lastChangeDate": "2015-03-14",
+    "oldVal": 51,
+    "newVal": 45
+  },
+  "CT497": {
+    "lastChangeDate": "2015-11-23",
+    "oldVal": 67.63,
+    "newVal": 20.31
+  },
+  "333F": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 0,
+    "newVal": 30
+  },
+  "007194": {
+    "lastChangeDate": "2015-04-14",
+    "oldVal": 7.14,
+    "newVal": 35
+  },
+  "SUMMELOX": {
+    "lastChangeDate": "2015-07-21",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "ANEXS": {
+    "lastChangeDate": "2015-04-01",
+    "oldVal": 65,
+    "newVal": 0
+  },
+  "CAT": {
+    "lastChangeDate": "2017-12-08",
+    "oldVal": 1.3,
+    "newVal": 2.4
+  },
+  "CT330": {
+    "lastChangeDate": "2016-02-08",
+    "oldVal": 82.6,
+    "newVal": 0
+  },
+  "U2": {
+    "lastChangeDate": "2015-04-04",
+    "oldVal": 27.43,
+    "newVal": -27.43
+  },
+  "US8": {
+    "lastChangeDate": "2018-06-11",
+    "oldVal": 155,
+    "newVal": 200
+  },
+  "MEDI 90": {
+    "lastChangeDate": "2016-10-12",
+    "oldVal": 23.04,
+    "newVal": 0
+  },
+  "SEBOSO": {
+    "lastChangeDate": "2015-04-20",
+    "oldVal": 36,
+    "newVal": 0
+  },
+  "IMREX1": {
+    "lastChangeDate": "2015-04-20",
+    "oldVal": 14.56,
+    "newVal": 0
+  },
+  "DENTALB": {
+    "lastChangeDate": "2025-05-12",
+    "oldVal": 62.6,
+    "newVal": 60.6
+  },
+  "SUT": {
+    "lastChangeDate": "2025-01-20",
+    "oldVal": 45,
+    "newVal": 0
+  },
+  "SULCR": {
+    "lastChangeDate": "2015-07-27",
+    "oldVal": 17.58,
+    "newVal": 0
+  },
+  "FEL28": {
+    "lastChangeDate": "2015-05-08",
+    "oldVal": 25.1,
+    "newVal": 17.93
+  },
+  "CSA324": {
+    "lastChangeDate": "2015-05-13",
+    "oldVal": 97,
+    "newVal": -97
+  },
+  "000790": {
+    "lastChangeDate": "2015-05-13",
+    "oldVal": 16,
+    "newVal": 8
+  },
+  "CT750": {
+    "lastChangeDate": "2015-05-14",
+    "oldVal": 84.36,
+    "newVal": 0
+  },
+  "FEL15": {
+    "lastChangeDate": "2015-05-15",
+    "oldVal": 34.54,
+    "newVal": 24.67
+  },
+  "USG": {
+    "lastChangeDate": "2023-12-21",
+    "oldVal": 49.9,
+    "newVal": 0
+  },
+  "TRA2": {
+    "lastChangeDate": "2019-02-07",
+    "oldVal": 57.36,
+    "newVal": 22.68
+  },
+  "CANIN8": {
+    "lastChangeDate": "2015-05-29",
+    "oldVal": 0,
+    "newVal": 57.01
+  },
+  "LUS": {
+    "lastChangeDate": "2015-06-03",
+    "oldVal": 75,
+    "newVal": 55
+  },
+  "KCORAL": {
+    "lastChangeDate": "2019-09-13",
+    "oldVal": 0,
+    "newVal": 9.62
+  },
+  "BAY3": {
+    "lastChangeDate": "2015-10-22",
+    "oldVal": 31.63,
+    "newVal": 0
+  },
+  "FEL17": {
+    "lastChangeDate": "2016-05-21",
+    "oldVal": 29.99,
+    "newVal": -29.99
+  },
+  "CET1": {
+    "lastChangeDate": "2015-06-09",
+    "oldVal": 8.84,
+    "newVal": 9.6
+  },
+  "CT445": {
+    "lastChangeDate": "2015-06-15",
+    "oldVal": 82.58,
+    "newVal": 40
+  },
+  "PALADIN": {
+    "lastChangeDate": "2015-06-15",
+    "oldVal": 35.6,
+    "newVal": 0.28
+  },
+  "2Y": {
+    "lastChangeDate": "2016-03-07",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "CAN76": {
+    "lastChangeDate": "2015-06-24",
+    "oldVal": 0,
+    "newVal": 3
+  },
+  "ZYL": {
+    "lastChangeDate": "2015-06-26",
+    "oldVal": 25.4,
+    "newVal": 12.7
+  },
+  "TSH": {
+    "lastChangeDate": "2020-11-05",
+    "oldVal": 144.9,
+    "newVal": 150
+  },
+  "ANEXSS": {
+    "lastChangeDate": "2020-01-31",
+    "oldVal": 65,
+    "newVal": 80
+  },
+  "FPLI1": {
+    "lastChangeDate": "2017-08-17",
+    "oldVal": 53.9,
+    "newVal": 125.9
+  },
+  "5VW1": {
+    "lastChangeDate": "2015-07-09",
+    "oldVal": 110,
+    "newVal": 13
+  },
+  "MEDI 13": {
+    "lastChangeDate": "2015-07-10",
+    "oldVal": 87.5,
+    "newVal": 62.5
+  },
+  "CLOT25": {
+    "lastChangeDate": "2015-07-15",
+    "oldVal": 23.5,
+    "newVal": 0
+  },
+  "NAILG": {
+    "lastChangeDate": "2016-08-26",
+    "oldVal": 34,
+    "newVal": 0
+  },
+  "017277": {
+    "lastChangeDate": "2015-07-29",
+    "oldVal": 75,
+    "newVal": 0
+  },
+  "THER": {
+    "lastChangeDate": "2015-07-31",
+    "oldVal": 12.48,
+    "newVal": 6.31
+  },
+  "SCARS2": {
+    "lastChangeDate": "2016-07-18",
+    "oldVal": 0,
+    "newVal": 18
+  },
+  "FEL14": {
+    "lastChangeDate": "2015-08-06",
+    "oldVal": 54.9,
+    "newVal": 39.27
+  },
+  "CSA 034": {
+    "lastChangeDate": "2015-12-14",
+    "oldVal": 168.74,
+    "newVal": 0
+  },
+  "PILL 3": {
+    "lastChangeDate": "2016-06-01",
+    "oldVal": 6.52,
+    "newVal": 3.26
+  },
+  "PILL 4": {
+    "lastChangeDate": "2016-05-08",
+    "oldVal": 4.66,
+    "newVal": 6.52
+  },
+  "FEL11": {
+    "lastChangeDate": "2016-09-08",
+    "oldVal": -25.2,
+    "newVal": 0
+  },
+  "AC": {
+    "lastChangeDate": "2015-12-09",
+    "oldVal": 33,
+    "newVal": 0
+  },
+  "DENTALC": {
+    "lastChangeDate": "2017-07-08",
+    "oldVal": 8.76,
+    "newVal": -8.76
+  },
+  "REUS4": {
+    "lastChangeDate": "2015-09-01",
+    "oldVal": 175,
+    "newVal": 100
+  },
+  "MEDI 70": {
+    "lastChangeDate": "2016-04-26",
+    "oldVal": 6.64,
+    "newVal": 4.74
+  },
+  "MEDI 14": {
+    "lastChangeDate": "2015-02-09",
+    "oldVal": 32.2,
+    "newVal": 23
+  },
+  "FLO 1": {
+    "lastChangeDate": "2015-09-08",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "NL": {
+    "lastChangeDate": "2015-09-08",
+    "oldVal": 55,
+    "newVal": 0
+  },
+  "OP": {
+    "lastChangeDate": "2015-09-19",
+    "oldVal": 125,
+    "newVal": 120
+  },
+  "VACC5A": {
+    "lastChangeDate": "2025-10-20",
+    "oldVal": 30,
+    "newVal": 18
+  },
+  "ADDU": {
+    "lastChangeDate": "2022-11-08",
+    "oldVal": 10,
+    "newVal": 15
+  },
+  "T775": {
+    "lastChangeDate": "2016-12-10",
+    "oldVal": 92.9,
+    "newVal": 60
+  },
+  "VIR": {
+    "lastChangeDate": "2017-08-11",
+    "oldVal": 26.62,
+    "newVal": 0
+  },
+  "STAN": {
+    "lastChangeDate": "2017-06-01",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "CADD200": {
+    "lastChangeDate": "2015-10-01",
+    "oldVal": 58.2,
+    "newVal": 78
+  },
+  "F2Y": {
+    "lastChangeDate": "2025-08-27",
+    "oldVal": 0,
+    "newVal": 7.5
+  },
+  "FEL57": {
+    "lastChangeDate": "2015-08-10",
+    "oldVal": 68.64,
+    "newVal": 48.98
+  },
+  "OXY": {
+    "lastChangeDate": "2015-10-08",
+    "oldVal": 120,
+    "newVal": 0
+  },
+  "0025": {
+    "lastChangeDate": "2015-10-29",
+    "oldVal": 199,
+    "newVal": 0
+  },
+  "ECTO": {
+    "lastChangeDate": "2017-06-10",
+    "oldVal": 15.08,
+    "newVal": 0
+  },
+  "CHEM": {
+    "lastChangeDate": "2015-11-07",
+    "oldVal": 59,
+    "newVal": 40
+  },
+  "FEL42": {
+    "lastChangeDate": "2016-07-01",
+    "oldVal": 54.96,
+    "newVal": 39.29
+  },
+  "CANIN77": {
+    "lastChangeDate": "2016-12-19",
+    "oldVal": -18,
+    "newVal": 0
+  },
+  "MEDI 71": {
+    "lastChangeDate": "2016-07-25",
+    "oldVal": 45.36,
+    "newVal": 45
+  },
+  "NAIL": {
+    "lastChangeDate": "2024-11-23",
+    "oldVal": 30,
+    "newVal": 40
+  },
+  "001420": {
+    "lastChangeDate": "2018-06-25",
+    "oldVal": 48,
+    "newVal": 2.25
+  },
+  "BUPSCONA": {
+    "lastChangeDate": "2023-03-24",
+    "oldVal": 0,
+    "newVal": 41
+  },
+  "MED 39": {
+    "lastChangeDate": "2015-12-07",
+    "oldVal": 122.5,
+    "newVal": 92.5
+  },
+  "UC": {
+    "lastChangeDate": "2015-12-14",
+    "oldVal": 95,
+    "newVal": 0
+  },
+  "RHEUMOC": {
+    "lastChangeDate": "2019-11-29",
+    "oldVal": 17.4,
+    "newVal": 0
+  },
+  "VACCLI": {
+    "lastChangeDate": "2024-08-02",
+    "oldVal": 0,
+    "newVal": 4.68
+  },
+  "VACCFELC": {
+    "lastChangeDate": "2023-07-20",
+    "oldVal": 0,
+    "newVal": 15
+  },
+  "FL1": {
+    "lastChangeDate": "2025-09-15",
+    "oldVal": 43.9,
+    "newVal": -43.9
+  },
+  "REFILL": {
+    "lastChangeDate": "2015-12-21",
+    "oldVal": 0,
+    "newVal": 102
+  },
+  "CSA025": {
+    "lastChangeDate": "2015-12-29",
+    "oldVal": 108.9,
+    "newVal": 81.2
+  },
+  "SQFK": {
+    "lastChangeDate": "2023-05-24",
+    "oldVal": 0,
+    "newVal": 20
+  },
+  "MEDI 91": {
+    "lastChangeDate": "2016-12-01",
+    "oldVal": 48.59,
+    "newVal": 39.76
+  },
+  "MEDI 96": {
+    "lastChangeDate": "2016-12-01",
+    "oldVal": 57.75,
+    "newVal": 50.7
+  },
+  "CANIN9": {
+    "lastChangeDate": "2016-02-10",
+    "oldVal": 117.05,
+    "newVal": 98.99
+  },
+  "FORTIFLA": {
+    "lastChangeDate": "2016-02-10",
+    "oldVal": 13.8,
+    "newVal": 0
+  },
+  "0007": {
+    "lastChangeDate": "2020-11-12",
+    "oldVal": 249,
+    "newVal": 299
+  },
+  "FEL25": {
+    "lastChangeDate": "2016-10-06",
+    "oldVal": 25.98,
+    "newVal": 0
+  },
+  "CS16345": {
+    "lastChangeDate": "2016-03-15",
+    "oldVal": 96.64,
+    "newVal": 94
+  },
+  "CANIN46": {
+    "lastChangeDate": "2016-08-19",
+    "oldVal": 33,
+    "newVal": 23.57
+  },
+  "CBC1": {
+    "lastChangeDate": "2016-03-30",
+    "oldVal": 67,
+    "newVal": 0
+  },
+  "DEW 1": {
+    "lastChangeDate": "2017-05-25",
+    "oldVal": 250,
+    "newVal": 0
+  },
+  "CT220": {
+    "lastChangeDate": "2016-04-07",
+    "oldVal": 165.06,
+    "newVal": 144.6
+  },
+  "GENAL1": {
+    "lastChangeDate": "2025-11-24",
+    "oldVal": 175.9,
+    "newVal": 0
+  },
+  "CULTH": {
+    "lastChangeDate": "2016-04-07",
+    "oldVal": 56,
+    "newVal": 8.36
+  },
+  "MED 24": {
+    "lastChangeDate": "2016-04-18",
+    "oldVal": 58.8,
+    "newVal": 46.2
+  },
+  "GENPA2": {
+    "lastChangeDate": "2024-07-31",
+    "oldVal": 96,
+    "newVal": 39.29
+  },
+  "T415": {
+    "lastChangeDate": "2024-04-15",
+    "oldVal": 217.8,
+    "newVal": 282
+  },
+  "CBC2": {
+    "lastChangeDate": "2022-07-14",
+    "oldVal": 0,
+    "newVal": 25
+  },
+  "URINE2": {
+    "lastChangeDate": "2017-11-27",
+    "oldVal": 91.9,
+    "newVal": 83.9
+  },
+  "311B": {
+    "lastChangeDate": "2016-04-22",
+    "oldVal": 48,
+    "newVal": 0
+  },
+  "MISCTR": {
+    "lastChangeDate": "2016-06-18",
+    "oldVal": 36,
+    "newVal": 0
+  },
+  "ANEX3": {
+    "lastChangeDate": "2016-05-21",
+    "oldVal": 40,
+    "newVal": 20
+  },
+  "URINE1": {
+    "lastChangeDate": "2021-04-16",
+    "oldVal": 129,
+    "newVal": 0
+  },
+  "MEDI 105": {
+    "lastChangeDate": "2016-05-11",
+    "oldVal": 26.28,
+    "newVal": 0
+  },
+  "TOTT4": {
+    "lastChangeDate": "2022-01-13",
+    "oldVal": 35.45,
+    "newVal": 20.41
+  },
+  "FDCD": {
+    "lastChangeDate": "2022-07-16",
+    "oldVal": 206,
+    "newVal": 225
+  },
+  "MEDI 88": {
+    "lastChangeDate": "2016-07-07",
+    "oldVal": 21.98,
+    "newVal": 0
+  },
+  "CANIN53": {
+    "lastChangeDate": "2016-05-14",
+    "oldVal": 45.49,
+    "newVal": 0
+  },
+  "PUPPY1": {
+    "lastChangeDate": "2016-05-17",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "KC3": {
+    "lastChangeDate": "2016-05-26",
+    "oldVal": 15,
+    "newVal": 25
+  },
+  "FEL41": {
+    "lastChangeDate": "2016-12-17",
+    "oldVal": 7.38,
+    "newVal": -7.38
+  },
+  "CT760": {
+    "lastChangeDate": "2016-05-26",
+    "oldVal": 86.41,
+    "newVal": 140.9
+  },
+  "ACEPROM": {
+    "lastChangeDate": "2016-05-28",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "NOS": {
+    "lastChangeDate": "2017-04-19",
+    "oldVal": 8,
+    "newVal": 0
+  },
+  "CANIN20": {
+    "lastChangeDate": "2016-06-01",
+    "oldVal": 105,
+    "newVal": 0
+  },
+  "ULTRA": {
+    "lastChangeDate": "2023-03-21",
+    "oldVal": 355,
+    "newVal": 357.5
+  },
+  "K95WAY": {
+    "lastChangeDate": "2023-03-02",
+    "oldVal": 30,
+    "newVal": 15
+  },
+  "US": {
+    "lastChangeDate": "2024-08-07",
+    "oldVal": 539.5,
+    "newVal": 0
+  },
+  "MED1K": {
+    "lastChangeDate": "2016-06-09",
+    "oldVal": 46.4,
+    "newVal": 31.68
+  },
+  "URIN3": {
+    "lastChangeDate": "2022-08-13",
+    "oldVal": 18.5,
+    "newVal": 28.5
+  },
+  "GENA3": {
+    "lastChangeDate": "2022-10-12",
+    "oldVal": 150,
+    "newVal": 0
+  },
+  "2VWA": {
+    "lastChangeDate": "2020-07-14",
+    "oldVal": 215,
+    "newVal": 0
+  },
+  "PET3": {
+    "lastChangeDate": "2016-06-18",
+    "oldVal": 188,
+    "newVal": 180
+  },
+  "TOTT 4": {
+    "lastChangeDate": "2026-01-05",
+    "oldVal": 53.95,
+    "newVal": 0
+  },
+  "310A": {
+    "lastChangeDate": "2022-08-20",
+    "oldVal": 135,
+    "newVal": 0
+  },
+  "CIS1": {
+    "lastChangeDate": "2018-08-11",
+    "oldVal": 12.67,
+    "newVal": 0
+  },
+  "URIN2": {
+    "lastChangeDate": "2026-01-27",
+    "oldVal": 95.7,
+    "newVal": 0
+  },
+  "CANIN40": {
+    "lastChangeDate": "2017-04-01",
+    "oldVal": 0,
+    "newVal": -39.98
+  },
+  "ULTRA 4": {
+    "lastChangeDate": "2025-10-23",
+    "oldVal": 30,
+    "newVal": 15
+  },
+  "SNAPHWTE": {
+    "lastChangeDate": "2016-07-06",
+    "oldVal": 0,
+    "newVal": 59
+  },
+  "CBC 1": {
+    "lastChangeDate": "2023-01-05",
+    "oldVal": 0,
+    "newVal": 30
+  },
+  "SOFT": {
+    "lastChangeDate": "2018-09-18",
+    "oldVal": 0,
+    "newVal": 15.95
+  },
+  "CM040": {
+    "lastChangeDate": "2016-07-08",
+    "oldVal": 191.89,
+    "newVal": 193.9
+  },
+  "FEL43": {
+    "lastChangeDate": "2016-11-30",
+    "oldVal": -7.74,
+    "newVal": -10.32
+  },
+  "SCARS1": {
+    "lastChangeDate": "2016-09-27",
+    "oldVal": 19,
+    "newVal": 14
+  },
+  "THERA": {
+    "lastChangeDate": "2022-06-28",
+    "oldVal": 19.98,
+    "newVal": 21
+  },
+  "THERJ": {
+    "lastChangeDate": "2017-09-14",
+    "oldVal": 17.48,
+    "newVal": 0
+  },
+  "PARVOK9": {
+    "lastChangeDate": "2018-09-06",
+    "oldVal": 35,
+    "newVal": 4.19
+  },
+  "U1": {
+    "lastChangeDate": "2016-08-04",
+    "oldVal": 76.51,
+    "newVal": 0
+  },
+  "FEL1A": {
+    "lastChangeDate": "2016-11-30",
+    "oldVal": 0,
+    "newVal": -31.68
+  },
+  "HILLS71": {
+    "lastChangeDate": "2016-11-10",
+    "oldVal": 1.76,
+    "newVal": 0
+  },
+  "CANIN47": {
+    "lastChangeDate": "2016-08-19",
+    "oldVal": 0,
+    "newVal": -60.98
+  },
+  "T4": {
+    "lastChangeDate": "2016-08-22",
+    "oldVal": 86.9,
+    "newVal": 0
+  },
+  "ALU 2": {
+    "lastChangeDate": "2016-08-31",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "ALU": {
+    "lastChangeDate": "2016-08-27",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "CYSTC": {
+    "lastChangeDate": "2017-11-08",
+    "oldVal": 34.7,
+    "newVal": 0
+  },
+  "AARCSDIS": {
+    "lastChangeDate": "2016-09-13",
+    "oldVal": 0,
+    "newVal": 8.06
+  },
+  "ACE10": {
+    "lastChangeDate": "2017-08-15",
+    "oldVal": 12.05,
+    "newVal": 0
+  },
+  "114526IC": {
+    "lastChangeDate": "2017-05-09",
+    "oldVal": 27.5,
+    "newVal": 0
+  },
+  "PAW": {
+    "lastChangeDate": "2023-10-16",
+    "oldVal": 123.25,
+    "newVal": -94.8
+  },
+  "HILLSK9": {
+    "lastChangeDate": "2020-11-16",
+    "oldVal": 0,
+    "newVal": -18.24
+  },
+  "CANIN21": {
+    "lastChangeDate": "2017-02-07",
+    "oldVal": 38.49,
+    "newVal": 0
+  },
+  "IVR": {
+    "lastChangeDate": "2016-10-04",
+    "oldVal": 89,
+    "newVal": 0
+  },
+  "FEL26A": {
+    "lastChangeDate": "2016-10-06",
+    "oldVal": 33.84,
+    "newVal": 0
+  },
+  "FEL26": {
+    "lastChangeDate": "2016-10-06",
+    "oldVal": 34.53,
+    "newVal": 0
+  },
+  "FEL36": {
+    "lastChangeDate": "2016-10-08",
+    "oldVal": 31.99,
+    "newVal": 22.85
+  },
+  "AMLODIPI": {
+    "lastChangeDate": "2016-10-11",
+    "oldVal": 16.2,
+    "newVal": 4.2
+  },
+  "MED 160": {
+    "lastChangeDate": "2016-10-11",
+    "oldVal": 0,
+    "newVal": -32.13
+  },
+  "ULTRA 3": {
+    "lastChangeDate": "2024-08-07",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "MEDI 128": {
+    "lastChangeDate": "2016-10-17",
+    "oldVal": 4.56,
+    "newVal": 2.28
+  },
+  "FEL44": {
+    "lastChangeDate": "2016-10-19",
+    "oldVal": 2.62,
+    "newVal": 0
+  },
+  "FEL34": {
+    "lastChangeDate": "2016-10-28",
+    "oldVal": 63.99,
+    "newVal": 0
+  },
+  "PILL 5": {
+    "lastChangeDate": "2017-06-08",
+    "oldVal": 7.01,
+    "newVal": 0
+  },
+  "0023": {
+    "lastChangeDate": "2025-11-07",
+    "oldVal": 0,
+    "newVal": 216
+  },
+  "MEDI 150": {
+    "lastChangeDate": "2016-12-30",
+    "oldVal": 5.18,
+    "newVal": -5.18
+  },
+  "MEDI 92": {
+    "lastChangeDate": "2016-11-30",
+    "oldVal": 30.45,
+    "newVal": 0
+  },
+  "TAPE": {
+    "lastChangeDate": "2017-05-29",
+    "oldVal": 49.4,
+    "newVal": 39.52
+  },
+  "BGC": {
+    "lastChangeDate": "2018-04-18",
+    "oldVal": 175,
+    "newVal": 75
+  },
+  "MEDI 40": {
+    "lastChangeDate": "2016-12-19",
+    "oldVal": 28.83,
+    "newVal": 21.63
+  },
+  "CANIN61": {
+    "lastChangeDate": "2016-12-19",
+    "oldVal": -18.75,
+    "newVal": 0
+  },
+  "SHAVE": {
+    "lastChangeDate": "2024-08-22",
+    "oldVal": 193.4,
+    "newVal": 140
+  },
+  "OMP": {
+    "lastChangeDate": "2017-02-25",
+    "oldVal": 20,
+    "newVal": 14.75
+  },
+  "PILL1": {
+    "lastChangeDate": "2016-12-30",
+    "oldVal": 4.9,
+    "newVal": -4.9
+  },
+  "TREAT 8": {
+    "lastChangeDate": "2017-10-20",
+    "oldVal": 7.84,
+    "newVal": 0
+  },
+  "DISTEMP": {
+    "lastChangeDate": "2018-09-06",
+    "oldVal": 35,
+    "newVal": 4.19
+  },
+  "PILL 6": {
+    "lastChangeDate": "2017-01-16",
+    "oldVal": 17.72,
+    "newVal": 0
+  },
+  "ADDONJ": {
+    "lastChangeDate": "2022-10-12",
+    "oldVal": 0,
+    "newVal": 240
+  },
+  "SEDIM": {
+    "lastChangeDate": "2024-03-12",
+    "oldVal": 61.11,
+    "newVal": 36.66
+  },
+  "IV": {
+    "lastChangeDate": "2024-09-21",
+    "oldVal": 49,
+    "newVal": 0
+  },
+  "GEN 3A": {
+    "lastChangeDate": "2017-02-06",
+    "oldVal": 203.9,
+    "newVal": 33.9
+  },
+  "ACE25": {
+    "lastChangeDate": "2017-04-18",
+    "oldVal": 13.88,
+    "newVal": 0
+  },
+  "132100T": {
+    "lastChangeDate": "2018-08-30",
+    "oldVal": 95.7,
+    "newVal": 91.8
+  },
+  "FIV": {
+    "lastChangeDate": "2017-02-24",
+    "oldVal": -142.9,
+    "newVal": -114.92
+  },
+  "NURI": {
+    "lastChangeDate": "2017-03-01",
+    "oldVal": 33.6,
+    "newVal": 0
+  },
+  "005424": {
+    "lastChangeDate": "2017-03-14",
+    "oldVal": 12.18,
+    "newVal": 60
+  },
+  "FOR": {
+    "lastChangeDate": "2019-02-14",
+    "oldVal": 38.76,
+    "newVal": 19.36
+  },
+  "STAT": {
+    "lastChangeDate": "2020-03-13",
+    "oldVal": 198,
+    "newVal": -198
+  },
+  "CANIN29": {
+    "lastChangeDate": "2017-08-02",
+    "oldVal": 42.98,
+    "newVal": 0
+  },
+  "0026": {
+    "lastChangeDate": "2017-04-05",
+    "oldVal": 155,
+    "newVal": 0
+  },
+  "PARVO": {
+    "lastChangeDate": "2021-06-18",
+    "oldVal": 59.7,
+    "newVal": 0
+  },
+  "DOXYC": {
+    "lastChangeDate": "2024-01-12",
+    "oldVal": 26,
+    "newVal": 7
+  },
+  "MED 25": {
+    "lastChangeDate": "2017-04-22",
+    "oldVal": 29.4,
+    "newVal": 0
+  },
+  "CANIN37": {
+    "lastChangeDate": "2017-04-12",
+    "oldVal": 118.09,
+    "newVal": 0
+  },
+  "ORA 2": {
+    "lastChangeDate": "2017-04-25",
+    "oldVal": 32,
+    "newVal": 0
+  },
+  "ULTRA 2": {
+    "lastChangeDate": "2019-09-04",
+    "oldVal": 83.2,
+    "newVal": 0
+  },
+  "KCB": {
+    "lastChangeDate": "2020-11-20",
+    "oldVal": 0,
+    "newVal": 7.52
+  },
+  "PRCRE2": {
+    "lastChangeDate": "2021-03-27",
+    "oldVal": 0,
+    "newVal": 170
+  },
+  "125221A": {
+    "lastChangeDate": "2017-05-01",
+    "oldVal": 92.72,
+    "newVal": 86.92
+  },
+  "CHEM5": {
+    "lastChangeDate": "2023-12-20",
+    "oldVal": 233.9,
+    "newVal": 0
+  },
+  "EMESIS": {
+    "lastChangeDate": "2024-01-24",
+    "oldVal": 66,
+    "newVal": 122
+  },
+  "132101T": {
+    "lastChangeDate": "2022-09-24",
+    "oldVal": 96,
+    "newVal": 87
+  },
+  "NTAGAPP": {
+    "lastChangeDate": "2018-07-13",
+    "oldVal": 30,
+    "newVal": 0
+  },
+  "OPG": {
+    "lastChangeDate": "2021-04-17",
+    "oldVal": 71.9,
+    "newVal": 90
+  },
+  "0024": {
+    "lastChangeDate": "2017-07-27",
+    "oldVal": 199,
+    "newVal": 165
+  },
+  "ACTSSF": {
+    "lastChangeDate": "2017-05-11",
+    "oldVal": 0,
+    "newVal": 5
+  },
+  "ACTSSFF": {
+    "lastChangeDate": "2017-05-18",
+    "oldVal": 0,
+    "newVal": 50
+  },
+  "CANIN43": {
+    "lastChangeDate": "2017-05-18",
+    "oldVal": 0,
+    "newVal": -56.98
+  },
+  "0021": {
+    "lastChangeDate": "2022-12-02",
+    "oldVal": 150,
+    "newVal": 60
+  },
+  "SCARS10": {
+    "lastChangeDate": "2017-08-03",
+    "oldVal": 15,
+    "newVal": 12
+  },
+  "BGM": {
+    "lastChangeDate": "2017-06-17",
+    "oldVal": 30,
+    "newVal": 0
+  },
+  "MED1D": {
+    "lastChangeDate": "2020-02-06",
+    "oldVal": 99.84,
+    "newVal": 98
+  },
+  "ALUMMIX": {
+    "lastChangeDate": "2017-06-26",
+    "oldVal": 21,
+    "newVal": 16
+  },
+  "NOT": {
+    "lastChangeDate": "2025-08-28",
+    "oldVal": 0,
+    "newVal": 30
+  },
+  "000": {
+    "lastChangeDate": "2017-07-05",
+    "oldVal": 0,
+    "newVal": 83.6
+  },
+  "CBC": {
+    "lastChangeDate": "2018-04-12",
+    "oldVal": 87.9,
+    "newVal": 0
+  },
+  "PHEA": {
+    "lastChangeDate": "2017-07-31",
+    "oldVal": 88.9,
+    "newVal": 93.9
+  },
+  "PE5A": {
+    "lastChangeDate": "2020-10-02",
+    "oldVal": 255,
+    "newVal": 105
+  },
+  "CAT4": {
+    "lastChangeDate": "2021-12-17",
+    "oldVal": 68.01,
+    "newVal": 130
+  },
+  "BOHR": {
+    "lastChangeDate": "2017-10-20",
+    "oldVal": 16.8,
+    "newVal": 0
+  },
+  "HILLSFEL": {
+    "lastChangeDate": "2017-09-27",
+    "oldVal": 0,
+    "newVal": 19.99
+  },
+  "METHRX": {
+    "lastChangeDate": "2017-11-17",
+    "oldVal": 114.98,
+    "newVal": 42
+  },
+  "ORA3": {
+    "lastChangeDate": "2025-04-17",
+    "oldVal": 0,
+    "newVal": 50
+  },
+  "IVINJ": {
+    "lastChangeDate": "2019-03-05",
+    "oldVal": 29,
+    "newVal": 24.34
+  },
+  "METOCL": {
+    "lastChangeDate": "2017-10-19",
+    "oldVal": 12.13,
+    "newVal": 0
+  },
+  "XMAS5": {
+    "lastChangeDate": "2017-10-27",
+    "oldVal": 20,
+    "newVal": 26.64
+  },
+  "MED1L": {
+    "lastChangeDate": "2017-11-02",
+    "oldVal": 90.58,
+    "newVal": -90.58
+  },
+  "DEXA": {
+    "lastChangeDate": "2017-11-16",
+    "oldVal": 207.9,
+    "newVal": 0
+  },
+  "XMAS14": {
+    "lastChangeDate": "2017-12-09",
+    "oldVal": 10.75,
+    "newVal": 3
+  },
+  "XMAS4": {
+    "lastChangeDate": "2017-12-16",
+    "oldVal": 10,
+    "newVal": 3
+  },
+  "INJ2": {
+    "lastChangeDate": "2024-03-22",
+    "oldVal": 31.5,
+    "newVal": 0
+  },
+  "XMAS10": {
+    "lastChangeDate": "2017-12-16",
+    "oldVal": 6.45,
+    "newVal": 3
+  },
+  "XMAS13": {
+    "lastChangeDate": "2018-06-28",
+    "oldVal": 0,
+    "newVal": 4
+  },
+  "4DX": {
+    "lastChangeDate": "2018-07-19",
+    "oldVal": 59,
+    "newVal": 60
+  },
+  "CANIN22": {
+    "lastChangeDate": "2018-01-18",
+    "oldVal": 94.98,
+    "newVal": 65
+  },
+  "MED 157": {
+    "lastChangeDate": "2018-03-29",
+    "oldVal": 24.29,
+    "newVal": 0
+  },
+  "LYTE4": {
+    "lastChangeDate": "2025-12-20",
+    "oldVal": 34.1,
+    "newVal": 0
+  },
+  "MEDI 17": {
+    "lastChangeDate": "2018-04-11",
+    "oldVal": 30.5,
+    "newVal": 43.26
+  },
+  "APOMORPH": {
+    "lastChangeDate": "2023-11-24",
+    "oldVal": 32.05,
+    "newVal": 0
+  },
+  "V2": {
+    "lastChangeDate": "2018-04-27",
+    "oldVal": 32.76,
+    "newVal": 28.56
+  },
+  "FLEX 1": {
+    "lastChangeDate": "2018-05-28",
+    "oldVal": 54,
+    "newVal": -54
+  },
+  "5VWA": {
+    "lastChangeDate": "2018-06-09",
+    "oldVal": 70,
+    "newVal": 45
+  },
+  "FEL33": {
+    "lastChangeDate": "2018-06-14",
+    "oldVal": 28.93,
+    "newVal": -28.93
+  },
+  "011041": {
+    "lastChangeDate": "2025-03-21",
+    "oldVal": 62.5,
+    "newVal": -62.5
+  },
+  "CDLSR2": {
+    "lastChangeDate": "2018-06-26",
+    "oldVal": 50,
+    "newVal": 0
+  },
+  "PCV1": {
+    "lastChangeDate": "2019-01-16",
+    "oldVal": 35.9,
+    "newVal": 0
+  },
+  "NAILT": {
+    "lastChangeDate": "2026-02-02",
+    "oldVal": 20.5,
+    "newVal": 0
+  },
+  "PREDSUM": {
+    "lastChangeDate": "2018-08-22",
+    "oldVal": 20.31,
+    "newVal": 33.31
+  },
+  "V6": {
+    "lastChangeDate": "2018-09-18",
+    "oldVal": 51.42,
+    "newVal": 52.81
+  },
+  "PE5": {
+    "lastChangeDate": "2020-09-01",
+    "oldVal": 34.2,
+    "newVal": 57
+  },
+  "0010": {
+    "lastChangeDate": "2021-03-18",
+    "oldVal": 0,
+    "newVal": 161.7
+  },
+  "0930": {
+    "lastChangeDate": "2025-11-04",
+    "oldVal": 540,
+    "newVal": 375
+  },
+  "SDMA 1": {
+    "lastChangeDate": "2018-11-10",
+    "oldVal": 36,
+    "newVal": 0
+  },
+  "MANUK": {
+    "lastChangeDate": "2018-11-26",
+    "oldVal": 12.5,
+    "newVal": 35
+  },
+  "IOD": {
+    "lastChangeDate": "2022-09-01",
+    "oldVal": 25,
+    "newVal": 10
+  },
+  "EARC": {
+    "lastChangeDate": "2026-02-28",
+    "oldVal": 26,
+    "newVal": 0
+  },
+  "0009A": {
+    "lastChangeDate": "2022-10-27",
+    "oldVal": 450,
+    "newVal": 405
+  },
+  "PIMO": {
+    "lastChangeDate": "2020-10-20",
+    "oldVal": 65.34,
+    "newVal": 53
+  },
+  "BETHAN": {
+    "lastChangeDate": "2019-03-02",
+    "oldVal": 79.2,
+    "newVal": 78
+  },
+  "0212": {
+    "lastChangeDate": "2019-02-20",
+    "oldVal": 71.04,
+    "newVal": 74.04
+  },
+  "SUMFURO": {
+    "lastChangeDate": "2023-08-18",
+    "oldVal": 24.88,
+    "newVal": 0
+  },
+  "UNAPC": {
+    "lastChangeDate": "2025-10-30",
+    "oldVal": 143.9,
+    "newVal": 0
+  },
+  "RX6013": {
+    "lastChangeDate": "2019-02-02",
+    "oldVal": 0,
+    "newVal": 45
+  },
+  "SKB": {
+    "lastChangeDate": "2019-02-15",
+    "oldVal": 12.26,
+    "newVal": 27.86
+  },
+  "CANIN67": {
+    "lastChangeDate": "2019-04-15",
+    "oldVal": 89.98,
+    "newVal": 86.4
+  },
+  "METHIM": {
+    "lastChangeDate": "2019-03-01",
+    "oldVal": 14.45,
+    "newVal": 43.32
+  },
+  "BANDIGE": {
+    "lastChangeDate": "2024-10-07",
+    "oldVal": 28.1,
+    "newVal": 0
+  },
+  "AMLO S": {
+    "lastChangeDate": "2019-03-21",
+    "oldVal": 74.08,
+    "newVal": 97.04
+  },
+  "PET 2": {
+    "lastChangeDate": "2019-04-18",
+    "oldVal": 81,
+    "newVal": 40
+  },
+  "METAF": {
+    "lastChangeDate": "2019-04-27",
+    "oldVal": 6.78,
+    "newVal": 5.71
+  },
+  "CON": {
+    "lastChangeDate": "2024-04-05",
+    "oldVal": 35,
+    "newVal": 0
+  },
+  "PREDLIQ": {
+    "lastChangeDate": "2022-06-04",
+    "oldVal": 32.9,
+    "newVal": 20.4
+  },
+  "GAP": {
+    "lastChangeDate": "2025-01-06",
+    "oldVal": -13.83,
+    "newVal": -13.92
+  },
+  "JORVET": {
+    "lastChangeDate": "2019-06-03",
+    "oldVal": 7.1,
+    "newVal": 10.56
+  },
+  "NAILTR": {
+    "lastChangeDate": "2020-10-27",
+    "oldVal": 4.56,
+    "newVal": 10
+  },
+  "RX17": {
+    "lastChangeDate": "2019-06-14",
+    "oldVal": 0,
+    "newVal": 131.9
+  },
+  "3YEARS": {
+    "lastChangeDate": "2025-11-24",
+    "oldVal": 0,
+    "newVal": 15
+  },
+  "EARP": {
+    "lastChangeDate": "2023-03-24",
+    "oldVal": 79.9,
+    "newVal": 59.95
+  },
+  "INTEC": {
+    "lastChangeDate": "2019-10-11",
+    "oldVal": 42,
+    "newVal": 56
+  },
+  "HOSP": {
+    "lastChangeDate": "2025-12-19",
+    "oldVal": 100.12,
+    "newVal": 0
+  },
+  "URIN1": {
+    "lastChangeDate": "2025-02-08",
+    "oldVal": 50,
+    "newVal": 0
+  },
+  "072019": {
+    "lastChangeDate": "2022-06-04",
+    "oldVal": 27.75,
+    "newVal": 15.25
+  },
+  "DO": {
+    "lastChangeDate": "2020-08-15",
+    "oldVal": 5.04,
+    "newVal": 0
+  },
+  "RINR": {
+    "lastChangeDate": "2020-03-14",
+    "oldVal": 60.95,
+    "newVal": 63.95
+  },
+  "M AT": {
+    "lastChangeDate": "2020-09-11",
+    "oldVal": 16.32,
+    "newVal": 13.44
+  },
+  "TRAV": {
+    "lastChangeDate": "2020-04-06",
+    "oldVal": 9.02,
+    "newVal": 5.64
+  },
+  "BECO BOW": {
+    "lastChangeDate": "2020-09-14",
+    "oldVal": 8.98,
+    "newVal": 6.48
+  },
+  "FIRE": {
+    "lastChangeDate": "2020-04-06",
+    "oldVal": 11.26,
+    "newVal": 7.04
+  },
+  "PUP": {
+    "lastChangeDate": "2020-04-06",
+    "oldVal": 10.2,
+    "newVal": 6.38
+  },
+  "GABBA50": {
+    "lastChangeDate": "2025-02-19",
+    "oldVal": 34,
+    "newVal": 13.2
+  },
+  "ZD4252": {
+    "lastChangeDate": "2020-04-16",
+    "oldVal": 0,
+    "newVal": 160
+  },
+  "CC": {
+    "lastChangeDate": "2020-07-28",
+    "oldVal": 0,
+    "newVal": -33.27
+  },
+  "112809A": {
+    "lastChangeDate": "2020-10-03",
+    "oldVal": 36.28,
+    "newVal": 27.29
+  },
+  "MEDI 15": {
+    "lastChangeDate": "2020-10-02",
+    "oldVal": 70.36,
+    "newVal": 62.17
+  },
+  "THERA1": {
+    "lastChangeDate": "2020-10-06",
+    "oldVal": 20.22,
+    "newVal": 14.99
+  },
+  "MED1C2": {
+    "lastChangeDate": "2020-10-08",
+    "oldVal": 54.25,
+    "newVal": 38.75
+  },
+  "PCV2": {
+    "lastChangeDate": "2020-10-16",
+    "oldVal": 15.3,
+    "newVal": 0
+  },
+  "URINEC": {
+    "lastChangeDate": "2020-10-21",
+    "oldVal": 40.9,
+    "newVal": 0
+  },
+  "MED 162": {
+    "lastChangeDate": "2020-11-02",
+    "oldVal": 61.95,
+    "newVal": 57.75
+  },
+  "MEDLG": {
+    "lastChangeDate": "2022-03-11",
+    "oldVal": 100,
+    "newVal": 200
+  },
+  "INJ1": {
+    "lastChangeDate": "2020-11-13",
+    "oldVal": 96,
+    "newVal": 0
+  },
+  "MEDI 73": {
+    "lastChangeDate": "2020-12-17",
+    "oldVal": 40.95,
+    "newVal": 45.99
+  },
+  "DEXT": {
+    "lastChangeDate": "2021-01-07",
+    "oldVal": 229,
+    "newVal": 30
+  },
+  "REFCRED": {
+    "lastChangeDate": "2022-07-30",
+    "oldVal": 0,
+    "newVal": -25
+  },
+  "MED1J": {
+    "lastChangeDate": "2021-01-15",
+    "oldVal": 114.66,
+    "newVal": 140.41
+  },
+  "MED1G": {
+    "lastChangeDate": "2021-01-15",
+    "oldVal": 15.05,
+    "newVal": 0
+  },
+  "FPL": {
+    "lastChangeDate": "2021-04-17",
+    "oldVal": 79,
+    "newVal": 0
+  },
+  "HYDRA": {
+    "lastChangeDate": "2021-03-23",
+    "oldVal": 19.2,
+    "newVal": 15.1
+  },
+  "PET": {
+    "lastChangeDate": "2024-12-31",
+    "oldVal": 0,
+    "newVal": -15
+  },
+  "AMUL1": {
+    "lastChangeDate": "2021-04-01",
+    "oldVal": 360,
+    "newVal": 0
+  },
+  "MED 161": {
+    "lastChangeDate": "2021-08-27",
+    "oldVal": 14.35,
+    "newVal": 20.89
+  },
+  "DESK": {
+    "lastChangeDate": "2024-12-16",
+    "oldVal": 0,
+    "newVal": -35.5
+  },
+  "VACCLE": {
+    "lastChangeDate": "2024-09-03",
+    "oldVal": 0,
+    "newVal": 4.43
+  },
+  "MEDSM": {
+    "lastChangeDate": "2024-11-18",
+    "oldVal": 50,
+    "newVal": 10
+  },
+  "SOF": {
+    "lastChangeDate": "2022-07-09",
+    "oldVal": 813,
+    "newVal": 715
+  },
+  "FSLGI": {
+    "lastChangeDate": "2022-09-01",
+    "oldVal": 50,
+    "newVal": 0
+  },
+  "EXSPA": {
+    "lastChangeDate": "2022-09-23",
+    "oldVal": 0,
+    "newVal": 395
+  },
+  "KCIN": {
+    "lastChangeDate": "2023-06-01",
+    "oldVal": 0,
+    "newVal": 8.64
+  },
+  "CRI": {
+    "lastChangeDate": "2022-10-28",
+    "oldVal": 40,
+    "newVal": 60
+  },
+  "COUR": {
+    "lastChangeDate": "2026-01-21",
+    "oldVal": 57.9,
+    "newVal": 13.96
+  },
+  "MISC2": {
+    "lastChangeDate": "2023-01-05",
+    "oldVal": 0,
+    "newVal": 60
+  },
+  "PAW5": {
+    "lastChangeDate": "2023-01-07",
+    "oldVal": 60,
+    "newVal": 75
+  },
+  "ICAL": {
+    "lastChangeDate": "2023-01-28",
+    "oldVal": 192.6,
+    "newVal": 104
+  },
+  "ABULSB": {
+    "lastChangeDate": "2023-02-07",
+    "oldVal": 80,
+    "newVal": 85
+  },
+  "01011": {
+    "lastChangeDate": "2025-03-28",
+    "oldVal": 88.55,
+    "newVal": 0
+  },
+  "T510": {
+    "lastChangeDate": "2023-04-15",
+    "oldVal": 171.6,
+    "newVal": 108
+  },
+  "CDCD": {
+    "lastChangeDate": "2023-05-16",
+    "oldVal": 224.6,
+    "newVal": 244
+  },
+  "METHH": {
+    "lastChangeDate": "2023-06-01",
+    "oldVal": 35,
+    "newVal": 15
+  },
+  "012320": {
+    "lastChangeDate": "2023-06-16",
+    "oldVal": 34.47,
+    "newVal": 44.56
+  },
+  "0714": {
+    "lastChangeDate": "2026-03-05",
+    "oldVal": 0,
+    "newVal": 92.5
+  },
+  "GAB": {
+    "lastChangeDate": "2023-11-24",
+    "oldVal": -13.2,
+    "newVal": -12.57
+  },
+  "0202": {
+    "lastChangeDate": "2024-01-09",
+    "oldVal": 100.43,
+    "newVal": -100.43
+  },
+  "FEFIV": {
+    "lastChangeDate": "2024-01-18",
+    "oldVal": 63.9,
+    "newVal": 0
+  },
+  "BLO": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 41.35,
+    "newVal": 0
+  },
+  "031319": {
+    "lastChangeDate": "2024-02-09",
+    "oldVal": 0,
+    "newVal": 25
+  },
+  "US10": {
+    "lastChangeDate": "2024-02-22",
+    "oldVal": 402,
+    "newVal": 520
+  },
+  "TSHA": {
+    "lastChangeDate": "2024-04-20",
+    "oldVal": 114.9,
+    "newVal": 150
+  },
+  "URI": {
+    "lastChangeDate": "2024-04-27",
+    "oldVal": 68.75,
+    "newVal": 80.45
+  },
+  "UPCRECK": {
+    "lastChangeDate": "2025-11-28",
+    "oldVal": 79,
+    "newVal": 0
+  },
+  "0613": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 35.47,
+    "newVal": 12.91
+  },
+  "NF": {
+    "lastChangeDate": "2024-08-17",
+    "oldVal": 39,
+    "newVal": 12
+  },
+  "HOSPUPCM": {
+    "lastChangeDate": "2024-08-21",
+    "oldVal": 70,
+    "newVal": 0
+  },
+  "SDMA": {
+    "lastChangeDate": "2024-09-04",
+    "oldVal": 66.9,
+    "newVal": 0
+  },
+  "FLT": {
+    "lastChangeDate": "2024-09-11",
+    "oldVal": 82.9,
+    "newVal": 96
+  },
+  "CERENIA": {
+    "lastChangeDate": "2024-10-16",
+    "oldVal": 68,
+    "newVal": 51.8
+  },
+  "SHA1": {
+    "lastChangeDate": "2026-03-03",
+    "oldVal": 78,
+    "newVal": 132.29
+  },
+  "0401": {
+    "lastChangeDate": "2025-02-19",
+    "oldVal": 16.35,
+    "newVal": 3.48
+  },
+  "METHI25": {
+    "lastChangeDate": "2025-01-02",
+    "oldVal": 34.5,
+    "newVal": 42.06
+  },
+  "AMIL": {
+    "lastChangeDate": "2025-01-06",
+    "oldVal": -10.02,
+    "newVal": -40.08
+  },
+  "HC": {
+    "lastChangeDate": "2026-01-02",
+    "oldVal": 86,
+    "newVal": 0
+  },
+  "HCR": {
+    "lastChangeDate": "2025-04-10",
+    "oldVal": 65,
+    "newVal": 50
+  },
+  "METINJ": {
+    "lastChangeDate": "2025-02-24",
+    "oldVal": 5.57,
+    "newVal": 25.57
+  },
+  "GENFP": {
+    "lastChangeDate": "2025-03-07",
+    "oldVal": 235.9,
+    "newVal": 222.9
+  },
+  "NTADC": {
+    "lastChangeDate": "2026-01-06",
+    "oldVal": 15,
+    "newVal": 0
+  },
+  "FT": {
+    "lastChangeDate": "2025-04-17",
+    "oldVal": 0,
+    "newVal": 13.75
+  },
+  "GPF": {
+    "lastChangeDate": "2025-04-15",
+    "oldVal": 0,
+    "newVal": 20
+  },
+  "GERI": {
+    "lastChangeDate": "2026-03-09",
+    "oldVal": 270,
+    "newVal": 0
+  },
+  "DENTCALA": {
+    "lastChangeDate": "2026-02-12",
+    "oldVal": 0,
+    "newVal": 1.8
+  },
+  "BGAK": {
+    "lastChangeDate": "2025-05-15",
+    "oldVal": 83.25,
+    "newVal": 0
+  },
+  "GPFPL": {
+    "lastChangeDate": "2025-07-31",
+    "oldVal": 0,
+    "newVal": 67.5
+  },
+  "BGI": {
+    "lastChangeDate": "2025-08-25",
+    "oldVal": 68.5,
+    "newVal": 0
+  },
+  "HEF": {
+    "lastChangeDate": "2026-01-10",
+    "oldVal": 86,
+    "newVal": 0
+  },
+  "02412470": {
+    "lastChangeDate": "2025-12-05",
+    "oldVal": 13.06,
+    "newVal": 0
+  },
+  "DAP": {
+    "lastChangeDate": "2025-10-20",
+    "oldVal": 30,
+    "newVal": 0
+  },
+  "CLIPCL": {
+    "lastChangeDate": "2025-11-07",
+    "oldVal": 89.9,
+    "newVal": 0
+  },
+  "BMS": {
+    "lastChangeDate": "2025-10-22",
+    "oldVal": 0,
+    "newVal": 1.24
+  },
+  "FELENEMA": {
+    "lastChangeDate": "2025-10-23",
+    "oldVal": 71.3,
+    "newVal": 0
+  },
+  "HSPMED": {
+    "lastChangeDate": "2025-10-23",
+    "oldVal": 120,
+    "newVal": 0
+  },
+  "FDXGP": {
+    "lastChangeDate": "2025-10-28",
+    "oldVal": 129.9,
+    "newVal": 0
+  },
+  "RECEPT": {
+    "lastChangeDate": "2025-10-24",
+    "oldVal": 0,
+    "newVal": 0.1
+  },
+  "FLTGA": {
+    "lastChangeDate": "2025-10-28",
+    "oldVal": 92.9,
+    "newVal": 0
+  },
+  "RPO": {
+    "lastChangeDate": "2025-11-03",
+    "oldVal": 77,
+    "newVal": 0
+  },
+  "AMBL": {
+    "lastChangeDate": "2025-11-06",
+    "oldVal": 860,
+    "newVal": 0
+  },
+  "HSSPE": {
+    "lastChangeDate": "2025-11-06",
+    "oldVal": 104.3,
+    "newVal": 0
+  },
+  "FTES": {
+    "lastChangeDate": "2026-01-29",
+    "oldVal": 0,
+    "newVal": 55
+  },
+  "ISOPERH": {
+    "lastChangeDate": "2025-11-06",
+    "oldVal": 552,
+    "newVal": 0
+  },
+  "CEFSO": {
+    "lastChangeDate": "2025-11-06",
+    "oldVal": 11.62,
+    "newVal": 0
+  },
+  "0929": {
+    "lastChangeDate": "2025-11-24",
+    "oldVal": 495,
+    "newVal": 395
+  },
+  "GENAL3": {
+    "lastChangeDate": "2025-11-07",
+    "oldVal": 233.9,
+    "newVal": 0
+  },
+  "HERF": {
+    "lastChangeDate": "2026-01-27",
+    "oldVal": 69,
+    "newVal": 0
+  },
+  "HEXAM": {
+    "lastChangeDate": "2025-11-19",
+    "oldVal": 86,
+    "newVal": 0
+  },
+  "GERIPW": {
+    "lastChangeDate": "2025-11-13",
+    "oldVal": 227.7,
+    "newVal": 0
+  },
+  "AUR": {
+    "lastChangeDate": "2025-11-13",
+    "oldVal": 80.25,
+    "newVal": 48.15
+  },
+  "CTP1W": {
+    "lastChangeDate": "2025-11-25",
+    "oldVal": 307.9,
+    "newVal": 359.9
+  },
+  "CPT7": {
+    "lastChangeDate": "2025-11-26",
+    "oldVal": 359.9,
+    "newVal": 0
+  },
+  "HILLSK5": {
+    "lastChangeDate": "2025-11-26",
+    "oldVal": -5,
+    "newVal": -7
+  },
+  "HIILSF5": {
+    "lastChangeDate": "2025-11-26",
+    "oldVal": -5,
+    "newVal": -7
+  },
+  "FVR2": {
+    "lastChangeDate": "2025-11-27",
+    "oldVal": 30,
+    "newVal": 18
+  },
+  "XMASMED": {
+    "lastChangeDate": "2025-11-28",
+    "oldVal": 0,
+    "newVal": 3
+  },
+  "METSYRIN": {
+    "lastChangeDate": "2025-12-18",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "ICBC": {
+    "lastChangeDate": "2025-12-30",
+    "oldVal": 82.5,
+    "newVal": 0
+  },
+  "AMETSYR": {
+    "lastChangeDate": "2026-02-24",
+    "oldVal": 17.34,
+    "newVal": 0
+  },
+  "HURWS": {
+    "lastChangeDate": "2026-01-22",
+    "oldVal": 84,
+    "newVal": 168
+  },
+  "NTDCA": {
+    "lastChangeDate": "2026-01-23",
+    "oldVal": 10,
+    "newVal": 15
+  },
+  "PEART": {
+    "lastChangeDate": "2026-01-20",
+    "oldVal": 165,
+    "newVal": 245.45
+  },
+  "DENTALFE": {
+    "lastChangeDate": "2026-02-05",
+    "oldVal": 0,
+    "newVal": 1.8
+  },
+  "SCAR": {
+    "lastChangeDate": "2026-02-06",
+    "oldVal": 12,
+    "newVal": 0
+  },
+  "109193V": {
+    "lastChangeDate": "2026-02-14",
+    "oldVal": 40.4,
+    "newVal": 0
+  },
+  "142835T": {
+    "lastChangeDate": "2026-03-12",
+    "oldVal": 126,
+    "newVal": 0
+  }
+}

@@ -6,3 +6,26 @@ export { PriceParser } from './prices.js';
 export { AuditParser } from './audit.js';
 export { ServiceParser } from './services.js';
 export { ItemParser } from './items.js';
+
+// New parsers
+export { VisitParser } from './visits.js';
+export { AccountParser } from './accounts.js';
+export { AppointmentParser } from './appointments.js';
+export { MedicalParser } from './medical.js';
+export { PrescriptionParser } from './prescriptions.js';
+export { VaccineParser } from './vaccines.js';
+export { FollowUpParser } from './followups.js';
+export { DiagnoseParser } from './diagnoses.js';
+export { ProblemParser } from './problems.js';
+export { VendorParser } from './vendors.js';
+export { ProcedureParser } from './procedures.js';
+export { UsageParser } from './usage.js';
+export { QuoteParser } from './quotes.js';
+export { QuoteDetailParser } from './quote_details.js';
+export { VarianceParser } from './variances.js';
+export { WhiteboardParser } from './whiteboard.js';
+export { ProbHistParser } from './probhist.js';
+export { ResourceParser } from './resources.js';
+export { EstimateParser } from './estimates.js';
+export { CategoryParser } from './categories.js';
+export { TableParser } from './tables.js';

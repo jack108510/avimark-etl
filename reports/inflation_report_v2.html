@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: A4 landscape; margin: 12mm; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 9px; color: #1a1a1a; margin: 0; padding: 0; }
+  .header { background: linear-gradient(135deg, #1e3a5f 0%, #2d5986 100%); color: white; padding: 20px 25px; margin-bottom: 15px; border-radius: 4px; }
+  .header h1 { margin: 0 0 4px 0; font-size: 18px; font-weight: 600; }
+  .header p { margin: 0; font-size: 11px; opacity: 0.85; }
+  .summary { display: flex; gap: 15px; margin-bottom: 15px; }
+  .summary-box { background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; padding: 10px 15px; flex: 1; }
+  .summary-box .label { font-size: 8px; color: #6c757d; text-transform: uppercase; letter-spacing: 0.5px; }
+  .summary-box .value { font-size: 16px; font-weight: 700; color: #1e3a5f; margin-top: 2px; }
+  table { width: 100%; border-collapse: collapse; font-size: 8.5px; }
+  thead th { background: #1e3a5f; color: white; padding: 6px 6px; text-align: left; font-weight: 600; font-size: 7.5px; text-transform: uppercase; letter-spacing: 0.3px; }
+  thead th.right { text-align: right; }
+  tbody td { padding: 4px 6px; border-bottom: 1px solid #e9ecef; }
+  tbody td.right { text-align: right; font-variant-numeric: tabular-nums; }
+  tbody tr:nth-child(even) { background: #f8f9fa; }
+  .highlight { background: #fff3cd !important; font-weight: 600; }
+  .footer { margin-top: 12px; font-size: 8px; color: #6c757d; text-align: center; border-top: 1px solid #dee2e6; padding-top: 8px; }
+  .pos { color: #28a745; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Inflation Price Adjustment Report</h1>
+  <p>Rosslyn Veterinary Clinic &mdash; Generated 2026-04-01 &mdash; Based on billing volume (est. last 12 months from SERVICE.V2$)</p>
+</div>
+<div class="summary">
+  <div class="summary-box">
+    <div class="label">Stale Prices (with recent usage)</div>
+    <div class="value">47</div>
+  </div>
+  <div class="summary-box">
+    <div class="label">Estimated Annual Uplift</div>
+    <div class="value">$93,566.20</div>
+  </div>
+  <div class="summary-box">
+    <div class="label">Inflation Source</div>
+    <div class="value" style="font-size:11px">Statistics Canada CPI</div>
+  </div>
+  <div class="summary-box">
+    <div class="label">Volume Period</div>
+    <div class="value" style="font-size:11px">~Mar 2025 – Mar 2026</div>
+  </div>
+</div>
+<table>
+<thead>
+<tr>
+  <th>#</th>
+  <th>Code</th>
+  <th>Description</th>
+  <th class="right">Days Since Change</th>
+  <th class="right">Inflation %</th>
+  <th class="right">Current Price</th>
+  <th class="right">Suggested Price</th>
+  <th class="right">Delta</th>
+  <th class="right">Usage (365d)</th>
+  <th class="right">Est. Uplift</th>
+</tr>
+</thead>
+<tbody>
+<tr class="highlight">
+  <td>1</td>
+  <td><strong>2VW</strong></td>
+  <td>X-Rays,  2 Views</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$448.00</td>
+  <td class="right">$604.57</td>
+  <td class="right pos">+$156.57</td>
+  <td class="right">143</td>
+  <td class="right"><strong>$22,389.51</strong></td>
+</tr>
+<tr class="highlight">
+  <td>2</td>
+  <td><strong>V3</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$192.00</td>
+  <td class="right">$259.10</td>
+  <td class="right pos">+$67.10</td>
+  <td class="right">255</td>
+  <td class="right"><strong>$17,110.50</strong></td>
+</tr>
+<tr class="highlight">
+  <td>3</td>
+  <td><strong>GERI</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$332.24</td>
+  <td class="right">$448.36</td>
+  <td class="right pos">+$116.12</td>
+  <td class="right">147</td>
+  <td class="right"><strong>$17,069.64</strong></td>
+</tr>
+<tr class="highlight">
+  <td>4</td>
+  <td><strong>104</strong></td>
+  <td>Pulse Oximeter Monitoring</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$64.00</td>
+  <td class="right">$86.37</td>
+  <td class="right pos">+$22.37</td>
+  <td class="right">227</td>
+  <td class="right"><strong>$5,077.99</strong></td>
+</tr>
+<tr class="highlight">
+  <td>5</td>
+  <td><strong>SQ</strong></td>
+  <td></td>
+  <td class="right">3,806</td>
+  <td class="right">32.4%</td>
+  <td class="right">$102.40</td>
+  <td class="right">$135.53</td>
+  <td class="right pos">+$33.13</td>
+  <td class="right">122</td>
+  <td class="right"><strong>$4,041.86</strong></td>
+</tr>
+<tr>
+  <td>6</td>
+  <td><strong>CYTOLOGY</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$79.36</td>
+  <td class="right">$107.10</td>
+  <td class="right pos">+$27.74</td>
+  <td class="right">132</td>
+  <td class="right"><strong>$3,661.68</strong></td>
+</tr>
+<tr>
+  <td>7</td>
+  <td><strong>100</strong></td>
+  <td>Anesthesia Induction Fee</td>
+  <td class="right">3,383</td>
+  <td class="right">30.9%</td>
+  <td class="right">$396.80</td>
+  <td class="right">$519.32</td>
+  <td class="right pos">+$122.52</td>
+  <td class="right">22</td>
+  <td class="right"><strong>$2,695.44</strong></td>
+</tr>
+<tr>
+  <td>8</td>
+  <td><strong>1010</strong></td>
+  <td></td>
+  <td class="right">4,182</td>
+  <td class="right">35.0%</td>
+  <td class="right">$207.36</td>
+  <td class="right">$279.83</td>
+  <td class="right pos">+$72.47</td>
+  <td class="right">34</td>
+  <td class="right"><strong>$2,463.98</strong></td>
+</tr>
+<tr>
+  <td>9</td>
+  <td><strong>3VW</strong></td>
+  <td>X-Rays  Additional</td>
+  <td class="right">3,752</td>
+  <td class="right">32.4%</td>
+  <td class="right">$179.20</td>
+  <td class="right">$237.18</td>
+  <td class="right pos">+$57.98</td>
+  <td class="right">41</td>
+  <td class="right"><strong>$2,377.18</strong></td>
+</tr>
+<tr>
+  <td>10</td>
+  <td><strong>FL</strong></td>
+  <td></td>
+  <td class="right">3,746</td>
+  <td class="right">32.4%</td>
+  <td class="right">$76.80</td>
+  <td class="right">$101.65</td>
+  <td class="right pos">+$24.85</td>
+  <td class="right">88</td>
+  <td class="right"><strong>$2,186.80</strong></td>
+</tr>
+<tr>
+  <td>11</td>
+  <td><strong>VACCFELC</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$207.36</td>
+  <td class="right">$279.83</td>
+  <td class="right pos">+$72.47</td>
+  <td class="right">27</td>
+  <td class="right"><strong>$1,956.69</strong></td>
+</tr>
+<tr>
+  <td>12</td>
+  <td><strong>FLU</strong></td>
+  <td></td>
+  <td class="right">3,381</td>
+  <td class="right">30.9%</td>
+  <td class="right">$256.00</td>
+  <td class="right">$335.04</td>
+  <td class="right pos">+$79.04</td>
+  <td class="right">24</td>
+  <td class="right"><strong>$1,896.96</strong></td>
+</tr>
+<tr>
+  <td>13</td>
+  <td><strong>BLOOD</strong></td>
+  <td></td>
+  <td class="right">4,117</td>
+  <td class="right">35.0%</td>
+  <td class="right">$305.92</td>
+  <td class="right">$412.84</td>
+  <td class="right pos">+$106.92</td>
+  <td class="right">13</td>
+  <td class="right"><strong>$1,389.96</strong></td>
+</tr>
+<tr>
+  <td>14</td>
+  <td><strong>BM1</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$66.56</td>
+  <td class="right">$89.82</td>
+  <td class="right pos">+$23.26</td>
+  <td class="right">42</td>
+  <td class="right"><strong>$976.92</strong></td>
+</tr>
+<tr>
+  <td>15</td>
+  <td><strong>HD</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$89.60</td>
+  <td class="right">$120.91</td>
+  <td class="right pos">+$31.31</td>
+  <td class="right">30</td>
+  <td class="right"><strong>$939.30</strong></td>
+</tr>
+<tr>
+  <td>16</td>
+  <td><strong>OXY</strong></td>
+  <td>Oxygen therapy - first hour</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$307.20</td>
+  <td class="right">$414.56</td>
+  <td class="right pos">+$107.36</td>
+  <td class="right">6</td>
+  <td class="right"><strong>$644.16</strong></td>
+</tr>
+<tr>
+  <td>17</td>
+  <td><strong>VACCLC</strong></td>
+  <td></td>
+  <td class="right">4,149</td>
+  <td class="right">35.0%</td>
+  <td class="right">$207.36</td>
+  <td class="right">$279.83</td>
+  <td class="right pos">+$72.47</td>
+  <td class="right">8</td>
+  <td class="right"><strong>$579.76</strong></td>
+</tr>
+<tr>
+  <td>18</td>
+  <td><strong>IV</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$115.20</td>
+  <td class="right">$155.46</td>
+  <td class="right pos">+$40.26</td>
+  <td class="right">14</td>
+  <td class="right"><strong>$563.64</strong></td>
+</tr>
+<tr>
+  <td>19</td>
+  <td><strong>PHE</strong></td>
+  <td>Phenobarbital Level OUT</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$168.76</td>
+  <td class="right">$227.74</td>
+  <td class="right pos">+$58.98</td>
+  <td class="right">9</td>
+  <td class="right"><strong>$530.82</strong></td>
+</tr>
+<tr>
+  <td>20</td>
+  <td><strong>CBC1</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$145.92</td>
+  <td class="right">$196.92</td>
+  <td class="right pos">+$51.00</td>
+  <td class="right">10</td>
+  <td class="right"><strong>$510.00</strong></td>
+</tr>
+<tr>
+  <td>21</td>
+  <td><strong>HN</strong></td>
+  <td>Hospitalization 24 hours (overnight)</td>
+  <td class="right">3,383</td>
+  <td class="right">30.9%</td>
+  <td class="right">$230.40</td>
+  <td class="right">$301.54</td>
+  <td class="right pos">+$71.14</td>
+  <td class="right">6</td>
+  <td class="right"><strong>$426.84</strong></td>
+</tr>
+<tr>
+  <td>22</td>
+  <td><strong>GEN</strong></td>
+  <td>General Panel with CPL IN CLINIC</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$237.31</td>
+  <td class="right">$320.25</td>
+  <td class="right pos">+$82.94</td>
+  <td class="right">5</td>
+  <td class="right"><strong>$414.70</strong></td>
+</tr>
+<tr>
+  <td>23</td>
+  <td><strong>FN1</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$171.52</td>
+  <td class="right">$231.47</td>
+  <td class="right pos">+$59.95</td>
+  <td class="right">6</td>
+  <td class="right"><strong>$359.70</strong></td>
+</tr>
+<tr>
+  <td>24</td>
+  <td><strong>011041</strong></td>
+  <td>Snap cPL - in house</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$119.04</td>
+  <td class="right">$160.64</td>
+  <td class="right pos">+$41.60</td>
+  <td class="right">8</td>
+  <td class="right"><strong>$332.80</strong></td>
+</tr>
+<tr>
+  <td>25</td>
+  <td><strong>PARVO</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$148.48</td>
+  <td class="right">$200.37</td>
+  <td class="right pos">+$51.89</td>
+  <td class="right">6</td>
+  <td class="right"><strong>$311.34</strong></td>
+</tr>
+<tr>
+  <td>26</td>
+  <td><strong>FDCD</strong></td>
+  <td>Diarrhea RealPCR Panel (Comp)Feline OUT</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$416.82</td>
+  <td class="right">$562.50</td>
+  <td class="right pos">+$145.68</td>
+  <td class="right">2</td>
+  <td class="right"><strong>$291.36</strong></td>
+</tr>
+<tr>
+  <td>27</td>
+  <td><strong>BM2</strong></td>
+  <td>Vaginal Swab (With Cytology) IN</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$119.04</td>
+  <td class="right">$160.64</td>
+  <td class="right pos">+$41.60</td>
+  <td class="right">7</td>
+  <td class="right"><strong>$291.20</strong></td>
+</tr>
+<tr>
+  <td>28</td>
+  <td><strong>121</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$192.00</td>
+  <td class="right">$259.10</td>
+  <td class="right pos">+$67.10</td>
+  <td class="right">4</td>
+  <td class="right"><strong>$268.40</strong></td>
+</tr>
+<tr>
+  <td>29</td>
+  <td><strong>BG1</strong></td>
+  <td>Blood Glucose - First</td>
+  <td class="right">3,975</td>
+  <td class="right">32.4%</td>
+  <td class="right">$74.24</td>
+  <td class="right">$98.26</td>
+  <td class="right pos">+$24.02</td>
+  <td class="right">11</td>
+  <td class="right"><strong>$264.22</strong></td>
+</tr>
+<tr>
+  <td>30</td>
+  <td><strong>1234</strong></td>
+  <td>Impression Smear with cytology</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$79.36</td>
+  <td class="right">$107.10</td>
+  <td class="right pos">+$27.74</td>
+  <td class="right">9</td>
+  <td class="right"><strong>$249.66</strong></td>
+</tr>
+<tr>
+  <td>31</td>
+  <td><strong>IVF</strong></td>
+  <td></td>
+  <td class="right">3,383</td>
+  <td class="right">30.9%</td>
+  <td class="right">$140.80</td>
+  <td class="right">$184.27</td>
+  <td class="right pos">+$43.47</td>
+  <td class="right">3</td>
+  <td class="right"><strong>$130.41</strong></td>
+</tr>
+<tr>
+  <td>32</td>
+  <td><strong>308</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$179.20</td>
+  <td class="right">$241.83</td>
+  <td class="right pos">+$62.63</td>
+  <td class="right">2</td>
+  <td class="right"><strong>$125.26</strong></td>
+</tr>
+<tr>
+  <td>33</td>
+  <td><strong>FLU1</strong></td>
+  <td>Fluids  Additional  Bag</td>
+  <td class="right">3,853</td>
+  <td class="right">32.4%</td>
+  <td class="right">$74.24</td>
+  <td class="right">$98.26</td>
+  <td class="right pos">+$24.02</td>
+  <td class="right">5</td>
+  <td class="right"><strong>$120.10</strong></td>
+</tr>
+<tr>
+  <td>34</td>
+  <td><strong>AUR</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$56.32</td>
+  <td class="right">$76.00</td>
+  <td class="right pos">+$19.68</td>
+  <td class="right">6</td>
+  <td class="right"><strong>$118.08</strong></td>
+</tr>
+<tr>
+  <td>35</td>
+  <td><strong>IC</strong></td>
+  <td>Intensive Care/Isolation Ward/24H</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$294.40</td>
+  <td class="right">$397.29</td>
+  <td class="right pos">+$102.89</td>
+  <td class="right">1</td>
+  <td class="right"><strong>$102.89</strong></td>
+</tr>
+<tr>
+  <td>36</td>
+  <td><strong>BG</strong></td>
+  <td>Blood Glucose - Additional</td>
+  <td class="right">3,698</td>
+  <td class="right">30.9%</td>
+  <td class="right">$52.74</td>
+  <td class="right">$69.02</td>
+  <td class="right pos">+$16.28</td>
+  <td class="right">6</td>
+  <td class="right"><strong>$97.68</strong></td>
+</tr>
+<tr>
+  <td>37</td>
+  <td><strong>SCRAP</strong></td>
+  <td>Skin Tape impression</td>
+  <td class="right">4,482</td>
+  <td class="right">36.2%</td>
+  <td class="right">$131.84</td>
+  <td class="right">$179.54</td>
+  <td class="right pos">+$47.70</td>
+  <td class="right">2</td>
+  <td class="right"><strong>$95.40</strong></td>
+</tr>
+<tr>
+  <td>38</td>
+  <td><strong>CHAR</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$76.80</td>
+  <td class="right">$103.64</td>
+  <td class="right pos">+$26.84</td>
+  <td class="right">3</td>
+  <td class="right"><strong>$80.52</strong></td>
+</tr>
+<tr>
+  <td>39</td>
+  <td><strong>304</strong></td>
+  <td></td>
+  <td class="right">3,752</td>
+  <td class="right">32.4%</td>
+  <td class="right">$115.20</td>
+  <td class="right">$152.47</td>
+  <td class="right pos">+$37.27</td>
+  <td class="right">2</td>
+  <td class="right"><strong>$74.54</strong></td>
+</tr>
+<tr>
+  <td>40</td>
+  <td><strong>ANEXA</strong></td>
+  <td></td>
+  <td class="right">3,947</td>
+  <td class="right">32.4%</td>
+  <td class="right">$115.20</td>
+  <td class="right">$152.47</td>
+  <td class="right pos">+$37.27</td>
+  <td class="right">2</td>
+  <td class="right"><strong>$74.54</strong></td>
+</tr>
+<tr>
+  <td>41</td>
+  <td><strong>PROG</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$210.94</td>
+  <td class="right">$284.66</td>
+  <td class="right pos">+$73.72</td>
+  <td class="right">1</td>
+  <td class="right"><strong>$73.72</strong></td>
+</tr>
+<tr>
+  <td>42</td>
+  <td><strong>1201</strong></td>
+  <td>PCV/Ts Blood Smear/Differential</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$153.60</td>
+  <td class="right">$207.28</td>
+  <td class="right pos">+$53.68</td>
+  <td class="right">1</td>
+  <td class="right"><strong>$53.68</strong></td>
+</tr>
+<tr>
+  <td>43</td>
+  <td><strong>1015</strong></td>
+  <td>House Call(Travel Fee)-add mileage</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$128.00</td>
+  <td class="right">$172.74</td>
+  <td class="right pos">+$44.74</td>
+  <td class="right">1</td>
+  <td class="right"><strong>$44.74</strong></td>
+</tr>
+<tr>
+  <td>44</td>
+  <td><strong>116</strong></td>
+  <td>Anaesthetic - Local</td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$115.20</td>
+  <td class="right">$155.46</td>
+  <td class="right pos">+$40.26</td>
+  <td class="right">1</td>
+  <td class="right"><strong>$40.26</strong></td>
+</tr>
+<tr>
+  <td>45</td>
+  <td><strong>DEX</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$89.60</td>
+  <td class="right">$120.91</td>
+  <td class="right pos">+$31.31</td>
+  <td class="right">1</td>
+  <td class="right"><strong>$31.31</strong></td>
+</tr>
+<tr>
+  <td>46</td>
+  <td><strong>STAN1</strong></td>
+  <td></td>
+  <td class="right">4,202</td>
+  <td class="right">35.0%</td>
+  <td class="right">$25.60</td>
+  <td class="right">$34.55</td>
+  <td class="right pos">+$8.95</td>
+  <td class="right">3</td>
+  <td class="right"><strong>$26.85</strong></td>
+</tr>
+<tr>
+  <td>47</td>
+  <td><strong>DOXYC</strong></td>
+  <td></td>
+  <td class="right">4,474</td>
+  <td class="right">35.0%</td>
+  <td class="right">$3.07</td>
+  <td class="right">$4.14</td>
+  <td class="right pos">+$1.07</td>
+  <td class="right">3</td>
+  <td class="right"><strong>$3.21</strong></td>
+</tr>
+</tbody>
+</table>
+<div class="footer">
+  Avimark ETL &mdash; CPI rates: Statistics Canada (2013–2024), Bank of Canada forecast (2025–2026) &mdash; Usage from SERVICE.V2$ (last ~12 months, position-estimated)
+</div>
+</body>
+</html>

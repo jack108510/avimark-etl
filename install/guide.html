@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: A4; margin: 20mm; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; color: #1a1a1a; line-height: 1.6; margin: 0; padding: 0; }
+  .header { background: linear-gradient(135deg, #1e3a5f 0%, #2d5986 100%); color: white; padding: 25px 30px; margin-bottom: 20px; border-radius: 4px; }
+  .header h1 { margin: 0 0 6px 0; font-size: 22px; font-weight: 600; }
+  .header p { margin: 0; font-size: 12px; opacity: 0.85; }
+  h2 { color: #1e3a5f; border-bottom: 2px solid #dee2e6; padding-bottom: 6px; margin-top: 25px; font-size: 15px; }
+  h3 { color: #2d5986; margin-top: 18px; font-size: 13px; }
+  .step { background: #f8f9fa; border-left: 4px solid #1e3a5f; padding: 12px 16px; margin: 12px 0; border-radius: 0 4px 4px 0; }
+  .step-num { background: #1e3a5f; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; font-weight: 700; font-size: 12px; margin-right: 8px; }
+  code { background: #e9ecef; padding: 2px 6px; border-radius: 3px; font-family: 'Consolas', 'Courier New', monospace; font-size: 10.5px; }
+  pre { background: #1a1a2e; color: #e0e0e0; padding: 14px 18px; border-radius: 6px; overflow-x: auto; font-family: 'Consolas', 'Courier New', monospace; font-size: 10.5px; line-height: 1.5; }
+  pre .comment { color: #6a9955; }
+  pre .highlight { color: #4ec9b0; }
+  .warning { background: #fff3cd; border: 1px solid #ffc107; padding: 10px 14px; border-radius: 4px; margin: 12px 0; }
+  .warning strong { color: #856404; }
+  .success { background: #d4edda; border: 1px solid #28a745; padding: 10px 14px; border-radius: 4px; margin: 12px 0; }
+  .info-box { background: #d1ecf1; border: 1px solid #17a2b8; padding: 10px 14px; border-radius: 4px; margin: 12px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 10.5px; }
+  th { background: #1e3a5f; color: white; padding: 8px 10px; text-align: left; font-size: 10px; }
+  td { padding: 6px 10px; border-bottom: 1px solid #e9ecef; }
+  tr:nth-child(even) { background: #f8f9fa; }
+  .footer { margin-top: 30px; padding-top: 12px; border-top: 1px solid #dee2e6; font-size: 9px; color: #6c757d; text-align: center; }
+  .req { display: inline-block; background: #e9ecef; padding: 4px 10px; border-radius: 4px; margin: 3px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Avimark ETL — Installation Guide</h1>
+  <p>Automated nightly sync: Avimark V2$ flat files → Supabase SQL database</p>
+</div>
+
+<h2>Overview</h2>
+<p>This tool reads Avimark Classic's proprietary V2$ binary data files and uploads them to a Supabase PostgreSQL database every night. It parses 29 tables covering clients, patients, services, billing, medical records, prescriptions, vaccines, and more — totaling ~2.5 million rows.</p>
+
+<h2>Requirements</h2>
+<div style="margin: 10px 0;">
+  <span class="req">✅ Windows 7/10/11 or Server 2012+</span>
+  <span class="req">✅ Node.js v18+ (LTS)</span>
+  <span class="req">✅ Avimark Classic installed (V2$ files accessible)</span>
+  <span class="req">✅ Internet connection (for Supabase uploads)</span>
+  <span class="req">✅ Supabase project with tables created</span>
+</div>
+
+<h2>Installation Steps</h2>
+
+<div class="step">
+  <span class="step-num">1</span>
+  <strong>Install Node.js</strong><br>
+  Download from <code>https://nodejs.org</code> — choose the LTS version. Run the installer with default settings.
+  Verify: open Command Prompt and run <code>node --version</code>
+</div>
+
+<div class="step">
+  <span class="step-num">2</span>
+  <strong>Copy the project folder</strong><br>
+  Copy the entire <code>avimark-etl</code> folder to the target machine. Recommended location: <code>C:\avimark-etl</code>
+<pre>
+<span class="comment">:: From a USB drive:</span>
+xcopy E:\avimark-etl C:\avimark-etl /E /I
+
+<span class="comment">:: Or over the network:</span>
+xcopy \\SERVER\share\avimark-etl C:\avimark-etl /E /I
+</pre>
+</div>
+
+<div class="step">
+  <span class="step-num">3</span>
+  <strong>Configure the .env file</strong><br>
+  Open <code>C:\avimark-etl\.env</code> in Notepad and verify these values:
+<pre>
+SUPABASE_URL=https://rnqhhzatlxmyvccdvqkr.supabase.co
+SUPABASE_SERVICE_KEY=eyJhbGci... <span class="comment">(your service key)</span>
+AVIMARK_DATA_DIR=C:\AVImark     <span class="comment">(path to V2$ files on THIS machine)</span>
+</pre>
+  <div class="warning">
+    <strong>⚠️ Important:</strong> The <code>AVIMARK_DATA_DIR</code> must point to where the V2$ files are on the new machine. If Avimark is installed on a different drive or path, update accordingly.
+  </div>
+</div>
+
+<div class="step">
+  <span class="step-num">4</span>
+  <strong>Run the installer</strong><br>
+  Double-click <code>install\install.bat</code> or run from Command Prompt:
+<pre>
+cd C:\avimark-etl
+install\install.bat
+</pre>
+  The installer will:
+  <ul>
+    <li>Verify Node.js is installed</li>
+    <li>Install npm dependencies</li>
+    <li>Detect the AVImark data folder</li>
+    <li>Run a test parse to verify everything works</li>
+    <li>Create a Windows Scheduled Task for nightly sync at 2:00 AM</li>
+  </ul>
+</div>
+
+<div class="step">
+  <span class="step-num">5</span>
+  <strong>Run the first full sync</strong><br>
+<pre>
+cd C:\avimark-etl
+node src/etl.js --all
+</pre>
+  This takes ~15 minutes to push all 2.5M rows. Subsequent nightly runs take the same time (full upsert).
+</div>
+
+<div class="success">
+  <strong>✅ Done!</strong> The ETL will now sync every night at 2:00 AM automatically.
+</div>
+
+<h2>Files &amp; Folders</h2>
+<table>
+  <tr><th>Path</th><th>Description</th></tr>
+  <tr><td><code>.env</code></td><td>Supabase credentials and AVImark path</td></tr>
+  <tr><td><code>sync.bat</code></td><td>The batch file that runs nightly</td></tr>
+  <tr><td><code>sync.log</code></td><td>Log file — check here if something goes wrong</td></tr>
+  <tr><td><code>src/etl.js</code></td><td>Main ETL script</td></tr>
+  <tr><td><code>src/parsers/</code></td><td>One parser per V2$ file type</td></tr>
+  <tr><td><code>src/supabase.js</code></td><td>Supabase connection and upsert logic</td></tr>
+  <tr><td><code>install/install.bat</code></td><td>Automated installer</td></tr>
+  <tr><td><code>migrations/</code></td><td>SQL to create Supabase tables</td></tr>
+</table>
+
+<h2>Tables Synced (29 total)</h2>
+<table>
+  <tr><th>Supabase Table</th><th>Source File</th><th>~Rows</th><th>Description</th></tr>
+  <tr><td>clients</td><td>CLIENT.V2$</td><td>14,000</td><td>Pet owners</td></tr>
+  <tr><td>animals</td><td>ANIMAL.V2$</td><td>27,000</td><td>Patients (pets)</td></tr>
+  <tr><td>services</td><td>SERVICE.V2$</td><td>623,000</td><td>Service line items (charges)</td></tr>
+  <tr><td>accounts</td><td>ACCOUNT.V2$</td><td>527,000</td><td>Financial transactions</td></tr>
+  <tr><td>procedures</td><td>PROC.V2$</td><td>408,000</td><td>Procedures performed</td></tr>
+  <tr><td>variances</td><td>VARIANCE.V2$</td><td>239,000</td><td>Price variances/adjustments</td></tr>
+  <tr><td>whiteboard</td><td>WBOARD.V2$</td><td>160,000</td><td>In-clinic status board</td></tr>
+  <tr><td>quote_details</td><td>QUOTAIL.V2$</td><td>124,000</td><td>Estimate line items</td></tr>
+  <tr><td>appointments</td><td>APPOINT.V2$</td><td>106,000</td><td>Scheduled appointments</td></tr>
+  <tr><td>prescriptions</td><td>PRESCRIP.V2$</td><td>75,000</td><td>Prescriptions</td></tr>
+  <tr><td>medical</td><td>MEDICAL.V2$</td><td>53,000</td><td>Medical records</td></tr>
+  <tr><td>visits</td><td>VISIT.V2$</td><td>46,000</td><td>Visit records with dates</td></tr>
+  <tr><td>audit_log</td><td>AUDIT.V2$</td><td>39,000</td><td>Audit trail (charges, changes)</td></tr>
+  <tr><td>vaccines</td><td>VACCINE.V2$</td><td>32,000</td><td>Vaccination records</td></tr>
+  <tr><td>followups</td><td>FOLLOW.V2$</td><td>26,000</td><td>Follow-up reminders</td></tr>
+  <tr><td>quotes</td><td>QUOTE.V2$</td><td>17,000</td><td>Estimate headers</td></tr>
+  <tr><td>usage_records</td><td>USAGE.V2$</td><td>14,000</td><td>Inventory usage</td></tr>
+  <tr><td>prob_history</td><td>PROBHIST.V2$</td><td>7,700</td><td>Problem history</td></tr>
+  <tr><td>items</td><td>ITEM.V2$</td><td>5,000</td><td>Inventory items</td></tr>
+  <tr><td>prices</td><td>PRICE.V2$</td><td>2,400</td><td>Fee schedule</td></tr>
+  <tr><td>diagnoses</td><td>DIAGNOSE.V2$</td><td>1,300</td><td>Diagnosis codes</td></tr>
+  <tr><td>problems</td><td>PROBLEM.V2$</td><td>800</td><td>Problem list</td></tr>
+  <tr><td>treatments</td><td>TREAT.V2$</td><td>722</td><td>Treatment definitions</td></tr>
+  <tr><td>vendors</td><td>VENDOR.V2$</td><td>391</td><td>Suppliers</td></tr>
+  <tr><td>users</td><td>USER.V2$</td><td>190</td><td>Staff accounts</td></tr>
+  <tr><td>resources</td><td>RESOURCE.V2$</td><td>131</td><td>Rooms/equipment</td></tr>
+  <tr><td>estimates</td><td>ESTIMATE.V2$</td><td>122</td><td>Estimate definitions</td></tr>
+  <tr><td>lookup_tables</td><td>TABLE.V2$</td><td>49</td><td>Lookup tables (species, breeds)</td></tr>
+  <tr><td>categories</td><td>CATEGORY.V2$</td><td>27</td><td>Category definitions</td></tr>
+</table>
+
+<h2>Troubleshooting</h2>
+
+<h3>Sync fails with "ENOENT" or "File not found"</h3>
+<p>The <code>AVIMARK_DATA_DIR</code> in <code>.env</code> is wrong. Update it to the correct path where V2$ files are stored.</p>
+
+<h3>Sync fails with "Missing SUPABASE_URL"</h3>
+<p>The <code>.env</code> file is missing or incomplete. Make sure both <code>SUPABASE_URL</code> and <code>SUPABASE_SERVICE_KEY</code> are set.</p>
+
+<h3>Scheduled task doesn't run</h3>
+<p>Open Task Scheduler (<code>taskschd.msc</code>), find "Avimark ETL Nightly Sync", and check:</p>
+<ul>
+  <li>The task is enabled</li>
+  <li>"Run whether user is logged on or not" is selected</li>
+  <li>The user account has permission to run</li>
+</ul>
+
+<h3>Checking the sync log</h3>
+<pre>
+type C:\avimark-etl\sync.log
+<span class="comment">:: Or open in Notepad:</span>
+notepad C:\avimark-etl\sync.log
+</pre>
+
+<h3>Running a manual sync</h3>
+<pre>
+cd C:\avimark-etl
+node src/etl.js --all              <span class="comment">:: Sync everything</span>
+node src/etl.js --table clients    <span class="comment">:: Sync one table</span>
+node src/etl.js --dry-run --all    <span class="comment">:: Parse without uploading</span>
+</pre>
+
+<div class="footer">
+  Avimark ETL — Rosslyn Veterinary Clinic — Generated April 2026
+</div>
+
+</body>
+</html>
