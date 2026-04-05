@@ -53,6 +53,7 @@ export class PurchaseOrderParser extends V2Parser {
         vendor_code,
         item_code: null,
         quantity: null,
+        cost: null,
       };
     } else {
       // LINE ITEM record
@@ -60,11 +61,15 @@ export class PurchaseOrderParser extends V2Parser {
       const qtyStr = buf.toString('ascii', 0, 12).replace(/[\x00-\x1F\x7F-\xFF]/g, '').trim();
       const quantity = parseInt(qtyStr) || 0;
 
-      // Item code is Pascal string around @13
-      const codeLen = Math.min(buf[13] || 0, 14);
+      // Item code: length byte at @12, chars at @13
+      const codeLen = Math.min(buf[12] || 0, 14);
       const item_code = codeLen > 0
-        ? buf.toString('ascii', 14, 14 + codeLen).replace(/[\x00-\x1F\x7F-\xFF]/g, '').trim()
+        ? buf.toString('ascii', 13, 13 + codeLen).replace(/[\x00-\x1F\x7F-\xFF]/g, '').trim()
         : '';
+
+      // Cost at offset 32: int32 / 10000
+      const rawCost = buf.readInt32LE(32);
+      const cost = rawCost > 0 ? Math.round(rawCost / 100) / 100 : 0;
 
       if (!item_code && !quantity) return null;
 
@@ -76,6 +81,7 @@ export class PurchaseOrderParser extends V2Parser {
         vendor_code: null,
         item_code,
         quantity,
+        cost: cost > 0 ? cost : null,
       };
     }
   }
