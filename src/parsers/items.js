@@ -24,6 +24,10 @@ export class ItemParser extends V2Parser {
     // Value of 1 = sold as individual units (no conversion needed)
     const pack_size = buf.readInt16LE(154) || 1;
 
+    // Service code link @261 (Pascal string) — links inventory to billing code
+    // When present, this code matches services.code for COGS calculations
+    const service_code = this.extractString(buf, 261, 20) || null;
+
     if (!name) return null;
 
     return {
@@ -32,6 +36,7 @@ export class ItemParser extends V2Parser {
       name,
       uom: uom || null,
       pack_size: pack_size > 0 ? pack_size : 1,
+      service_code,
     };
   }
 }

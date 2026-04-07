@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: A4; margin: 15mm; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; color: #1a1a1a; line-height: 1.5; margin: 0; padding: 0; }
+  .header { background: linear-gradient(135deg, #1e3a5f 0%, #2d5986 100%); color: white; padding: 25px 30px; margin-bottom: 20px; border-radius: 4px; }
+  .header h1 { margin: 0 0 4px 0; font-size: 22px; font-weight: 600; }
+  .header p { margin: 0; font-size: 11px; opacity: 0.85; }
+  h2 { color: #1e3a5f; border-bottom: 2px solid #1e3a5f; padding-bottom: 5px; margin-top: 25px; font-size: 14px; page-break-after: avoid; }
+  h3 { color: #2d5986; margin-top: 15px; font-size: 12px; page-break-after: avoid; }
+  pre { background: #1e1e2e; color: #cdd6f4; padding: 12px 16px; border-radius: 6px; font-family: 'Consolas', monospace; font-size: 9px; line-height: 1.4; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word; }
+  code { background: #e9ecef; padding: 1px 5px; border-radius: 3px; font-family: 'Consolas', monospace; font-size: 9.5px; }
+  .step { background: #f8f9fa; border-left: 4px solid #1e3a5f; padding: 10px 14px; margin: 10px 0; border-radius: 0 4px 4px 0; }
+  .step-num { background: #1e3a5f; color: white; border-radius: 50%; width: 22px; height: 22px; display: inline-flex; align-items: center; justify-content: center; font-weight: 700; font-size: 11px; margin-right: 6px; }
+  .warning { background: #fff3cd; border-left: 4px solid #ffc107; padding: 8px 12px; margin: 10px 0; border-radius: 0 4px 4px 0; }
+  .success { background: #d4edda; border-left: 4px solid #28a745; padding: 8px 12px; margin: 10px 0; border-radius: 0 4px 4px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 9px; }
+  thead th { background: #1e3a5f; color: white; padding: 5px 8px; text-align: left; font-size: 8.5px; text-transform: uppercase; }
+  tbody td { padding: 4px 8px; border-bottom: 1px solid #e9ecef; }
+  tbody tr:nth-child(even) { background: #f8f9fa; }
+  .footer { margin-top: 20px; padding-top: 8px; border-top: 1px solid #dee2e6; font-size: 8px; color: #6c757d; text-align: center; }
+  .toc { background: #f8f9fa; padding: 15px 20px; border-radius: 6px; margin: 15px 0; }
+  .toc a { color: #1e3a5f; text-decoration: none; }
+  .toc li { margin: 3px 0; }
+  .page-break { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Avimark ETL — Complete Deployment Guide v2</h1>
+  <p>Rosslyn Veterinary Clinic &mdash; Avimark V2$ &rarr; Supabase PostgreSQL &mdash; April 2026</p>
+</div>
+
+<div class="toc">
+  <strong>Contents</strong>
+  <ol>
+    <li>Overview &amp; Requirements</li>
+    <li>Step-by-Step Installation</li>
+    <li>Windows Scheduled Task Setup</li>
+    <li>Supabase SQL — Create All Tables</li>
+    <li>Table Reference (30 tables)</li>
+    <li>Manual Commands &amp; Troubleshooting</li>
+    <li>Dashboard (GitHub Pages)</li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<h2>1. Overview &amp; Requirements</h2>
+
+<p>This tool reads Avimark Classic's proprietary V2$ binary data files and uploads them to a Supabase PostgreSQL database. It syncs <strong>30 tables</strong> totaling <strong>~2.58 million rows</strong> nightly at 2:00 AM via Windows Task Scheduler.</p>
+
+<p><strong>Requirements:</strong></p>
+<ul>
+  <li>Windows 7/10/11 or Server 2012+</li>
+  <li>Node.js v18+ LTS — <code>https://nodejs.org</code></li>
+  <li>Avimark Classic installed (V2$ files accessible on disk)</li>
+  <li>Internet connection (for Supabase uploads)</li>
+  <li>Supabase project URL + service key</li>
+</ul>
+
+<p><strong>Key Info:</strong></p>
+<ul>
+  <li><strong>GitHub:</strong> <code>https://github.com/jack108510/avimark-etl</code></li>
+  <li><strong>Supabase:</strong> <code>https://rnqhhzatlxmyvccdvqkr.supabase.co</code></li>
+  <li><strong>Dashboard:</strong> <code>https://jack108510.github.io/avimark-etl/</code></li>
+  <li><strong>Nightly Sync:</strong> 2:00 AM via Windows Task Scheduler</li>
+  <li><strong>Sync Log:</strong> <code>C:\avimark-etl\sync.log</code></li>
+</ul>
+
+<!-- ============================================================ -->
+<h2>2. Step-by-Step Installation</h2>
+
+<div class="step">
+  <span class="step-num">1</span> <strong>Install Node.js</strong><br>
+  Download LTS from <code>https://nodejs.org</code>. Run installer with defaults. Verify: <code>node --version</code>
+</div>
+
+<div class="step">
+  <span class="step-num">2</span> <strong>Clone or copy the project folder to the target machine</strong>
+<pre>git clone https://github.com/jack108510/avimark-etl.git C:\avimark-etl
+-- or --
+xcopy E:\avimark-etl C:\avimark-etl /E /I</pre>
+</div>
+
+<div class="step">
+  <span class="step-num">3</span> <strong>Install dependencies</strong>
+<pre>cd C:\avimark-etl
+npm install --production</pre>
+</div>
+
+<div class="step">
+  <span class="step-num">4</span> <strong>Configure .env</strong><br>
+  Create <code>C:\avimark-etl\.env</code> in Notepad:
+<pre>SUPABASE_URL=https://rnqhhzatlxmyvccdvqkr.supabase.co
+SUPABASE_SERVICE_KEY=eyJhbGci...  (your service key from Supabase dashboard → Settings → API)
+AVIMARK_DATA_DIR=C:\AVImark       (path to V2$ files on THIS machine)</pre>
+  <div class="warning"><strong>⚠ Security:</strong> Never commit .env to git or share the service key publicly.</div>
+</div>
+
+<div class="step">
+  <span class="step-num">5</span> <strong>Create Supabase tables</strong><br>
+  Run the SQL from Section 4 in the Supabase SQL Editor (Dashboard → SQL Editor → New query).
+</div>
+
+<div class="step">
+  <span class="step-num">6</span> <strong>Test the ETL</strong>
+<pre>cd C:\avimark-etl
+node src/etl.js --all</pre>
+  Expected: ~2.58M rows across 30 tables, zero errors. Takes ~15 minutes on first run.
+</div>
+
+<div class="step">
+  <span class="step-num">7</span> <strong>Create the nightly scheduled task</strong> (see Section 3)
+</div>
+
+<div class="success"><strong>Done!</strong> The ETL syncs every night at 2:00 AM. Check logs: <code>C:\avimark-etl\sync.log</code></div>
+
+<!-- ============================================================ -->
+<h2>3. Windows Scheduled Task Setup</h2>
+
+<p><strong>sync.bat</strong> is included in the project root. It logs timestamps and runs the ETL:</p>
+<pre>@echo off
+echo [%date% %time%] Starting Avimark ETL sync... >> C:\avimark-etl\sync.log
+cd /d C:\avimark-etl
+node src/etl.js --all >> sync.log 2>&1
+echo [%date% %time%] Sync complete (exit code: %ERRORLEVEL%) >> sync.log</pre>
+
+<p>Open <strong>Command Prompt as Administrator</strong> and run:</p>
+<pre>schtasks /create /tn "Avimark ETL Nightly Sync" /tr "C:\avimark-etl\sync.bat" /sc daily /st 02:00 /f</pre>
+
+<p><strong>Useful commands:</strong></p>
+<pre>schtasks /query /tn "Avimark ETL Nightly Sync"    -- Check status
+schtasks /run /tn "Avimark ETL Nightly Sync"       -- Run now (test)
+schtasks /change /tn "Avimark ETL Nightly Sync" /st 03:00  -- Change time
+schtasks /delete /tn "Avimark ETL Nightly Sync" /f         -- Remove</pre>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>4. Supabase SQL — Create All Tables</h2>
+
+<p>Copy and paste this entire block into the <strong>Supabase SQL Editor</strong>:</p>
+
+<pre>-- ============================================================
+-- Avimark ETL — Complete Table Schema (30 tables)
+-- Generated April 2, 2026
+-- ============================================================
+
+-- Core: Clients, Animals, Staff
+CREATE TABLE IF NOT EXISTS clients (
+  record_num INTEGER PRIMARY KEY,
+  last_name TEXT, first_name TEXT, address TEXT,
+  city TEXT, state TEXT, zip TEXT, phone TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS animals (
+  record_num INTEGER PRIMARY KEY,
+  name TEXT, species TEXT, breed TEXT, color TEXT,
+  sex TEXT, weight NUMERIC, dob TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS users (
+  record_num INTEGER PRIMARY KEY,
+  code TEXT, name TEXT, title TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Billing: Services, Prices, Treatments, Items
+CREATE TABLE IF NOT EXISTS services (
+  record_num INTEGER PRIMARY KEY,
+  service_type TEXT, code TEXT, description TEXT,
+  amount NUMERIC, quantity NUMERIC,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS prices (
+  record_num INTEGER PRIMARY KEY,
+  treatment_code TEXT, price NUMERIC,
+  created_at TIMESTAMPTZ DEFAULT now(),
+  updated_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS treatments (
+  record_num INTEGER PRIMARY KEY,
+  code TEXT, name TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS items (
+  record_num INTEGER PRIMARY KEY,
+  code TEXT, name TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Financial
+CREATE TABLE IF NOT EXISTS accounts (
+  record_num INTEGER PRIMARY KEY,
+  txn_date TIMESTAMP, type_flag INTEGER,
+  description TEXT, amount_raw INTEGER, field_122 INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS variances (
+  record_num INTEGER PRIMARY KEY,
+  variance_date TIMESTAMP, code TEXT, description TEXT,
+  amount NUMERIC, field_type INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS estimates (
+  record_num INTEGER PRIMARY KEY,
+  estimate_date TIMESTAMP, description TEXT,
+  amount NUMERIC, status INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS quotes (
+  record_num INTEGER PRIMARY KEY,
+  quote_date TIMESTAMP, name TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS quote_details (
+  record_num INTEGER PRIMARY KEY,
+  line_date TIMESTAMP, code TEXT, description TEXT,
+  quantity INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Clinical
+CREATE TABLE IF NOT EXISTS visits (
+  record_num INTEGER PRIMARY KEY,
+  visit_date TIMESTAMP, type_code INTEGER,
+  ref_id INTEGER, doctor TEXT,
+  field_48 INTEGER, field_53 INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS appointments (
+  record_num INTEGER PRIMARY KEY,
+  appt_date TIMESTAMP, flags INTEGER,
+  doctor TEXT, reason TEXT, field_40 INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS medical (
+  record_num INTEGER PRIMARY KEY,
+  record_date TIMESTAMP, flags INTEGER,
+  type_byte INTEGER, doctor TEXT, service_ref INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS procedures (
+  record_num INTEGER PRIMARY KEY,
+  procedure_date TIMESTAMP, code TEXT, description TEXT,
+  amount NUMERIC, field_type INTEGER, ref_id INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS prescriptions (
+  record_num INTEGER PRIMARY KEY,
+  rx_date TIMESTAMP, flags INTEGER, type_byte INTEGER,
+  ref_id INTEGER, field_45 INTEGER, field_46 INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS vaccines (
+  record_num INTEGER PRIMARY KEY,
+  vaccine_date TIMESTAMP, serial_number TEXT,
+  doctor TEXT, manufacturer TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS diagnoses (
+  record_num INTEGER PRIMARY KEY,
+  diag_date TIMESTAMP, flags INTEGER,
+  field_44 INTEGER, field_46 INTEGER, field_49 INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS followups (
+  record_num INTEGER PRIMARY KEY,
+  follow_date TIMESTAMP, code TEXT, description TEXT,
+  doctor TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS problems (
+  record_num INTEGER PRIMARY KEY,
+  prob_date TIMESTAMP, code TEXT, name TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS prob_history (
+  record_num INTEGER PRIMARY KEY,
+  hist_date TIMESTAMP, code TEXT, "text" TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Operations
+CREATE TABLE IF NOT EXISTS whiteboard (
+  record_num INTEGER PRIMARY KEY,
+  entry_date TIMESTAMP, code TEXT, description TEXT,
+  status INTEGER, ref_id INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS usage_records (
+  record_num INTEGER PRIMARY KEY,
+  usage_date TIMESTAMP, flags INTEGER,
+  field_40 INTEGER, field_44 INTEGER, field_48 INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS vendors (
+  record_num INTEGER PRIMARY KEY,
+  vendor_date TIMESTAMP, code TEXT, name TEXT,
+  account_ref TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Purchase Orders (NEW in v2)
+CREATE TABLE IF NOT EXISTS purchase_orders (
+  record_num INTEGER PRIMARY KEY,
+  po_date TIMESTAMP, vendor_code TEXT, item_code TEXT,
+  quantity NUMERIC, cost NUMERIC, po_type TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Audit
+CREATE TABLE IF NOT EXISTS audit_log (
+  id SERIAL PRIMARY KEY,
+  entry_hash TEXT UNIQUE, audit_type TEXT,
+  category TEXT, item_code TEXT, date_text TEXT,
+  old_value NUMERIC, new_value NUMERIC, description TEXT,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Reference/Lookup
+CREATE TABLE IF NOT EXISTS categories (
+  record_num INTEGER PRIMARY KEY,
+  name TEXT, description TEXT, field_type INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS lookup_tables (
+  record_num INTEGER PRIMARY KEY,
+  name TEXT, description TEXT, field_type INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS resources (
+  record_num INTEGER PRIMARY KEY,
+  name TEXT, description TEXT, field_type INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Sync tracking
+CREATE TABLE IF NOT EXISTS sync_status (
+  table_name TEXT PRIMARY KEY,
+  last_sync TIMESTAMPTZ, record_count INTEGER, status TEXT
+);
+
+-- Indexes
+CREATE INDEX IF NOT EXISTS idx_services_code ON services (code);
+CREATE INDEX IF NOT EXISTS idx_visits_date ON visits (visit_date);
+CREATE INDEX IF NOT EXISTS idx_visits_doctor ON visits (doctor);
+CREATE INDEX IF NOT EXISTS idx_accounts_date ON accounts (txn_date);
+CREATE INDEX IF NOT EXISTS idx_procedures_date ON procedures (procedure_date);
+CREATE INDEX IF NOT EXISTS idx_medical_date ON medical (record_date);
+CREATE INDEX IF NOT EXISTS idx_whiteboard_date ON whiteboard (entry_date);
+CREATE INDEX IF NOT EXISTS idx_appointments_date ON appointments (appt_date);
+CREATE INDEX IF NOT EXISTS idx_vaccines_date ON vaccines (vaccine_date);
+CREATE INDEX IF NOT EXISTS idx_prescriptions_date ON prescriptions (rx_date);
+CREATE INDEX IF NOT EXISTS idx_purchase_orders_date ON purchase_orders (po_date);
+CREATE INDEX IF NOT EXISTS idx_purchase_orders_vendor ON purchase_orders (vendor_code);
+CREATE INDEX IF NOT EXISTS idx_purchase_orders_item ON purchase_orders (item_code);</pre>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>5. Table Reference (30 tables)</h2>
+
+<table>
+<thead>
+<tr><th>#</th><th>Supabase Table</th><th>Source File</th><th>~Rows</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>services</td><td>SERVICE.V2$</td><td>623,000</td><td>Service line items (every charge)</td></tr>
+<tr><td>2</td><td>accounts</td><td>ACCOUNT.V2$</td><td>527,000</td><td>Financial transactions</td></tr>
+<tr><td>3</td><td>procedures</td><td>PROC.V2$</td><td>408,000</td><td>Procedures performed</td></tr>
+<tr><td>4</td><td>variances</td><td>VARIANCE.V2$</td><td>239,000</td><td>Price variances/adjustments</td></tr>
+<tr><td>5</td><td>whiteboard</td><td>WBOARD.V2$</td><td>160,000</td><td>In-clinic status board</td></tr>
+<tr><td>6</td><td>quote_details</td><td>QUOTAIL.V2$</td><td>124,000</td><td>Estimate line items</td></tr>
+<tr><td>7</td><td>appointments</td><td>APPOINT.V2$</td><td>106,000</td><td>Scheduled appointments</td></tr>
+<tr><td>8</td><td>prescriptions</td><td>PRESCRIP.V2$</td><td>75,000</td><td>Prescriptions</td></tr>
+<tr><td>9</td><td>medical</td><td>MEDICAL.V2$</td><td>53,000</td><td>Medical records</td></tr>
+<tr><td>10</td><td>visits</td><td>VISIT.V2$</td><td>46,000</td><td>Visit records with dates &amp; doctor</td></tr>
+<tr><td>11</td><td>audit_log</td><td>AUDIT.V2$</td><td>39,000</td><td>Audit trail</td></tr>
+<tr><td>12</td><td>vaccines</td><td>VACCINE.V2$</td><td>32,000</td><td>Vaccination records</td></tr>
+<tr><td>13</td><td>purchase_orders</td><td>PO.V2$</td><td>29,000</td><td>Purchase orders (header + line items)</td></tr>
+<tr><td>14</td><td>animals</td><td>ANIMAL.V2$</td><td>27,000</td><td>Patients (pets)</td></tr>
+<tr><td>15</td><td>followups</td><td>FOLLOW.V2$</td><td>26,000</td><td>Follow-up reminders</td></tr>
+<tr><td>16</td><td>quotes</td><td>QUOTE.V2$</td><td>17,000</td><td>Estimate headers</td></tr>
+<tr><td>17</td><td>clients</td><td>CLIENT.V2$</td><td>14,000</td><td>Pet owners</td></tr>
+<tr><td>18</td><td>usage_records</td><td>USAGE.V2$</td><td>14,000</td><td>Inventory usage</td></tr>
+<tr><td>19</td><td>prob_history</td><td>PROBHIST.V2$</td><td>8,000</td><td>Problem history log</td></tr>
+<tr><td>20</td><td>items</td><td>ITEM.V2$</td><td>5,000</td><td>Inventory items</td></tr>
+<tr><td>21</td><td>prices</td><td>PRICE.V2$</td><td>2,400</td><td>Fee schedule</td></tr>
+<tr><td>22</td><td>diagnoses</td><td>DIAGNOSE.V2$</td><td>1,300</td><td>Diagnosis codes</td></tr>
+<tr><td>23</td><td>problems</td><td>PROBLEM.V2$</td><td>800</td><td>Problem list</td></tr>
+<tr><td>24</td><td>treatments</td><td>TREAT.V2$</td><td>722</td><td>Treatment definitions</td></tr>
+<tr><td>25</td><td>vendors</td><td>VENDOR.V2$</td><td>391</td><td>Suppliers</td></tr>
+<tr><td>26</td><td>users</td><td>USER.V2$</td><td>190</td><td>Staff accounts</td></tr>
+<tr><td>27</td><td>resources</td><td>RESOURCE.V2$</td><td>131</td><td>Rooms/equipment</td></tr>
+<tr><td>28</td><td>estimates</td><td>ESTIMATE.V2$</td><td>122</td><td>Estimate definitions</td></tr>
+<tr><td>29</td><td>lookup_tables</td><td>TABLE.V2$</td><td>49</td><td>Lookup tables (species, breeds)</td></tr>
+<tr><td>30</td><td>categories</td><td>CATEGORY.V2$</td><td>27</td><td>Category definitions</td></tr>
+</tbody>
+</table>
+<p><strong>Grand total: ~2,580,000 rows across 30 tables</strong></p>
+
+<h3>Technical Notes</h3>
+<ul>
+  <li><strong>SERVICE.V2$</strong> — @21 has TDateTime (reliable post-record ~370K / post-2019; earlier records stamped 2019-02-03)</li>
+  <li><strong>PRICE.V2$</strong> — @21 has last-modified TDateTime per price record (reliable across full file)</li>
+  <li><strong>PO.V2$</strong> — Alternating header/line-item pairs. Costs at @32 as Delphi currency (/10000)</li>
+  <li><strong>VISIT.V2$</strong> — @21 = visit date, @45 = doctor initials (Pascal string). @40 is NOT a range pointer</li>
+  <li><strong>All V2$ files</strong> — Fixed-record Delphi flat files with proprietary encoding</li>
+</ul>
+
+<!-- ============================================================ -->
+<h2>6. Manual Commands &amp; Troubleshooting</h2>
+
+<h3>Manual sync commands</h3>
+<pre>cd C:\avimark-etl
+node src/etl.js --all                  # Sync all 30 tables
+node src/etl.js --table clients        # Sync one table
+node src/etl.js --table prices --limit 100  # Sync 100 prices only</pre>
+
+<h3>Check sync log</h3>
+<pre>type C:\avimark-etl\sync.log                      # Command Prompt
+Get-Content C:\avimark-etl\sync.log -Tail 20       # PowerShell (last 20 lines)</pre>
+
+<h3>Common issues</h3>
+<table>
+<thead><tr><th>Error</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td><code>ENOENT: File not found</code></td><td>Update <code>AVIMARK_DATA_DIR</code> in <code>.env</code> to the path containing V2$ files</td></tr>
+<tr><td><code>Missing SUPABASE_URL</code></td><td>Check <code>.env</code> has both <code>SUPABASE_URL</code> and <code>SUPABASE_SERVICE_KEY</code></td></tr>
+<tr><td><code>node is not recognized</code></td><td>Install Node.js from <code>nodejs.org</code> and restart your terminal</td></tr>
+<tr><td>Scheduled task doesn't run</td><td>Open <code>taskschd.msc</code>, check task is enabled and user has permissions</td></tr>
+<tr><td>Table doesn't exist error</td><td>Run the SQL from Section 4 in Supabase SQL Editor</td></tr>
+<tr><td>Sync takes too long</td><td>First run is ~15 min. Subsequent runs do full replace. Consider syncing subsets.</td></tr>
+</tbody>
+</table>
+
+<h3>Supabase connection info</h3>
+<pre>URL:       https://rnqhhzatlxmyvccdvqkr.supabase.co
+Dashboard: https://supabase.com/dashboard/project/rnqhhzatlxmyvccdvqkr
+API Key:   In .env file (SUPABASE_SERVICE_KEY) — or Supabase Settings → API</pre>
+
+<!-- ============================================================ -->
+<h2>7. Dashboard (GitHub Pages)</h2>
+
+<p>A demo dashboard is hosted at:</p>
+<pre>https://jack108510.github.io/avimark-etl/</pre>
+
+<p>It connects directly to Supabase and provides:</p>
+<ul>
+  <li>Client search by name or phone</li>
+  <li>Appointment schedule</li>
+  <li>Vaccine records</li>
+  <li>Revenue chart</li>
+  <li>Database stats</li>
+</ul>
+
+<p>Source: <code>docs/index.html</code> in the repo. Served via GitHub Pages from the <code>/docs</code> folder on the <code>master</code> branch.</p>
+
+<h3>File structure</h3>
+<pre>C:\avimark-etl\
+├── .env                  # Supabase credentials + AVImark path (DO NOT COMMIT)
+├── sync.bat              # Nightly sync batch file
+├── sync.log              # Sync log output
+├── src/
+│   ├── etl.js            # Main ETL script
+│   ├── supabase.js       # DB connection + upsert logic
+│   └── parsers/          # One parser per V2$ file (29 parsers)
+│       ├── base.js       # Base parser class
+│       ├── index.js      # Parser registry
+│       ├── clients.js
+│       ├── animals.js
+│       ├── services.js
+│       ├── purchase_orders.js
+│       └── ... (24 more)
+├── docs/
+│   └── index.html        # Demo dashboard (GitHub Pages)
+├── install/
+│   ├── install.bat       # Automated installer
+│   └── complete_guide_v2.html  # This guide (source)
+├── reports/              # Generated reports (inflation, etc.)
+└── node_modules/         # Dependencies (npm install)</pre>
+
+<div class="footer">
+  Avimark ETL v2.0 &mdash; Rosslyn Veterinary Clinic &mdash; Generated April 2, 2026<br>
+  GitHub: jack108510/avimark-etl &mdash; Supabase: rnqhhzatlxmyvccdvqkr &mdash; 30 tables &mdash; ~2,580,000 rows
+</div>
+
+</body>
+</html>

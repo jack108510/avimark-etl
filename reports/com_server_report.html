@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: A4; margin: 12mm; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 9.5px; color: #1a1a1a; line-height: 1.45; margin: 0; padding: 0; }
+  .header { background: linear-gradient(135deg, #0d1b2a 0%, #1b2838 50%, #2d3748 100%); color: white; padding: 30px; margin-bottom: 15px; border-radius: 4px; }
+  .header h1 { margin: 0 0 6px 0; font-size: 24px; font-weight: 600; letter-spacing: -0.5px; }
+  .header .subtitle { font-size: 13px; opacity: 0.9; margin: 0 0 4px 0; }
+  .header .meta { font-size: 9px; opacity: 0.65; margin: 0; }
+  h2 { color: #0d1b2a; border-bottom: 2px solid #0d1b2a; padding-bottom: 4px; margin-top: 22px; font-size: 14px; page-break-after: avoid; }
+  h3 { color: #1b2838; margin-top: 14px; font-size: 11.5px; page-break-after: avoid; }
+  h4 { color: #2d5986; margin-top: 10px; font-size: 10.5px; margin-bottom: 4px; }
+  pre { background: #0d1117; color: #c9d1d9; padding: 10px 14px; border-radius: 6px; font-family: 'Consolas', monospace; font-size: 8.5px; line-height: 1.35; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word; border: 1px solid #30363d; }
+  code { background: #e9ecef; padding: 1px 4px; border-radius: 3px; font-family: 'Consolas', monospace; font-size: 9px; }
+  .info-box { background: #e8f0fe; border-left: 4px solid #1a73e8; padding: 8px 12px; margin: 8px 0; border-radius: 0 4px 4px 0; }
+  .warning-box { background: #fff3cd; border-left: 4px solid #ffc107; padding: 8px 12px; margin: 8px 0; border-radius: 0 4px 4px 0; }
+  .danger-box { background: #f8d7da; border-left: 4px solid #dc3545; padding: 8px 12px; margin: 8px 0; border-radius: 0 4px 4px 0; }
+  .success-box { background: #d4edda; border-left: 4px solid #28a745; padding: 8px 12px; margin: 8px 0; border-radius: 0 4px 4px 0; }
+  table { width: 100%; border-collapse: collapse; margin: 8px 0; font-size: 8.5px; }
+  thead th { background: #0d1b2a; color: white; padding: 5px 8px; text-align: left; font-size: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+  tbody td { padding: 4px 8px; border-bottom: 1px solid #e9ecef; vertical-align: top; }
+  tbody tr:nth-child(even) { background: #f8f9fa; }
+  .tag { display: inline-block; padding: 1px 6px; border-radius: 10px; font-size: 7.5px; font-weight: 600; text-transform: uppercase; }
+  .tag-read { background: #d4edda; color: #155724; }
+  .tag-write { background: #f8d7da; color: #721c24; }
+  .tag-both { background: #fff3cd; color: #856404; }
+  .tag-critical { background: #dc3545; color: white; }
+  .method { font-family: 'Consolas', monospace; font-size: 8.5px; color: #0d1b2a; font-weight: 600; }
+  .param { font-family: 'Consolas', monospace; font-size: 8px; color: #6c757d; }
+  .interface-card { border: 1px solid #dee2e6; border-radius: 6px; margin: 10px 0; overflow: hidden; }
+  .interface-header { background: #f1f3f5; padding: 8px 12px; font-weight: 600; font-size: 11px; border-bottom: 1px solid #dee2e6; }
+  .interface-body { padding: 8px 12px; }
+  .footer { margin-top: 15px; padding-top: 8px; border-top: 1px solid #dee2e6; font-size: 7.5px; color: #6c757d; text-align: center; }
+  .page-break { page-break-before: always; }
+  .col2 { column-count: 2; column-gap: 20px; }
+  .stat-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin: 10px 0; }
+  .stat-box { background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 6px; padding: 10px; text-align: center; }
+  .stat-num { font-size: 20px; font-weight: 700; color: #0d1b2a; }
+  .stat-label { font-size: 8px; color: #6c757d; text-transform: uppercase; letter-spacing: 0.5px; }
+  ul { margin: 4px 0; padding-left: 18px; }
+  li { margin: 2px 0; }
+  .toc { background: #f8f9fa; padding: 12px 18px; border-radius: 6px; margin: 12px 0; }
+  .toc ol { margin: 4px 0; }
+  .toc li { margin: 3px 0; font-size: 9.5px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>AVImark COM Server — Complete Technical Analysis</h1>
+  <p class="subtitle">AVImarkCOMServer.dll — 12 COM Interfaces, Full API Reference</p>
+  <p class="meta">Rosslyn Veterinary Clinic &bull; ROS-SVR (Windows Server 2019) &bull; Generated April 2, 2026 &bull; CONFIDENTIAL</p>
+</div>
+
+<div class="toc">
+  <strong>Table of Contents</strong>
+  <ol>
+    <li>Executive Summary</li>
+    <li>DLL Technical Profile</li>
+    <li>COM Architecture Overview</li>
+    <li>Interface Reference (12 Interfaces, Full Methods)</li>
+    <li>API Method Catalog — Detailed</li>
+    <li>Security Analysis</li>
+    <li>Integration Opportunities</li>
+    <li>Automation Use Cases</li>
+    <li>Registration Status &amp; Next Steps</li>
+    <li>Appendix: Raw Data</li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<h2>1. Executive Summary</h2>
+
+<p>The AVImark COM Server (<code>AVImarkCOMServer.dll</code>) is a 32-bit in-process COM automation server built by Covetrus Inc. (formerly Henry Schein) as part of AVImark Classic v2022.10.6. It exposes <strong>12 dispatch interfaces</strong> providing programmatic access to virtually every function in the AVImark practice management system.</p>
+
+<div class="stat-grid">
+  <div class="stat-box"><div class="stat-num">12</div><div class="stat-label">COM Interfaces</div></div>
+  <div class="stat-box"><div class="stat-num">74.7 MB</div><div class="stat-label">DLL Size</div></div>
+  <div class="stat-box"><div class="stat-num">65+</div><div class="stat-label">API Methods</div></div>
+</div>
+
+<div class="stat-grid">
+  <div class="stat-box"><div class="stat-num">7</div><div class="stat-label">DLL Exports</div></div>
+  <div class="stat-box"><div class="stat-num">3</div><div class="stat-label">Embedded TypeLibs</div></div>
+  <div class="stat-box"><div class="stat-num">10</div><div class="stat-label">PE Sections</div></div>
+</div>
+
+<div class="success-box"><strong>Key Finding:</strong> This COM server provides full <strong>read AND write</strong> access to AVImark data — including creating invoices, posting history, creating purchase orders, adding items, modifying field values, and scheduling appointments. Combined with the existing ETL pipeline (30 tables, 2.58M rows in Supabase), this unlocks bidirectional integration.</div>
+
+<div class="warning-box"><strong>Registration Status:</strong> The DLL includes <code>DllRegisterServer</code> but registration via <code>regsvr32</code> silently fails on ROS-SVR. Likely requires AVImark workstation context or specific runtime dependencies. Further investigation needed.</div>
+
+<!-- ============================================================ -->
+<h2>2. DLL Technical Profile</h2>
+
+<table>
+<tbody>
+<tr><td style="width:30%; font-weight:600">File Name</td><td><code>AVImarkCOMServer.dll</code></td></tr>
+<tr><td style="font-weight:600">Full Path</td><td><code>C:\AVImark\AVImarkCOMServer.dll</code></td></tr>
+<tr><td style="font-weight:600">File Size</td><td>78,285,040 bytes (74.7 MB)</td></tr>
+<tr><td style="font-weight:600">Architecture</td><td>32-bit (x86) — PE32</td></tr>
+<tr><td style="font-weight:600">Compiler</td><td>Embarcadero Delphi (Borland Object Pascal)</td></tr>
+<tr><td style="font-weight:600">File Version</td><td>2022.10.6.0</td></tr>
+<tr><td style="font-weight:600">Product Version</td><td>2022.10.6.0</td></tr>
+<tr><td style="font-weight:600">Product Name</td><td>AVImark</td></tr>
+<tr><td style="font-weight:600">Company</td><td>Covetrus Inc.</td></tr>
+<tr><td style="font-weight:600">Copyright</td><td>Copyright 2022 Covetrus Inc.</td></tr>
+<tr><td style="font-weight:600">Description</td><td>AVImark COM Server Library</td></tr>
+<tr><td style="font-weight:600">Internal Name</td><td><code>22.10.6: f10f72680df7baeef2f6ffe6af7903256da1c82c (RELEASE;AVImarkClient;)</code></td></tr>
+<tr><td style="font-weight:600">Created</td><td>December 8, 2021</td></tr>
+<tr><td style="font-weight:600">Last Modified</td><td>April 5, 2023</td></tr>
+<tr><td style="font-weight:600">COM Type</td><td>In-Process Server (InprocServer32)</td></tr>
+<tr><td style="font-weight:600">Threading Model</td><td>Apartment (STA) — typical for Delphi COM</td></tr>
+</tbody>
+</table>
+
+<h3>DLL Exports (7)</h3>
+<table>
+<thead><tr><th>#</th><th>Export Name</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td>0</td><td><code>DllCanUnloadNow</code></td><td>Standard COM — checks if DLL can be unloaded</td></tr>
+<tr><td>1</td><td><code>DllGetClassObject</code></td><td>Standard COM — returns class factory for CLSID</td></tr>
+<tr><td>2</td><td><code>DllRegisterServer</code></td><td>Standard COM — self-registration (writes to registry)</td></tr>
+<tr><td>3</td><td><code>DllUnregisterServer</code></td><td>Standard COM — removes registration</td></tr>
+<tr><td>4</td><td><code>TMethodImplementationIntercept</code></td><td>Delphi RTTI method interception</td></tr>
+<tr><td>5</td><td><code>__dbk_fcall_wrapper</code></td><td>Delphi debugger function call wrapper</td></tr>
+<tr><td>6</td><td><code>dbkFCallWrapperAddr</code></td><td>Delphi debugger address pointer</td></tr>
+</tbody>
+</table>
+
+<h3>PE Section Map</h3>
+<table>
+<thead><tr><th>Section</th><th>Virtual Address</th><th>Raw Offset</th><th>Raw Size</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td><code>.text</code></td><td>0x1000</td><td>0x400</td><td>59,722,752</td><td>Executable code (56.9 MB)</td></tr>
+<tr><td><code>.itext</code></td><td>0x38F6000</td><td>0x38F5000</td><td>250,368</td><td>Initialization code</td></tr>
+<tr><td><code>.data</code></td><td>0x3934000</td><td>0x3932200</td><td>996,864</td><td>Initialized data</td></tr>
+<tr><td><code>.bss</code></td><td>0x3A28000</td><td>—</td><td>0</td><td>Uninitialized data</td></tr>
+<tr><td><code>.idata</code></td><td>0x3AFC000</td><td>0x3A25800</td><td>31,744</td><td>Import directory</td></tr>
+<tr><td><code>.didata</code></td><td>0x3B04000</td><td>0x3A2D400</td><td>28,672</td><td>Delayed import data</td></tr>
+<tr><td><code>.edata</code></td><td>0x3B0B000</td><td>0x3A34400</td><td>512</td><td>Export directory</td></tr>
+<tr><td><code>.rdata</code></td><td>0x3B0C000</td><td>0x3A34600</td><td>512</td><td>Read-only data</td></tr>
+<tr><td><code>.reloc</code></td><td>0x3B0D000</td><td>0x3A34800</td><td>5,501,952</td><td>Relocations (5.2 MB)</td></tr>
+<tr><td><code>.rsrc</code></td><td>0x404D000</td><td>0x3F73C00</td><td>11,719,680</td><td>Resources (11.2 MB — includes 3 TypeLibs, icons, images)</td></tr>
+</tbody>
+</table>
+
+<h3>Embedded Type Libraries (3)</h3>
+<table>
+<thead><tr><th>#</th><th>File Offset</th><th>Content</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>60,403,532 (0x399AF4C)</td><td>ICC Color Profile (sRGB) — embedded image resource</td></tr>
+<tr><td>2</td><td>67,421,620 (0x404A734)</td><td><strong>AVImark COM Server Type Library</strong> — all 12 interfaces</td></tr>
+<tr><td>3</td><td>77,012,419 (0x4970DC3)</td><td>ICC Color Profile (Adobe RGB 1998) — embedded image resource</td></tr>
+</tbody>
+</table>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>3. COM Architecture Overview</h2>
+
+<p>The AVImark COM Server follows the standard Microsoft COM (Component Object Model) architecture. It is an <strong>in-process server</strong> (DLL-based) that runs within the calling process's address space. Each interface is an IDispatch automation interface, meaning it supports late-binding from scripting languages (VBScript, PowerShell, Python via win32com).</p>
+
+<h3>Interface Hierarchy</h3>
+<pre>
+AVImarkCOMServer.dll (InprocServer32, Apartment-threaded)
+│
+├── IAVIClientInProc          — Client/owner lookup, search, invoice creation
+│   └── ProgID: AVIClientInProc
+│
+├── IAVIPatientInProc         — Patient/animal records, reminders, charts
+│   └── ProgID: AVIPatientInProc
+│
+├── IAVITreatmentInProc       — Treatment code definitions, models
+│   └── ProgID: AVITreatmentInProc
+│
+├── IAVIInventoryInProc       — Inventory tracking, usage history
+│   └── ProgID: AVIInventoryInProc
+│
+├── IAVIHistoryInProc         — Medical/clinical history, lab results
+│   └── ProgID: AVIHistoryInProc
+│
+├── IAVIEntryInProc           — System table entries, code lookups
+│   └── ProgID: AVIEntryInProc
+│
+├── IAVISystemTableInProc     — Lookup table access (species, breeds, etc.)
+│   └── ProgID: AVISystemTableInProc
+│
+├── IAVIOrderInProc           — Purchase order creation, item management
+│   └── ProgID: AVIOrderInProc
+│
+├── IAVIFileInProc            — Raw V2$ file I/O with authentication
+│   └── ProgID: AVIFileInProc
+│
+├── IAVIEstimateInProc        — Estimates/quotes management
+│   └── ProgID: AVIEstimateInProc
+│
+├── IAVIAppointmentInProc     — Scheduling, doctor/room calendars
+│   └── ProgID: AVIAppointmentInProc
+│
+└── IAVICensusInProc          — Whiteboard/census, in-clinic status
+    └── ProgID: AVICensusInProc
+</pre>
+
+<h3>Access Model</h3>
+<div class="info-box">
+<strong>Authentication:</strong> The <code>IAVIFileInProc</code> interface includes a <code>Login(Password)</code> method, indicating the COM server requires authentication before allowing data access. The password is likely the same as the AVImark server password found in <code>AVImarkServer.ini</code> (stored as a hex-encoded hash).
+</div>
+
+<h3>Communication Pattern</h3>
+<p>All interfaces use a <strong>handle-based navigation pattern</strong>:</p>
+<ol>
+  <li><strong>Search</strong> — <code>GetFirstByName(key)</code> returns a handle (record pointer)</li>
+  <li><strong>Navigate</strong> — <code>GetNextByName(key)</code> iterates through results</li>
+  <li><strong>Read</strong> — <code>GetMoreStuff(handle)</code> returns <code>FieldNames</code> + <code>FieldValues</code></li>
+  <li><strong>Write</strong> — <code>SetFieldValues()</code> or <code>SetFieldValuesByName()</code> modifies data</li>
+  <li><strong>Create</strong> — <code>CreateInvoice()</code>, <code>CreateOrder()</code>, <code>AddNewEntry()</code>, <code>AddRecordEx()</code></li>
+</ol>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>4. Interface Reference — 12 Interfaces</h2>
+
+<!-- IAVIClientInProc -->
+<div class="interface-card">
+<div class="interface-header">🧑 IAVIClientInProc <span class="tag tag-both">READ/WRITE</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Client (pet owner) lookup, search, patient/account linking, and invoice creation.</p>
+<p><strong>ProgID:</strong> <code>AVIClientInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Access</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetFirstByName</td><td class="param">NameKey → Value</td><td><span class="tag tag-read">READ</span></td><td>Find first client by last name. Returns handle/value.</td></tr>
+<tr><td class="method">GetNextByName</td><td class="param">NameKey</td><td><span class="tag tag-read">READ</span></td><td>Iterate to next client matching name.</td></tr>
+<tr><td class="method">GetFirstByNameKey</td><td class="param">NameKey</td><td><span class="tag tag-read">READ</span></td><td>Search by full name key (last,first).</td></tr>
+<tr><td class="method">GetNextByNameKey</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next result for name key search.</td></tr>
+<tr><td class="method">GetFirstByPhone</td><td class="param">PhoneKey</td><td><span class="tag tag-read">READ</span></td><td>Find client by phone number.</td></tr>
+<tr><td class="method">GetNextByPhone</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next result for phone search.</td></tr>
+<tr><td class="method">GetFirstByPhoneKey</td><td class="param">PhoneKey</td><td><span class="tag tag-read">READ</span></td><td>Phone key-based search.</td></tr>
+<tr><td class="method">GetFirstByWholePhoneKey</td><td class="param">PhoneKey</td><td><span class="tag tag-read">READ</span></td><td>Full phone number match.</td></tr>
+<tr><td class="method">GetNextByPhoneKey</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next phone key result.</td></tr>
+<tr><td class="method">GetNextByWholePhoneKey</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next full phone result.</td></tr>
+<tr><td class="method">GetClientsByEmailOrPhone</td><td class="param">Email, Phone</td><td><span class="tag tag-read">READ</span></td><td>Multi-field client search.</td></tr>
+<tr><td class="method">GetPatientHandles</td><td class="param">ClientHandle, IncludeInactive</td><td><span class="tag tag-read">READ</span></td><td>Get all animals for a client. Boolean flag for inactive.</td></tr>
+<tr><td class="method">GetAccountingHandles</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get financial transaction handles for client.</td></tr>
+<tr><td class="method">GetByFolder</td><td class="param">Folder</td><td><span class="tag tag-read">READ</span></td><td>Find client by folder number.</td></tr>
+<tr><td class="method">GetFirstByMoreStuff</td><td class="param">MoreStuffKey</td><td><span class="tag tag-read">READ</span></td><td>Extended field search.</td></tr>
+<tr><td class="method">GetNextByMoreStuff</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next extended search result.</td></tr>
+<tr><td class="method">GetFirstByMoreStuffKey</td><td class="param">MoreStuffKey</td><td><span class="tag tag-read">READ</span></td><td>Key-based extended search.</td></tr>
+<tr><td class="method">GetNextByMoreStuffKey</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next key-based result.</td></tr>
+<tr><td class="method">GetMoreStuff</td><td class="param">RecordHandle → FieldNames, FieldValues</td><td><span class="tag tag-read">READ</span></td><td>Get all fields for a record. Returns parallel arrays of names and values.</td></tr>
+<tr><td class="method">CreateInvoice</td><td class="param">Date</td><td><span class="tag tag-write">WRITE</span></td><td>Create a new invoice for the current client context. ⚡</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVIPatientInProc -->
+<div class="interface-card">
+<div class="interface-header">🐾 IAVIPatientInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Patient (animal) record access, reminders, history, chart printing.</p>
+<p><strong>ProgID:</strong> <code>AVIPatientInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetByCode</td><td class="param">Code</td><td>Look up patient by code.</td></tr>
+<tr><td class="method">GetByTagNo</td><td class="param">TagNo, Microchip</td><td>Find animal by tag number or microchip ID.</td></tr>
+<tr><td class="method">GetReminderHandles</td><td class="param">PatientHandle</td><td>Get all due/overdue reminders for a patient.</td></tr>
+<tr><td class="method">GetHistoryHandles</td><td class="param"></td><td>Get medical history handles for current patient.</td></tr>
+<tr><td class="method">GetAppointmentHandles</td><td class="param"></td><td>Get appointment handles for current patient.</td></tr>
+<tr><td class="method">GetViewHandles</td><td class="param">ViewName</td><td>Get handles for a named view/list.</td></tr>
+<tr><td class="method">PrintPatientChart</td><td class="param">PatientRecord</td><td>Trigger chart print for a patient.</td></tr>
+<tr><td class="method">GetModelHandles</td><td class="param">TreatmentHandle</td><td>Get model/template handles for treatment.</td></tr>
+<tr><td class="method">Values</td><td class="param"></td><td>Get current record values.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVITreatmentInProc -->
+<div class="interface-card">
+<div class="interface-header">💊 IAVITreatmentInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Treatment/procedure code lookups and model access.</p>
+<p><strong>ProgID:</strong> <code>AVITreatmentInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetModelHandles</td><td class="param">TreatmentHandle</td><td>Get treatment models/templates by handle.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVIInventoryInProc -->
+<div class="interface-card">
+<div class="interface-header">📦 IAVIInventoryInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Inventory item tracking and usage history.</p>
+<p><strong>ProgID:</strong> <code>AVIInventoryInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetInventoryUsedHandles</td><td class="param"></td><td>Get handles of inventory items that have been used/dispensed.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVIHistoryInProc -->
+<div class="interface-card">
+<div class="interface-header">📋 IAVIHistoryInProc <span class="tag tag-both">READ/WRITE</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Clinical/medical history access, lab results, history posting. <strong>Critical for SOAP notes.</strong></p>
+<p><strong>ProgID:</strong> <code>AVIHistoryInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Access</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetFirstByDate</td><td class="param">DateString</td><td><span class="tag tag-read">READ</span></td><td>Find first history entry by date.</td></tr>
+<tr><td class="method">GetNextByDate</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Next history entry by date.</td></tr>
+<tr><td class="method">GetLastByDate</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Last history entry by date.</td></tr>
+<tr><td class="method">GetNextByDateKey</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Key-based date navigation.</td></tr>
+<tr><td class="method">GetFirstByCode</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Find history by code.</td></tr>
+<tr><td class="method">GetLastByCode</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Last entry by code.</td></tr>
+<tr><td class="method">GetPrevByCode</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Previous entry by code.</td></tr>
+<tr><td class="method">HistoryType</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get type of current history entry.</td></tr>
+<tr><td class="method">GetMoreStuffEx</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Extended field retrieval.</td></tr>
+<tr><td class="method">GetMoreStuffAndNormals</td><td class="param">FieldMins, FieldMaxs</td><td><span class="tag tag-read">READ</span></td><td>Get values with normal ranges (lab results).</td></tr>
+<tr><td class="method">GetTestHandles</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get lab test handles.</td></tr>
+<tr><td class="method">GetAnalyteHandles</td><td class="param">TestHandle</td><td><span class="tag tag-read">READ</span></td><td>Get individual analyte handles for a test panel.</td></tr>
+<tr><td class="method">PostHistory</td><td class="param"></td><td><span class="tag tag-write">WRITE</span></td><td>Post/commit a history entry. ⚡</td></tr>
+<tr><td class="method">AddHistory</td><td class="param">Quantity</td><td><span class="tag tag-write">WRITE</span></td><td>Add a new history line item. ⚡</td></tr>
+<tr><td class="method">RefillHistory</td><td class="param">EnteredBy</td><td><span class="tag tag-write">WRITE</span></td><td>Record a prescription refill. ⚡</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVIEntryInProc -->
+<div class="interface-card">
+<div class="interface-header">📝 IAVIEntryInProc <span class="tag tag-both">READ/WRITE</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> System table entry management — add/read codes and descriptions.</p>
+<p><strong>ProgID:</strong> <code>AVIEntryInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Access</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetTableHandle</td><td class="param">TableCode</td><td><span class="tag tag-read">READ</span></td><td>Get handle for a system table.</td></tr>
+<tr><td class="method">GetEntryHandles</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get all entry handles in current table.</td></tr>
+<tr><td class="method">GetEntriesByTable</td><td class="param">TableName</td><td><span class="tag tag-read">READ</span></td><td>Get entries by table name.</td></tr>
+<tr><td class="method">GetFieldValuesByName</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get field values by field name.</td></tr>
+<tr><td class="method">EntryCode</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get current entry's code.</td></tr>
+<tr><td class="method">AddNewEntry</td><td class="param">EntryDescription</td><td><span class="tag tag-write">WRITE</span></td><td>Add a new entry to a system table. ⚡</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVISystemTableInProc -->
+<div class="interface-card">
+<div class="interface-header">📊 IAVISystemTableInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Lookup table access (species, breeds, colors, allergies, etc.).</p>
+<p><strong>ProgID:</strong> <code>AVISystemTableInProc</code></p>
+<p>Methods overlap with IAVIEntryInProc for table navigation.</p>
+</div>
+</div>
+
+<div class="page-break"></div>
+
+<!-- IAVIOrderInProc -->
+<div class="interface-card">
+<div class="interface-header">🛒 IAVIOrderInProc <span class="tag tag-write">WRITE</span> <span class="tag tag-critical">CRITICAL</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Purchase order creation and item management. <strong>This is the key to automated ordering.</strong></p>
+<p><strong>ProgID:</strong> <code>AVIOrderInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Access</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">CreateOrder</td><td class="param">Vendor</td><td><span class="tag tag-write">WRITE</span></td><td>Create a new purchase order for a vendor. ⚡</td></tr>
+<tr><td class="method">AddItem</td><td class="param">ItemCode</td><td><span class="tag tag-write">WRITE</span></td><td>Add an inventory item to the current order. ⚡</td></tr>
+</tbody>
+</table>
+<div class="info-box"><strong>Workflow:</strong> <code>CreateOrder("IDEXX")</code> → <code>AddItem("CBC")</code> → <code>AddItem("CHEM17")</code> → order is ready for submission.</div>
+</div>
+</div>
+
+<!-- IAVIFileInProc -->
+<div class="interface-card">
+<div class="interface-header">🗄️ IAVIFileInProc <span class="tag tag-both">READ/WRITE</span> <span class="tag tag-critical">CRITICAL</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Direct V2$ file access with authentication. <strong>This is the "god mode" interface</strong> — raw access to any field in any table.</p>
+<p><strong>ProgID:</strong> <code>AVIFileInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Access</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">Login</td><td class="param">Password</td><td><span class="tag tag-critical">AUTH</span></td><td>Authenticate before file operations. 🔐</td></tr>
+<tr><td class="method">OpenFiles</td><td class="param">Path</td><td><span class="tag tag-read">READ</span></td><td>Open V2$ files at specified path (e.g., "C:\AVImark").</td></tr>
+<tr><td class="method">CloseFiles</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Close opened files.</td></tr>
+<tr><td class="method">GetFileHandles</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>List all available file handles.</td></tr>
+<tr><td class="method">GetFileNames</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>List all file names (CLIENT.V2$, ANIMAL.V2$, etc.).</td></tr>
+<tr><td class="method">GetFileHandle</td><td class="param">FileName</td><td><span class="tag tag-read">READ</span></td><td>Get handle for specific file.</td></tr>
+<tr><td class="method">GetRecordCount</td><td class="param">FileHandle</td><td><span class="tag tag-read">READ</span></td><td>Count records in a file.</td></tr>
+<tr><td class="method">GetFieldNames</td><td class="param">Param2</td><td><span class="tag tag-read">READ</span></td><td>Get field names for a file's record structure.</td></tr>
+<tr><td class="method">GetFieldValues</td><td class="param"></td><td><span class="tag tag-read">READ</span></td><td>Get field values for current record.</td></tr>
+<tr><td class="method">SetFieldValues</td><td class="param"></td><td><span class="tag tag-write">WRITE</span></td><td>Modify field values by position. ⚡</td></tr>
+<tr><td class="method">SetFieldValuesByName</td><td class="param"></td><td><span class="tag tag-write">WRITE</span></td><td>Modify field values by name. ⚡</td></tr>
+<tr><td class="method">AddRecordEx</td><td class="param"></td><td><span class="tag tag-write">WRITE</span></td><td>Add a new record to a file. ⚡</td></tr>
+</tbody>
+</table>
+<div class="danger-box"><strong>⚠ Warning:</strong> This interface provides unrestricted write access to the underlying data files. Incorrect use could corrupt the AVImark database. Always test on a clone/backup first.</div>
+</div>
+</div>
+
+<!-- IAVIEstimateInProc -->
+<div class="interface-card">
+<div class="interface-header">💰 IAVIEstimateInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Estimate/quote entry access.</p>
+<p><strong>ProgID:</strong> <code>AVIEstimateInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetEstimateEntryHandles</td><td class="param">EstimateHandle</td><td>Get line items for an estimate.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVIAppointmentInProc -->
+<div class="interface-card">
+<div class="interface-header">📅 IAVIAppointmentInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Appointment scheduling, doctor/room calendars, block-offs.</p>
+<p><strong>ProgID:</strong> <code>AVIAppointmentInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">GetAppointmentHandlesByDate</td><td class="param">StartDate, EndDate</td><td>Get appointments in date range.</td></tr>
+<tr><td class="method">GetAppointmentsByDoctor</td><td class="param">DoctorID, StartDateTime, IncludeInactiveDeleted</td><td>Get appointments for a specific doctor.</td></tr>
+<tr><td class="method">GetAppointmentsByRoom</td><td class="param">RoomCode</td><td>Get appointments for a specific room.</td></tr>
+<tr><td class="method">GetBlockOffExsByDoctor</td><td class="param">DoctorID</td><td>Get extended block-off times for doctor.</td></tr>
+<tr><td class="method">GetBlockOffExsByRoom</td><td class="param">RoomCode</td><td>Get extended block-off times for room.</td></tr>
+<tr><td class="method">GetBlockOffsByDoctor</td><td class="param">DoctorID</td><td>Get block-off times for doctor.</td></tr>
+<tr><td class="method">GetBlockOffsByRoom</td><td class="param">RoomCode</td><td>Get block-off times for room.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- IAVICensusInProc -->
+<div class="interface-card">
+<div class="interface-header">🏥 IAVICensusInProc <span class="tag tag-read">READ</span></div>
+<div class="interface-body">
+<p><strong>Purpose:</strong> Whiteboard/census — in-clinic patient tracking, diagnosis access.</p>
+<p><strong>ProgID:</strong> <code>AVICensusInProc</code></p>
+<table>
+<thead><tr><th>Method</th><th>Parameters</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class="method">Diagnosis</td><td class="param"></td><td>Access diagnosis information for census patients.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>5. API Method Catalog — Complete Summary</h2>
+
+<table>
+<thead><tr><th>Interface</th><th>Method</th><th>Access</th><th>Parameters</th></tr></thead>
+<tbody>
+<tr><td rowspan="20">IAVIClientInProc</td><td class="method">GetFirstByName</td><td><span class="tag tag-read">R</span></td><td>NameKey → Value</td></tr>
+<tr><td class="method">GetNextByName</td><td><span class="tag tag-read">R</span></td><td>NameKey</td></tr>
+<tr><td class="method">GetFirstByNameKey</td><td><span class="tag tag-read">R</span></td><td>NameKey</td></tr>
+<tr><td class="method">GetNextByNameKey</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFirstByPhone</td><td><span class="tag tag-read">R</span></td><td>PhoneKey</td></tr>
+<tr><td class="method">GetNextByPhone</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFirstByPhoneKey</td><td><span class="tag tag-read">R</span></td><td>PhoneKey</td></tr>
+<tr><td class="method">GetFirstByWholePhoneKey</td><td><span class="tag tag-read">R</span></td><td>PhoneKey</td></tr>
+<tr><td class="method">GetNextByPhoneKey</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetNextByWholePhoneKey</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetClientsByEmailOrPhone</td><td><span class="tag tag-read">R</span></td><td>Email, Phone</td></tr>
+<tr><td class="method">GetPatientHandles</td><td><span class="tag tag-read">R</span></td><td>ClientHandle, IncludeInactive</td></tr>
+<tr><td class="method">GetAccountingHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetByFolder</td><td><span class="tag tag-read">R</span></td><td>Folder</td></tr>
+<tr><td class="method">GetFirstByMoreStuff</td><td><span class="tag tag-read">R</span></td><td>MoreStuffKey</td></tr>
+<tr><td class="method">GetNextByMoreStuff</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFirstByMoreStuffKey</td><td><span class="tag tag-read">R</span></td><td>MoreStuffKey</td></tr>
+<tr><td class="method">GetNextByMoreStuffKey</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetMoreStuff</td><td><span class="tag tag-read">R</span></td><td>RecordHandle → FieldNames, FieldValues</td></tr>
+<tr><td class="method">CreateInvoice</td><td><span class="tag tag-write">W</span></td><td>Date</td></tr>
+
+<tr><td rowspan="9">IAVIPatientInProc</td><td class="method">GetByCode</td><td><span class="tag tag-read">R</span></td><td>Code</td></tr>
+<tr><td class="method">GetByTagNo</td><td><span class="tag tag-read">R</span></td><td>TagNo, Microchip</td></tr>
+<tr><td class="method">GetReminderHandles</td><td><span class="tag tag-read">R</span></td><td>PatientHandle</td></tr>
+<tr><td class="method">GetHistoryHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetAppointmentHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetViewHandles</td><td><span class="tag tag-read">R</span></td><td>ViewName</td></tr>
+<tr><td class="method">PrintPatientChart</td><td><span class="tag tag-read">R</span></td><td>PatientRecord</td></tr>
+<tr><td class="method">GetModelHandles</td><td><span class="tag tag-read">R</span></td><td>TreatmentHandle</td></tr>
+<tr><td class="method">Values</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+
+<tr><td>IAVITreatmentInProc</td><td class="method">GetModelHandles</td><td><span class="tag tag-read">R</span></td><td>TreatmentHandle</td></tr>
+
+<tr><td>IAVIInventoryInProc</td><td class="method">GetInventoryUsedHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+
+<tr><td rowspan="15">IAVIHistoryInProc</td><td class="method">GetFirstByDate</td><td><span class="tag tag-read">R</span></td><td>DateString</td></tr>
+<tr><td class="method">GetNextByDate</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetLastByDate</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetNextByDateKey</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFirstByCode</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetLastByCode</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetPrevByCode</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">HistoryType</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetMoreStuffEx</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetMoreStuffAndNormals</td><td><span class="tag tag-read">R</span></td><td>FieldMins, FieldMaxs</td></tr>
+<tr><td class="method">GetTestHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetAnalyteHandles</td><td><span class="tag tag-read">R</span></td><td>TestHandle</td></tr>
+<tr><td class="method">PostHistory</td><td><span class="tag tag-write">W</span></td><td></td></tr>
+<tr><td class="method">AddHistory</td><td><span class="tag tag-write">W</span></td><td>Quantity</td></tr>
+<tr><td class="method">RefillHistory</td><td><span class="tag tag-write">W</span></td><td>EnteredBy</td></tr>
+
+<tr><td rowspan="6">IAVIEntryInProc</td><td class="method">GetTableHandle</td><td><span class="tag tag-read">R</span></td><td>TableCode</td></tr>
+<tr><td class="method">GetEntryHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetEntriesByTable</td><td><span class="tag tag-read">R</span></td><td>TableName</td></tr>
+<tr><td class="method">GetFieldValuesByName</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">EntryCode</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">AddNewEntry</td><td><span class="tag tag-write">W</span></td><td>EntryDescription</td></tr>
+
+<tr><td rowspan="2">IAVIOrderInProc</td><td class="method">CreateOrder</td><td><span class="tag tag-write">W</span></td><td>Vendor</td></tr>
+<tr><td class="method">AddItem</td><td><span class="tag tag-write">W</span></td><td>ItemCode</td></tr>
+
+<tr><td rowspan="12">IAVIFileInProc</td><td class="method">Login</td><td><span class="tag tag-critical">AUTH</span></td><td>Password</td></tr>
+<tr><td class="method">OpenFiles</td><td><span class="tag tag-read">R</span></td><td>Path</td></tr>
+<tr><td class="method">CloseFiles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFileHandles</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFileNames</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">GetFileHandle</td><td><span class="tag tag-read">R</span></td><td>FileName</td></tr>
+<tr><td class="method">GetRecordCount</td><td><span class="tag tag-read">R</span></td><td>FileHandle</td></tr>
+<tr><td class="method">GetFieldNames</td><td><span class="tag tag-read">R</span></td><td>Param2</td></tr>
+<tr><td class="method">GetFieldValues</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+<tr><td class="method">SetFieldValues</td><td><span class="tag tag-write">W</span></td><td></td></tr>
+<tr><td class="method">SetFieldValuesByName</td><td><span class="tag tag-write">W</span></td><td></td></tr>
+<tr><td class="method">AddRecordEx</td><td><span class="tag tag-write">W</span></td><td></td></tr>
+
+<tr><td>IAVIEstimateInProc</td><td class="method">GetEstimateEntryHandles</td><td><span class="tag tag-read">R</span></td><td>EstimateHandle</td></tr>
+
+<tr><td rowspan="7">IAVIAppointmentInProc</td><td class="method">GetAppointmentHandlesByDate</td><td><span class="tag tag-read">R</span></td><td>StartDate, EndDate</td></tr>
+<tr><td class="method">GetAppointmentsByDoctor</td><td><span class="tag tag-read">R</span></td><td>DoctorID, StartDateTime, IncludeInactiveDeleted</td></tr>
+<tr><td class="method">GetAppointmentsByRoom</td><td><span class="tag tag-read">R</span></td><td>RoomCode</td></tr>
+<tr><td class="method">GetBlockOffExsByDoctor</td><td><span class="tag tag-read">R</span></td><td>DoctorID</td></tr>
+<tr><td class="method">GetBlockOffExsByRoom</td><td><span class="tag tag-read">R</span></td><td>RoomCode</td></tr>
+<tr><td class="method">GetBlockOffsByDoctor</td><td><span class="tag tag-read">R</span></td><td>DoctorID</td></tr>
+<tr><td class="method">GetBlockOffsByRoom</td><td><span class="tag tag-read">R</span></td><td>RoomCode</td></tr>
+
+<tr><td>IAVICensusInProc</td><td class="method">Diagnosis</td><td><span class="tag tag-read">R</span></td><td></td></tr>
+</tbody>
+</table>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>6. Security Analysis</h2>
+
+<h3>Authentication</h3>
+<ul>
+  <li><code>IAVIFileInProc.Login(Password)</code> requires authentication before raw file access</li>
+  <li>Password is likely the server password from <code>AVImarkServer.ini</code> (hex-encoded hash)</li>
+  <li>Other interfaces may or may not require prior Login — needs testing</li>
+</ul>
+
+<h3>Access Control</h3>
+<ul>
+  <li>COM server is 32-bit InprocServer32 — runs in the calling process's context</li>
+  <li>No apparent role-based access control within the COM API</li>
+  <li>Once authenticated via Login(), appears to have full access to all operations</li>
+  <li>The server process (AVImarkServer.exe) runs as LocalSystem — high privilege</li>
+</ul>
+
+<h3>Risk Assessment</h3>
+<table>
+<thead><tr><th>Risk</th><th>Severity</th><th>Mitigation</th></tr></thead>
+<tbody>
+<tr><td>Write operations could corrupt data</td><td><span class="tag tag-critical">HIGH</span></td><td>Always test on clone server first. Backup before write operations.</td></tr>
+<tr><td>No transaction/rollback mechanism visible</td><td><span class="tag tag-critical">HIGH</span></td><td>Verify each write with subsequent read. Implement application-level logging.</td></tr>
+<tr><td>Password may be extractable from INI</td><td><span class="tag tag-both">MEDIUM</span></td><td>Restrict file access to AVImark directory. Use OS-level permissions.</td></tr>
+<tr><td>COM server could crash AVImark if misused</td><td><span class="tag tag-both">MEDIUM</span></td><td>In-process COM runs in caller's space, not server's. But shared files could deadlock.</td></tr>
+</tbody>
+</table>
+
+<!-- ============================================================ -->
+<h2>7. Integration Opportunities</h2>
+
+<h3>With Current ETL Pipeline (30 tables, 2.58M rows in Supabase)</h3>
+<table>
+<thead><tr><th>Integration</th><th>Interfaces Needed</th><th>Complexity</th><th>Value</th></tr></thead>
+<tbody>
+<tr><td>Client search API</td><td>IAVIClientInProc</td><td>Low</td><td>Real-time client lookup from web app</td></tr>
+<tr><td>Appointment viewer</td><td>IAVIAppointmentInProc</td><td>Low</td><td>Live schedule with doctor/room filtering</td></tr>
+<tr><td>Vaccine reminder automation</td><td>IAVIPatientInProc</td><td>Medium</td><td>Auto-generate recall lists with GetReminderHandles</td></tr>
+<tr><td>Purchase order automation</td><td>IAVIOrderInProc</td><td>Medium</td><td>CreateOrder + AddItem from Supabase analytics</td></tr>
+<tr><td>SOAP note integration</td><td>IAVIHistoryInProc</td><td>Medium</td><td>Read/write medical history, post AI-generated notes</td></tr>
+<tr><td>Price update tool</td><td>IAVIFileInProc</td><td>High</td><td>Bulk fee schedule updates via SetFieldValuesByName</td></tr>
+<tr><td>Full bidirectional sync</td><td>IAVIFileInProc</td><td>High</td><td>Read via GetFieldValues, write-back from web app</td></tr>
+</tbody>
+</table>
+
+<h3>eOrdering Integration (SOAP Web Services)</h3>
+<p>AVImark includes XML transformation templates for electronic ordering:</p>
+<ul>
+  <li><code>AVP_eOrderingAdminMailAccounts.xtr</code> — Mail configuration</li>
+  <li><code>AVP_eOrderingCatalogItemsAlternates.xtr</code> — Catalog alternates</li>
+  <li><code>AVP_eOrderingCateglogItems.xtr</code> — Catalog items (number, description, manufacturer, price, stock_quantity)</li>
+  <li><code>AVP_eOrderingContactLogin.xtr</code> — Distributor login credentials</li>
+  <li><code>AVP_eOrderingShippingAddress.xtr</code> — Shipping addresses</li>
+</ul>
+<p>These use SOAP/XML and could be leveraged for distributor-integrated automated ordering.</p>
+
+<!-- ============================================================ -->
+<h2>8. Automation Use Cases</h2>
+
+<h3>🛒 Automated Inventory Ordering</h3>
+<pre>
+1. Supabase analytics detects low inventory (PO history + usage patterns)
+2. System generates suggested order list
+3. Staff approves (or auto-approve for routine items)
+4. COM: CreateOrder("IDEXX") → AddItem("CBC") → AddItem("CHEM17") → ...
+5. Order appears in AVImark's PO system
+6. Distributor receives order via eOrdering SOAP integration
+</pre>
+
+<h3>📋 AI SOAP Notes</h3>
+<pre>
+1. Vet completes visit (services billed, prescriptions written)
+2. AI reads visit context via GetHistoryHandles + GetMoreStuffEx
+3. AI generates SOAP note from structured data + voice notes
+4. Vet approves/edits
+5. COM: AddHistory() → PostHistory() writes note back to AVImark
+</pre>
+
+<h3>📅 Smart Scheduling</h3>
+<pre>
+1. Client requests appointment via web portal
+2. GetAppointmentsByDoctor checks availability
+3. GetBlockOffExsByDoctor excludes blocked times
+4. System suggests optimal slots
+5. COM: (appointment creation method - needs further investigation)
+</pre>
+
+<h3>💰 Automated Price Updates</h3>
+<pre>
+1. Annual CPI/inflation analysis from Supabase (already built — 126 items updated in 2026)
+2. Generate proposed price changes
+3. Manager approves batch
+4. COM: Login() → OpenFiles("C:\AVImark") → SetFieldValuesByName on PRICE.V2$ records
+</pre>
+
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2>9. Registration Status &amp; Next Steps</h2>
+
+<h3>Current Status</h3>
+<div class="warning-box">
+<strong>Registration: FAILED (Silent)</strong><br>
+<code>regsvr32 "C:\AVImark\AVImarkCOMServer.dll"</code> completes without error code but does not write ProgIDs or CLSIDs to the Windows registry. The 32-bit variant (<code>C:\Windows\SysWOW64\regsvr32.exe</code>) hangs with a dialog box (inaccessible on headless server).
+</div>
+
+<h3>Possible Causes</h3>
+<ol>
+  <li><strong>Runtime dependency:</strong> DLL may require AVImark client application context (not just the server service)</li>
+  <li><strong>Missing Delphi runtime packages:</strong> Large Delphi COM servers sometimes need BPL packages</li>
+  <li><strong>Server vs. Workstation:</strong> May need to be registered from an AVImark workstation, not the server</li>
+  <li><strong>License check:</strong> DllRegisterServer may verify AVImark license before registering</li>
+  <li><strong>Path dependency:</strong> May need to run regsvr32 from C:\AVImark directory</li>
+</ol>
+
+<h3>Next Steps (Priority Order)</h3>
+<table>
+<thead><tr><th>#</th><th>Action</th><th>Risk</th><th>Expected Outcome</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>Try <code>regsvr32</code> from C:\AVImark directory</td><td>Low</td><td>May resolve path dependency</td></tr>
+<tr><td>2</td><td>Try registration from an AVImark workstation</td><td>Low</td><td>Client context may satisfy runtime check</td></tr>
+<tr><td>3</td><td>Use <code>tlbimp</code> or OleView to extract full TLB</td><td>None</td><td>Complete method signatures with data types</td></tr>
+<tr><td>4</td><td>Try direct COM activation via CLSID from TLB</td><td>Low</td><td>May work without registry if CLSID is known</td></tr>
+<tr><td>5</td><td>Analyze DllRegisterServer with debugger</td><td>Low</td><td>Identify exact failure point</td></tr>
+<tr><td>6</td><td>Contact Covetrus for COM API documentation</td><td>None</td><td>Official docs may exist for integration partners</td></tr>
+<tr><td>7</td><td>Try Python win32com with manual CLSID</td><td>Low</td><td>Bypass ProgID registration entirely</td></tr>
+</tbody>
+</table>
+
+<!-- ============================================================ -->
+<h2>10. Appendix</h2>
+
+<h3>A. Related Files on ROS-SVR</h3>
+<table>
+<thead><tr><th>File</th><th>Size</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td><code>AVImarkCOMServer.dll</code></td><td>74.7 MB</td><td>COM server (this analysis)</td></tr>
+<tr><td><code>AVImarkServer.exe</code></td><td>—</td><td>AVImark server process (PID 12048, running)</td></tr>
+<tr><td><code>AVImarkServer.ini</code></td><td>200 B</td><td>Server config (password hash, port 9191)</td></tr>
+<tr><td><code>STSeries.tlb</code></td><td>38 KB</td><td>ST Series type library (charting/graphing component)</td></tr>
+<tr><td><code>IVLS\IDEXXClient.ocx</code></td><td>—</td><td>IDEXX VetLab Station ActiveX control (registered)</td></tr>
+<tr><td><code>AVP_eOrdering*.xtr</code></td><td>1.8–8.8 KB</td><td>Electronic ordering SOAP/XML templates (5 files)</td></tr>
+</tbody>
+</table>
+
+<h3>B. Server Environment</h3>
+<table>
+<tbody>
+<tr><td style="font-weight:600">Hostname</td><td>ROS-SVR</td></tr>
+<tr><td style="font-weight:600">OS</td><td>Windows Server 2019 (10.0.17763)</td></tr>
+<tr><td style="font-weight:600">Architecture</td><td>x64</td></tr>
+<tr><td style="font-weight:600">AVImark Version</td><td>2022.10.6</td></tr>
+<tr><td style="font-weight:600">AVImark Port</td><td>TCP 9191</td></tr>
+<tr><td style="font-weight:600">AVImark Path</td><td>C:\AVImark</td></tr>
+<tr><td style="font-weight:600">Data Files</td><td>~100+ V2$ files, 1.08 GB main DB</td></tr>
+<tr><td style="font-weight:600">ETL Pipeline</td><td>30 tables, 2.58M rows → Supabase (nightly 2:00 AM)</td></tr>
+</tbody>
+</table>
+
+<div class="footer">
+  AVImark COM Server Analysis — Rosslyn Veterinary Clinic — CONFIDENTIAL<br>
+  Generated April 2, 2026 by Avvy 🐾 — github.com/jack108510/avimark-etl
+</div>
+
+</body>
+</html>

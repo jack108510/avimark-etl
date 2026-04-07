@@ -1,0 +1,1088 @@
+treatment_code,description,list_price,confidence,tier,window_used,window_charges,mode_share_pct,second_price,second_count,third_price,third_count,list_price_365d,confidence_365d,uses_365d,revenue_365d,price_changed
+HC,"Health Exam - Canine",80,71,MEDIUM,90d,1387,66.8,86,412,51.6,23,80,71,1443,116661.2,false
+0714,"Urgent Pet Care Office Visit",92.5,95,HIGH,90d,261,92.7,55.5,8,83.25,8,80,72,1388,115739.26,true
+HEF,"Health Exam - Feline",80,47,LOW,90d,419,48,86,196,51.6,17,80,69,953,77006.2,false
+GERI,"Geriatric Panel",270,88,HIGH,90d,62,83.9,135,6,202.5,2,270,95,182,47808.9,false
+2VW,"X-Rays   2 Views",225,76,MEDIUM,90d,43,72.1,249,10,259,2,225,94,182,41236,false
+GENPA2,"DECLINED: Pre- Anesthetic (10) CBC Lytes",96,95,HIGH,90d,74,93.2,31.81,3,48,1,96,98,331,31486.43,false
+303A,"Euthanasia Attended (Client)",180,100,HIGH,90d,51,100,,0,,0,180,99,157,28300,false
+GERPUW,"Geriatric Panel + Urinalysis",303.9,61,MEDIUM,180d,42,59.5,342.9,16,270,1,303.9,77,67,20969.4,false
+F2Y,"Feline FVRCP (1 yr )",35,45,LOW,90d,614,38.1,30,198,38,120,35,44,617,20672.46,false
+URIN2,"Urinalysis Full IN",95.7,95,HIGH,90d,58,93.1,23.93,2,23.92,1,95.7,97,217,20391.81,false
+BLO,"Blood collection",41.35,98,HIGH,90d,186,97.8,82.7,3,31.01,1,41.35,98,427,18138.18,false
+GPCPL,"Geriatric Panel + Pancreatic Lipase",308.9,98,HIGH,90d,34,100,,0,,0,308.9,100,57,17607.3,false
+GENAL3,"General Health (17) CBC  Lytes  SDMA",233.9,99,HIGH,365d,71,98.6,222.9,1,,0,233.9,99,71,16595.9,false
+DENTCALA,"Dental - Canine < 50 lb",375,40,LOW,180d,31,32.3,445,8,267,7,375,63,46,15312.6,false
+ORA3,"Radiograph Dental Full Mouth",200,74,MEDIUM,180d,41,70.7,120,10,50,1,200,87,78,14400,false
+402A,"Extractions - Major",98,44,LOW,180d,30,36.7,128,8,294,3,98,57,61,13988.8,false
+CYSTO,"Urine collection",46.8,100,HIGH,90d,87,100,,0,,0,46.8,100,285,13321.62,false
+0023,"Feline - Spay",216,53,MEDIUM,180d,47,42.6,129.6,12,298,8,216,51,69,13312.4,false
+142836T,"Apoquel Chewable tablets 16mg(per tab)",240,28,LOW,180d,34,17.6,96.96,6,366,5,96,32,83,13019.08,true
+GENAL2,"General Health (15) CBC  Lytes  SDMA",222.9,100,HIGH,365d,56,100,,0,,0,222.9,100,56,12482.4,false
+DENTALB,"Dental Block/Quadrant",125.2,75,MEDIUM,180d,43,65.1,250.4,6,75.12,4,125.2,54,76,11940.95,false
+HEXAM,"Health Exam",86,78,MEDIUM,180d,54,74.1,80,13,51.6,1,80,73,139,11295.6,true
+402,"Extractions - Minor",58,31,LOW,180d,34,23.5,98,8,174,4,58,40,60,10893.9,false
+2VWA,"Chest X-Rays (2L+Vd)",270,99,HIGH,180d,37,100,,0,,0,270,99,40,10800,false
+109257,"Microchip",60,99,HIGH,180d,85,98.8,45,1,,0,60,98,173,10302,false
+FLU,"IV Fluids Set Up & Maintenance",245,96,HIGH,365d,41,95.1,122.5,1,203.6,1,245,96,41,9881.1,false
+CYTOLOGY,"Ear Swab/ Microscopic Exam",57.6,92,HIGH,90d,36,91.7,34.56,3,,0,57.6,97,161,9159.44,false
+ISOPERH,"Anesthesia - Isoflurane/Hr",552,67,MEDIUM,365d,17,58.8,414,2,690,2,552,67,17,9135.6,false
+FEFIV,"DECLINED: FELV/FIV Snap Test IN",63.9,98,HIGH,90d,34,100,,0,,0,63.9,100,142,9073.8,false
+0022,"Feline Neuter",120,39,LOW,180d,36,33.3,153,11,91.8,6,120,67,79,9001.8,false
+136040,"Convenia Inj. 80mg/mL",67.76,24,LOW,180d,69,7.2,64.96,5,58.61,4,58.56,26,143,8884.96,true
+MEDLG,"Take-Home Medications - Large",200,78,MEDIUM,180d,35,77.1,100,8,,0,200,82,48,8600,false
+132101T,"Apoquel 16mg (per tab)",122.4,35,LOW,365d,51,13.7,251.4,5,57.9,5,122.4,35,51,8403.75,false
+SQ,"SQ Fluids",55,99,HIGH,180d,59,98.3,46.75,1,,0,55,99,150,8186.75,false
+WBMD1,"DECLINED: Histology w Micro Description",330.5,90,HIGH,365d,24,91.7,353.9,2,,0,330.5,90,24,7978.8,false
+GENAL1,"General Health (10) CBC  Lytes  SDMA",175.9,93,HIGH,365d,42,92.9,351.8,3,,0,175.9,93,42,7915.5,false
+MEDSM,"Take Home Medications - Small",50,58,MEDIUM,90d,32,59.4,100,13,,0,50,80,121,7535,false
+131069,"PVD Fel UR ST/OX Salmon - 156g",75.84,38,LOW,180d,35,25.7,72.96,7,145.92,5,69.84,53,101,7404.72,true
+125207,"Clavamox Drops 62.5mg/ml 15ml",63.78,49,LOW,90d,32,43.8,59.69,10,115.56,6,59.69,60,74,7338.23,true
+TOTT 4,"Thyroid IN",107.9,83,HIGH,365d,71,80.3,53.95,14,,0,107.9,83,71,6905.6,false
+1VW,"X-Rays 1 View",150,72,MEDIUM,180d,36,63.9,180,6,95,4,150,80,47,6749,false
+DENTALFE,"Dental - Feline",320,80,HIGH,365d,24,75,1.8,2,160,2,320,80,24,6664.1,false
+303,"Euthanasia Attended (New Client)",180,99,HIGH,365d,37,100,,0,,0,180,99,37,6660,false
+307,"Cremation Communal 1kg-9.9kg",78,52,MEDIUM,180d,47,53.2,60,22,,0,60,79,103,6630,true
+SEDIM,"Sedation- IM < 10 kg",61.11,100,HIGH,180d,51,100,,0,,0,61.11,98,107,6599.87,false
+117505,"PVD Fel UR ST/OX - 7.26kg",111.45,77,MEDIUM,365d,57,70.2,113.69,11,118.24,6,111.45,77,57,6418.03,false
+HNS,"Health Exam Non-Scheduled Appointment",97,97,HIGH,90d,58,96.6,87.3,2,,0,97,98,66,6382.6,false
+131065,"PVD K9 HA Vegetarian - 11.3kg",154.82,66,MEDIUM,365d,40,57.5,159.06,9,172.29,8,154.82,66,40,6370.72,false
+408,"Oral Timed Surgery /10 Min",652.8,26,LOW,365d,7,28.6,870.4,2,979.2,2,652.8,26,7,6310.4,false
+PRCR1,"Priv. Cremation w/ Scatter tube <9kg",112.5,100,HIGH,365d,56,100,,0,,0,112.5,100,56,6300,false
+115191,"Cerenia Injection",61.79,31,LOW,90d,88,9.1,53.77,6,74.26,4,61.79,29,154,6299.84,false
+100,"Anesthesia Induction Fee",250,93,HIGH,365d,25,96,150,1,,0,250,93,25,6150,false
+WC1,"Cytology w/ Micro Description (1 site)",262.5,96,HIGH,365d,22,100,,0,,0,262.5,96,22,5775,false
+HCR,"Health Exam Recheck Canine",65,83,HIGH,365d,87,79.3,69,15,41.4,2,65,83,87,5652.8,false
+GPCU,"Geriatric Panel + Pancreatic Lipase + UA",331.9,95,HIGH,365d,17,100,,0,,0,331.9,95,17,5642.3,false
+140513,"RC Fel Urinary SO - 145g",69.6,61,MEDIUM,180d,33,57.6,72.48,10,3.02,2,69.6,69,84,5583.7,false
+137069,"Hills Fel c/d Stress Chicken - 8.5lbs",86.61,68,MEDIUM,180d,35,60,90.08,7,173.22,2,86.61,47,60,5575.66,false
+104861,"Metacam Oral 10ml",43.84,67,MEDIUM,90d,44,56.8,44.24,9,42.63,8,44.24,76,127,5535.6,true
+140559,"Nexgard Combo 2.5 - 7.5kg Feline",70.96,44,LOW,90d,38,31.6,74.88,8,38.73,8,68.4,32,73,5302.69,true
+0011,"Canine - Spay <20lb",207.96,39,LOW,365d,19,36.8,291.6,6,346.6,4,207.96,39,19,5291.72,false
+99005471,"Gabapentin 100mg/ml Aqueous",22.9,39,LOW,90d,60,16.7,44.7,6,13.09,6,22.9,25,176,5192.56,false
+HERF,"Health Exam Recheck - Feline",69,88,HIGH,180d,38,86.8,65,5,,0,65,58,77,5137,true
+117906,"Hills K9 z/d - 25lbs",160.7,88,HIGH,365d,30,86.7,321.4,2,152.68,1,160.7,88,30,5134.32,false
+FTES,"Fluid Therapy - Elective Surgery",55,85,HIGH,180d,56,80.4,33,7,46.75,4,55,89,97,5082,false
+130986,"Hills K9 i/d Low Fat - 27.5lbs",335.76,40,LOW,365d,15,40,332.16,5,349.18,3,335.76,40,15,4890.78,false
+LP15,"Lumpectomy Per 15 Mintutes",200,65,MEDIUM,365d,17,58.8,400,3,600,2,200,65,17,4850,false
+120001,"PVD Fel UR ST/OX - 2.72kg",54.47,63,MEDIUM,90d,30,63.3,52.38,11,,0,51.35,55,92,4813.35,true
+102221,"Bordetella Oral Vaccination",30,88,HIGH,90d,44,86.4,18,6,,0,30,95,163,4770,false
+AIP15,"Anesthesia - Isoflurane Per 15 Mins",138,59,MEDIUM,365d,17,47.1,966,2,276,2,138,59,17,4623,false
+117787,"RC Fel Urinary SO - 3.5kg",68.38,73,MEDIUM,365d,67,65.7,66.15,15,71.11,8,68.38,73,67,4569.85,false
+BLOOD,"General Health Panel w CPL IN CLINIC",222.9,95,HIGH,365d,20,100,,0,,0,222.9,95,20,4458,false
+132100,"Apoquel 5.4mg (100 tabs)",4454.85,84,HIGH,365d,1,100,,0,,0,4454.85,84,1,4454.85,false
+104862,"Metacam Oral 32ml",76.66,65,MEDIUM,365d,59,59.3,67.42,18,82.21,6,76.66,65,59,4389.92,false
+119322,"Hills Fel c/d Chicken - 8.5lbs",80.36,69,MEDIUM,365d,48,58.3,79.45,9,83.58,5,80.36,69,48,4340.07,false
+140510,"RC Fel Satiety - 145g",71.04,32,LOW,365d,42,23.8,75.84,10,151.68,6,71.04,32,42,4327.89,false
+V1,"Rabies Vaccination 1 Year  #1020508498",30,77,MEDIUM,90d,46,71.7,18,9,27,4,30,88,150,4288,false
+PLT,"Pancreatic Lipase Test",53.9,99,HIGH,365d,80,98.8,13.48,1,,0,53.9,99,80,4271.58,false
+142835,"Apoquel Chewable tab 5.4mg (100 tabs)",4253.25,84,HIGH,365d,1,100,,0,,0,4253.25,84,1,4253.25,false
+3VW,"X-Rays  Additional",82,91,HIGH,365d,46,87,164,3,49.2,1,82,91,46,4220.5,false
+4VW,"X-Rays 3 View",300,94,HIGH,365d,14,100,,0,,0,300,94,14,4200,false
+DENTCALG,"Dental - Canine > 50 lb",400,78,MEDIUM,365d,10,80,455,1,465,1,400,78,10,4120,false
+GPFPL,"Geriatric Panel + Pancreatic Lipase",308.9,88,HIGH,365d,14,92.9,77.23,1,,0,308.9,88,14,4092.93,false
+140366,"Librela - 20mg/ml (First Vial)",96.53,47,LOW,365d,44,43.2,82.32,16,103.77,7,96.53,47,44,4046.48,false
+FL,"Fluorescein Eye Stain(per patient)",42.1,99,HIGH,180d,40,100,,0,,0,42.1,100,96,4041.6,false
+132339,"Aventi Liver Complete Dogs & Cats -90s",133.32,48,LOW,365d,28,39.3,154.59,7,153.54,7,133.32,48,28,4038.84,false
+UPCRECK,"Urgent Pet Care Recheck Visit",60,69,MEDIUM,365d,61,65.6,79,20,45,1,60,69,61,4025,false
+URINEC,"Cystotomy",607.6,79,MEDIUM,365d,7,85.7,364.56,1,,0,607.6,79,7,4010.16,false
+ULTRA,"Ultrasound Abdomen FVS",494,69,MEDIUM,365d,8,75,518.7,2,,0,494,69,8,4001.4,false
+0012,"Canine - Spay 10.1-24kg",324,93,HIGH,365d,12,100,,0,,0,324,93,12,3888,false
+125657,"Hills Fel t/d - 4lbs",47.33,51,MEDIUM,365d,82,47.6,46.42,31,47.32,9,47.33,51,82,3858.43,false
+0007,"Canine - Castration <20lb",265,68,MEDIUM,365d,16,68.8,159,4,251.75,1,265,68,16,3802.75,false
+107354,"Surolan Drops - 15mL",54.07,68,MEDIUM,365d,67,58.2,48.06,14,55.96,11,54.07,68,67,3586.8,false
+118600,"RC Fel Urinary SO - 85g",64.8,58,MEDIUM,365d,45,46.7,60.72,10,129.6,7,64.8,58,45,3547.2,false
+143563,"Senvelgo - 30ml",380.06,61,MEDIUM,365d,8,62.5,448.89,2,748.12,1,380.06,61,8,3546.2,false
+01-09,"Pyometra Surgery per hour",985.8,36,LOW,365d,4,50,739.35,2,,0,985.8,36,4,3450.3,false
+LR15,"Laceration Repair Per 15 minutes",110,47,LOW,365d,24,41.7,178.55,7,89.27,2,110,47,24,3442.26,false
+01011,"Sedation IM 20-40 Kg",88.55,62,MEDIUM,365d,37,62.2,98.55,14,,0,88.55,62,37,3416.35,false
+117821,"RC K9 Hypo HP - 11.5kg",153.66,76,MEDIUM,365d,22,72.7,159.81,3,145.85,3,153.66,76,22,3375.54,false
+126022,"Caninsulin - 10mL",61.46,41,LOW,365d,33,27.3,199.86,6,105.36,5,61.46,41,33,3311.54,false
+140365,"Librela - 15mg/ml (First Vial)",93.64,56,MEDIUM,365d,37,54.1,79.91,14,100.64,2,93.64,56,37,3274.8,false
+139644,"RC Fel Renal Support Early - 85g",95.04,71,MEDIUM,365d,30,63.3,190.08,5,47.52,2,95.04,71,30,3264.9,false
+144178,"Solensia - 7mg/ml",44.44,38,LOW,180d,30,33.3,96.44,9,89.77,7,89.77,39,41,3261.27,true
+119002,"PVD K9 EN - 380g",66.6,69,MEDIUM,365d,41,53.7,133.2,4,213.12,3,66.6,69,41,3251.19,false
+138254,"RC K9 Urinary SO - 11.5kg",136.73,85,HIGH,365d,24,83.3,142.19,2,98.44,2,136.73,85,24,3215.86,false
+113573,"Hills Fel c/d Ocean Fish - 5.5oz",75.12,49,LOW,365d,59,23.7,6.26,5,150.24,5,75.12,49,59,3213.93,false
+135950,"Interceptor Plus Chew Blue (22.8-45.4KG)",50.42,41,LOW,365d,68,33.8,28.46,21,40.46,9,50.42,41,68,3173.8,false
+0929,"Senior Canine Gold Package Promo",395,91,HIGH,365d,8,100,,0,,0,395,91,8,3160,false
+SHAVE,"Lion Shave with sedation",193.4,94,HIGH,365d,16,100,,0,,0,193.4,94,16,3094.4,false
+140387,"PVD Fel EN Savory Selects Chicken - 156g",88.56,56,MEDIUM,365d,45,37.8,22.14,6,7.38,4,88.56,56,45,3076.91,false
+106544,"Vetmedin 1.25mg",69,52,MEDIUM,365d,47,34,63,7,61.2,6,69,52,47,3052.84,false
+140367,"Librela - 30mg/ml (First Vial)",102.4,64,MEDIUM,365d,31,61.3,87.19,9,110.14,2,102.4,64,31,3040.07,false
+115315,"Clavaseptin - 500mg Tabs",90.8,53,MEDIUM,365d,37,35.1,67.16,5,78.6,4,90.8,53,37,3014.9,false
+107355,"Surolan Drops 30mL",87.72,40,LOW,365d,35,31.4,91.12,9,76.91,9,87.72,40,35,3005.19,false
+140309,"Feliway Friends Diffuser + Refill",149.48,58,MEDIUM,365d,26,57.7,74.74,9,37.37,2,149.48,58,26,2989.6,false
+0110,"Foreign Body/Exploratory 1hr",985.8,87,HIGH,365d,3,100,,0,,0,985.8,87,3,2957.4,false
+117503,"PVD K9 HA Vegetarian - 7.48kg",128.1,66,MEDIUM,365d,23,60.9,119.71,5,133.22,4,128.1,66,23,2924.83,false
+115971,"RC K9 Hypo HP - 8kg",126.49,74,MEDIUM,365d,23,73.9,131.55,5,101.19,1,126.49,74,23,2909.27,false
+121047,"RC K9 GI Low Fat - 385g",71.4,68,MEDIUM,365d,46,52.2,23.8,5,66,4,71.4,68,46,2898.87,false
+124395,"Cartrophen Inj",47.9,32,LOW,365d,59,16.9,45.77,9,57.17,4,47.9,32,59,2872.78,false
+V3,"Rabies Vaccination 3 Year  #1020508499",30,92,HIGH,180d,36,91.7,18,3,,0,30,97,95,2814,false
+FT,"Fluid Therapy - Dental",55,100,HIGH,365d,51,100,,0,,0,55,100,51,2805,false
+125193,"Vanectyl-P",74.88,35,LOW,365d,43,16.3,53.92,5,46.24,4,74.88,35,43,2791.05,false
+130004,"Hills Fel t/d - 8.5lbs",84.81,46,LOW,365d,33,45.5,83.92,13,88.21,4,84.81,46,33,2766.84,false
+HSPMED,"Hospitalization (Medical)",120,96,HIGH,365d,23,100,,0,,0,120,96,23,2760,false
+NAILT,"Nail Trim (Cats/Dogs)",20.5,99,HIGH,90d,44,100,,0,,0,20.5,95,132,2749.02,false
+120508,"RC Fel GI Fibre Response - 4kg",85.63,82,HIGH,365d,29,79.3,87.54,4,171.26,2,85.63,82,29,2662.17,false
+142319,"Clavaseptin 750mg tablets",49.17,32,LOW,365d,37,18.9,65.1,6,118.2,4,49.17,32,37,2639.52,false
+113566,"Hills Fel c/d Chicken - 4lbs",44.65,56,MEDIUM,365d,57,50.9,43.74,20,46.44,6,44.65,56,57,2626.89,false
+137068,"Hills Fel c/d Stress Chicken - 4lbs",46.42,70,MEDIUM,365d,53,60.4,45.54,10,48.28,8,46.42,70,53,2605.6,false
+118034,"RC Fel Hypo HP - 3.5kg",85.04,68,MEDIUM,365d,32,56.3,88.44,4,80.71,4,85.04,68,32,2591.85,false
+128082,"Prozinc Human Insulin 40IU/ML 10ML",150.11,41,LOW,365d,19,31.6,112.58,4,126.91,3,150.11,41,19,2586.13,false
+109637,"Hills Fel z/d - 156g",67.85,32,LOW,365d,28,17.9,84,4,67.13,3,67.85,32,28,2579.1,false
+115795,"Milbemax cats (16mg/40mg)",28.06,56,MEDIUM,365d,78,38.5,24.98,12,49.62,8,28.06,56,78,2545.3,false
+PRCRE2,"Priv. Cremation w/Scatter tube 9.1-20kg",210,93,HIGH,365d,12,100,,0,,0,210,93,12,2520,false
+0109,"Enucleation (Single Eye)",838.8,87,HIGH,365d,3,100,,0,,0,838.8,87,3,2516.4,false
+139883,"Hills K9 Derm Complete - 14.3lbs",117.86,67,MEDIUM,365d,21,61.9,122.58,4,114.29,4,117.86,67,21,2479.66,false
+0013,"Canine - Spay 50-80lb",388.8,55,MEDIUM,365d,7,57.1,233.28,2,443.8,1,388.8,55,7,2465.56,false
+131070,"PVD Fel UR ST/OX Turkey - 156g",72.96,33,LOW,365d,46,23.9,69.84,11,75.84,7,72.96,33,46,2397.51,false
+137234,"Hills Fel Gi Biome - 8.5lbs",100,62,MEDIUM,365d,24,54.2,104,5,96.42,4,100,62,24,2387.8,false
+GPFU,"Geriatric Panel + FPL + Urinalysis",331.9,91,HIGH,365d,7,100,,0,,0,331.9,91,7,2323.3,false
+116018,"RC Fel Urinary SO - 8kg",129.81,76,MEDIUM,365d,16,75,123.21,2,246.42,1,129.81,76,16,2310.18,false
+0008,"Canine - Neuter 10.1kg - 23kg",168,58,MEDIUM,365d,11,63.6,280,4,,0,168,58,11,2296,false
+CLIPCL,"Clip & Clean Abscess/Wound per 10 mins",89.9,83,HIGH,365d,25,80,44.95,2,53.94,1,89.9,83,25,2256.49,false
+128903,"Hills Fel c/d Stress Chkn Stew - 2.9oz",74.16,47,LOW,365d,24,41.7,148.32,7,154.08,2,74.16,47,24,2254.4,false
+CDCD,"Diarrhea RealPCR (Comprehensive)K9",281.5,91,HIGH,365d,8,100,,0,,0,281.5,91,8,2252,false
+AMPLIM,"Amputation - Limb",1118.4,86,HIGH,365d,2,100,,0,,0,1118.4,86,2,2236.8,false
+137231,"K9 Hills Gi Biome 16lbs",107.14,70,MEDIUM,365d,21,71.4,103.58,6,,0,107.14,70,21,2228.58,false
+WBCX,"Complex Biopsy OUT",757.9,56,MEDIUM,365d,3,66.7,711.9,1,,0,757.9,56,3,2227.7,false
+140363,"Librela - 5mg/ml (First Vial)",87.8,59,MEDIUM,365d,26,53.8,75.03,7,94.27,4,87.8,59,26,2208.44,false
+REEX,"Recheck Exam",65,48,LOW,365d,33,48.5,69,14,60,3,65,48,33,2186,false
+137233,"Hills Fel GI Biome - 4lbs",55.35,67,MEDIUM,365d,40,57.5,57.56,8,52.65,4,55.35,67,40,2183.63,false
+139333,"RC Fel Selected Protein PD - 145g",56.88,39,LOW,365d,33,33.3,75.84,10,56.48,4,56.88,39,33,2165.08,false
+US,"FVS Echocardiogram",539.5,88,HIGH,365d,4,100,,0,,0,539.5,88,4,2158,false
+0930,"Senior Feline  Gold Package Promo",349,76,MEDIUM,365d,6,83.3,375,1,,0,349,76,6,2120,false
+128901,"Hills Fel c/d Chkn Stew - 2.9oz",68.64,49,LOW,365d,45,37.8,71.52,11,2.98,2,68.64,49,45,2112.46,false
+109579,"Deramaxx 100mg",99.45,46,LOW,365d,23,39.1,45.53,6,64.47,2,99.45,46,23,2075.73,false
+LIVER,"Liver Panel (IN)",171.9,93,HIGH,365d,12,100,,0,,0,171.9,93,12,2062.8,false
+119897,"Aurizon Ear Drops - 10ml",64.15,77,MEDIUM,365d,33,69.7,65.83,4,55.43,4,64.15,77,33,2048.19,false
+112658,"Hills K9 z/d - 370g",74.16,69,MEDIUM,365d,29,58.6,70.56,4,77.04,3,74.16,69,29,2044.86,false
+HS,"Hospitlization - Surgery",55,99,HIGH,365d,37,100,,0,,0,55,99,37,2035,false
+HOSP,"Hospitalization - Single Day Admission",100.12,95,HIGH,365d,20,100,,0,,0,100.12,95,20,2002.4,false
+120520,"RC K9 GI Low Fat - 13kg",165.05,68,MEDIUM,365d,12,66.7,172.12,2,165.5,2,165.05,68,12,1995.64,false
+02247074,"Cyclosporine 50 mg  SUMMIT",256.2,79,MEDIUM,365d,7,85.7,457.8,1,,0,256.2,79,7,1995,false
+119898,"Aurizon Ear Drops 20mL",101.8,49,LOW,365d,21,52.4,86.7,9,88.96,1,101.8,49,21,1989.06,false
+122352,"RC Fel GI Mod Cal - 3.5kg",74.6,54,MEDIUM,365d,23,47.8,70.8,6,77.58,2,74.6,54,23,1988.12,false
+112092,"Hills Fel d/d Duck - 156g",81.36,51,MEDIUM,365d,27,48.1,80.4,9,6.7,2,81.36,51,27,1983.5,false
+115883,"Fortekor 5mg",295.8,36,LOW,365d,11,27.3,156.48,2,89.4,2,295.8,36,11,1956.92,false
+INDUCE,"Induce Vomiting",75,90,HIGH,365d,24,91.7,150,2,,0,75,90,24,1950,false
+GERFT4,"Idexx Geriatric Panel w Free T4",324.9,90,HIGH,365d,6,100,,0,,0,324.9,90,6,1949.4,false
+113572,"Hills Fel c/d Chicken - 5.5oz",74.88,61,MEDIUM,365d,41,41.5,6.24,4,13,3,74.88,61,41,1941.36,false
+115275,"Hills Fel t/d - 20lbs",160.71,74,MEDIUM,365d,12,75,158.03,2,168.06,1,160.71,74,12,1930.51,false
+PHE,"Phenobarbital Level OUT",158.9,79,MEDIUM,365d,12,83.3,169.5,2,,0,158.9,79,12,1928,false
+143789,"PVD K9 OM Wt Manage select blend 7.48kg",224.92,55,MEDIUM,365d,11,54.5,116.96,3,112.46,2,224.92,55,11,1925.32,false
+EXT2,"Extractions - 2 Rooted tooth",98,38,LOW,365d,12,33.3,58.8,3,196,3,98,38,12,1920.8,false
+115314,"Clavaseptin 250mg tabs",57,42,LOW,365d,40,20,27.96,4,75,3,57,42,40,1920.7,false
+PRICREM3,"Priv. Cremation w/Scatter tube 20.1-43kg",240,91,HIGH,365d,8,100,,0,,0,240,91,8,1920,false
+120518,"RC K9 GI Low Fat - 3kg",54.55,64,MEDIUM,365d,31,54.8,52.28,6,56.73,4,54.55,64,31,1904.35,false
+310,"Euthanasia Humane/Unattended (Client)",135,94,HIGH,365d,14,100,,0,,0,135,94,14,1890,false
+BCUF,"Blocked/unblocking - FLUT flush (per hr)",550,50,MEDIUM,365d,5,60,110,2,,0,550,50,5,1870,false
+138278,"Simparica TRIO Green 20.1-40kg",82.22,30,LOW,365d,19,26.3,120.08,5,49.58,3,82.22,30,19,1869.5,false
+GASTP,"DECLINED: Gastropexy (add on - spay)",465,88,HIGH,365d,4,100,,0,,0,465,88,4,1860,false
+HSSPS,"Hospital Supplies-Surgery Pack Standard",58,98,HIGH,365d,32,100,,0,,0,58,98,32,1856,false
+128319,"PVD Fel HA 3.6kg",87.66,38,LOW,365d,20,35,95.55,6,99.37,6,87.66,38,20,1853.27,false
+128552,"Hills Fel c/d Ocean Fish - 8.5lbs",79.45,88,HIGH,365d,21,90.5,158.9,2,,0,79.45,88,21,1827.35,false
+119326,"Hills Fel k/d Chicken - 8.5lbs",86.61,65,MEDIUM,365d,21,61.9,90.08,5,83.04,3,86.61,65,21,1825.45,false
+GENA3,"Geriatric Panel + Fructosamine - In hous",303.9,90,HIGH,365d,6,100,,0,,0,303.9,90,6,1823.4,false
+PCSB,"Private Cremation Satin Bag",112.5,94,HIGH,365d,16,100,,0,,0,112.5,94,16,1800,false
+114424,"Metacam Inj 5mg/ml",13.69,31,LOW,90d,44,11.4,13.04,4,13.3,4,13.44,33,111,1760.32,true
+143775,"Hills Fel C/D Stress Tuna - 5.5 oz",78.48,67,MEDIUM,365d,33,54.5,13.08,4,3.4,2,78.48,67,33,1760.18,false
+UCUL,"Urine Culture OUT",213.9,36,LOW,365d,9,44.4,198.9,4,99.45,1,213.9,36,9,1750.65,false
+118192,"Felimazole 2.5mg",41.4,41,LOW,365d,29,24.1,60,4,118,3,41.4,41,29,1747.2,false
+131241,"RC Fel Renal Support D - 85g",132.96,59,MEDIUM,365d,14,50,2.77,2,265.92,2,132.96,59,14,1747.1,false
+102995,"PVD Fel DM - 2.72kg",59.71,75,MEDIUM,365d,29,72.4,62.1,6,58.54,2,59.71,75,29,1743.59,false
+K95WAY,"Canine DA2PP Vaccination 1 Year",30,95,HIGH,365d,59,93.2,18,3,38,1,30,95,59,1742,false
+130015,"Hills K9 c/d Chicken - 27.5lbs",142.86,74,MEDIUM,365d,12,75,147.34,2,153.23,1,142.86,74,12,1733.65,false
+130955,"Veraflox Oral Suspension 15ml",58.71,71,MEDIUM,365d,27,63,65.24,4,52.04,4,58.71,71,27,1678.03,false
+132851,"Cytopoint - 40mg",116.3,42,LOW,365d,14,42.9,110.09,5,93.58,2,116.3,42,14,1673.89,false
+139870,"Fortiflora SA Canine",41.1,28,LOW,90d,34,17.6,9.59,6,19.18,4,9.59,45,78,1662.22,true
+138276,"Simparica TRIO Tan 5.1-10kg",91.28,27,LOW,365d,18,22.2,70.82,4,176.06,2,91.28,27,18,1660.2,false
+BFA,"Idexx-Cobalamin (Vit B12)  Folate Add-on",207.5,91,HIGH,365d,8,100,,0,,0,207.5,91,8,1660,false
+VACA,"Canine DA2PPv Annual",110,94,HIGH,365d,15,100,,0,,0,110,94,15,1650,false
+132850,"Cytopoint - 30mg",106.6,48,LOW,365d,16,50,93.07,6,114.7,2,106.6,48,16,1640.62,false
+133026,"Simparica 80mg (20.1-40kg) Green",81.47,28,LOW,365d,23,21.7,67.16,5,64.45,3,81.47,28,23,1636.62,false
+139871,"Fortiflora SA Feline",50.1,33,LOW,90d,30,20,8.89,5,17.78,4,13.7,33,78,1616.47,true
+138279,"Simparica TRIO Brown 40.1-60kg",50.48,42,LOW,365d,15,33.3,138.44,3,56.77,2,50.48,42,15,1615.21,false
+116987,"Vetoryl 30mg Caps - 30s",118.85,49,LOW,365d,9,44.4,142.88,2,273.76,2,118.85,49,9,1610.54,false
+143009,"Cardalis Chew-2.5mg Benaz/20mg Spirono",69,81,HIGH,365d,23,78.3,86.7,2,87,2,69,81,23,1607.1,false
+308A,"Cremation Communal 10-29kg",75,68,MEDIUM,365d,20,70,90,6,,0,75,68,20,1590,false
+NSAIDIN,"NSAID + SDMA IN",122.28,93,HIGH,365d,13,100,,0,,0,122.28,93,13,1589.64,false
+BARA,"Idexx Bile Acids (Single Sample) Add-on",121.9,93,HIGH,365d,13,100,,0,,0,121.9,93,13,1584.7,false
+CORR,"Cortisol (Random) OUT",131.9,93,HIGH,365d,12,100,,0,,0,131.9,93,12,1582.8,false
+100095,"Piroxicam 10mg",106,77,MEDIUM,365d,15,80,99,3,,0,106,77,15,1569,false
+138685,"Pro-Otic HC 1% Hydrocortisone - 60ml",41.5,61,MEDIUM,365d,38,50,41.52,8,42.56,5,41.5,61,38,1559.11,false
+104863,"Metacam Oral 100ml",175.93,45,LOW,365d,10,50,162.99,4,17.17,1,175.93,45,10,1548.78,false
+116986,"Vetoryl 10mg Caps - 30s",97.02,33,LOW,365d,11,36.4,117.21,4,222.42,2,97.02,33,11,1546.78,false
+121157,"Metacam Oral Feline 3ml",33.84,64,MEDIUM,365d,46,56.5,30.72,12,35.71,4,33.84,64,46,1545.79,false
+GPF,"Gingival/Periosteal Flap",80,40,LOW,365d,25,32,20,6,40,6,80,40,25,1540,false
+0032,"Soft Tissue Surgical Fee Per 10 Minutes",110,40,LOW,365d,10,40,220,3,55,2,110,40,10,1540,false
+102970,"PVD Fel DM - 156g",75.36,54,MEDIUM,365d,31,41.9,3.14,6,78.48,4,75.36,54,31,1535.85,false
+133043,"Hills Fel Satiety Support 8.5 kg",169.66,82,HIGH,365d,9,88.9,176.45,1,,0,169.66,82,9,1533.73,false
+139884,"Hills K9 Derm Complete - 24lbs",168.75,47,LOW,365d,9,55.6,166.06,4,,0,168.75,47,9,1507.99,false
+GPFURINE,"Geriatric Panel + Fructosamine + U/A",325.9,72,MEDIUM,365d,5,80,195.54,1,,0,325.9,72,5,1499.14,false
+128909,"Hills K9 i/d Chkn Stew - 12.5oz",70.56,55,MEDIUM,365d,22,50,68.76,6,73.32,4,70.56,55,22,1493.76,false
+118191,"Felimazole 5mg",52.2,54,MEDIUM,365d,24,37.5,55.8,3,72.3,3,52.2,54,24,1472.3,false
+113975,"Glargine (Lantus) Insulin - 10mL",111.42,45,LOW,365d,12,50,130,5,153.13,1,111.42,45,12,1471.65,false
+KIDNEY,"Kidney Panel (IN)",132.9,93,HIGH,365d,11,100,,0,,0,132.9,93,11,1461.9,false
+99011495,"Fluoxetine 5mg Tablets -  Summit",41.4,32,LOW,365d,26,19.2,70.8,4,78,4,41.4,32,26,1430.51,false
+CUL,"Aerobic Culture (Organism ID and Suscept",198.9,46,LOW,365d,6,50,213.5,2,397.8,1,198.9,46,6,1421.5,false
+THMD<20,"Take Home Medication Surgery <20lb",30,88,HIGH,365d,38,84.2,50,2,90,2,30,88,38,1420,false
+121371,"PVD K9 DH - 11.3",109.05,93,HIGH,365d,13,100,,0,,0,109.05,93,13,1417.65,false
+123546,"RC Fel Adult - 4.5kg",92.81,83,HIGH,365d,15,86.7,96.53,2,,0,92.81,83,15,1399.59,false
+102011,"Senior Feline Platinum Package Promo",699,86,HIGH,365d,2,100,,0,,0,699,86,2,1398,false
+333C,"3 Years Dap - Combined",55,64,MEDIUM,365d,26,65.4,50,9,,0,55,64,26,1385,false
+FAVN,"Rabies Serology for Export OUT",674.9,86,HIGH,365d,2,100,,0,,0,674.9,86,2,1349.8,false
+120513,"RC K9 GI High Fibre - 15kg",166.79,69,MEDIUM,365d,8,75,173.46,2,,0,166.79,69,8,1347.66,false
+128198,"Hills Fel k/d Tuna Pate - 5.5oz",83.04,50,MEDIUM,365d,21,42.9,89.04,5,27.68,2,83.04,50,21,1345.09,false
+01-22,"IDEXX Telemedicine Consultants routine",440,87,HIGH,365d,3,100,,0,,0,440,87,3,1320,false
+115341,"Cerenia 60mg",47.2,46,LOW,365d,18,33.3,50.56,3,82.4,3,47.2,46,18,1307.52,false
+122219,"Metacam Oral Feline 15ml",92.55,37,LOW,365d,15,33.3,81.04,4,99.46,3,92.55,37,15,1288.1,false
+0009,"Canine - Castration 50-80lb",295,59,MEDIUM,365d,5,60,177,1,221.25,1,295,59,5,1283.25,false
+00012,"Sedation IM 10-20 kg",80.19,94,HIGH,365d,16,100,,0,,0,80.19,94,16,1283.04,false
+ANESLOC,"Anesthetic - Local",80,94,HIGH,365d,16,100,,0,,0,80,94,16,1280,false
+140224,"Mirataz 2% 5 gr",65.22,62,MEDIUM,365d,19,63.2,70.92,6,66.27,1,65.22,62,19,1274.43,false
+AEPI2,"Allergy Panel Environmental/Insect Idexx",631.5,86,HIGH,365d,2,100,,0,,0,631.5,86,2,1263,false
+122482,"PVD Fel HA - 1.81kg",48.3,45,LOW,365d,25,44,52.66,9,54.77,4,48.3,45,25,1262.96,false
+124185,"Hills Fel Metabolic - 8.5lbs",97.31,73,MEDIUM,365d,13,76.9,94.64,3,,0,97.31,73,13,1257.02,false
+BGAK,"Blood Glucose and Ketone",83.25,94,HIGH,365d,15,100,,0,,0,83.25,94,15,1248.75,false
+FELENEMA,"Enema",71.3,90,HIGH,365d,18,94.4,35.65,1,,0,71.3,90,18,1247.75,false
+EMEX,"Emergency Exam",95.8,93,HIGH,365d,13,100,,0,,0,95.8,93,13,1245.4,false
+125655,"Hills K9 t/d - 25lbs",127.69,45,LOW,365d,8,50,146.59,3,293.18,1,127.69,45,8,1243.71,false
+ULTRA 2,"Ultrasonographer Travel Fee",95,80,HIGH,365d,13,84.6,97.5,2,,0,95,80,13,1240,false
+139344,"Cosacthen 0.25 mg/ml 1ml",190.1,28,LOW,365d,6,33.3,216.65,2,210.65,2,190.1,28,6,1234.8,false
+122472,"RC K9 Urinary SO Small Dog - 4kg",68.25,87,HIGH,365d,17,88.2,70.98,1,136.5,1,68.25,87,17,1231.23,false
+113594,"PVD Fel EN - 2.72kg",61.34,72,MEDIUM,365d,20,70,65.01,4,52.01,2,61.34,72,20,1222.82,false
+3YEARS,"Canine DA2PP Vaccination 3 Year",30,97,HIGH,365d,41,97.6,18,1,,0,30,97,41,1218,false
+134491,"Cefaseptin Chewable 750mg",62.4,48,LOW,365d,22,31.8,66.04,3,13.93,2,62.4,48,22,1212.28,false
+VACC3,"Canine DA2PP Vaccination 2nd",30,82,HIGH,365d,43,76.7,18,6,27,4,30,82,43,1206,false
+105105,"Hills Fel k/d Chicken - 5.5oz",85.68,62,MEDIUM,365d,18,50,66.78,2,89.04,2,85.68,62,18,1203.83,false
+120510,"RC Fel Gastro - 4kg",85.63,88,HIGH,365d,14,92.9,89.05,1,,0,85.63,88,14,1202.24,false
+90910494,"Methimazole 25mg/ml Transdermal",42.06,35,LOW,365d,24,33.3,59.79,8,51.21,5,42.06,35,24,1202.1,false
+143855,"K9 PVD EN Savory Selects Chicken 380g",66.6,74,MEDIUM,365d,19,68.4,133.2,2,11.1,1,66.6,74,19,1198.8,false
+137162,"Revolution Plus - Cats 5.1-10kg (Green)",61.2,42,LOW,365d,15,33.3,33.85,3,51.48,1,61.2,42,15,1196.82,false
+LANCDR,"Lance & Drain Abscess",79.6,94,HIGH,365d,15,100,,0,,0,79.6,94,15,1194,false
+120519,"RC K9 GI Low Fat - 8kg",118.53,92,HIGH,365d,10,100,,0,,0,118.53,92,10,1185.3,false
+127720,"PVD Fel Ess. Care Senior - 85g",47.52,66,MEDIUM,365d,30,53.3,51.36,4,4.1,3,47.52,66,30,1182.64,false
+132100T,"Apoquel 5.4mg (per tab)",123.9,42,LOW,365d,14,28.6,61,2,68,2,123.9,42,14,1180.83,false
+125670,"Hills K9 z/d - 8 lbs",69.64,80,HIGH,365d,17,82.4,66.95,3,,0,69.64,80,17,1175.81,false
+140509,"RC Fel Gastro - 145g",165.6,34,LOW,365d,16,25,74.4,3,3.45,2,165.6,34,16,1175.4,false
+137230,"Hills K9 GI Biome - 8lbs",65.19,82,HIGH,365d,18,83.3,67.8,2,61.6,1,65.19,82,18,1175.05,false
+144313,"Entero Aid + GI - 60ml",64.5,90,HIGH,365d,18,94.4,54,1,,0,64.5,90,18,1150.5,false
+140364,"Librela - 10mg/ml (First Vial)",88.39,57,MEDIUM,365d,13,53.8,97.45,3,77.48,3,88.39,57,13,1143.52,false
+115535,"Hills Fel t/d - 20lbs (IN-CLINIC)",126.77,76,MEDIUM,365d,9,77.8,119.2,1,135.45,1,126.77,76,9,1142.04,false
+MIC,"Microchip Implant and Registration",60,95,HIGH,365d,19,100,,0,,0,60,95,19,1140,false
+PAW3,"Peartree Pawprint - Custom/Fur Match",228,56,MEDIUM,365d,3,66.7,684,1,,0,228,56,3,1140,false
+139384,"Reconcile (Fluoxetine) 16mg Chew - 30s",161.1,69,MEDIUM,365d,8,75,86.55,2,,0,161.1,69,8,1139.7,false
+143776,"Hills Fel C/D Stress chicken- 5.5 oz",78.48,69,MEDIUM,365d,20,60,3.4,2,13.6,1,78.48,69,20,1135.56,false
+128.311B,"Fructosamine IN",125.9,92,HIGH,365d,9,100,,0,,0,125.9,92,9,1133.1,false
+90910492,"Methimazole 50 mg/ml Transdermal",63.12,60,MEDIUM,365d,17,52.9,47.64,3,54.05,2,63.12,60,17,1128.88,false
+139164,"PVD Hydra Care",20.16,56,MEDIUM,365d,32,40.6,80.64,5,40.32,4,20.16,56,32,1128,false
+CLIP,"Clip and Clean/Scrub",35,77,MEDIUM,365d,27,70.4,17.5,3,70,2,35,77,27,1122.5,false
+UNAUC,"Urinalysis w Urine Culture (ID&Sus) OUT",271.5,31,LOW,365d,5,40,253.5,2,63.38,1,271.5,31,5,1113.38,false
+BGI,"Blood Glucose Interpretation",68.5,74,MEDIUM,365d,17,76.5,51.38,4,,0,68.5,74,17,1096.02,false
+OXY,"Oxygen therapy - first hour",152.2,65,MEDIUM,365d,9,66.7,53.27,2,76.1,1,152.2,65,9,1095.84,false
+305,"Cremation Communal 30-45kg",100,47,LOW,365d,11,54.5,98,5,,0,100,47,11,1090,false
+118480,"Milbemax Cats (16mg/40mg)",32.62,34,LOW,90d,30,23.3,16.63,6,19.56,6,32.62,34,30,1078.26,false
+119989,"PVD K9 HA Vegetarian - 2.72kg",48.36,73,MEDIUM,365d,22,72.7,50.3,5,52.31,1,48.36,73,22,1077.57,false
+123537,"PVD Fel DM Savory Selects - 156g",6.28,43,LOW,365d,26,38.5,75.36,8,78.48,5,6.28,43,26,1074.3,false
+128551,"Hills Fel c/d Ocean Fish - 4lbs",44.65,50,MEDIUM,365d,24,50,43.74,9,46.44,3,44.65,50,24,1068.78,false
+HNSE,"Health Exam Non-Scheduled Appt. Emerg.",97,93,HIGH,365d,11,100,,0,,0,97,93,11,1067,false
+139691,"Douxo Pyo Pads",41.63,63,MEDIUM,365d,24,58.3,53.63,6,42.93,2,41.63,63,24,1060.44,false
+116822,"RC K9 Urinary SO - 385g",63.48,62,MEDIUM,365d,16,56.3,60.24,3,66,2,63.48,62,16,1056.18,false
+BM1,"Fecal  Smear IN",40.6,97,HIGH,365d,26,100,,0,,0,40.6,97,26,1055.6,false
+140517,"RC Fel Adult - 145g",72.24,48,LOW,365d,14,50,79.92,5,74.4,2,72.24,48,14,1054.08,false
+106546,"Vetmedin 5mg",107.4,51,MEDIUM,365d,8,50,148,2,144,1,107.4,51,8,1031.2,false
+CHEM10,"Chem 10  Lytes  SDMA",171.7,90,HIGH,365d,6,100,,0,,0,171.7,90,6,1030.2,false
+142311,"Alpha Trak 3 Starter Kit",170.62,90,HIGH,365d,6,100,,0,,0,170.62,90,6,1023.72,false
+MCCSA,"Idexx - Calculus Stone Analysis",140.18,73,MEDIUM,365d,8,75,84.11,1,91.9,1,140.18,73,8,1017.09,false
+119996,"PVD Fel DM - 4.54kg",87.5,53,MEDIUM,365d,12,50,91,3,70,3,87.5,53,12,1008,false
+DEBSUT,"Debride and Suture Wound (per 10 mins)",223,59,MEDIUM,365d,6,66.7,55.75,2,,0,223,59,6,1003.5,false
+143487,"Cerenia 16mg",21.64,32,LOW,365d,42,16.7,32.08,6,31.28,6,21.64,32,42,1001.22,false
+INTEC,"Export Document Paper Work",200,89,HIGH,365d,5,100,,0,,0,200,89,5,1000,false
+132338,"Aventi Liver Tabs - 45s",105.96,57,MEDIUM,365d,9,55.6,111.76,2,120.9,2,105.96,57,9,995.12,false
+TAMP,"Toe Amputation",492.9,86,HIGH,365d,2,100,,0,,0,492.9,86,2,985.8,false
+ANALSAC,"Anal Sacculectomy (per hour)",985.8,84,HIGH,365d,1,100,,0,,0,985.8,84,1,985.8,false
+DUAL 1,"Ultrasound Dual Cavity (Full body)",985.4,84,HIGH,365d,1,100,,0,,0,985.4,84,1,985.4,false
+PRICREM4,"Priv. Cremation w/Scatter tube >43.1 kg",245,88,HIGH,365d,4,100,,0,,0,245,88,4,980,false
+138219,"Entero Aid + GI - 30ml",45.51,81,HIGH,365d,23,82.6,26.81,4,,0,45.51,81,23,971.93,false
+0613,"Metacam 0.5mg/mL",17.9,31,LOW,180d,32,12.5,22.32,3,19.74,2,17.9,31,47,965.97,false
+0202,"Sedation Im >40  Kg",100.43,61,MEDIUM,365d,9,66.7,120,3,,0,100.43,61,9,962.58,false
+THMS5-8,"Take Home Medication Surgery 50-80lb",47.5,82,HIGH,365d,16,81.3,95,1,100,1,47.5,82,16,955,false
+MISLAB,"ASCPA Poison Control",155,59,MEDIUM,365d,5,60,211.9,1,272.18,1,155,59,5,949.08,false
+140697,"RC K9 Gastro Low Fat - 8kg",118.53,91,HIGH,365d,8,100,,0,,0,118.53,91,8,948.24,false
+310A,"Euthanasia Humane/Unattended (New Clien",135,91,HIGH,365d,7,100,,0,,0,135,91,7,945,false
+1057,"Tonometry - Tonopen",80,86,HIGH,365d,12,91.7,60,1,,0,80,86,12,940,false
+133027,"Simparica 120mg (40.1-60kg) Brown",195.86,30,LOW,365d,9,33.3,42.57,3,69.62,3,195.86,30,9,924.15,false
+143774,"Hills Fel C/D Stress Veg/Tuna Stew",74.4,66,MEDIUM,365d,14,64.3,77.04,3,3.21,1,74.4,66,14,919.43,false
+ENTRO,"Entropion Sx - Lower - 1 Eye",211.02,33,LOW,365d,2,50,703.4,1,,0,211.02,33,2,914.42,false
+FVR2,"Feline FVRCP 2nd Vaccination",30,87,HIGH,365d,32,87.5,18,4,,0,30,87,32,912,false
+129414,"RC Fel Urinary SO Mod Cal - 8kg",134.9,42,LOW,365d,7,42.9,123.11,2,129.71,2,134.9,42,7,910.34,false
+FDXGP,"Fecal Dx Antigen Panel w/ Giardia",129.9,91,HIGH,365d,7,100,,0,,0,129.9,91,7,909.3,false
+125669,"Hills Fel k/d Chicken - 4lbs",50.01,62,MEDIUM,365d,17,58.8,52.01,4,48.21,2,50.01,62,17,904.58,false
+132212,"PVD K9 UR - 377g",112.08,55,MEDIUM,365d,7,57.1,199.68,2,56.04,1,112.08,55,7,903.72,false
+99015774,"Tacrolimus (MCT OIL) 0.1%",113.99,56,MEDIUM,365d,8,62.5,109.5,3,,0,113.99,56,8,898.45,false
+120932,"PVD Fel EN - 4.54kg",86.48,50,MEDIUM,365d,10,50,95.33,3,88.01,2,86.48,50,10,894.41,false
+122273,"Hills Fel y/d - 5.5oz",103.68,23,LOW,365d,11,18.2,109.44,2,101.76,2,103.68,23,11,884.16,false
+ANAL1,"Anal Gland Expression with Exam",22,95,HIGH,365d,40,95,19.8,2,,0,22,95,40,875.6,false
+BP,"Blood Pressure Measurement",46,72,MEDIUM,365d,9,77.8,276,2,,0,46,72,9,874,false
+117004,"RC Fel Urinary SO - 1.5kg",33.98,66,MEDIUM,365d,25,64,32.25,7,35.33,1,33.98,66,25,872.72,false
+122275,"Hills Fel y/d - 8.5lbs",98.21,72,MEDIUM,365d,9,77.8,89.28,2,,0,98.21,72,9,866.03,false
+120500,"RC Fel Satiety - 1.5kg",41.86,50,MEDIUM,365d,17,47.1,43.54,5,77.98,4,41.86,50,17,864.5,false
+AMBL,"Femoral Head Ostectomy",860,84,HIGH,365d,1,100,,0,,0,860,84,1,860,false
+CULV,"Urine Culture - Idexx Adv",173.9,72,MEDIUM,365d,5,80,161.5,1,,0,173.9,72,5,857.1,false
+137103,"Thyro Tab 0.4mg",43.2,73,MEDIUM,365d,13,76.9,141.6,3,,0,43.2,73,13,856.8,false
+THM2-5,"Take Home Medication Surgery 20-50lb",45,90,HIGH,365d,18,94.4,90,1,,0,45,90,18,855,false
+139867,"Hills C/D Stress Fel Ocean Fish 8.5lb",84.81,92,HIGH,365d,10,100,,0,,0,84.81,92,10,848.1,false
+AS2,"ACTH Stim (One Pre  One Post) OUT",211.9,88,HIGH,365d,4,100,,0,,0,211.9,88,4,847.6,false
+133995,"Hills K9 d/d Salmon - 25lbs",143.75,44,LOW,365d,5,40,133.01,1,138.39,1,143.75,44,5,846.4,false
+SM1W,"SmallMammal Comprehensive Profile",211.5,88,HIGH,365d,4,100,,0,,0,211.5,88,4,846,false
+CHMSCW,"IDEXX Chemistry Screen",168.5,89,HIGH,365d,5,100,,0,,0,168.5,89,5,842.5,false
+137163,"CLARO 1ML",110.88,73,MEDIUM,365d,8,75,61.44,1,115.32,1,110.88,73,8,842.04,false
+FURD,"Respiratory Disease (URD) RealPCR Panel",420.9,86,HIGH,365d,2,100,,0,,0,420.9,86,2,841.8,false
+115023,"EIDAP Microchip FDX-B w/Barcode - 50/pk",60,94,HIGH,365d,14,100,,0,,0,60,94,14,840,false
+HN,"Hospitalization 24 hours (overnight)",140,90,HIGH,365d,6,100,,0,,0,140,90,6,840,false
+120503,"RC K9 Gastro - 10kg",139.59,90,HIGH,365d,6,100,,0,,0,139.59,90,6,837.54,false
+HSSPE,"Hospital Supplies - Sx Pack Extensive",104.3,91,HIGH,365d,8,100,,0,,0,104.3,91,8,834.4,false
+138275,"Simparica TRIO Purple 2.6-5kg",34.23,35,LOW,365d,12,25,103.99,2,42.55,2,34.23,35,12,828,false
+124647,"Clavaseptin - 62.5mg Tabs",34.2,33,LOW,365d,32,21.9,26.8,6,22.36,4,34.2,33,32,823.71,false
+126232,"Viaderm KC Cream - 15g",25.07,75,MEDIUM,365d,33,72.7,22.67,8,38.14,1,25.07,75,33,821.18,false
+APO,"Meloxadin 1.5mg/ml",14.34,35,LOW,365d,57,8.8,13.51,3,19.37,3,14.34,35,57,818.75,false
+143731,"Fluoxetine 20mg caps",51,43,LOW,365d,18,44.4,45,7,31.5,3,51,43,18,817.5,false
+121049,"RC Fel GI Mod Cal - 85g",66,64,MEDIUM,365d,14,57.1,33,2,66.24,2,66,64,14,798.11,false
+139347,"Optixcare Eye EMS (Yellow) 5 x 0.33mL",63,62,MEDIUM,365d,12,66.7,73.15,4,,0,63,62,12,796.6,false
+CRO,"Crown Amputation - Canine Tooth",112.5,76,MEDIUM,365d,6,83.3,225,1,,0,112.5,76,6,787.5,false
+IV,"IV Catheter Placement",49,94,HIGH,365d,16,100,,0,,0,49,94,16,784,false
+132210,"PVD K9 UR - 7.48kg",84.9,49,LOW,365d,9,44.4,90.06,2,86.6,2,84.9,49,9,776.17,false
+NAIL1,"Nail Trim Add-On (Canine/Feline)",15,91,HIGH,90d,41,90.2,13.5,4,,0,15,94,52,774,false
+137161,"Revolution Plus - Cats 2.6-5kg (Orange)",31.4,26,LOW,365d,13,23.1,88.5,3,68,2,31.4,26,13,770.49,false
+CBC2,"CBC Repeat IN",55,94,HIGH,365d,14,100,,0,,0,55,94,14,770,false
+PIMO1.25,"Pimobendan 1.25mg Chew Tab Summit",96,91,HIGH,365d,8,100,,0,,0,96,91,8,768,false
+SQFK,"SQ Fluids Kit ( LRS  line  10 needles)",45,83,HIGH,365d,15,86.7,90,2,,0,45,83,15,765,false
+FNANP1,"FNA (No Stain/Procedure) - First",76.2,92,HIGH,365d,10,100,,0,,0,76.2,92,10,762,false
+121579,"RC K9 Hypo Hp SB - 4kg",75.83,48,LOW,365d,7,57.1,151.66,3,,0,75.83,48,7,758.3,false
+PRIVCREM,"Private Cremation w/ Scatter tube Exotic",105,65,MEDIUM,365d,7,71.4,112.5,2,,0,105,65,7,750,false
+1378390,"Meloxadin Inj. 5mg/ml",20.31,32,LOW,365d,46,15.2,16.15,6,21.7,5,20.31,32,46,748.01,false
+90901341,"Prednisolone 10mg/ml Summit",19.83,21,LOW,365d,19,10.5,72,2,13,2,19.83,21,19,744.43,false
+130010,"Hills Fel C/D + Metabolic - 12lbs",123.21,90,HIGH,365d,6,100,,0,,0,123.21,90,6,739.26,false
+333F,"Feline FVRCP Vaccination 3year",30,93,HIGH,365d,25,96,18,1,,0,30,93,25,738,false
+SDMA,"SDMA IN",66.9,93,HIGH,365d,11,100,,0,,0,66.9,93,11,735.9,false
+135949,"Interceptor Plus - Yellow (11.4-22.7kg)",22.29,72,MEDIUM,365d,28,64.3,23.24,4,53.87,3,22.29,72,28,732.57,false
+GERBFW,"Geriatric Panel w/ Cardiopet proBNPFel",365.5,86,HIGH,365d,2,100,,0,,0,365.5,86,2,731,false
+SED-IM,"Sedation - Intramuscular",120,90,HIGH,365d,6,100,,0,,0,120,90,6,720,false
+BA,"Bandage Application",89.9,91,HIGH,365d,8,100,,0,,0,89.9,91,8,719.2,false
+90909556,"Buspirone HCL 10mg/ml (Summit)",78.3,81,HIGH,365d,8,87.5,156.6,1,,0,78.3,81,8,704.7,false
+123980,"Atopica Liquid 5mL (100mg/ml)",65.6,25,LOW,365d,8,25,102.33,2,84.33,2,65.6,25,8,701.32,false
+138277,"Simparica TRIO Blue 10.1-20kg",107.3,40,LOW,365d,8,37.5,73.7,2,44.72,2,107.3,40,8,699.64,false
+99015837,"Amitriptyline 100mg/ml Transderm Summit",70.14,58,MEDIUM,365d,10,60,52.08,3,120.24,1,70.14,58,10,697.32,false
+VACC5A,"Canine DA2PP Vaccination 3rd",30,90,HIGH,365d,24,91.7,18,2,,0,30,90,24,696,false
+MET,"Methimazole 10 mg/ml Liquid",82.4,21,LOW,365d,15,13.3,13.35,2,58.2,2,82.4,21,15,693.26,false
+130006,"Hills K9 Metab + Mobility - 24lbs",172.72,88,HIGH,365d,4,100,,0,,0,172.72,88,4,690.88,false
+100032,"Furosemide 20mg tab",24,48,LOW,365d,30,33.3,17.6,5,18,4,24,48,30,689.6,false
+128910,"Hills Fel k/d Chkn Stew - 2.9oz",74.16,43,LOW,365d,11,45.5,71.52,4,16.05,2,74.16,43,11,688.98,false
+128321,"Felimazole 1.25mg",43.8,35,LOW,365d,12,25,84,2,52,2,43.8,35,12,677,false
+INH,"Spay In-Heat (Add On)",112.64,90,HIGH,365d,6,100,,0,,0,112.64,90,6,675.84,false
+120501,"RC Fel Satiety - 3.5kg",84,81,HIGH,365d,8,87.5,81.26,1,,0,84,81,8,669.26,false
+106545,"Vetmedin 2.5mg",97.8,51,MEDIUM,365d,8,50,82.8,2,54.9,2,97.8,51,8,666.6,false
+139214,"DECLINED: Hills K9 GI Biome - 27.5lb",171.78,36,LOW,365d,4,50,160.7,2,,0,171.78,36,4,664.96,false
+128902,"Hills Fel c/d Tuna Stew - 2.9oz",68.64,32,LOW,365d,25,16,2.98,3,71.52,3,68.64,32,25,664.68,false
+WR/D/S,"Wound Repair/Drain/Suture",66.2,81,HIGH,365d,8,87.5,198.6,1,,0,66.2,81,8,662,false
+FL1,"Schirmer Tear Test(Per Patient)",43.9,94,HIGH,365d,15,100,,0,,0,43.9,94,15,658.5,false
+99008135,"Gabapentin 50mg Tablet (Summit)",13.1,21,LOW,365d,22,9.1,49.8,2,13.44,2,13.1,21,22,655.43,false
+138264,"RC Fel Urinary SO Aging + Calm - 3kg",64.38,54,MEDIUM,365d,10,60,66.98,4,,0,64.38,54,10,654.2,false
+113150,"PVD Fel UR ST/OX - 156g",67.2,58,MEDIUM,365d,15,46.7,72.96,2,3.16,1,67.2,58,15,653.8,false
+101383,"Tobradex Drops 5mL",39.34,74,MEDIUM,365d,17,76.5,35.42,4,,0,39.34,74,17,653.1,false
+141167,"RC Fel Gastro - 2kg",50.13,93,HIGH,365d,13,100,,0,,0,50.13,93,13,651.69,false
+MSAO,"Mature Spay <40lb Add-On",84.78,81,HIGH,365d,8,87.5,50.87,1,,0,84.78,81,8,644.33,false
+144618,"Gabapentin 300 mg (AURO)",15.6,38,LOW,365d,25,20,46,3,32.4,3,15.6,38,25,643.92,false
+143991,"VANGUARD Parvovirus Vaccine",643.2,84,HIGH,365d,1,100,,0,,0,643.2,84,1,643.2,false
+142835T,"Apoquel Chewable Tabs 5.4mg (per tab)",65.2,59,MEDIUM,365d,6,66.7,191.08,2,,0,65.2,59,6,642.96,false
+METSYRIN,"Metacam 1.5mg/ml",13.4,31,LOW,180d,35,8.6,13.57,2,15.77,2,13.4,31,35,642.31,false
+128911,"Hills Fel k/d Tuna Stew - 2.9oz",74.16,38,LOW,365d,12,33.3,77.04,3,30.9,2,74.16,38,12,632.82,false
+HOSPUPCM,"UPC Hospitalization Medical Evening",70,61,MEDIUM,365d,8,62.5,120,2,42,1,70,61,8,632,false
+142468,"Cephalex 500mg tabs",17.6,24,LOW,365d,19,15.8,29.08,3,12.4,2,17.6,24,19,629.48,false
+143790,"K9 PVD OM (WEIGHT MANAGE) Select 11.3kg",157.25,88,HIGH,365d,4,100,,0,,0,157.25,88,4,629,false
+137835,"Meloxadin Oral Susp. 10mL",31.04,87,HIGH,365d,20,90,34.21,2,,0,31.04,87,20,627.14,false
+144039,"Sileo - 3ml",58.17,58,MEDIUM,365d,11,63.6,54.53,4,,0,58.17,58,11,625.31,false
+135948,"Interceptor Plus Chew Green(3.7-11.3kg)",15.95,84,HIGH,365d,28,82.1,63.2,3,34.85,1,15.95,84,28,616.7,false
+122618,"Revolution Puppy/Kitten <2.5kg (Mauve)",74.32,72,MEDIUM,365d,9,77.8,46.41,2,,0,74.32,72,9,613.06,false
+CON,"Consultation for 10 minutes",35,43,LOW,365d,13,46.2,52.5,5,70,2,35,43,13,612.5,false
+99007951,"Buprenorphine 0.8mg/ml per ml no flavor",22.21,24,LOW,365d,19,15.8,30.37,3,14.55,2,22.21,24,19,607.29,false
+101089,"Tobramycin  0.3%",24.69,67,MEDIUM,365d,25,68,22.88,8,,0,24.69,67,25,602.77,false
+URM042SH,"Silhouette Urn - Shale Cat",210,56,MEDIUM,365d,3,66.7,180,1,,0,210,56,3,600,false
+PARVO,"Parvo Snap Test IN",59.7,92,HIGH,365d,10,100,,0,,0,59.7,92,10,597,false
+IVR,"Urin. Catheterization with Retropulsion",129.5,72,MEDIUM,365d,5,80,77.7,1,,0,129.5,72,5,595.7,false
+REPTRW,"Reptile/Ratite Panel (OUT)",198.5,87,HIGH,365d,3,100,,0,,0,198.5,87,3,595.5,false
+137232,"Hills Fel GI Biome Stew - 2.9oz",85.44,26,LOW,365d,14,21.4,80.4,3,10.26,2,85.44,26,14,592.32,false
+115882,"Fortekor 5mg Tabs",101.1,34,LOW,365d,7,42.9,63.9,3,95.16,1,101.1,34,7,590.16,false
+01-21,"DECLINED: IDEXX Telemedicine consultants",294,86,HIGH,365d,2,100,,0,,0,294,86,2,588,false
+134433,"Aventi Kidney - 90g",62.76,61,MEDIUM,365d,9,66.7,70.17,3,,0,62.76,61,9,587.07,false
+122349,"PROCYTE DX REAGENT KIT",586.98,84,HIGH,365d,1,100,,0,,0,586.98,84,1,586.98,false
+120502,"RC K9 Gastro - 4kg",64.84,81,HIGH,365d,8,87.5,129.68,1,,0,64.84,81,8,583.56,false
+90901468,"Cisapride 10 mg/ml Summit",52.94,27,LOW,365d,12,25,65.4,3,17.5,2,52.94,27,12,581.42,false
+140366A,"Librela - 20mg/ml (Additional Vial)",61.2,56,MEDIUM,365d,8,62.5,91.77,3,,0,61.2,56,8,581.31,false
+131002,"AeroDawg Aerosol Chamber Small",93.5,44,LOW,365d,5,40,108.9,1,118.24,1,93.5,44,5,577.77,false
+125413,"Ampicillin Na Inj 250mg (Vial) TEVA",35.7,47,LOW,365d,15,33.3,42.4,2,42.3,2,35.7,47,15,577.7,false
+133023,"Simparica 10mg (2.6-5.0kg) Purple",37.7,30,LOW,365d,9,33.3,61.1,3,93.6,3,37.7,30,9,577.2,false
+BNPCV,"DECLINED: Canine ProBNP- Idexx Adv",164.9,66,MEDIUM,365d,4,75,82.45,1,,0,164.9,66,4,577.15,false
+GERPW,"Geriatric Panel OUT",285.9,86,HIGH,365d,2,100,,0,,0,285.9,86,2,571.8,false
+118027,"RC K9 Hypo HP - 3.5kg",63.51,57,MEDIUM,365d,9,55.6,60.86,2,66.05,2,63.51,57,9,571.37,false
+139213,"Hills K9 GI BIOME Chicken stew 12.5oz",12.8,27,LOW,365d,12,25,76.8,3,86.45,2,12.8,27,12,567.9,false
+121046,"RC K9 Gastro - 385g",72.36,57,MEDIUM,365d,9,55.6,24.12,2,12.06,1,72.36,57,9,566.82,false
+139201,"PROTOPIC OINTMENT 0.10% - 60g",282.15,86,HIGH,365d,2,100,,0,,0,282.15,86,2,564.3,false
+VACC,"Canine DA2PP Vaccination 1st",30,91,HIGH,365d,19,94.7,18,1,,0,30,91,19,558,false
+132320,"Insulin Syr CarePoint U-40 0.5cc/29g",24.74,52,MEDIUM,365d,17,52.9,49.48,6,18.56,2,24.74,52,17,556.66,false
+132261,"RC K9 Hypo Treat - 500g",69.84,40,LOW,365d,10,40,34.92,3,17.46,1,69.84,40,10,555.84,false
+CROW,"Crown Amputation",69,50,MEDIUM,365d,5,60,172.5,2,,0,69,50,5,552,false
+139393,"Flexadin K9 Advanced - 60s",71.97,39,LOW,365d,8,50,65.07,4,,0,71.97,39,8,548.16,false
+VACC123,"Bordetella Vaccination",30,90,HIGH,365d,18,94.4,38,1,,0,30,90,18,548,false
+109235,"Vigamox 0.5% - 3mL",45.55,71,MEDIUM,365d,12,75,45.65,3,,0,45.55,71,12,546.9,false
+141169,"Solensia - 7mg/ml",78.04,91,HIGH,365d,7,100,,0,,0,78.04,91,7,546.28,false
+FN1,"FNA - Proc./Cytology IN",90,90,HIGH,365d,6,100,,0,,0,90,90,6,540,false
+144620,"Gabapentin 400mg cap",24,32,LOW,365d,23,17.4,25.2,3,34,3,24,32,23,539.32,false
+FDCD,"Diarrhea RealPCR Panel (Stand)Feline OUT",268.5,86,HIGH,365d,2,100,,0,,0,268.5,86,2,537,false
+CBC1,"CBC In House",67,91,HIGH,365d,8,100,,0,,0,67,91,8,536,false
+ANAL,"Anal Gland Expression - Technologist",35.5,94,HIGH,365d,15,100,,0,,0,35.5,94,15,532.5,false
+ANTIRO,"Antirobe Aquadrops 25mg/ml 20mL",64.1,39,LOW,365d,8,50,68.53,4,,0,64.1,39,8,530.52,false
+1234,"Impression Smear with cytology",58.5,92,HIGH,365d,9,100,,0,,0,58.5,92,9,526.5,false
+144616,"Gabapentin 100mg cap",12.07,39,LOW,365d,38,18.4,11.39,4,12.7,3,12.07,39,38,522.1,false
+ENEMAM,"Enema - Manual Breakdown",130,88,HIGH,365d,4,100,,0,,0,130,88,4,520,false
+120000,"PVD Fel OM - 2.72 kg",57.44,92,HIGH,365d,9,100,,0,,0,57.44,92,9,516.96,false
+140522,"RC Fel GI Fibre Response 85g",67.2,57,MEDIUM,365d,9,55.6,60.72,2,7.59,1,67.2,57,9,515.43,false
+140386,"PVD Fel EN Savory Selects Salmon - 156g",44.28,51,MEDIUM,365d,17,35.3,2.95,2,30.72,2,44.28,51,17,515.33,false
+123526,"RC K9 Hypo HP - 390g",73.92,30,LOW,365d,9,33.3,67.56,3,6.16,1,73.92,30,9,513.62,false
+137948,"CET VEGGIEDENT ZEN TARTAR LARGE",72.56,91,HIGH,365d,7,100,,0,,0,72.56,91,7,507.92,false
+143794,"PVD K9 NF 11.3kg",132.65,66,MEDIUM,365d,4,75,107.37,1,,0,132.65,66,4,505.32,false
+0301,"Cyclosporine 50 mg 30 cps) SUMMIT",56.38,56,MEDIUM,365d,3,66.7,392.4,1,,0,56.38,56,3,505.16,false
+121378,"Buprenorphine 0.3mg/ml Inj (Vetergesic)",44.74,48,LOW,365d,4,50,27.4,1,385.2,1,44.74,48,4,502.08,false
+TAPE,"Skin scraping-microscopic exam",61.2,72,MEDIUM,365d,9,77.8,36.72,2,,0,61.2,72,9,501.84,false
+BG1,"Blood Glucose - First",45,93,HIGH,365d,11,100,,0,,0,45,93,11,495,false
+PEART,"Peartree Pawprint - Custom/Fur Match",245.45,86,HIGH,365d,2,100,,0,,0,245.45,86,2,490.9,false
+920610,"Buster Under Constr 10cm E-collar",10.5,89,HIGH,365d,48,85.4,8.92,5,9.45,1,10.5,89,48,489.8,false
+135196,"After Surgery Wear - S",32.78,63,MEDIUM,365d,15,66.7,31.14,5,,0,32.78,63,15,483.5,false
+6353894,"Tacrolimus (oitnment) 0.02% Op",99.33,72,MEDIUM,365d,5,80,85.14,1,,0,99.33,72,5,482.46,false
+115881,"Fortekor 2.5mg",34.5,26,LOW,365d,7,28.6,102,2,30.3,1,34.5,26,7,482.1,false
+103961,"Ketoconazole 200mg",67.2,70,MEDIUM,365d,7,71.4,59.4,1,83.1,1,67.2,70,7,478.5,false
+BG,"Blood Glucose - Additional",96,48,LOW,365d,4,50,90,1,192,1,96,48,4,474,false
+EPIDL,"Anesthesia - Epidural",105,37,LOW,365d,6,50,52.5,3,,0,105,37,6,472.5,false
+141178,"Solensia - 7mg/ml",76.71,65,MEDIUM,365d,7,71.4,43.14,2,,0,76.71,65,7,469.83,false
+AMH,"Anti-Mullerian Hormone (AMH) (AMUL)",466.5,84,HIGH,365d,1,100,,0,,0,466.5,84,1,466.5,false
+135947,"Interceptor Plus Chew Orange(0.9-3.6 Kg)",15.44,71,MEDIUM,365d,22,63.6,15.98,3,24.38,2,15.44,71,22,466.46,false
+144100,"PVD K9 Ess. Care Adult - 368g",93.12,89,HIGH,365d,5,100,,0,,0,93.12,89,5,465.6,false
+SPRES,"Soft Palate Resection",155,87,HIGH,365d,3,100,,0,,0,155,87,3,465,false
+132849,"Cytopoint - 20mg",97.45,31,LOW,365d,5,40,90.71,2,86.16,1,97.45,31,5,462.48,false
+125654,"Hills K9 t/d - 15lbs",93.25,72,MEDIUM,365d,5,80,87.5,1,,0,93.25,72,5,460.5,false
+GERIPW,"Geriatric Chemistry only - OUT",227.7,86,HIGH,365d,2,100,,0,,0,227.7,86,2,455.4,false
+FVSBIOP1,"FVS Fine Needle Biopsy 1 site-add cytolo",227,86,HIGH,365d,2,100,,0,,0,227,86,2,454,false
+1010,"Feline Leukemia Vaccination 1st",30,94,HIGH,365d,15,100,,0,,0,30,94,15,450,false
+1722,"Clean Wound/ Sore",56.2,91,HIGH,365d,8,100,,0,,0,56.2,91,8,449.6,false
+135948A,"Interceptor Plus Chew Green(3.7-11.3kg)",15.95,43,LOW,365d,24,37.5,16.52,7,14.04,2,15.95,43,24,448.25,false
+119304,"Hills K9 k/d - 17.6lbs",115.15,66,MEDIUM,365d,4,75,101.42,1,,0,115.15,66,4,446.87,false
+UNAPC,"Urinalysis w UPC & Cystatin B Test",143.9,56,MEDIUM,365d,3,66.7,156.9,1,,0,143.9,56,3,444.7,false
+142179,"Emavert Inj 10mg/ml",51.55,38,LOW,365d,9,33.3,43.33,2,47.13,2,51.55,38,9,443.94,false
+DRAIN,"Penrose Drain Placement",110.2,88,HIGH,365d,4,100,,0,,0,110.2,88,4,440.8,false
+CHAR,"Charcoal Administration (Small)",88,89,HIGH,365d,5,100,,0,,0,88,89,5,440,false
+111298,"Hills K9 d/d Duck - 8lbs",63.4,79,MEDIUM,365d,7,85.7,58.04,1,,0,63.4,79,7,438.44,false
+131783,"RC Fel Urinary + Hypo HP - 3kg",78.28,25,LOW,365d,3,33.3,125.24,1,234.84,1,78.28,25,3,438.36,false
+90910508,"Methimazole 100mg/ml Transdermal",67.04,48,LOW,365d,7,57.1,56.52,3,,0,67.04,48,7,437.72,false
+BNPF,"Cardiopet proBNPFeline (OUT)",217.9,86,HIGH,365d,2,100,,0,,0,217.9,86,2,435.8,false
+131789,"RC Fel Renal Support P - 2kg",53.68,79,MEDIUM,365d,7,85.7,111.64,1,,0,53.68,79,7,433.72,false
+131778,"RC K9 Urinary SO + Hypo - 8kg",426.39,84,HIGH,365d,1,100,,0,,0,426.39,84,1,426.39,false
+FVR1,"Feline FVRCP 1st Vaccination",30,83,HIGH,365d,15,86.7,18,2,,0,30,83,15,426,false
+139690,"Douxo S3 Pyo Mousse 150mL",50.57,42,LOW,365d,9,44.4,45.06,3,42.98,2,50.57,42,9,423.42,false
+130987,"Hills K9 i/d Low Fat Chkn Stew - 385g",70.56,90,HIGH,365d,6,100,,0,,0,70.56,90,6,423.36,false
+TLI,"Tripsine(TLI)  Cobal( B12) and Folate K9",421.5,84,HIGH,365d,1,100,,0,,0,421.5,84,1,421.5,false
+FURCD,"Respiratory Panel RealPCR Culture If Ind",420.9,84,HIGH,365d,1,100,,0,,0,420.9,84,1,420.9,false
+HD,"Ward Fee < 4 Hours",35,93,HIGH,365d,12,100,,0,,0,35,93,12,420,false
+131781,"RC Fel Urinary SO + Satiety - 8kg",135.8,56,MEDIUM,365d,3,66.7,145.8,1,,0,135.8,56,3,417.4,false
+139872,"Flovent 125mcg",99.78,48,LOW,365d,4,50,100.84,1,115.65,1,99.78,48,4,416.05,false
+133024,"Simparica 20mg (5.1-10.0kg) Tan",67.82,65,MEDIUM,365d,7,71.4,38.4,2,,0,67.82,65,7,415.9,false
+UPCR,"Urine Protein/Creatinine Ratio OUT",102.5,88,HIGH,365d,4,100,,0,,0,102.5,88,4,410,false
+142589,"K9 PVD OM Metabolic Response JM 10.9kg",407.88,84,HIGH,365d,1,100,,0,,0,407.88,84,1,407.88,false
+143856,"Pvd K9 EN Savory Selects Lamb",66.6,79,MEDIUM,365d,7,85.7,5.92,1,,0,66.6,79,7,405.52,false
+126066,"Optimmune Ophthamic 3.5g",63.69,76,MEDIUM,365d,6,83.3,86.31,1,,0,63.69,76,6,404.76,false
+US10,"Biopsy Fvs Imaging 1-4 sites",402,84,HIGH,365d,1,100,,0,,0,402,84,1,402,false
+133025,"Simparica 40mg (10.1-20kg) Teal",41.17,31,LOW,365d,5,40,139.82,2,39.83,1,41.17,31,5,401.81,false
+ULTRA 8,"Dedicate Tech per hour",199.97,86,HIGH,365d,2,100,,0,,0,199.97,86,2,399.94,false
+BM2,"Vaginal Swab (With Cytology) IN",57.1,91,HIGH,365d,7,100,,0,,0,57.1,91,7,399.7,false
+117007,"RC K9 Urinary SO - 3kg",49.19,56,MEDIUM,365d,8,62.5,51.16,3,,0,49.19,56,8,399.43,false
+138844,"Insulin Syr Prozinc U-40 0.3ml/29g/1/2",47,34,LOW,365d,7,42.9,67.44,3,55,1,47,34,7,398.32,false
+90902005,"Omeprazole 20mg/ml",13.34,31,LOW,365d,31,12.9,19.73,3,23.05,2,13.34,31,31,396.36,false
+AGF,"Anal Gland Expression & Infusion",66,90,HIGH,365d,6,100,,0,,0,66,90,6,396,false
+131066,"PVD Fel Ess. Care Kitten 3.6kg",61.96,42,LOW,365d,7,42.9,57.84,2,46.27,2,61.96,42,7,394.1,false
+90911487,"Tylosin 200mg tabs",149.31,56,MEDIUM,365d,3,66.7,94.8,1,,0,149.31,56,3,393.42,false
+132851A,"Cytopoint 40mg (Additional Vial)",98.09,88,HIGH,365d,4,100,,0,,0,98.09,88,4,392.36,false
+CRDCD,"DECLINED: Respiratory Disease RealPCR w/",391.5,84,HIGH,365d,1,100,,0,,0,391.5,84,1,391.5,false
+BCD,"Brucella canis RealPCR (OUT)",195.5,86,HIGH,365d,2,100,,0,,0,195.5,86,2,391,false
+0819-22,"AFAST ultrasound RVC",195,86,HIGH,365d,2,100,,0,,0,195,86,2,390,false
+PASTEL,"Peartree Pawprint - Pastel",130,87,HIGH,365d,3,100,,0,,0,130,87,3,390,false
+142834T,"Apoquel Chewable tablets 3.6mg(per tab)",129.9,87,HIGH,365d,3,100,,0,,0,129.9,87,3,389.7,false
+129361,"DECLINED: Aerokat Chamber",93.5,66,MEDIUM,365d,4,75,109,1,,0,93.5,66,4,389.5,false
+144602,"Gabapentin 600mg (AURO)",45,32,LOW,365d,18,16.7,12.35,2,12.33,2,45,32,18,387.62,false
+MISCS,"Miscellaneus Staff Purchases",109.2,44,LOW,365d,11,27.3,7.25,1,12.94,1,109.2,44,11,384.43,false
+FSAEZA,"Fecal Sedimentation Add-onAvian/Reptile",127.9,87,HIGH,365d,3,100,,0,,0,127.9,87,3,383.7,false
+CTP7,"Idexx Thyroid Panel 7Canine",383.5,84,HIGH,365d,1,100,,0,,0,383.5,84,1,383.5,false
+0103,"Cyclosporine 100 mg SUMMIT",382.8,84,HIGH,365d,1,100,,0,,0,382.8,84,1,382.8,false
+133688,"PVD K9 EN Low Fat - 2.72kg",45.74,32,LOW,365d,8,37.5,47.29,3,51.64,2,45.74,32,8,382.37,false
+ANTECH,"Ultrasound Fluid Analy/Cytopoint ANTECH",189,86,HIGH,365d,2,100,,0,,0,189,86,2,378,false
+101384,"Tobradex Ointment 3.5g",35.66,49,LOW,365d,9,44.4,60.36,2,35.38,1,35.66,49,9,375.13,false
+GWLPV,"Gateway Lasting Paws Vibrant",187.5,86,HIGH,365d,2,100,,0,,0,187.5,86,2,375,false
+139688,"Douxo S3 Pyo Shampoo 200mL",40.67,57,MEDIUM,365d,9,55.6,42.21,2,37.85,1,40.67,57,9,370.16,false
+NTADC,"Nail Trim Add-On (Sm K9 or Cat)",15,93,HIGH,365d,25,96,7.5,1,,0,15,93,25,367.5,false
+920615,"Buster Under Constr 30cm E-collar",24.3,94,HIGH,365d,15,100,,0,,0,24.3,94,15,364.5,false
+125063,"Clomicalm 5mg 30's",44.39,34,LOW,365d,7,42.9,54.37,3,68,1,44.39,34,7,364.28,false
+120507,"RC Fel GI Fibre Response - 2kg",51.88,91,HIGH,365d,7,100,,0,,0,51.88,91,7,363.16,false
+132849A,"Cytopoint 20mg (Additional Vial)",63.56,59,MEDIUM,365d,6,66.7,54.03,2,,0,63.56,59,6,362.3,false
+125931,"Snap Combo FIV/FELV each",90.2,88,HIGH,365d,4,100,,0,,0,90.2,88,4,360.8,false
+WBMD2,"Histology w Micro Description (2 sites)",360.5,84,HIGH,365d,1,100,,0,,0,360.5,84,1,360.5,false
+ANALN,"Anal Glands And Nail Trim",40,92,HIGH,365d,9,100,,0,,0,40,92,9,360,false
+CTP1W,"Thyroid Profile 1Canine OUT",359.9,84,HIGH,365d,1,100,,0,,0,359.9,84,1,359.9,false
+124184,"Hills Fel Metabolic - 4lbs",50.88,48,LOW,365d,7,57.1,51.78,3,,0,50.88,48,7,358.86,false
+031319,"Fluid Monitoring -Additional Day",51.2,91,HIGH,365d,7,100,,0,,0,51.2,91,7,358.4,false
+FVR3,"Feline FVRCP 3rd Vaccination",18,47,LOW,365d,15,53.3,30,7,,0,18,47,15,354,false
+140385,"PVD Fel Calming Care - 30s",78.1,72,MEDIUM,365d,5,80,39.05,1,,0,78.1,72,5,351.45,false
+135469,"CortiPro 1% Hydrocortisone Spray - 59mL",43.9,69,MEDIUM,365d,8,75,43.37,2,,0,43.9,69,8,350.14,false
+NTR,"Nail (Torn) Removal",50,91,HIGH,365d,7,100,,0,,0,50,91,7,350,false
+138274,"Simparica TRIO Yellow 1.3-2.5kg",174.5,86,HIGH,365d,2,100,,0,,0,174.5,86,2,349,false
+139176,"RC Gastro Kitten - 2kg",49.7,91,HIGH,365d,7,100,,0,,0,49.7,91,7,347.9,false
+128222,"Viaderm KC Cream - 30g",39.02,61,MEDIUM,365d,9,66.7,36.9,3,,0,39.02,61,9,344.82,false
+129839,"PVD K9 HA Chicken - 11.33kg",172.29,86,HIGH,365d,2,100,,0,,0,172.29,86,2,344.58,false
+126002,"Panacur Suspension 10%",14.88,32,LOW,365d,18,16.7,38.24,2,12.12,2,14.88,32,18,343.84,false
+115793,"Milbemax kittens (4mg/10mg)",16.3,34,LOW,365d,20,25,26.1,4,10.53,3,16.3,34,20,343.18,false
+139339,"Methadone (Comfortan) 10 mg/ml",49.15,30,LOW,365d,13,30.8,13.48,4,18.29,2,49.15,30,13,341.76,false
+123547,"MCRC Fel Adult - 10kg",169.82,86,HIGH,365d,2,100,,0,,0,169.82,86,2,339.64,false
+118596,"ProSeb Antiseptic Shampoo - 16oz",28.64,50,MEDIUM,365d,10,50,41.66,3,35.41,2,28.64,50,10,339,false
+2718,"Catheterization-Indwelling Urinary",113,87,HIGH,365d,3,100,,0,,0,113,87,3,339,false
+129413,"RC Fel Urinary SO Mod Cal - 3kg",56.43,90,HIGH,365d,6,100,,0,,0,56.43,90,6,338.58,false
+SPAD,"Spay Pregnant (Add On)",112.64,87,HIGH,365d,3,100,,0,,0,112.64,87,3,337.92,false
+127717,"PVD Fel Ess. Care Adult - 85g",47.52,42,LOW,365d,14,28.6,21.78,2,3.5,1,47.52,42,14,337.92,false
+140307,"Feliway Classic Diffuser Starter Kit",33.59,92,HIGH,365d,10,100,,0,,0,33.59,92,10,335.9,false
+134025,"Hills K9 Hypo Treats - 12oz",13.54,59,MEDIUM,365d,22,50,13.1,4,16.25,2,13.54,59,22,335.86,false
+111293,"Hills Fel d/d Venison - 8.5lbs",167.84,86,HIGH,365d,2,100,,0,,0,167.84,86,2,335.68,false
+125660,"Hills Fel i/d - 156g",3.72,39,LOW,365d,11,36.4,89.28,3,11.16,2,3.72,39,11,334.8,false
+99012750,"Phenobarbital 40mg/ml (Summit)",56.7,50,MEDIUM,365d,5,60,82.2,2,,0,56.7,50,5,334.5,false
+125427,"Clindamycin - 300mg",39,49,LOW,365d,9,44.4,12.94,2,32.72,1,39,49,9,331.84,false
+115987,"RC K9 Urinary SO - 8kg",108.78,56,MEDIUM,365d,3,66.7,113.1,1,,0,108.78,56,3,330.66,false
+EMESIS,"Emesis induction",66,89,HIGH,365d,5,100,,0,,0,66,89,5,330,false
+ULTRA 4,"Ward Fee",30,93,HIGH,365d,11,100,,0,,0,30,93,11,330,false
+FF1A,"Feline FVRCPv Annual",110,87,HIGH,365d,3,100,,0,,0,110,87,3,330,false
+FLTGV,"IDEXX Advantage Fecal O & P w GiardiaOUT",109.9,87,HIGH,365d,3,100,,0,,0,109.9,87,3,329.7,false
+HRFE,"Health Exam Recheck From Emergency",65,72,MEDIUM,365d,5,80,69,1,,0,65,72,5,329,false
+GERUFP,"Geriatric Panel w U/A & Spec fPL OUT",327,84,HIGH,365d,1,100,,0,,0,327,84,1,327,false
+113452,"Fortiflora K9 Sachet",53.4,42,LOW,365d,9,44.4,24.92,3,17.8,2,53.4,42,9,323.96,false
+RPO,"Radiograph - Post-Op",77,66,MEDIUM,365d,4,75,92.4,1,,0,77,66,4,323.4,false
+124186,"Hills Fel Metabolic - 17.6lbs",160.71,86,HIGH,365d,2,100,,0,,0,160.71,86,2,321.42,false
+0009A1,"Canine - Castration >120lb",320,84,HIGH,365d,1,100,,0,,0,320,84,1,320,false
+920612,"Buster Under Constr 15cm E-collar",14.28,72,MEDIUM,365d,23,69.6,13.24,5,12.14,2,14.28,72,23,318.96,false
+109201,"Lactulose 667mg/ml",12.9,34,LOW,365d,24,25,12.6,5,13.8,3,12.9,34,24,318.33,false
+140698,"RC K9 Gastro Low Fat - 3kg",52.28,90,HIGH,365d,6,100,,0,,0,52.28,90,6,313.68,false
+119328,"Hills Fel z/d - 8.5lbs",79.29,66,MEDIUM,365d,4,75,73.56,1,,0,79.29,66,4,311.43,false
+132115,"Feliway Classic Refill - 48mL",30.12,34,LOW,365d,7,42.9,60.24,3,40.16,1,30.12,34,7,311.24,false
+HURWS,"Hernia Umbilical Repair with Spay",42,25,LOW,365d,3,33.3,100.8,1,168,1,42,25,3,310.8,false
+132335,"Baytril 150mg Tablet",75.82,66,MEDIUM,365d,4,75,83,1,,0,75.82,66,4,310.46,false
+142857,"Movoflex Advanced Chews 18-36kg - 60s",61.64,89,HIGH,365d,5,100,,0,,0,61.64,89,5,308.2,false
+121,"Reversal(Antisedan  Naloxone  Yohi) ml",75,72,MEDIUM,365d,5,80,7.5,1,,0,75,72,5,307.5,false
+HSCP,"Hospital Suplies - Peel Pack",38,91,HIGH,365d,8,100,,0,,0,38,91,8,304,false
+100048,"Metronidazole 250mg APO",16.8,39,LOW,365d,21,23.8,12.72,3,13.2,2,16.8,39,21,301.08,false
+BIO,"Biopsy - Skin/Tissue",150.2,86,HIGH,365d,2,100,,0,,0,150.2,86,2,300.4,false
+135301,"URINE SENSOR DRUG 12 PANEL TEST",50,90,HIGH,365d,6,100,,0,,0,50,90,6,300,false
+CANDX,"IDEXX Cancer Dx Test- Canine",149.9,86,HIGH,365d,2,100,,0,,0,149.9,86,2,299.8,false
+CHWP,"Heartworm Antigen & Microfilariae Panel",149.5,86,HIGH,365d,2,100,,0,,0,149.5,86,2,299,false
+106306,"Sulcrate Susp. Plus 200mg/ml",19.5,21,LOW,365d,15,13.3,16.5,2,40.8,1,19.5,21,15,298.1,false
+THOR,"Thoracocentesis",148,86,HIGH,365d,2,100,,0,,0,148,86,2,296,false
+139175,"RC Gastro Kitten - 145g",80.88,48,LOW,365d,4,50,10.11,1,121.32,1,80.88,48,4,293.19,false
+000,"Histopathlology with FVS",293,84,HIGH,365d,1,100,,0,,0,293,84,1,293,false
+125223,"Revolution Dog 5.1-10kg (Brown)",50.29,56,MEDIUM,365d,3,66.7,191,1,,0,50.29,56,3,291.58,false
+DEX,"LDDST (One Pre  Two Post) OUT",289.9,84,HIGH,365d,1,100,,0,,0,289.9,84,1,289.9,false
+AUR,"Aural Hematoma (Drain & Depo)",80.25,66,MEDIUM,365d,4,75,48.15,1,,0,80.25,66,4,288.9,false
+BNPCA,"Idexx - Canine ProBNP- add on OUT",141.9,86,HIGH,365d,2,100,,0,,0,141.9,86,2,283.8,false
+CPLI,"Idexx-Spec cPL add on OUT",141.9,86,HIGH,365d,2,100,,0,,0,141.9,86,2,283.8,false
+137314,"Max & Molly Liver Treats - 500g",41.84,70,MEDIUM,365d,7,71.4,29.88,1,43.34,1,41.84,70,7,282.42,false
+FDXPFD,"Diarrhea Panel PCR (Comp) w/ Fecal Fel",281.5,84,HIGH,365d,1,100,,0,,0,281.5,84,1,281.5,false
+905008,"Buster Clic Collar Clear 35cm",56.18,89,HIGH,365d,5,100,,0,,0,56.18,89,5,280.9,false
+128729,"RC K9 Satiety SB - 3kg",53.54,50,MEDIUM,365d,5,60,60.14,2,,0,53.54,50,5,280.9,false
+143490,"Cerenia 160mg",94.95,36,LOW,365d,4,50,45.18,2,,0,94.95,36,4,280.26,false
+143740,"K9 PVD EN Low Fat 11.3kg",139.48,86,HIGH,365d,2,100,,0,,0,139.48,86,2,278.96,false
+EARC,"Ear Cleaning Minor",26,74,MEDIUM,365d,12,75,13,2,15.6,1,26,74,12,275.6,false
+119672,"Mometamax Otic - 15g",49.3,44,LOW,365d,5,40,47.87,1,57.52,1,49.3,44,5,273.51,false
+143507,"Fluticasone HFA 125mcg",49.7,50,MEDIUM,365d,5,60,61.82,2,,0,49.7,50,5,272.74,false
+SCAR,"Rescue  Microchip  Implantation",12,93,HIGH,365d,23,95.7,7.2,1,,0,12,93,23,271.2,false
+114078,"Prednisolone 5mg tab",12.29,21,LOW,365d,16,12.5,20.7,2,13.68,2,12.29,21,16,270.4,false
+VACCFELC,"Feline Leukemia Vaccination 1 year",30,92,HIGH,365d,9,100,,0,,0,30,92,9,270,false
+FRUC,"Fructosamine OUT",133.5,86,HIGH,365d,2,100,,0,,0,133.5,86,2,267,false
+99014949,"Mirtazapine 40mg/ml (1 ml syringe)",26.58,39,LOW,365d,8,50,40,4,,0,26.58,39,8,266.32,false
+0015A,"Mature Spay Add On / 10 Minutes",80,56,MEDIUM,365d,3,66.7,105.84,1,,0,80,56,3,265.84,false
+119323,"Hills Fel c/d Chicken - 17.6lbs",132.14,86,HIGH,365d,2,100,,0,,0,132.14,86,2,264.28,false
+115313,"Clavaseptin 50mg tabs",19,34,LOW,365d,13,23.1,12.64,2,30,2,19,34,13,263.52,false
+113453,"Fortiflora Fel Sachet",53.4,59,MEDIUM,365d,6,66.7,24.92,2,,0,53.4,59,6,263.44,false
+115340,"Cerenia 24mg",22.54,35,LOW,365d,12,25,18.01,2,25.53,2,22.54,35,12,262.69,false
+144025,"Trizedta Aqueous Flush - 473ml",49.93,50,MEDIUM,365d,5,60,56.12,2,,0,49.93,50,5,262.03,false
+DECID,"Extractions - Deciduous Canine Tooth",104,33,LOW,365d,2,50,156,1,,0,104,33,2,260,false
+PQP10,"Porcupine Quills (Per 10 Minutes)",47.19,25,LOW,365d,3,33.3,70.78,1,141.57,1,47.19,25,3,259.54,false
+131242,"RC Fel Renal Support T - 85g",64.8,88,HIGH,365d,4,100,,0,,0,64.8,88,4,259.2,false
+124310,"Proin Chewable Tab 50mg (60s)",68.56,48,LOW,365d,4,50,59.07,1,60.48,1,68.56,48,4,256.67,false
+920613,"DECLINED: Buster Under Constr  20cm  E-c",15.94,94,HIGH,365d,16,100,,0,,0,15.94,94,16,255.04,false
+139882,"Hills K9 Derm Complete - 6.5lbs",62.5,66,MEDIUM,365d,4,75,65.92,1,,0,62.5,66,4,253.42,false
+143791,"PVD K9 DH - 7.48kg",84.23,87,HIGH,365d,3,100,,0,,0,84.23,87,3,252.69,false
+128223,"Viaderm KC cream 60g",62.82,88,HIGH,365d,4,100,,0,,0,62.82,88,4,251.28,false
+920611,"Buster Under Const 12.5cm E-collar",12,92,HIGH,365d,21,95.2,10.2,1,,0,12,92,21,250.2,false
+132211,"PVD K9 UR - 11.3kg",124.66,86,HIGH,365d,2,100,,0,,0,124.66,86,2,249.32,false
+129837,"PVD K9 HA Chicken - 2.72kg",47.41,50,MEDIUM,365d,5,60,53.33,2,,0,47.41,50,5,248.89,false
+133845,"Oxbow Western Timothy Hay - 50lb",80.09,56,MEDIUM,365d,3,66.7,88.1,1,,0,80.09,56,3,248.28,false
+136909,"PVD K9 HA 377gm",22.96,49,LOW,365d,9,44.4,18.66,2,11.48,1,22.96,49,9,246.38,false
+128485,"RC K9 Dental Small Dog - 10kg",122.6,86,HIGH,365d,2,100,,0,,0,122.6,86,2,245.2,false
+125653,"Hills K9 t/d - 5lbs",34.82,76,MEDIUM,365d,6,83.3,67.86,1,,0,34.82,76,6,241.96,false
+PER046,"Engraving on Silhouette Urn - 1 Line",85,56,MEDIUM,365d,3,66.7,71.25,1,,0,85,56,3,241.25,false
+127706,"PVD K9 Ess. Care Puppy - 3.6kg",40,65,MEDIUM,365d,6,66.7,38.75,1,41.52,1,40,65,6,240.27,false
+117010,"RC Fel Hypo HP - 1.5kg",40.98,46,LOW,365d,6,50,42.61,2,30.74,1,40.98,46,6,238.9,false
+127742,"Flexadin Plus M/L Dogs - 90s",77.85,25,LOW,365d,3,33.3,79.82,1,80.19,1,77.85,25,3,237.86,false
+FDCDV,"Diarrhea Panel PCR (Comprehensive) Fel",234.5,84,HIGH,365d,1,100,,0,,0,234.5,84,1,234.5,false
+113319,"Advantix II (over 25kg)",116.95,86,HIGH,365d,2,100,,0,,0,116.95,86,2,233.9,false
+108024,"Thera-K (Potassium Gluconate)",57.45,66,MEDIUM,365d,4,75,58.8,1,,0,57.45,66,4,231.15,false
+139228,"Gabapentin 300 mg cap",46,65,MEDIUM,365d,6,66.7,14.55,1,32.4,1,46,65,6,230.95,false
+144605,"Fluoxetine 20mg caps AURO",43.8,51,MEDIUM,365d,8,50,14.7,2,12.53,2,43.8,51,8,229.66,false
+141069,"ProLiv SAMe TABS for LARGE DOGS - 30s",229.35,84,HIGH,365d,1,100,,0,,0,229.35,84,1,229.35,false
+132213,"Hills Fel Metab + c/d Stress - 6.35lbs",69.92,33,LOW,365d,2,50,158.9,1,,0,69.92,33,2,228.82,false
+HOSPUPCS,"UPC Hospitalization Surgical Evening",45,89,HIGH,365d,5,100,,0,,0,45,89,5,225,false
+113713,"Hydrocodone Syrup 1mg/ml",24,39,LOW,365d,7,28.6,15.99,1,32.64,1,24,39,7,224.76,false
+COCCYB,"Anesthesia - Coccygeal Block",73,87,HIGH,365d,3,100,,0,,0,73,87,3,219,false
+136204,"CET Veggiedent Chews Sm - 30s",24.55,42,LOW,365d,9,44.4,20.19,3,40.38,1,24.55,42,9,218.75,false
+136205,"CET Veggiedent Chews Med - 30s",23.85,46,LOW,365d,6,50,48.88,2,49.16,1,23.85,46,6,218.47,false
+105645,"Phenobarbital 15mg tab",80.4,33,LOW,365d,2,50,137.4,1,,0,80.4,33,2,217.8,false
+139645,"RC Fel Renal Support Early Consult 2kg",52.4,36,LOW,365d,4,50,56.42,2,,0,52.4,36,4,217.64,false
+119299,"Hills K9 i/d - 17.6lbs",108.38,86,HIGH,365d,2,100,,0,,0,108.38,86,2,216.76,false
+134495,"Otizole Otic - 15ml",42.56,89,HIGH,365d,5,100,,0,,0,42.56,89,5,212.8,false
+130017,"Hills K9 c/d Chicken - 17.6lbs",106.26,86,HIGH,365d,2,100,,0,,0,106.26,86,2,212.52,false
+FCOOMCBC,"Idexx Coombs w CBC-Select Fel",211.9,84,HIGH,365d,1,100,,0,,0,211.9,84,1,211.9,false
+BUPSCONA,"Buprenorphine 0.8mg/ml per ml no flavor",87,48,LOW,365d,4,50,22,1,15.6,1,87,48,4,211.6,false
+GWOPP,"Gateway Odyssey Paw Print Urn",211,84,HIGH,365d,1,100,,0,,0,211,84,1,211,false
+140558,"NEXGARD Combo S Kitten <2.5kg",30.14,91,HIGH,365d,7,100,,0,,0,30.14,91,7,210.98,false
+125436,"Doxycycline 100mg Tabs TEVA",25.58,26,LOW,365d,7,28.6,41.1,2,18.16,1,25.58,26,7,210.54,false
+FL2,"Feline Leukemia Vaccination 2nd",30,91,HIGH,365d,7,100,,0,,0,30,91,7,210,false
+143782,"K9 PVD EN Low Fat 7.48kg",104.88,86,HIGH,365d,2,100,,0,,0,104.88,86,2,209.76,false
+134167,"DECLINED: Bravecto Fel Blue",68.65,87,HIGH,365d,3,100,,0,,0,68.65,87,3,205.95,false
+125237,"Virkon 5kg powder",204.46,84,HIGH,365d,1,100,,0,,0,204.46,84,1,204.46,false
+GWBU,"Handcrafted Ceramic Urns",102,86,HIGH,365d,2,100,,0,,0,102,86,2,204,false
+124362,"RC K9 GI Mod Cal - 385g",63.96,50,MEDIUM,365d,5,60,5.96,2,,0,63.96,50,5,203.8,false
+900122,"Buster Clic Classic Clear 40cm",67.51,87,HIGH,365d,3,100,,0,,0,67.51,87,3,202.53,false
+UPCIN,"Urine Protein Creatinine Ratio-In clinic",67.17,87,HIGH,365d,3,100,,0,,0,67.17,87,3,201.51,false
+131787,"RC Fel Urinary SO + Calm - 85g",65.52,56,MEDIUM,365d,3,66.7,68.88,1,,0,65.52,56,3,199.92,false
+PROF,"Professional Services",66,87,HIGH,365d,3,100,,0,,0,66,87,3,198,false
+1701,"Abscess Flush",65.1,87,HIGH,365d,3,100,,0,,0,65.1,87,3,195.3,false
+S14DR,"Senvelgo 14 Day Recheck",65,87,HIGH,365d,3,100,,0,,0,65,87,3,195,false
+S7DR,"Senvelgo 7 Day Recheck",65,87,HIGH,365d,3,100,,0,,0,65,87,3,195,false
+S2DR,"Senvelgo 2 Day Recheck",65,87,HIGH,365d,3,100,,0,,0,65,87,3,195,false
+IVF,"Intravenous Fluids Add On (up to 24hr)",65,87,HIGH,365d,3,100,,0,,0,65,87,3,195,false
+130855,"Insulin Syr Sol-M U-100 0.5mL/30g/1/2""",23.67,45,LOW,365d,8,50,22.94,3,30,1,23.67,45,8,193.5,false
+141169A,"Solensia - 7mg/ml (Additional Vial)",64.05,87,HIGH,365d,3,100,,0,,0,64.05,87,3,192.15,false
+SHA1,"Total Body Shave",58.5,33,LOW,365d,2,50,132.29,1,,0,58.5,33,2,190.79,false
+144101,"PVD Fel Essential Care Kitten 85g",36.75,39,LOW,365d,7,28.6,36.84,1,1.54,1,36.75,39,7,190.58,false
+119656,"Hilarys Blend K9 - 700g",69.17,56,MEDIUM,365d,3,66.7,52,1,,0,69.17,56,3,190.34,false
+123185,"RC K9 Hepatic - 3.5kg",62.68,87,HIGH,365d,3,100,,0,,0,62.68,87,3,188.04,false
+125217,"Zeniquin Tabs -  50mg",17.87,48,LOW,365d,4,50,48,1,103.77,1,17.87,48,4,187.51,false
+129939,"Hills Fel Metabolic Chkn Stew - 2.9oz",55.44,46,LOW,365d,6,50,9.24,2,2.31,1,55.44,46,6,187.11,false
+144138,"Vetradent Veggie Chews",41.58,72,MEDIUM,365d,5,80,20.79,1,,0,41.58,72,5,187.11,false
+122350,"Procyte Stain Pack",186.96,84,HIGH,365d,1,100,,0,,0,186.96,84,1,186.96,false
+99013782,"Maropitant (as Citrate) 20 mg/ml",7.54,36,LOW,365d,11,27.3,54.28,2,19.54,1,7.54,36,11,186.85,false
+FLTGA,"Fecal O & P with Giardia Add-on OUT",92.9,86,HIGH,365d,2,100,,0,,0,92.9,86,2,185.8,false
+116624,"Omeprazole 20mg",19.1,38,LOW,365d,9,33.3,16.26,2,22.65,2,19.1,38,9,185.39,false
+AC1,"Aerobic Culture",184.9,84,HIGH,365d,1,100,,0,,0,184.9,84,1,184.9,false
+COMFORT,"Methadone (Comfortan) 10 mg/ml",31.55,44,LOW,365d,5,40,20.81,1,42.89,1,31.55,44,5,184.8,false
+133619,"Trazodone - 150mg",14.76,22,LOW,365d,12,16.7,23.1,2,13.72,2,14.76,22,12,183.68,false
+127104,"Voltaren 0.1% Opthamic - 5ml",43.47,66,MEDIUM,365d,4,75,53,1,,0,43.47,66,4,183.41,false
+90900828,"Metronidazole 100 mg/ml",5,45,LOW,365d,29,27.6,2.8,4,3.32,2,5,45,29,183.28,false
+124309,"Proin Chewable Tab 25mg (60s)",59.08,56,MEDIUM,365d,3,66.7,64.1,1,,0,59.08,56,3,182.26,false
+126062,"Otomax Ointment - 30g",85.73,33,LOW,365d,2,50,96.26,1,,0,85.73,33,2,181.99,false
+PROG,"Progesterone Level OUT",180.9,84,HIGH,365d,1,100,,0,,0,180.9,84,1,180.9,false
+128906,"Hills Fel i/d Chkn Stew - 2.9oz",3.01,26,LOW,365d,7,28.6,72.24,2,6.02,2,3.01,26,7,180.6,false
+139689,"Douxo Pyo Shampoo - 500mL",45.12,88,HIGH,365d,4,100,,0,,0,45.12,88,4,180.48,false
+MISCTR,"Major Ear Cleaning",36,89,HIGH,365d,5,100,,0,,0,36,89,5,180,false
+132848A,"Cytopoint 10mg (Additional Vial)",44.74,88,HIGH,365d,4,100,,0,,0,44.74,88,4,178.96,false
+101,"Inhalant Anesthesia (per 30 min)",178,84,HIGH,365d,1,100,,0,,0,178,84,1,178,false
+AVPANW,"Avian Panel (OUT)",177.5,84,HIGH,365d,1,100,,0,,0,177.5,84,1,177.5,false
+122544,"RC K9 Adult - 385g",60.98,56,MEDIUM,365d,3,66.7,55.44,1,,0,60.98,56,3,177.4,false
+144561,"PVD Fel EN Savory Selects Turkey - 156g",88.56,86,HIGH,365d,2,100,,0,,0,88.56,86,2,177.12,false
+FLT,"Fecal Ova & Parasites to IDEXX",87.9,86,HIGH,365d,2,100,,0,,0,87.9,86,2,175.8,false
+132259,"RC Fel Urinary Treats - 220g",13.71,42,LOW,365d,7,42.9,32.92,2,27.42,1,13.71,42,7,175.52,false
+119325,"Hills Fel i/d - 8.5lbs",86.61,86,HIGH,365d,2,100,,0,,0,86.61,86,2,173.22,false
+117913,"Catalyst Chem 17 Clip",57.31,87,HIGH,365d,3,100,,0,,0,57.31,87,3,171.93,false
+140507,"RC K9/Fel Recovery - 145g",9.72,25,LOW,365d,8,25,38.88,2,19.44,1,9.72,25,8,170.48,false
+121526,"Kit 4 Cat - Urine Collection Kit",13.77,50,MEDIUM,365d,13,53.8,12.32,5,11.7,1,13.77,50,13,169.69,false
+144237,"Voluven 250 mg",84.8,86,HIGH,365d,2,100,,0,,0,84.8,86,2,169.6,false
+1015,"House Call(Travel Fee)-add mileage",169.1,84,HIGH,365d,1,100,,0,,0,169.1,84,1,169.1,false
+139329,"RC Fel Selected Protein PD - 4kg",84.45,86,HIGH,365d,2,100,,0,,0,84.45,86,2,168.9,false
+140227,"Aventi Synergy Chews - 40s",41.97,88,HIGH,365d,4,100,,0,,0,41.97,88,4,167.88,false
+125220,"Revolution Puppy/Kitten <2.5kg (Mauve)",46.41,56,MEDIUM,365d,3,66.7,74.32,1,,0,46.41,56,3,167.14,false
+137836,"Meloxadin Oral Susp. 32mL",55.71,87,HIGH,365d,3,100,,0,,0,55.71,87,3,167.13,false
+135156,"Emeraid Intensive Care Herbivore - 100mg",23.63,50,MEDIUM,365d,5,60,47.26,2,,0,23.63,50,5,165.41,false
+132323,"Insulin Syr CarePoint U-100 1/2cc/29g",3.11,40,LOW,365d,13,38.5,6.23,4,31.15,3,3.11,40,13,164.92,false
+CRYP,"Cryptorchid (Abdominal)",164.3,84,HIGH,365d,1,100,,0,,0,164.3,84,1,164.3,false
+139386,"Reconcile (Fluoxetine) 64mg",162.31,84,HIGH,365d,1,100,,0,,0,162.31,84,1,162.31,false
+133691,"PVD K9 EN Low Fat - 380g",64.68,56,MEDIUM,365d,3,66.7,32.34,1,,0,64.68,56,3,161.7,false
+130973,"Trazodone - 50mg",12.12,35,LOW,365d,12,16.7,13.68,1,12,1,12.12,35,12,161.33,false
+104865,"Baytril Otic 15ml",53.76,87,HIGH,365d,3,100,,0,,0,53.76,87,3,161.28,false
+106212,"BIPS Barium small",53.68,87,HIGH,365d,3,100,,0,,0,53.68,87,3,161.04,false
+125172,"VANGUARD DAPi",161.04,84,HIGH,365d,1,100,,0,,0,161.04,84,1,161.04,false
+ANEX,"Physical Examination",80,86,HIGH,365d,2,100,,0,,0,80,86,2,160,false
+126198,"Stilbestrol 1mg",78.3,86,HIGH,365d,2,100,,0,,0,78.3,86,2,156.6,false
+99015787,"Methocarbamol 500 mg",29.92,22,LOW,365d,4,25,8.16,1,47.3,1,29.92,22,4,156.33,false
+02412470,"Pyrantel Pamoate 50mg/ml (Summit)",13.54,22,LOW,365d,14,14.3,13.95,2,12.97,2,13.54,22,14,155.51,false
+4DXADD,"Idexx 4Dx Plus screen Canine OUT-add on",76.5,86,HIGH,365d,2,100,,0,,0,76.5,86,2,153,false
+90909754,"Methimazole 25 mg/ml Liquid",153,84,HIGH,365d,1,100,,0,,0,153,84,1,153,false
+129824,"Canaural Ear Drops 15ml",50.73,87,HIGH,365d,3,100,,0,,0,50.73,87,3,152.19,false
+FLU1,"Fluids  Additional  Bag",30.4,66,MEDIUM,365d,4,75,60.8,1,,0,30.4,66,4,152,false
+121356A,"Zentonil Advanced 100 mg chews (30 tbs)",75.81,86,HIGH,365d,2,100,,0,,0,75.81,86,2,151.62,false
+100037,"Prednisone 50mg (APO)",13.11,23,LOW,365d,10,20,15.33,2,13.7,2,13.11,23,10,150.3,false
+124229,"Apo-Meloxicam 180mL (1.5mg/ml) for syrin",13.27,56,MEDIUM,365d,3,66.7,123.53,1,,0,13.27,56,3,150.07,false
+131713,"Hills Fel k/d Ocean Fish - 4lbs",50.01,87,HIGH,365d,3,100,,0,,0,50.01,87,3,150.03,false
+135378,"Epi-otic Ear Cleanser 118 ml",18.04,81,HIGH,365d,8,87.5,23.73,1,,0,18.04,81,8,150.01,false
+URIN1,"Urinalysis Stick & S.G IN",50,87,HIGH,365d,3,100,,0,,0,50,87,3,150,false
+105646,"Phenobarbital 30mg tab",57.6,56,MEDIUM,365d,3,66.7,34.8,1,,0,57.6,56,3,150,false
+JOINTTAP,"Joint Tap (plus pack) per 10 min.",150,84,HIGH,365d,1,100,,0,,0,150,84,1,150,false
+ADOPT,"Surrender Fee",150,84,HIGH,365d,1,100,,0,,0,150,84,1,150,false
+NAILTRIM,"Nail Trim (Dogs/Cats) - Technologist",49.99,87,HIGH,365d,3,100,,0,,0,49.99,87,3,149.97,false
+123552,"RC Fel Dental - 3.5kg",73.2,86,HIGH,365d,2,100,,0,,0,73.2,86,2,146.4,false
+900098,"Buster Clic Clear Collar 10cm",11.5,80,HIGH,365d,13,84.6,9.78,2,,0,11.5,80,13,146.06,false
+GWMC,"Gateway Memorial Clay Paw Print",73,86,HIGH,365d,2,100,,0,,0,73,86,2,146,false
+140582,"Clavamox Chews 375mg",48.54,87,HIGH,365d,3,100,,0,,0,48.54,87,3,145.62,false
+128948,"Bravecto Blue 20-40kg",72.69,86,HIGH,365d,2,100,,0,,0,72.69,86,2,145.38,false
+99012180,"Doxycycline 50 mg/ml Summit",14.68,31,LOW,365d,5,40,32,2,52,1,14.68,31,5,145.36,false
+MISC,"Force Feeding Administered",20,56,MEDIUM,365d,3,66.7,105,1,,0,20,56,3,145,false
+141312,"Synovi G4 Soft Chews (60s)",48.19,87,HIGH,365d,3,100,,0,,0,48.19,87,3,144.57,false
+139261,"PVD Fel Urinary Health Treats - 51g",6.5,51,MEDIUM,365d,16,50,7.97,5,19.5,2,6.5,51,16,143.85,false
+139868,"Fel Hills C/D Stress w/ocean fish 17.6lb",142.85,84,HIGH,365d,1,100,,0,,0,142.85,84,1,142.85,false
+140308,"Feliway Classic Refill - 3 x 48mL",68.81,33,LOW,365d,2,50,73.73,1,,0,68.81,33,2,142.54,false
+139264,"PVD K9 NF - 377g",10.6,22,LOW,365d,4,25,15.9,1,21.2,1,10.6,22,4,142.5,false
+920614,"Buster Under Constr 25cm E-collar",20.34,91,HIGH,365d,7,100,,0,,0,20.34,91,7,142.38,false
+101385,"Tobrex drops 0.3% 5ml",35.56,88,HIGH,365d,4,100,,0,,0,35.56,88,4,142.24,false
+BML,"Bandage Material - Large",56,56,MEDIUM,365d,3,66.7,28,1,,0,56,56,3,140,false
+132334,"Baytril 50mg Tablet",22.96,41,LOW,365d,6,33.3,15.28,1,31.18,1,22.96,41,6,139.67,false
+CEFSO,"Cefazolin Sodium Inj. - 1g",23.24,36,LOW,365d,4,50,46.48,2,,0,23.24,36,4,139.44,false
+135199,"After Surgery Wear - L (17.3in)",34.58,88,HIGH,365d,4,100,,0,,0,34.58,88,4,138.32,false
+119673,"Mometamax Otic - 30g",68.94,86,HIGH,365d,2,100,,0,,0,68.94,86,2,137.88,false
+107466,"Ketoconazole 200mg - APO",67.2,56,MEDIUM,365d,3,66.7,1.84,1,,0,67.2,56,3,136.24,false
+137474,"Denamarin Advanced Chew Tab Large (30s)",136.02,84,HIGH,365d,1,100,,0,,0,136.02,84,1,136.02,false
+139962,"Flexadin Fel Advanced - 60s",67.85,86,HIGH,365d,2,100,,0,,0,67.85,86,2,135.7,false
+304,"Cremation Communal Exotic / <2kg",45,87,HIGH,365d,3,100,,0,,0,45,87,3,135,false
+129826,"Isaderm Gel - 15g",48.91,56,MEDIUM,365d,3,66.7,36.91,1,,0,48.91,56,3,134.73,false
+144619,"Gabapentin 400mg (AURO)",14.2,55,MEDIUM,365d,9,44.4,12.88,1,15.3,1,14.2,55,9,134.62,false
+127711,"PVD Ess. Care Adult 3.6kg",44.2,56,MEDIUM,365d,3,66.7,45.5,1,,0,44.2,56,3,133.9,false
+90911965,"Piroxicam 1mg/ml (Summit)",66.9,86,HIGH,365d,2,100,,0,,0,66.9,86,2,133.8,false
+115342,"Cerenia 160mg",26.7,89,HIGH,365d,5,100,,0,,0,26.7,89,5,133.5,false
+133994,"Hills K9 d/d Venison - 25lbs",133.01,84,HIGH,365d,1,100,,0,,0,133.01,84,1,133.01,false
+140521,"RC K9 Gastro low fat- SB",66.43,86,HIGH,365d,2,100,,0,,0,66.43,86,2,132.86,false
+119303,"Hills K9 k/d - 8.5lbs",62.59,33,LOW,365d,2,50,67.8,1,,0,62.59,33,2,130.39,false
+129648,"NEXGARD Orange (1.8-4.5kg)",128.94,84,HIGH,365d,1,100,,0,,0,128.94,84,1,128.94,false
+125221,"Revolution Cat 2.6-7.5kg  (Blue)",50.18,56,MEDIUM,365d,3,66.7,28.34,1,,0,50.18,56,3,128.7,false
+139374,"Omeprazole 10mg TEVA",31,44,LOW,365d,5,40,32.1,1,19.95,1,31,44,5,127.95,false
+115873,"DERMOSCENT Ess Mousse for cats",36.88,56,MEDIUM,365d,3,66.7,53.31,1,,0,36.88,56,3,127.07,false
+127741,"Flexadin Plus Cat + Sm Dog - 90s",61.33,33,LOW,365d,2,50,65.73,1,,0,61.33,33,2,127.06,false
+108298,"DECLINED: Propalin HCL 50mg/ml Syrup 30m",63.08,86,HIGH,365d,2,100,,0,,0,63.08,86,2,126.16,false
+136206,"CET Veggiedent Chews Lg - 30s",27.1,22,LOW,365d,4,25,30.22,1,26.5,1,27.1,22,4,126.1,false
+137173,"Hills K9 Metabolic - 7.7lbs",62.5,86,HIGH,365d,2,100,,0,,0,62.5,86,2,125,false
+COI,"Cryptorchid (Inguinal)",125,84,HIGH,365d,1,100,,0,,0,125,84,1,125,false
+140310,"Feliway Friends Refill - 3 x 48mL",62,86,HIGH,365d,2,100,,0,,0,62,86,2,124,false
+130016,"Hills K9 c/d Chicken - 8.5lbs",123.2,84,HIGH,365d,1,100,,0,,0,123.2,84,1,123.2,false
+137100,"Thyro Tab 0.1mg",38.4,25,LOW,365d,3,33.3,32.4,1,52,1,38.4,25,3,122.8,false
+113014,"Clinacin 75mg",14.12,48,LOW,365d,4,50,37,1,57.36,1,14.12,48,4,122.6,false
+125663,"Hills K9/Fel a/d - 156g",9.38,40,LOW,365d,8,37.5,14.07,2,4.69,2,9.38,40,8,121.94,false
+PHEA,"Phenobarbital Level add-on OUT",121.9,84,HIGH,365d,1,100,,0,,0,121.9,84,1,121.9,false
+1082988,"Propalin HCL 50mg/ml Syrup 30ml",60.88,86,HIGH,365d,2,100,,0,,0,60.88,86,2,121.76,false
+137783,"Galliprant 60 mg TAB",121.5,84,HIGH,365d,1,100,,0,,0,121.5,84,1,121.5,false
+VACCLI,"Feline FVRCP Vaccination 2nd",30,88,HIGH,365d,4,100,,0,,0,30,88,4,120,false
+308,"Cremation Communal <43kg",120,84,HIGH,365d,1,100,,0,,0,120,84,1,120,false
+143070,"Virbac Keratolux Medicated Shampoo 473ml",59.98,86,HIGH,365d,2,100,,0,,0,59.98,86,2,119.96,false
+137593,"Glandex Salmon Flavoured Powder 5.5oz D",59.85,86,HIGH,365d,2,100,,0,,0,59.85,86,2,119.7,false
+129809,"Malacetic Otic - 118ml",28,50,MEDIUM,365d,5,60,17.58,2,,0,28,50,5,119.16,false
+132529,"Glandex PB Chews - 60s",59.57,86,HIGH,365d,2,100,,0,,0,59.57,86,2,119.14,false
+137289,"Hills K9 Metabolic + Mobility 15lbs",117.86,84,HIGH,365d,1,100,,0,,0,117.86,84,1,117.86,false
+AMETSYR,"Meloxicam 1.5mg/ml (APO)",13.06,26,LOW,365d,7,28.6,13.81,2,13.98,1,13.06,26,7,117.85,false
+NSAID,"NSAID Panel (OUT)",117.5,84,HIGH,365d,1,100,,0,,0,117.5,84,1,117.5,false
+111291,"Hills Fel d/d Duck - 3.5lbs",39.29,56,MEDIUM,365d,3,66.7,38.38,1,,0,39.29,56,3,116.96,false
+132848,"Cytopoint - 10mg",58.09,86,HIGH,365d,2,100,,0,,0,58.09,86,2,116.18,false
+AMIL,"Amitriptyline 100mg/ml transdermal 3 mls",115.08,84,HIGH,365d,1,100,,0,,0,115.08,84,1,115.08,false
+HSESS,"Hospital Supplies - Extra Sx Supplies",37.5,87,HIGH,365d,3,100,,0,,0,37.5,87,3,112.5,false
+140752,"Aventi Gi Essentials",37.5,87,HIGH,365d,3,100,,0,,0,37.5,87,3,112.5,false
+142466,"Cephalex 250mg Tabs TEVA",12.2,49,LOW,365d,9,44.4,17.6,2,13.4,2,12.2,49,9,112.26,false
+128025,"Mirtazapine 15 mg",12.74,28,LOW,365d,6,33.3,13.48,2,24.9,1,12.74,28,6,111.54,false
+DARBO,"DECLINED: Aranesp (Darbepoetin Alfa) 10m",55.62,86,HIGH,365d,2,100,,0,,0,55.62,86,2,111.24,false
+137838,"Meloxadin Oral 1.5mg/ml 2x100ml",110.87,84,HIGH,365d,1,100,,0,,0,110.87,84,1,110.87,false
+ANEXX,"Physical  Exam for Immunization",55,86,HIGH,365d,2,100,,0,,0,55,86,2,110,false
+100096,"Theophylline 100mg",17.04,26,LOW,365d,7,28.6,12.72,2,21.9,1,17.04,26,7,109.9,false
+108961,"Viralys Gel - 5oz",27.44,88,HIGH,365d,4,100,,0,,0,27.44,88,4,109.76,false
+134066,"PVD K9 Essential Senior 14.1kg",109.43,84,HIGH,365d,1,100,,0,,0,109.43,84,1,109.43,false
+125194,"Strongid T",12.07,36,LOW,365d,9,22.2,12.02,1,12.12,1,12.07,36,9,109.38,false
+130024,"Glargine (Lantus) Insulin - 3mL",54.48,86,HIGH,365d,2,100,,0,,0,54.48,86,2,108.96,false
+133842,"RC Fel Anallergenic - 2.5kg",54.27,86,HIGH,365d,2,100,,0,,0,54.27,86,2,108.54,false
+SHA,"Shave Partial",31,25,LOW,365d,3,33.3,15.5,1,62,1,31,25,3,108.5,false
+142474,"Omeprazole 20mg TEVA",12.52,31,LOW,365d,5,40,32.8,2,14.6,1,12.52,31,5,105.24,false
+130970,"Trazodone - 100mg",12,25,LOW,365d,8,25,14.8,2,15.6,1,12,25,8,104.91,false
+4DX,"4Dx Plus screen Canine OUT",104.9,84,HIGH,365d,1,100,,0,,0,104.9,84,1,104.9,false
+137102,"Thyro Tab 0.3mg",49.2,33,LOW,365d,2,50,55.2,1,,0,49.2,33,2,104.4,false
+METINJ,"Metacam Inj. - 0.5%",1.67,22,LOW,365d,4,25,27.86,1,4.17,1,1.67,22,4,103.35,false
+LYTE4,"Lyte 4",100.8,84,HIGH,365d,1,100,,0,,0,100.8,84,1,100.8,false
+129813,"Trizedta Aqueous Flush - 473ml",50.38,86,HIGH,365d,2,100,,0,,0,50.38,86,2,100.76,false
+135197,"After Surgery Wear - M",33.54,87,HIGH,365d,3,100,,0,,0,33.54,87,3,100.62,false
+ANEXA,"Brief Exam",50,86,HIGH,365d,2,100,,0,,0,50,86,2,100,false
+140581,"Clavamox 250 mg tab",26.28,33,LOW,365d,2,50,73.2,1,,0,26.28,33,2,99.48,false
+135379,"Epi-otic Ear Cleanser 236 ml",32.18,87,HIGH,365d,3,100,,0,,0,32.18,87,3,96.54,false
+132255,"RC Fel GI Treats",13.71,79,MEDIUM,365d,7,85.7,13.14,1,,0,13.71,79,7,95.4,false
+SPLI1,"Bandage and Splint change Minor",95,84,HIGH,365d,1,100,,0,,0,95,84,1,95,false
+INJ3,"Oral medication/admin",7.42,56,MEDIUM,365d,3,66.7,80,1,,0,7.42,56,3,94.84,false
+125469,"Prednisone 50mg tab",13.5,44,LOW,365d,5,40,18.6,1,23.6,1,13.5,44,5,94.4,false
+99012165,"Apomorphine 3mg/ml",15.99,20,LOW,365d,5,20,1.99,1,13.99,1,15.99,20,5,94.11,false
+OXY2,"Oxygen therapy - additional hours",46.2,86,HIGH,365d,2,100,,0,,0,46.2,86,2,92.4,false
+100035,"Prednisone 5mg Tab APO",13,22,LOW,365d,4,25,12.08,1,13.6,1,13,22,4,90.68,false
+INTRALIP,"Intralipid CRI (up to 250mL)",90.52,84,HIGH,365d,1,100,,0,,0,90.52,84,1,90.52,false
+BMS,"Bandage Material - Small",18,89,HIGH,365d,5,100,,0,,0,18,89,5,90,false
+VACCLC,"Feline FVRCP Vaccination 1st",30,87,HIGH,365d,3,100,,0,,0,30,87,3,90,false
+THMD>120,"Take Home Medication Surgery >120lb",90,84,HIGH,365d,1,100,,0,,0,90,84,1,90,false
+111859,"Famotidine inj 10 mg/ml",14.25,54,MEDIUM,365d,6,50,13.25,1,13.49,1,14.25,54,6,88.33,false
+127714,"PVD K9 Ess. Care Senior - 3.6kg",44.06,86,HIGH,365d,2,100,,0,,0,44.06,86,2,88.12,false
+123609,"Onsior for Cats - 6mg",15.56,48,LOW,365d,4,50,34.05,1,22.8,1,15.56,48,4,87.97,false
+SERU,"Ophthalmic Serum (including collection)",87,84,HIGH,365d,1,100,,0,,0,87,84,1,87,false
+121855,"Medical Pet Shirt Fel XXS",43.04,86,HIGH,365d,2,100,,0,,0,43.04,86,2,86.08,false
+90912275,"Piroxicam 8mg capsule -  Summit",85.5,84,HIGH,365d,1,100,,0,,0,85.5,84,1,85.5,false
+137160,"Revolution Plus- Cats 1.3-2.5kg (Yellow)",30.5,33,LOW,365d,2,50,54.5,1,,0,30.5,33,2,85,false
+113353,"Hills K9 t/d SB - 15lbs",84.87,84,HIGH,365d,1,100,,0,,0,84.87,84,1,84.87,false
+TORB,"Torbugesic Inj 10mg/ml  (Price/ml)",29.39,56,MEDIUM,365d,3,66.7,25.46,1,,0,29.39,56,3,84.24,false
+132099T,"Apoquel 3.6mg (per tab)",83,84,HIGH,365d,1,100,,0,,0,83,84,1,83,false
+CYCA1,"Cyclosporin Aqueous 1% 10 mls",81.6,84,HIGH,365d,1,100,,0,,0,81.6,84,1,81.6,false
+143732,"Gabapentin 100mg cap",12.07,19,LOW,365d,6,16.7,12,1,13.4,1,12.07,19,6,81.24,false
+IHAO,"In Heat - Add On",80,84,HIGH,365d,1,100,,0,,0,80,84,1,80,false
+129125,"Oxbow Essentials Adult Guinea Pig Food",37.98,33,LOW,365d,2,50,41.78,1,,0,37.98,33,2,79.76,false
+124126,"Therabites Fel Hairball - 40s",14.48,65,MEDIUM,365d,6,66.7,13.76,1,7.96,1,14.48,65,6,79.64,false
+115597,"Easy Clean Cat Litter Unscented - 40lbs",16.51,50,MEDIUM,365d,5,60,15.01,2,,0,16.51,50,5,79.55,false
+137174,"Hills K9 Metab + Mobility - 8.5lbs",79,84,HIGH,365d,1,100,,0,,0,79,84,1,79,false
+BUSP,"Buspirone HCL 10mg/ml (Summit)",78.3,84,HIGH,365d,1,100,,0,,0,78.3,84,1,78.3,false
+20,"Adjustments",38.92,86,HIGH,365d,2,100,,0,,0,38.92,86,2,77.84,false
+137879,"Gabapentin 600 mg tab",12.3,44,LOW,365d,5,40,10.71,1,10.2,1,12.3,44,5,77.81,false
+117887,"PVD Fel EN - 156g",22.14,25,LOW,365d,3,33.3,36.9,1,18.45,1,22.14,25,3,77.49,false
+131820,"PVD Fel EN Naturals- 2.72kg",77.25,84,HIGH,365d,1,100,,0,,0,77.25,84,1,77.25,false
+125528,"Atravet 10 mg/ml inj",24.85,48,LOW,365d,4,50,10.24,1,17.14,1,24.85,48,4,77.08,false
+144024,"Trizedta 118ml",22.52,56,MEDIUM,365d,3,66.7,31.53,1,,0,22.52,56,3,76.57,false
+113013,"Clinacin 25mg",25.4,36,LOW,365d,4,50,12.75,2,,0,25.4,36,4,76.3,false
+99012524,"Mirtazapine 2 mg Tab",24,56,MEDIUM,365d,3,66.7,27.7,1,,0,24,56,3,75.7,false
+134438,"Cefaseptin Chewable 300mg",12.77,54,MEDIUM,365d,6,50,0.41,1,17.68,1,12.77,54,6,75.5,false
+133022,"Simparica 5mg (1.3-2.5kg) Yellow",37.7,86,HIGH,365d,2,100,,0,,0,37.7,86,2,75.4,false
+ORAL,"Oral Exam (Not including Sedation)",75,84,HIGH,365d,1,100,,0,,0,75,84,1,75,false
+131780,"RC Fel Urinary SO + Satiety - 3kg",74.84,84,HIGH,365d,1,100,,0,,0,74.84,84,1,74.84,false
+128947,"DECLINED: Bravecto 500mg Green Flea & Ti",74.3,84,HIGH,365d,1,100,,0,,0,74.3,84,1,74.3,false
+135201,"After Surgery Wear - XXL",36.99,86,HIGH,365d,2,100,,0,,0,36.99,86,2,73.98,false
+116588,"Bio Balm K9 - 50mL",36.84,86,HIGH,365d,2,100,,0,,0,36.84,86,2,73.68,false
+138218,"Entero Aid + GI - 15ml",36.61,86,HIGH,365d,2,100,,0,,0,36.61,86,2,73.22,false
+135953,"Optixcare Eye Health RED - 20g",36.48,86,HIGH,365d,2,100,,0,,0,36.48,86,2,72.96,false
+134410,"Aventi Joint - 500ml",72.46,84,HIGH,365d,1,100,,0,,0,72.46,84,1,72.46,false
+140986,"Feliway Optimum Diffuser + Refill",31.49,33,LOW,365d,2,50,40.59,1,,0,31.49,33,2,72.08,false
+PIVCO,"Peripheral IV Catheter - Only",72,84,HIGH,365d,1,100,,0,,0,72,84,1,72,false
+129825,"Canaural Ear Drops 25ml",70.75,84,HIGH,365d,1,100,,0,,0,70.75,84,1,70.75,false
+140987,"Feliway Optimum Diffuser Refill - 48ml",70.14,84,HIGH,365d,1,100,,0,,0,70.14,84,1,70.14,false
+ULTRA 3,"Ultrasound Specialist Report",35,86,HIGH,365d,2,100,,0,,0,35,86,2,70,false
+HNSR,"Health Exam Non-Sceduled Recheck",70,84,HIGH,365d,1,100,,0,,0,70,84,1,70,false
+120504,"RC GI Puppy - 4kg",70,84,HIGH,365d,1,100,,0,,0,70,84,1,70,false
+107276,"Antirobe Capsule 75mg",14.16,56,MEDIUM,365d,3,66.7,40.56,1,,0,14.16,56,3,68.88,false
+123310,"Hills K9 i/d Low Fat - 370g",68.76,84,HIGH,365d,1,100,,0,,0,68.76,84,1,68.76,false
+115205,"Catheter Terumo IV Surflash 22g x 1in",68.5,84,HIGH,365d,1,100,,0,,0,68.5,84,1,68.5,false
+139177,"RC Gastro Kitten - 3.5kg",68.03,84,HIGH,365d,1,100,,0,,0,68.03,84,1,68.03,false
+124182,"Hills K9 Metabolic - 13oz",67.8,84,HIGH,365d,1,100,,0,,0,67.8,84,1,67.8,false
+123875,"Rheumocam (Meloxicam) 15ml",33.76,86,HIGH,365d,2,100,,0,,0,33.76,86,2,67.52,false
+128175,"Trazodone - 100mg",12.4,44,LOW,365d,5,40,12.8,1,16.8,1,12.4,44,5,67.24,false
+137881,"Horse Bedding Pellets -16kg",28.16,25,LOW,365d,3,33.3,12.88,1,25.76,1,28.16,25,3,66.8,false
+135198,"After Surgery Wear - M/L (15.7in)",33.1,86,HIGH,365d,2,100,,0,,0,33.1,86,2,66.2,false
+1700,"Prolapse treatment/reduction",65.1,84,HIGH,365d,1,100,,0,,0,65.1,84,1,65.1,false
+131784,"RC Fel Urinary SO + Calm - 3kg",64.4,84,HIGH,365d,1,100,,0,,0,64.4,84,1,64.4,false
+125482,"Sucralfate 1g tabs",12.52,48,LOW,365d,4,50,15.64,1,23.7,1,12.52,48,4,64.38,false
+139879,"Erythromycin 5mg/g Ophtalmic ointment",63.45,84,HIGH,365d,1,100,,0,,0,63.45,84,1,63.45,false
+INJ2,"IM/ SQ injection",31.5,86,HIGH,365d,2,100,,0,,0,31.5,86,2,63,false
+011041,"Snap cPL - in house",62.5,84,HIGH,365d,1,100,,0,,0,62.5,84,1,62.5,false
+131240,"RC Fel Renal Support A - 3kg",62.44,84,HIGH,365d,1,100,,0,,0,62.44,84,1,62.44,false
+107290,"Depo-Medrol 40mg/ml per ml",15.5,88,HIGH,365d,4,100,,0,,0,15.5,88,4,62,false
+127719,"PVD Fel Ess. Care Adult - 3.6kg",61.97,84,HIGH,365d,1,100,,0,,0,61.97,84,1,61.97,false
+138953,"Prednisolone 1% Opth Suspension 10ml",30.96,86,HIGH,365d,2,100,,0,,0,30.96,86,2,61.92,false
+131750,"Hills K9 c/d Chicken - 370g",61.56,84,HIGH,365d,1,100,,0,,0,61.56,84,1,61.56,false
+102606,"CET Toothpaste Beef - 70g",10.19,76,MEDIUM,365d,6,83.3,10.6,1,,0,10.19,76,6,61.55,false
+127046,"Vitamin B12 Inj. 1000mcg/ml",12.22,72,MEDIUM,365d,5,80,12.3,1,,0,12.22,72,5,61.18,false
+118447,"Azithromycin Liquid 40mg/mL - 600mg",30.43,86,HIGH,365d,2,100,,0,,0,30.43,86,2,60.86,false
+DAP,"Canine DAP (Distemper) Vaccination",30,86,HIGH,365d,2,100,,0,,0,30,86,2,60,false
+CPV,"Canine Parvo (CPV) Vaccination",30,86,HIGH,365d,2,100,,0,,0,30,86,2,60,false
+116,"Anaesthetic - Local",59.2,84,HIGH,365d,1,100,,0,,0,59.2,84,1,59.2,false
+120515,"RC K9 GI Mod Cal - 4kg",58.62,84,HIGH,365d,1,100,,0,,0,58.62,84,1,58.62,false
+142542,"RC K9 Hypo HP Puppy - 4kg",58.46,84,HIGH,365d,1,100,,0,,0,58.46,84,1,58.46,false
+IVINJ,"Intravenous Injection",58,84,HIGH,365d,1,100,,0,,0,58,84,1,58,false
+EXTVMIN,"Extractions -Very Minor/Crown Amputation",58,84,HIGH,365d,1,100,,0,,0,58,84,1,58,false
+1201,"PCV/Ts Blood Smear/Differential",57.9,84,HIGH,365d,1,100,,0,,0,57.9,84,1,57.9,false
+IC,"Intensive Care/12h",57.5,84,HIGH,365d,1,100,,0,,0,57.5,84,1,57.5,false
+128311,"Fructosamine Add On IN",57.1,84,HIGH,365d,1,100,,0,,0,57.1,84,1,57.1,false
+125369,"Chlor Palm 250 - 60ml",28.54,86,HIGH,365d,2,100,,0,,0,28.54,86,2,57.08,false
+123511,"Fucidin 2% Ointment 30g",56.4,84,HIGH,365d,1,100,,0,,0,56.4,84,1,56.4,false
+102594,"CET Toothpaste Vanilla Mint - 70g",11.7,31,LOW,365d,5,40,10.6,2,11.36,1,11.7,31,5,55.96,false
+124131,"Cefazolin 1g 15mL per vial",26.24,33,LOW,365d,2,50,29.37,1,,0,26.24,33,2,55.61,false
+137954,"PVD Fel  OM Crunchy/Dental Bites - 51g",13.56,48,LOW,365d,4,50,8.1,1,20.34,1,13.56,48,4,55.56,false
+142533,"Methocarbamol 750 mg",30.27,33,LOW,365d,2,50,25.05,1,,0,30.27,33,2,55.32,false
+136203,"CET Veggiedent Chews XS - 30s",16.78,56,MEDIUM,365d,3,66.7,21.14,1,,0,16.78,56,3,54.7,false
+920609,"Buster Under Const 7.5cm  E-collar",9.02,90,HIGH,365d,6,100,,0,,0,9.02,90,6,54.12,false
+SCRAP,"Skin Tape impression",54.1,84,HIGH,365d,1,100,,0,,0,54.1,84,1,54.1,false
+140580,"Clavamox chew tabs 125 mg",29.6,33,LOW,365d,2,50,24.32,1,,0,29.6,33,2,53.92,false
+140656,"PVD K9 HA Salmon - 2.72kg",53.89,84,HIGH,365d,1,100,,0,,0,53.89,84,1,53.89,false
+139619,"CET K9 Hextra Chews Large - 30s",26.85,86,HIGH,365d,2,100,,0,,0,26.85,86,2,53.7,false
+127716,"PVD Fel Ess. Care Kitten 1.6kg",29.69,33,LOW,365d,2,50,23.75,1,,0,29.69,33,2,53.44,false
+102887,"Amoxi Clav 500/125mg",53.44,84,HIGH,365d,1,100,,0,,0,53.44,84,1,53.44,false
+124104,"Gabapentin 600mg (APO)",22.15,25,LOW,365d,3,33.3,13.75,1,17.25,1,22.15,25,3,53.15,false
+102968,"CET Toothpaste Poultry - 70g",10.6,89,HIGH,365d,5,100,,0,,0,10.6,89,5,53,false
+119994,"Feline PVD DH 2.72kg",52.48,84,HIGH,365d,1,100,,0,,0,52.48,84,1,52.48,false
+135931,"Aventi GI Powder - 120g",52.43,84,HIGH,365d,1,100,,0,,0,52.43,84,1,52.43,false
+134073,"Emeraid Intensive Care Carnivore - 100mg",25.32,86,HIGH,365d,2,100,,0,,0,25.32,86,2,50.64,false
+125015,"Baytril 5% Inj. (per mL)",15.79,26,LOW,365d,7,28.6,1.9,2,0.95,2,15.79,26,7,50.41,false
+IOD,"Gentle Iodine (povidone-iodine topical )",25,86,HIGH,365d,2,100,,0,,0,25,86,2,50,false
+ANALGLAN,"Anal Gland Expression - Technologist",49.99,84,HIGH,365d,1,100,,0,,0,49.99,84,1,49.99,false
+139520,"CET Fel Intellident Bites 90s",9.98,36,LOW,365d,4,50,14.97,2,,0,9.98,36,4,49.9,false
+BAYDEX,"Baytril/Dexamethadone Otic Sol 30 ml",49.9,84,HIGH,365d,1,100,,0,,0,49.9,84,1,49.9,false
+132309,"Douxo S3 Calm Mousse - 150mL",49.84,84,HIGH,365d,1,100,,0,,0,49.84,84,1,49.84,false
+137312,"Max & Molly Liver Treats - 120g",12.43,88,HIGH,365d,4,100,,0,,0,12.43,88,4,49.72,false
+EZBRUSH,"EZ Scrub Brush w/Chlorhex 4%",49.38,84,HIGH,365d,1,100,,0,,0,49.38,84,1,49.38,false
+131067,"PVD Fel Ess. Care Indoor - 3.6kg",49.11,84,HIGH,365d,1,100,,0,,0,49.11,84,1,49.11,false
+123318,"Denta Chlorhexidine Oral Rinse 8oz",19.76,56,MEDIUM,365d,3,66.7,9.54,1,,0,19.76,56,3,49.06,false
+103088,"Derma Gel 100ml",48.78,84,HIGH,365d,1,100,,0,,0,48.78,84,1,48.78,false
+131925,"Charac Activated Charcoal 50g - 225mL",16.8,56,MEDIUM,365d,3,66.7,15,1,,0,16.8,56,3,48.6,false
+HSO,"Hospital Supplies - Ophthalmic",48.1,84,HIGH,365d,1,100,,0,,0,48.1,84,1,48.1,false
+121780,"IV Microbore T Connector Ext Set 7in",47.4,84,HIGH,365d,1,100,,0,,0,47.4,84,1,47.4,false
+140006,"Diclofenac 0.1% Ophthalmic",22.41,33,LOW,365d,2,50,24.15,1,,0,22.41,33,2,46.56,false
+137570,"DECLINED: Aventi Omega 3 Complete - 250m",23.22,86,HIGH,365d,2,100,,0,,0,23.22,86,2,46.44,false
+119723,"DECLINED: Salbutamol 100mcg Inhaler",23.2,86,HIGH,365d,2,100,,0,,0,23.2,86,2,46.4,false
+142300,"Intra-Trac Kennel Cough Oral",23.16,86,HIGH,365d,2,100,,0,,0,23.16,86,2,46.32,false
+125224,"Revolution Dog 10.1-20kg (Red)",45.82,84,HIGH,365d,1,100,,0,,0,45.82,84,1,45.82,false
+125225,"Revolution Dog 20.1-40kg (Teal)",45.34,84,HIGH,365d,1,100,,0,,0,45.34,84,1,45.34,false
+139869,"Ubavet Dental Care Water Additive",44.76,84,HIGH,365d,1,100,,0,,0,44.76,84,1,44.76,false
+121367,"Catalyst Lith Hep Whole Blood Sep 40/box",44,84,HIGH,365d,1,100,,0,,0,44,84,1,44,false
+141280,"Diphenhydramine 50mg/ml",4,22,LOW,365d,4,25,13.27,1,24.76,1,4,22,4,43.7,false
+144642,"Rayne Simple Freeze Dried Kangaroo 142g",43.44,84,HIGH,365d,1,100,,0,,0,43.44,84,1,43.44,false
+104286,"Infusn Set Wing Butterfly12"" 23gx3/4""50s",43.35,84,HIGH,365d,1,100,,0,,0,43.35,84,1,43.35,false
+123539,"PVD K9 OM Select Blend - 2.72kg",43.01,84,HIGH,365d,1,100,,0,,0,43.01,84,1,43.01,false
+132102,"Canine CR Lyme",42.1,84,HIGH,365d,1,100,,0,,0,42.1,84,1,42.1,false
+127715,"PVD Fel Essential Care Kitten 85g",42,84,HIGH,365d,1,100,,0,,0,42,84,1,42,false
+118595,"Pro Otic Ear Cleaner - 16oz",20.99,86,HIGH,365d,2,100,,0,,0,20.99,86,2,41.98,false
+135941,"Optixcare Eye Lube Plus (PURPLE) - 15g",13.99,87,HIGH,365d,3,100,,0,,0,13.99,87,3,41.97,false
+0220,"Blood Collection",41.3,84,HIGH,365d,1,100,,0,,0,41.3,84,1,41.3,false
+132256,"RC Fel Hypo Treat - 220g",13.71,87,HIGH,365d,3,100,,0,,0,13.71,87,3,41.13,false
+EXONT,"Nail Trim (Exotic) -Tech",20.5,86,HIGH,365d,2,100,,0,,0,20.5,86,2,41,false
+137313,"Max & Molly Liver Treats - 220g",20.27,86,HIGH,365d,2,100,,0,,0,20.27,86,2,40.54,false
+108,"Premedication (Elective)",5.23,36,LOW,365d,4,50,14.9,2,,0,5.23,36,4,40.26,false
+103361,"CET Toothpaste Seafood - 70g",10.6,48,LOW,365d,4,50,7.57,1,11.36,1,10.6,48,4,40.13,false
+CRI,"CRI Surgery",40,84,HIGH,365d,1,100,,0,,0,40,84,1,40,false
+134709,"DermaChlor 4% Shampoo - 236mL",39.78,84,HIGH,365d,1,100,,0,,0,39.78,84,1,39.78,false
+USG,"USG (Urine Specific Gravity)",39,84,HIGH,365d,1,100,,0,,0,39,84,1,39,false
+125313,"DECLINED: Theraderm Cream 15 g",38.78,84,HIGH,365d,1,100,,0,,0,38.78,84,1,38.78,false
+119988,"PVD K9 EN - 2.72kg",38.68,84,HIGH,365d,1,100,,0,,0,38.68,84,1,38.68,false
+123464,"Hilarys Renal Blend - 350g",38.5,84,HIGH,365d,1,100,,0,,0,38.5,84,1,38.5,false
+122351,"RC Fel GI Mod Cal - 1.5kg",37.73,84,HIGH,365d,1,100,,0,,0,37.73,84,1,37.73,false
+127758,"Collar Comfy Cone X-Lrg 30cm",36.67,84,HIGH,365d,1,100,,0,,0,36.67,84,1,36.67,false
+125244,"Dexamethasone 5mg/ml inj",12.17,56,MEDIUM,365d,3,66.7,12.09,1,,0,12.17,56,3,36.43,false
+108963,"CET Toothbrush - 24 pk",2.6,55,MEDIUM,365d,11,54.5,5.2,3,1.93,1,2.6,55,11,36.02,false
+PCV1,"PCV - First",36,84,HIGH,365d,1,100,,0,,0,36,84,1,36,false
+119987,"K9 PVD DH Sm Bites 2.72kg",35.31,84,HIGH,365d,1,100,,0,,0,35.31,84,1,35.31,false
+129412,"RC Fel Urinary SO Mod Cal - 1.5kg",35.24,84,HIGH,365d,1,100,,0,,0,35.24,84,1,35.24,false
+101377,"Maxitrol Opth 0.1% 5mL",35.05,84,HIGH,365d,1,100,,0,,0,35.05,84,1,35.05,false
+BGLA,"Blood Glucose Libre Administration",35,84,HIGH,365d,1,100,,0,,0,35,84,1,35,false
+140032,"Inhibit Ointment 50gm",34.13,84,HIGH,365d,1,100,,0,,0,34.13,84,1,34.13,false
+127721,"PVD Fel Ess. Care Senior - 1.6kg",33.75,84,HIGH,365d,1,100,,0,,0,33.75,84,1,33.75,false
+128800,"Christmas Toy Small",2,34,LOW,365d,7,42.9,8,3,3.6,1,2,34,7,33.6,false
+132260,"RC K9 GI Treats - 500g",16.74,86,HIGH,365d,2,100,,0,,0,16.74,86,2,33.48,false
+100760,"Hydromorphone Inj. 10mg/ml",33,84,HIGH,365d,1,100,,0,,0,33,84,1,33,false
+METH25LI,"Methimazole 25 mg/ml Liquid",16.44,86,HIGH,365d,2,100,,0,,0,16.44,86,2,32.88,false
+130853,"Insulin Syr Sol-M U-100 0.3mL/30g/1/2""",31.54,84,HIGH,365d,1,100,,0,,0,31.54,84,1,31.54,false
+PCV2,"PCV - Additional",15.3,86,HIGH,365d,2,100,,0,,0,15.3,86,2,30.6,false
+139608,"CET Aquadent Dental Solution- 500mL",15.28,86,HIGH,365d,2,100,,0,,0,15.28,86,2,30.56,false
+127718,"PVD Fel Ess. Care Adult - 1.6kg",30.24,84,HIGH,365d,1,100,,0,,0,30.24,84,1,30.24,false
+132073,"Rayne K9 Kangaroo Treats - 200g",30.07,84,HIGH,365d,1,100,,0,,0,30.07,84,1,30.07,false
+NTAGAPP,"Nail Trim & Anal Glands with exam",30,84,HIGH,365d,1,100,,0,,0,30,84,1,30,false
+LEP1,"Canine Leptospirosis Vaccination",30,84,HIGH,365d,1,100,,0,,0,30,84,1,30,false
+140730,"Fluoxetine 10mg caps",29.1,84,HIGH,365d,1,100,,0,,0,29.1,84,1,29.1,false
+106331,"Breathalyser Water Additive - 500ml",28.12,84,HIGH,365d,1,100,,0,,0,28.12,84,1,28.12,false
+137120,"Furosemide Inj 10mg/ml  HIKMA",13.8,86,HIGH,365d,2,100,,0,,0,13.8,86,2,27.6,false
+017436,"Diazepam Inj 5mg/ml 2mL vial",13.5,86,HIGH,365d,2,100,,0,,0,13.5,86,2,27,false
+145141,"Pill Pockets Fel Salmon 45g",6.52,25,LOW,365d,3,33.3,13.04,1,6.99,1,6.52,25,3,26.55,false
+99016571,"Omeprazole 10mg Tablet (Summit)",13.24,86,HIGH,365d,2,100,,0,,0,13.24,86,2,26.48,false
+120464,"Optixcare L-Lysine Chews - 60s",26.33,84,HIGH,365d,1,100,,0,,0,26.33,84,1,26.33,false
+140356,"Douxo S3 Calm Pads - 30's",26.2,84,HIGH,365d,1,100,,0,,0,26.2,84,1,26.2,false
+145098,"XMAS Huggle Hound Wee Huggles each (6pk)",6.5,88,HIGH,365d,4,100,,0,,0,6.5,88,4,26,false
+0502,"Pregabalin 75 mg",26,84,HIGH,365d,1,100,,0,,0,26,84,1,26,false
+APOMORPH,"Apomorphine 3mg/ml",25.95,84,HIGH,365d,1,100,,0,,0,25.95,84,1,25.95,false
+140789,"XMAS K9 Kong Holiday Snuzzles Reindeer",12.94,86,HIGH,365d,2,100,,0,,0,12.94,86,2,25.88,false
+144746,"Clindamycin - 300mg Caps AURO",12.8,86,HIGH,365d,2,100,,0,,0,12.8,86,2,25.6,false
+132332,"Feliway Classic Spray - 60mL",25.14,84,HIGH,365d,1,100,,0,,0,25.14,84,1,25.14,false
+5822464,"Methocarbamol 200mg/ml",24.9,84,HIGH,365d,1,100,,0,,0,24.9,84,1,24.9,false
+104091,"Clindamycin 150mg Caps TEVA",12.43,86,HIGH,365d,2,100,,0,,0,12.43,86,2,24.86,false
+144745,"Clindamycin 150mg Caps AURA",12.4,86,HIGH,365d,2,100,,0,,0,12.4,86,2,24.8,false
+137640,"Aventi Joint 250mL",24.72,84,HIGH,365d,1,100,,0,,0,24.72,84,1,24.72,false
+144604,"Fluoxetine 10mg Caps AURO",12.32,86,HIGH,365d,2,100,,0,,0,12.32,86,2,24.64,false
+124226,"Meloxicam 10mL (1.5mg/ml)",24.15,84,HIGH,365d,1,100,,0,,0,24.15,84,1,24.15,false
+136849,"XMAS K9 Zippy Paw Reindeer",8,87,HIGH,365d,3,100,,0,,0,8,87,3,24,false
+124331,"Furosemide Inj 10mg/ml SANDOZ",23.9,84,HIGH,365d,1,100,,0,,0,23.9,84,1,23.9,false
+BUPESR,"Buprenorphine SR 3mg/ml Inj",23.61,84,HIGH,365d,1,100,,0,,0,23.61,84,1,23.61,false
+139692,"Douxo S3 Calm Shampoo - 200mL",22.71,84,HIGH,365d,1,100,,0,,0,22.71,84,1,22.71,false
+141192,"Denta Chlorhexidine Oral wipes 100's",22.54,84,HIGH,365d,1,100,,0,,0,22.54,84,1,22.54,false
+BMM,"Bandage Material - Medium",22.5,84,HIGH,365d,1,100,,0,,0,22.5,84,1,22.5,false
+130780,"Flexadin Plus Cat + Sm Dog - 30s",22.06,84,HIGH,365d,1,100,,0,,0,22.06,84,1,22.06,false
+130160,"Profender Medium 2.6-5kg",21.89,84,HIGH,365d,1,100,,0,,0,21.89,84,1,21.89,false
+142546,"Max & Molly Minnie Liver Treats",10.47,33,LOW,365d,2,50,11.22,1,,0,10.47,33,2,21.69,false
+920001,"Buster Classic Clear 10 cm",10.76,86,HIGH,365d,2,100,,0,,0,10.76,86,2,21.52,false
+117713,"Oti-Scrub Foaming Ear Cleaner - 16oz",21.45,84,HIGH,365d,1,100,,0,,0,21.45,84,1,21.45,false
+138893,"RC Fel Pill Assist - 45g",21.36,84,HIGH,365d,1,100,,0,,0,21.36,84,1,21.36,false
+127934,"Pill Pockets Dog Caps Chicken 448g",20.55,84,HIGH,365d,1,100,,0,,0,20.55,84,1,20.55,false
+110064,"Pill Pockets Fel Salmon",6.79,87,HIGH,365d,3,100,,0,,0,6.79,87,3,20.37,false
+101386,"Tobrex 0.3% Ointment 3.5g",20.04,84,HIGH,365d,1,100,,0,,0,20.04,84,1,20.04,false
+EMEX5,"Add Walk In Fee",20,84,HIGH,365d,1,100,,0,,0,20,84,1,20,false
+STAN1,"Stanhexidine 4% Skin Cleanser Small Bott",10,86,HIGH,365d,2,100,,0,,0,10,86,2,20,false
+123838,"Pill Pockets K9 PeanutButter - Caps",9.56,33,LOW,365d,2,50,9.94,1,,0,9.56,33,2,19.5,false
+125037,"Baytril 15mg Tablet",19.44,84,HIGH,365d,1,100,,0,,0,19.44,84,1,19.44,false
+137953,"PVD Fel OM Savory Selects Salmon - 156g",18.66,84,HIGH,365d,1,100,,0,,0,18.66,84,1,18.66,false
+0401,"DECLINED: Mirtazapine 2 mg Tab",16.35,84,HIGH,365d,1,100,,0,,0,16.35,84,1,16.35,false
+DOXYC,"Doxycycline 50 mg/ml Summit",16.23,84,HIGH,365d,1,100,,0,,0,16.23,84,1,16.23,false
+119803,"Prazosin 1mg",14.59,33,LOW,365d,2,50,1.39,1,,0,14.59,33,2,15.98,false
+134295,"Hills K9 Soft Baked Treats - 13oz",15.58,84,HIGH,365d,1,100,,0,,0,15.58,84,1,15.58,false
+139639,"RC Fel Renal Support E - 145g",3.11,56,MEDIUM,365d,3,66.7,9.33,1,,0,3.11,56,3,15.55,false
+NAILEX,"Nail Trim Add-On (Exotic)",15,84,HIGH,365d,1,100,,0,,0,15,84,1,15,false
+125479,"DECLINED: Furosemide 40mg tab",15,84,HIGH,365d,1,100,,0,,0,15,84,1,15,false
+139617,"CET K9 Hextra Chews Small - 30s",14.77,84,HIGH,365d,1,100,,0,,0,14.77,84,1,14.77,false
+99003527,"Acepromazine Maleate 10mg/ml",14.54,84,HIGH,365d,1,100,,0,,0,14.54,84,1,14.54,false
+144753,"Lidocaine 2% w preserv- EUGIA",14.25,84,HIGH,365d,1,100,,0,,0,14.25,84,1,14.25,false
+135726,"Optixcare Eye Lube (GREEN) - 20g",13.99,84,HIGH,365d,1,100,,0,,0,13.99,84,1,13.99,false
+117712,"Oti-Scrub Foaming Ear Cleaner - 8oz",13.62,84,HIGH,365d,1,100,,0,,0,13.62,84,1,13.62,false
+110063,"Pill Pockets Fel Chicken",13.58,84,HIGH,365d,1,100,,0,,0,13.58,84,1,13.58,false
+118594,"Pro Otic Ear Cleaner - 4oz",12.86,84,HIGH,365d,1,100,,0,,0,12.86,84,1,12.86,false
+141757,"XMAS Fel Pull-a Partz Yarnz",6.42,86,HIGH,365d,2,100,,0,,0,6.42,86,2,12.84,false
+125411,"Ampicillin Caps 250mg TEVA",12.71,84,HIGH,365d,1,100,,0,,0,12.71,84,1,12.71,false
+131739,"Metronidazole 5mg/ml Inj.",12.64,84,HIGH,365d,1,100,,0,,0,12.64,84,1,12.64,false
+139174,"RC Gastro Puppy - 145g",12.48,84,HIGH,365d,1,100,,0,,0,12.48,84,1,12.48,false
+140902,"Interceptor Plus Green(3.7-11.3kg)",12.3,84,HIGH,365d,1,100,,0,,0,12.3,84,1,12.3,false
+125293,"Dextrose  50% 500 mls",12.04,84,HIGH,365d,1,100,,0,,0,12.04,84,1,12.04,false
+134168,"DECLINED: Bravecto Fel Purple",12,84,HIGH,365d,1,100,,0,,0,12,84,1,12,false
+101361,"Avena Sativa Ear Cleaner - 200ml",11.98,84,HIGH,365d,1,100,,0,,0,11.98,84,1,11.98,false
+116432,"Pro Otic Ear Cleaner - 8oz",11.98,84,HIGH,365d,1,100,,0,,0,11.98,84,1,11.98,false
+135606,"RC Fel Satiety - 2.9oz",11.1,84,HIGH,365d,1,100,,0,,0,11.1,84,1,11.1,false
+134027,"Hills Fel Metabolic Treats - 2.5oz",10.41,84,HIGH,365d,1,100,,0,,0,10.41,84,1,10.41,false
+703518,"Urinary Catheter 10 Fr 12's",5,86,HIGH,365d,2,100,,0,,0,5,86,2,10,false
+115290,"Pill Pockets K9 Chicken - Caps",9.95,84,HIGH,365d,1,100,,0,,0,9.95,84,1,9.95,false
+123837,"Pill Pockets K9 Hickory - Caps",9.94,84,HIGH,365d,1,100,,0,,0,9.94,84,1,9.94,false
+104360,"Potassium Chloride Inj 40meg 20ml",9.7,84,HIGH,365d,1,100,,0,,0,9.7,84,1,9.7,false
+141789,"XMAS K9 Christmas Loofa",9.64,84,HIGH,365d,1,100,,0,,0,9.64,84,1,9.64,false
+141727,"XMAS K9 Cheeky Chum Red Elf",9.53,84,HIGH,365d,1,100,,0,,0,9.53,84,1,9.53,false
+XMASMED,"Christmas Toy Medium",3,33,LOW,365d,2,50,6,1,,0,3,33,2,9,false
+137967,"Catit Lickables Assorted - 12pk",8.94,84,HIGH,365d,1,100,,0,,0,8.94,84,1,8.94,false
+140171,"Foil Crinkle Balls",2,88,HIGH,365d,4,100,,0,,0,2,88,4,8,false
+115288,"Pill Pockets K9 Chicken - Tabs",7.92,84,HIGH,365d,1,100,,0,,0,7.92,84,1,7.92,false
+123836,"Pill Pockets K9 PeanutButter - Tabs",7.92,84,HIGH,365d,1,100,,0,,0,7.92,84,1,7.92,false
+131559,"RC Fel Renal Support A - 340g",7.1,84,HIGH,365d,1,100,,0,,0,7.1,84,1,7.1,false
+145046,"XMAS Fel Kong Cat Yeti -refillable",6.9,84,HIGH,365d,1,100,,0,,0,6.9,84,1,6.9,false
+145149,"Pill Pockets Fel Chicken",6.52,84,HIGH,365d,1,100,,0,,0,6.52,84,1,6.52,false
+137968,"Catit Lickables Tuna - 5pk",2.88,86,HIGH,365d,2,100,,0,,0,2.88,86,2,5.76,false
+130014,"Hills K9 w/d Chkn Stew - 12.5oz",5.21,84,HIGH,365d,1,100,,0,,0,5.21,84,1,5.21,false
+703419,"Urinary Catheter 8 Fr 12's",2.5,86,HIGH,365d,2,100,,0,,0,2.5,86,2,5,false
+STANH4,"Stanhexidine Scrub - 4OZ",5,84,HIGH,365d,1,100,,0,,0,5,84,1,5,false
+107800,"Syringe Ideal 20cc slip",2.16,86,HIGH,365d,2,100,,0,,0,2.16,86,2,4.32,false
+123497,"Greenie Fel Treat Indoor Chicken - 60g",4.25,84,HIGH,365d,1,100,,0,,0,4.25,84,1,4.25,false
+130933,"Gauze Sponge 4ply 2'x2' - 200 per bag",3.39,84,HIGH,365d,1,100,,0,,0,3.39,84,1,3.39,false
+136685,"Catit Lickables Chicken & Liver - 5pk",2.88,84,HIGH,365d,1,100,,0,,0,2.88,84,1,2.88,false
+STANH2,"Stanhexidine Scrub - 2OZ",2.8,84,HIGH,365d,1,100,,0,,0,2.8,84,1,2.8,false
+127722,"PVD Fel Ess Care Indoor - 85g",1.75,84,HIGH,365d,1,100,,0,,0,1.75,84,1,1.75,false
+ECO,"Paper bag large",0.25,87,HIGH,365d,3,100,,0,,0,0.25,87,3,0.75,false

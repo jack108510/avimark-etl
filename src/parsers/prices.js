@@ -14,10 +14,24 @@ export class PriceParser extends V2Parser {
 
     if (price <= 0 || price > 50000) return null;
 
+    // TDateTime at offset 21 = last changed date
+    let last_changed = null;
+    try {
+      const v = buf.readDoubleLE(21);
+      if (v > 35000 && v < 47000) {
+        const epoch = new Date(1899, 11, 30).getTime();
+        const d = new Date(epoch + v * 86400000);
+        if (!isNaN(d.getTime())) {
+          last_changed = d.toISOString().replace('T', ' ').substring(0, 19);
+        }
+      }
+    } catch(e) {}
+
     return {
       record_num: index,
       treatment_code: code,
       price,
+      last_changed,
     };
   }
 }

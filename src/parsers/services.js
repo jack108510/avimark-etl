@@ -25,6 +25,19 @@ export class ServiceParser extends V2Parser {
     const amount = amountCents / 100;
     const quantity = buf.readInt32LE(116);
 
+    // TDateTime at offset 21 = service date
+    let service_date = null;
+    try {
+      const v = buf.readDoubleLE(21);
+      if (v > 35000 && v < 47000) {
+        const epoch = new Date(1899, 11, 30).getTime();
+        const d = new Date(epoch + v * 86400000);
+        if (!isNaN(d.getTime())) {
+          service_date = d.toISOString().replace('T', ' ').substring(0, 19);
+        }
+      }
+    } catch(e) {}
+
     return {
       record_num: index,
       service_type: type,
@@ -32,6 +45,7 @@ export class ServiceParser extends V2Parser {
       description: name,
       amount,
       quantity: quantity / 100, // stored as qty * 100
+      service_date,
     };
   }
 }
